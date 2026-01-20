@@ -1,188 +1,246 @@
 nama_tempat,type_place,alamat,jam_operasional,rating,jumlah_review,telepon,stt_tlp,website,latitude,longitude,Ketersediaan Akses,aksesibilitas
-Masjid Jami Al Ikhlas Padaasih,Masjid,,,"4,6",33,,Tidak Ada ,Tidak Tersedia,-7.3215354,108.2475362,Aksesibilitas Tersedia,[]
-Masjid Jami Perum Sawati Mas,Masjid,,,"4,2",31,,Ada,Tidak Tersedia,-7.1557407,108.1636013,Aksesibilitas Tersedia,[]
-Masjid Jami' AL-FITHROH Gunung Tujuh,Masjid,,04.00 hingga 20.00,"4,9",20,,Ada,Tidak Tersedia,-7.3014099,108.1944949,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid STAI Al Hidayah Tasikmalaya,Masjid,,Buka 24 jam,"4,8",24,,Ada,Tidak Tersedia,-7.3789904,108.1993883,Aksesibilitas Tersedia,[]
-Masjid Amaliah TASCO,Masjid,,Buka 24 jam,"4,8",61,,Tidak Ada ,Tidak Tersedia,-7.3280376,108.2356056,Aksesibilitas Tersedia,[]
-Mesjid Sarongge,Masjid,,,"4,6",17,,Ada,Tidak Tersedia,-7.5328349,108.0768399,Aksesibilitas Tersedia,[]
-"Masjid At Tajdid, Sindang Galih",Masjid,,,"4,7",30,,Ada,Tidak Tersedia,-7.3540924,108.2287266,Aksesibilitas Tersedia,[]
-Masjid Jami' Al-Falah,Masjid,,04.00 hingga 20.00,"4,5",13,,Tidak Ada ,Tidak Tersedia,-7.3110872,108.2303216,Aksesibilitas Tersedia,[]
-Masjid Al-Muttaqin,Masjid,,,"4,8",32,,Ada,Tidak Tersedia,-7.3333717,108.2362861,Aksesibilitas Tersedia,[]
-Masjid Jami Nurul Huda Kp. Bongkor,Masjid,,,"4,9",11,,Ada,Tidak Tersedia,-7.261341,108.1344939,Aksesibilitas Tersedia,[]
-Masjid Al Mujahidin,Masjid,,,"4,9",38,,Tidak Ada ,Tidak Tersedia,-7.3071773,108.1948842,Aksesibilitas Tersedia,[]
-Masjid Besar Kawalu,Masjid,,,"4,6",487,,Tidak Ada ,Tidak Tersedia,-7.3817761,108.2083037,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Banjarsari,Masjid,,,"4,7",31,,Tidak Ada ,Tidak Tersedia,-7.1513795,108.1905025,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Baitussalam Cinusa,Masjid,,Buka 24 jam,"4,2",21,,Tidak Ada ,Tidak Tersedia,-7.1459308,108.1753884,Aksesibilitas Tersedia,[]
-Masjid At-Tazakka,Masjid,,,"4,7",17,,Tidak Ada ,Tidak Tersedia,-7.3032568,108.2267321,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-MASJID BAITURRAHMAN,Masjid,,Buka 24 jam,"4,8",330,,Tidak Ada ,Tidak Tersedia,-7.314606,108.2133101,Aksesibilitas Tersedia,[]
-Masjid Perum Batara,Masjid,,,"4,4",37,,Tidak Ada ,Tidak Tersedia,-7.3564603,108.226831,Aksesibilitas Tersedia,[]
-Masjid Jami' Besar Sukaraja,Masjid,,Buka 24 jam,"4,6",762,,Ada,Tidak Tersedia,-7.451923,108.1939157,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid AL-Ikhlash,Masjid,,,"4,3",18,,Tidak Ada ,Tidak Tersedia,-7.3481211,108.1481454,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Rancamaya,Masjid,,,"4,4",16,,Tidak Ada ,Tidak Tersedia,-7.3522151,108.1273127,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
-Masjid At-Tiyah,Masjid,,Buka 24 jam,"4,7",186,,Tidak Ada ,Tidak Tersedia,-7.2407043,108.189894,Aksesibilitas Tersedia,[]
-Masjid Al-Iman,Masjid,,,"4,7",53,,Ada,Tidak Tersedia,-7.3362202,108.2315669,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Al-Muhajirin Perum Sukarindik,Masjid,,,"4,4",31,,Tidak Ada ,Tidak Tersedia,-7.3074813,108.1977253,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Babussalam,Masjid,,,"4,9",69,,Tidak Ada ,Tidak Tersedia,-7.4021241,108.2111514,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Jami Nurul Huda,Masjid,,,"5,0",11,,Ada,Tidak Tersedia,-7.3129663,108.188119,Aksesibilitas Tersedia,[]
-Masjid Ar-Ruhaeniah,Masjid,,,"4,7",120,,Ada,Tidak Tersedia,-7.3640868,108.2254843,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Jami An-Nur ( Baperan Tasikmalaya ),Masjid,,,"4,8",20,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
-Mesjid Jami Darussalam,Masjid,,Buka 24 jam,"4,8",13,,Ada,Tidak Tersedia,-7.229753,108.1470754,Aksesibilitas Tersedia,[]
-Masjid BAITUL JANNAH,Masjid,,,"4,4",88,,Tidak Ada ,Tidak Tersedia,-7.440443,108.1950827,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
-Masjid Agung Mangunreja,Masjid,,Buka 24 jam,"4,6",373,,Tidak Ada ,Tidak Tersedia,-7.3652334,108.1015252,Aksesibilitas Tersedia,[]
-Masjid Gunung Siman,Masjid,,Buka 24 jam,"4,5",28,,Ada,Tidak Tersedia,-7.3587529,108.1828755,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Al-Muawanah,Masjid,,,"4,4",21,,Tidak Ada ,Tidak Tersedia,-7.1117102,108.1643295,Aksesibilitas Tersedia,[]
-Masjid Neundeut,Masjid,,07.00 hingga 21.00,"4,9",21,,Tidak Ada ,Tidak Tersedia,-7.2618743,108.1713321,Aksesibilitas Tersedia,[]
-Masjid Al Ikhlas Sukahening,Masjid,,,"4,5",31,,Tidak Ada ,Tidak Tersedia,-7.3602224,108.189325,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid At-Taqwa Dadaha,Masjid,,,"4,5",20,,Tidak Ada ,Tidak Tersedia,-7.336582,108.2229226,Aksesibilitas Tersedia,[]
-Masjid Jami Al Ishlah Nagrog,Masjid,,,"4,7",23,,Tidak Ada ,Tidak Tersedia,-7.3406572,108.1927733,Aksesibilitas Tersedia,[]
-Mesjid At-Taqwa,Masjid,,Buka 24 jam,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.263951,108.1563553,Aksesibilitas Tersedia,[]
-Masjid Jami Al-Hikmah,Masjid,,,"4,9",14,,Tidak Ada ,Tidak Tersedia,-7.339271,108.2294021,Aksesibilitas Tersedia,[]
-"Masjid Jami Al Falah Sukabetah, Sukaasih, Kec.Purbaratu",Masjid,,Buka 24 jam,"4,4",17,,Tidak Ada ,Tidak Tersedia,-7.3206368,108.2494661,Aksesibilitas Tersedia,[]
-Masjid iceu,Masjid,,,"4,3",681,,Tidak Ada ,Tidak Tersedia,-7.1880365,108.1809677,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
-MASJID BANI ISMAIL,Masjid,,Buka 24 jam,"5,0",12,,Ada,Tidak Tersedia,-7.3317607,108.2207638,Aksesibilitas Tersedia,[]
-Masjid Al-muttaqin,Masjid,,,"4,7",34,,Tidak Ada ,Tidak Tersedia,-7.3407543,108.201633,Aksesibilitas Tersedia,[]
-Masjid Baitul Amanah(Masjid Itjeu),Masjid,,Buka 24 jam,"4,3",62,,Tidak Ada ,Tidak Tersedia,-7.188196,108.1805143,Aksesibilitas Tersedia,[]
-"Masjid Agung Cibalong, Kabupaten Tasikmalaya",Masjid,,,"4,5",46,,Tidak Ada ,Tidak Tersedia,-7.5147358,108.1821732,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Besar Al-Rosyad,Masjid,,,"4,6",84,,Ada,Tidak Tersedia,-7.2925092,108.2001202,Aksesibilitas Tersedia,[]
-Masjid Assalam,Masjid,,Buka 24 jam,"3,6",16,,Tidak Ada ,Tidak Tersedia,-7.354811,108.0976645,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Kaum bantarkalong,Masjid,,Buka 24 jam,"4,7",68,,Ada,Tidak Tersedia,-7.6641768,108.0766203,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Besar Kec. Cibeureum,Masjid,,,"4,7",38,,Tidak Ada ,Tidak Tersedia,-7.3523786,108.2622193,Aksesibilitas Tersedia,[]
-Masjid Jame Al iklas,Masjid,,,"4,5",10,,Tidak Ada ,Tidak Tersedia,-7.3664656,108.0962466,Aksesibilitas Tersedia,[]
-Masjid Al Hidayah,Masjid,,Buka 24 jam,"4,0",12,,Tidak Ada ,Tidak Tersedia,-7.4536374,108.2067289,Aksesibilitas Tersedia,[]
-Masjid Besar Muhajirin,Masjid,,Buka 24 jam,"4,8",449,,Ada,Tidak Tersedia,-7.3328318,108.2273678,Aksesibilitas Tersedia,[]
-Masjid As Salam,Masjid,,,"4,6",34,,Tidak Ada ,Tidak Tersedia,-7.3510396,108.2254674,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Al Hanafiyah,Masjid,,,"4,7",23,,Tidak Ada ,Tidak Tersedia,-7.3227684,108.1871061,Aksesibilitas Tersedia,[]
-MASJID AL ISHLAH | Asia Plaza,Masjid,,Buka 24 jam,"4,6",599,,Tidak Ada ,Tidak Tersedia,-7.3418357,108.2155098,Aksesibilitas Tersedia,[]
-MASJID Al Barokah Toblongan,Masjid,,Buka 24 jam,"4,8",16,,Tidak Ada ,Tidak Tersedia,-7.36931,108.0979424,Aksesibilitas Tersedia,[]
-"Masjid Assalam, Gunung Ceuri 1",Masjid,,,"4,6",13,,Tidak Ada ,Tidak Tersedia,-7.3393792,108.2095464,Aksesibilitas Tersedia,[]
-Masjid Jami Al-huda,Masjid,,,"4,6",13,,Tidak Ada ,Tidak Tersedia,-7.3482985,108.1976163,Aksesibilitas Tersedia,[]
-Masjid Ranca (Miftahul Jannah),Masjid,,Buka 24 jam,"4,9",10,,Ada,Tidak Tersedia,-7.3592637,108.3453117,Aksesibilitas Tersedia,[]
-MASJID AHSANUL MAHMUDA,Masjid,,,"4,9",30,,Tidak Ada ,Tidak Tersedia,-7.2931506,108.1925126,Aksesibilitas Tersedia,[]
-Masjid Bani Zein,Masjid,,,"4,4",69,,Tidak Ada ,Tidak Tersedia,-7.1414973,108.1471522,Aksesibilitas Tersedia,[]
-Masjid AT TAQWA Citepus,Masjid,,Buka 24 jam,"4,4",50,,Tidak Ada ,Tidak Tersedia,-7.2525933,108.1418946,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Persatuan Islam Ciawi Panyusuhan kab.tasikmalaya,Masjid,,Buka 24 jam,"4,7",475,,Tidak Ada ,Tidak Tersedia,-7.1665522,108.1548512,Aksesibilitas Tersedia,[]
-Masjid Jami Nurul Huda Sindanggalih,Masjid,,,"4,7",12,,Tidak Ada ,Tidak Tersedia,-7.3769,108.3700861,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Aisyah,Masjid,,04.00 hingga 20.00,"4,7",328,,Tidak Ada ,Tidak Tersedia,-7.3222858,108.1979833,Aksesibilitas Tersedia,[]
-Masjid Al Mustaqim Dahana Tasikmalaya,Masjid,,,"4,8",22,,Tidak Ada ,Tidak Tersedia,-7.3426514,108.2503589,Aksesibilitas Tersedia,[]
-Masjid Jami As Salam,Masjid,,,"4,9",13,,Tidak Ada ,Tidak Tersedia,-7.3410336,108.2367159,Aksesibilitas Tersedia,[]
-Masjid Besar Singaparna Kota,Masjid,,"04.30 hingga 05.00,11.00 hingga 13.00,15.00 hingga 15.30,18.00 hingga 18.30,19.00 hingga 19.30","4,5",82,,Tidak Ada ,Tidak Tersedia,-7.3498459,108.1097626,Aksesibilitas Tersedia,[]
-Masjid Agung Manonjaya,Masjid,,,"4,7",1.773,,Tidak Ada ,Tidak Tersedia,-7.3513169,108.3072051,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
-Masjid Agung Baiturrohman,Tempat Ibadah,,,"4,6",468,,Ada,Tidak Tersedia,-7.357472,108.112673,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
-Masjid Nur Rafi'i,Masjid,,,"4,7",110,,Ada,Tidak Tersedia,-7.3145244,108.2290499,Aksesibilitas Tersedia,[]
-Masjid Jamie At-Tawakkal,Masjid,,Buka 24 jam,"4,5",38,,Tidak Ada ,Tidak Tersedia,-7.2107761,108.1561345,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
-Masjid Al-Irsyad,Masjid,,Buka 24 jam,"4,7",110,,Tidak Ada ,Tidak Tersedia,-7.3633547,108.3557752,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-"Masjid Al Ihsan Kp. Jinten, Sukarame, Singaparna, Tasikmalaya",Masjid,,,"4,7",28,,Ada,Tidak Tersedia,-7.3536825,108.1259625,Aksesibilitas Tersedia,[]
-"Masjid Desa Cianda, TasikMalaya",Masjid,,,"4,8",26,,Tidak Ada ,Tidak Tersedia,-7.3555516,108.1393055,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Darul Falah,Masjid,,,"4,9",12,,Tidak Ada ,Tidak Tersedia,-7.2857557,108.1647902,Aksesibilitas Tersedia,[]
-Masjid Al-Hidayah,Masjid,,,"4,9",8,,Ada,Tidak Tersedia,-7.2594113,108.1774907,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Asy-Syuja Gunung Nangka,Masjid,,,"4,6",44,,Tidak Ada ,Tidak Tersedia,-7.3399456,108.1670379,Aksesibilitas Tersedia,[]
-Masjid Jami Hanaslangah,Masjid,,Buka 24 jam,"4,9",26,,Tidak Ada ,Tidak Tersedia,-7.4920868,108.2387861,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Al Fattah,Masjid,,,"4,7",30,,Tidak Ada ,Tidak Tersedia,-7.3483824,108.2287116,Aksesibilitas Tersedia,[]
-Masjid Jamie At Taqwa,Masjid,,,"4,6",17,,Tidak Ada ,Tidak Tersedia,-7.323677,108.231726,Aksesibilitas Tersedia,[]
-Masjid Al-Fattah,Masjid,,Buka 24 jam,"4,7",285,,Ada,Tidak Tersedia,-7.2652176,108.185297,Aksesibilitas Tersedia,['Memiliki tempat parkir khusus pengguna kursi roda']
-Masjid Miftahul Huda,Masjid,,,"4,8",210,,Tidak Ada ,Tidak Tersedia,-7.3570496,108.3097849,Aksesibilitas Tersedia,[]
-MASJID AL - MAKKAH STASIUN TASIKMALAYA,Masjid,,"00.00 hingga 06.00,12.00 hingga 00.00","4,6",18,,Ada,Tidak Tersedia,-7.3229616,108.223156,Aksesibilitas Tersedia,[]
-Masjid Jami CISEPET,Masjid,,,"4,1",21,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Besar Ciawi,Masjid,,,"4,5",121,,Tidak Ada ,Tidak Tersedia,-7.1585501,108.1465883,Aksesibilitas Tersedia,[]
-Masjid H. Bakri,Masjid,,Buka 24 jam,"4,6",164,,Tidak Ada ,Tidak Tersedia,-7.331468,108.2190321,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Thoriqul Huda Sindanggalih,Masjid,,,"4,8",13,,Tidak Ada ,Tidak Tersedia,-7.3748165,108.374323,Aksesibilitas Tersedia,[]
-Masjid Al Ilyas,Masjid,,,"4,9",22,,Ada,Tidak Tersedia,-7.3058591,108.2082101,Aksesibilitas Tersedia,[]
-Masjid Rahmatullah,Masjid,,Buka 24 jam,"4,7",331,,Tidak Ada ,Tidak Tersedia,-7.318611,108.2066641,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
-Masjid Besar Kec. Cineam,Masjid,,Buka 24 jam,"4,6",37,,Tidak Ada ,Tidak Tersedia,-7.3916427,108.3556053,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Jami Al Falah,Masjid,,,"4,8",13,,Ada,Tidak Tersedia,-7.3439085,108.1641272,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
-Masjid Jami Al - Falah,Masjid,,,"4,6",15,,Tidak Ada ,Tidak Tersedia,-7.198474,108.157191,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Al Ikhlas Markaz Dakwah Tasik,Masjid,,Buka 24 jam,"4,9",78,,Tidak Ada ,Tidak Tersedia,-7.3639125,108.2024219,Aksesibilitas Tersedia,[]
-Masjid Al Ishlah Cibatur Wetan,Masjid,,Buka 24 jam,"4,9",35,,Tidak Ada ,Tidak Tersedia,-7.344163,108.1841634,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Al Muhajirin Unsil,Masjid,,,"4,8",474,,Tidak Ada ,Tidak Tersedia,-7.3493299,108.2234993,Aksesibilitas Tersedia,[]
-MASJID JAMI RIYADLUL JANNAH,Masjid,,,"4,8",8,,Tidak Ada ,Tidak Tersedia,-7.3337166,108.2248334,Aksesibilitas Tersedia,[]
-Masjid At-Taqwa Tanjung Resik,Masjid,,,"4,8",16,,Tidak Ada ,Tidak Tersedia,-7.3553361,108.2184306,Aksesibilitas Tersedia,[]
-Masjid Asy Syafii,Masjid,,,"5,0",22,,Tidak Ada ,Tidak Tersedia,-7.3174442,108.1920901,Aksesibilitas Tersedia,[]
-Masjid Dawagung,Masjid,,,"4,6",23,,Tidak Ada ,Tidak Tersedia,-7.2353454,108.1883949,Aksesibilitas Tersedia,[]
-Masjid Besar Al Irsyad,Masjid,,Buka 24 jam,"4,6",82,,Tidak Ada ,Tidak Tersedia,-7.2996083,108.123649,Aksesibilitas Tersedia,[]
-Masjid Al-Ansor,Masjid,,,"4,3",15,,Tidak Ada ,Tidak Tersedia,-7.2645267,108.1707188,Aksesibilitas Tersedia,[]
-Masjid Jami Al-Ihsan,Masjid,,Buka 24 jam,"4,7",13,,Ada,Tidak Tersedia,-7.3679822,108.179148,Aksesibilitas Tersedia,[]
-Masjid Abu Bakar Ash-Shiddiq,Masjid,,Buka 24 jam,"4,6",21,,Tidak Ada ,Tidak Tersedia,-7.2191875,108.1964531,Aksesibilitas Tersedia,[]
-Masjid Fastabiqul Khairat,Masjid,,,"4,8",21,,Tidak Ada ,Tidak Tersedia,-7.319976,108.2008612,Aksesibilitas Tersedia,[]
-Masjid Al-Hasanah,Masjid,,,"4,8",26,,Tidak Ada ,Tidak Tersedia,-7.2625076,108.1779058,Aksesibilitas Tersedia,[]
-Masjid Al-mujahidin,Masjid,,,"4,8",17,,Tidak Ada ,Tidak Tersedia,-7.3198301,108.2261732,Aksesibilitas Tersedia,[]
-Masjid Jami Al Barokah Daleum,Masjid,,,"4,7",15,,Tidak Ada ,Tidak Tersedia,-7.3209527,108.2482599,Aksesibilitas Tersedia,[]
-Masjid At Taqwa,Masjid,,Buka 24 jam,"4,9",64,,Ada,Tidak Tersedia,-7.3561391,108.2233676,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
-Masjid Agung Kota Tasikmalaya,Masjid,,Buka 24 jam,"4,8",10.988,,Tidak Ada ,Tidak Tersedia,-7.3261021,108.2199555,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
-Masjid Cimerak,Masjid,,,"4,6",10,,Tidak Ada ,Tidak Tersedia,-7.3849412,108.1497488,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
-Masjid Jami Al Barkah,Masjid,,Buka 24 jam,"4,7",3,,Tidak Ada ,Tidak Tersedia,-7.1595188,108.1697214,Aksesibilitas Tersedia,[]
-Masjid Jami Al- Abror,Masjid,,Buka 24 jam,"4,4",41,,Tidak Ada ,Tidak Tersedia,-7.1197555,108.2012355,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Al Muawanah,Masjid,,,"4,8",20,,Tidak Ada ,Tidak Tersedia,-7.2211476,108.1795036,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid As-Syukur,Masjid,,,"4,3",70,,Tidak Ada ,Tidak Tersedia,-7.5800395,108.1619428,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Cicurug,Masjid,,,"4,3",24,,Tidak Ada ,Tidak Tersedia,-7.3564702,108.3032205,Aksesibilitas Tersedia,[]
-Masjid Jami Al Abbas,Masjid,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.2237863,108.164583,Aksesibilitas Tersedia,[]
-Masjid Al Azhar,Masjid,,,"5,0",7,,Tidak Ada ,Tidak Tersedia,-7.2860454,108.161498,Aksesibilitas Tersedia,[]
-Gereja Kristen Pasundan Jemaat Tasikmalaya,Gereja,,,"4,3",23,,Ada,Tidak Tersedia,-7.329927,108.21759,Aksesibilitas Tersedia,[]
-Gereja Protestan di Indonesia Bagian Barat Jamaat Maranata,Gereja Protestan,,,,,,Ada,Tidak Tersedia,-7.330932,108.2228634,Aksesibilitas Tersedia,[]
-IMAH FATIR GEBER,Gereja,,,,,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
-Gedung Bale Riung Pasundan,Gereja,,,,,,Tidak Ada ,Tidak Tersedia,-7.3299567,108.2175934,Aksesibilitas Tersedia,[]
-Gereja Yesus Sejati Tasikmalaya,Gereja,,"06.30 hingga 07.30,18.45 hingga 20.00",,,,Tidak Ada ,Tidak Tersedia,-7.3298411,108.2215905,Aksesibilitas Tersedia,[]
-Sarang waduh,Gereja,,,,,,Tidak Ada ,Tidak Tersedia,-7.3504929,108.3059731,Aksesibilitas Tersedia,[]
-Gereja Bethel Indonesia,Gereja,,Tutup,"4,8",90,,Ada,Tersedia,-7.3278967,108.2244648,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
-GBT ANUGERAH Cipatujah,Gereja,,,"5,0",12,,Ada,Tidak Tersedia,-7.7165115,107.9741062,Aksesibilitas Tersedia,[]
-Masjid Agung Manonjaya,Masjid,,,"4,7",1.773,,Tidak Ada ,Tidak Tersedia,-7.3513169,108.3072051,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
-Gereja Kristen Indonesia - GKI Sion Tasikmalaya,Gereja Kristen,,Tutup,"4,6",16,,Ada,Tersedia,-7.3343105,108.2196106,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
-"Gereja Katolik Paroki Hati Kudus Yesus, Tasikmalaya",Gereja Katolik,,"08.00 hingga 12.00,16.00 hingga 19.00","4,8",184,,Ada,Tersedia,-7.3278278,108.227521,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
-Gereja HKBP Tasikmalaya,Gereja Lutheran,,,"4,0",2,,Tidak Ada ,Tidak Tersedia,-7.3252836,108.2264107,Aksesibilitas Tersedia,[]
-Rumah Teh Tenoy,Gereja,,Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-7.3050988,108.2188028,Aksesibilitas Tersedia,[]
-GPdI Tasikmalaya,Gereja Pantekosta,,Tutup,"4,9",18,,Ada,Tidak Tersedia,-7.3326725,108.2200762,Aksesibilitas Tersedia,[]
-Rumah omlek,Gereja,,,"1,7",3,,Tidak Ada ,Tidak Tersedia,-7.3465921,108.3098752,Aksesibilitas Tersedia,[]
-Gereja Bethel Indonesia (GBI),Gereja,,,,,,Tidak Ada ,Tidak Tersedia,-7.3450494,108.2178664,Aksesibilitas Tersedia,[]
-Cilenca,Gereja,,,,,,Tidak Ada ,Tidak Tersedia,-7.444486,108.1193963,Aksesibilitas Tersedia,[]
-"Gereja Katolik Stasi Kristus Gapuraning Rahayu, Ciawi",Gereja Katolik,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.1631079,108.1516316,Aksesibilitas Tersedia,[]
-GKBI Tasikmalaya,Tempat Ibadah,,,,,,Tidak Ada ,Tidak Tersedia,-7.3323623,108.2219357,Aksesibilitas Tersedia,[]
-"Gereja Katolik Stasi Santo Dismas, Nagaraherang",Gereja Katolik,,,"5,0",4,,Tidak Ada ,Tidak Tersedia,-7.202958,108.1399375,Aksesibilitas Tersedia,[]
-"Gereja Katolik St. Simon, Susuru",Gereja Katolik,,,"4,3",3,,Tidak Ada ,Tidak Tersedia,-7.11352,108.3484682,Aksesibilitas Tersedia,[]
-Gereja Kristen Indonesia (GKI) Veteran Tasikmalaya,Gereja Kristen,,08.00 hingga 19.00,"4,9",42,,Ada,Tersedia,,,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
-GBI Empangsari,Gereja,,,"4,9",62,,Tidak Ada ,Tersedia,-7.3297955,108.2223993,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
-Gereja BNKP,Gereja,,,,,,Tidak Ada ,Tidak Tersedia,-7.3505813,108.2171484,Aksesibilitas Tersedia,[]
-bacitul kadaluarsa,Gereja,,,,,,Tidak Ada ,Tidak Tersedia,-7.6242464,108.1406139,Aksesibilitas Tersedia,[]
-Gereja Kristen Pasundan (GKP) Kalaksanan,Gereja,,Buka 24 jam,"4,5",21,,Ada,Tidak Tersedia,-7.7522578,108.086596,Aksesibilitas Tersedia,[]
-Gereja Pantekosta Ciamis,Gereja Pantekosta,,,"4,4",16,,Tidak Ada ,Tidak Tersedia,-7.3271088,108.3555016,Aksesibilitas Tersedia,[]
-bumi nail,Gereja,,,,,,Ada,Tidak Tersedia,-7.2578889,108.1471513,Aksesibilitas Tersedia,[]
-Gereja Gerakan Pentakosta Eben Haezer,Gereja Pantekosta,,Tutup,"4,9",7,,Ada,Tidak Tersedia,-7.3247691,108.2247255,Aksesibilitas Tersedia,[]
-siluman buaya putih didikan bagus momok,Gereja,,,,,,Tidak Ada ,Tidak Tersedia,-7.6285719,108.1339465,Aksesibilitas Tersedia,[]
-Pastori GKI,Lembaga Swadaya Masyarakat (LSM),,,,,,Ada,Tidak Tersedia,-7.331188,108.217773,Aksesibilitas Tersedia,[]
-rumah nurhidayat,Gereja,,,,,,Tidak Ada ,Tidak Tersedia,-7.3345266,108.2730063,Aksesibilitas Tersedia,[]
-Gereja Advent (GMAHK) Tasikmalaya,Gereja,,,"5,0",3,,Tidak Ada ,Tidak Tersedia,-7.33848,108.2198322,Aksesibilitas Tersedia,[]
-GEREJA KERASULAN BARU,Gereja,,,"4,5",10,,Tidak Ada ,Tidak Tersedia,-7.3325505,108.221881,Aksesibilitas Tersedia,[]
-GKI Kota Banjar,Gereja Kristen,,09.00 hingga 17.00,"4,4",29,,Ada,Tidak Tersedia,-7.3733139,108.5426655,Aksesibilitas Tersedia,[]
-GEREJA BETH-EL TABERNAKEL,Gereja,,Tutup,"5,0",11,,Tidak Ada ,Tersedia,-7.332716,108.2151515,Aksesibilitas Tersedia,[]
-"Gereja Katolik Paroki Santo Yohanes, Ciamis",Gereja Katolik,,Buka 24 jam,"4,7",52,,Ada,Tersedia,-7.3249592,108.3545817,Aksesibilitas Tersedia,[]
-GKIm Ka Im Tong Tasikmalaya,Gereja Kristen,,,"4,8",14,,Tidak Ada ,Tersedia,-7.3271982,108.223036,Aksesibilitas Tersedia,[]
-"Gereja Katolik Paroki Hati Kudus Yesus, Tasikmalaya",Gereja Katolik,,"08.00 hingga 12.00,16.00 hingga 19.00","4,8",184,,Ada,Tersedia,-7.3278278,108.227521,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
-Gereja Kristen Pasundan Jemaat Tasikmalaya,Gereja,,,"4,3",23,,Ada,Tidak Tersedia,-7.329927,108.21759,Aksesibilitas Tersedia,[]
-"Gereja Katolik Santo Filipus, Banjar",Gereja Katolik,,,"4,3",7,,Tidak Ada ,Tidak Tersedia,-7.375391,108.5414605,Aksesibilitas Tersedia,[]
-"Gereja Katolik Stasi Santa Maria, Mergo Karaharjan",Gereja Katolik,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-7.3271287,108.5965376,Aksesibilitas Tersedia,[]
-Gereja Katolik Stasi Cipatujah,Gereja Katolik,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-7.7157873,107.9734249,Aksesibilitas Tersedia,[]
-"Gereja Katolik Stasi Kristus Gapuraning Rahayu, Ciawi",Gereja Katolik,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.1631079,108.1516316,Aksesibilitas Tersedia,[]
-Gereja Kristen Indonesia (GKI) Veteran Tasikmalaya,Gereja Kristen,,08.00 hingga 19.00,"4,9",42,,Ada,Tersedia,-7.3313175,108.2162786,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
-Gereja Katolik Stasi Wanareja,Gereja Katolik,,Buka 24 jam,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.3343625,108.6906406,Aksesibilitas Tersedia,[]
-"Gereja Katolik Stasi Santo Dismas, Nagaraherang",Gereja Katolik,,,"5,0",4,,Tidak Ada ,Tidak Tersedia,-7.202958,108.1399375,Aksesibilitas Tersedia,[]
-"Gereja Katolik Paroki Santo Yohanes, Ciamis",Gereja Katolik,,Buka 24 jam,"4,7",52,,Ada,Tersedia,-7.3249592,108.3545817,Aksesibilitas Tersedia,[]
-"Gereja Katolik St. Simon, Susuru",Gereja Katolik,,,"4,3",3,,Tidak Ada ,Tidak Tersedia,-7.11352,108.3484682,Aksesibilitas Tersedia,[]
-Gereja Kristen Indonesia - GKI Sion Tasikmalaya,Gereja Kristen,,Tutup,"4,6",16,,Ada,Tersedia,-7.3343105,108.2196106,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
-"Gereja Katolik Stasi Santo Wilibrordus, Langensari",Gereja Katolik,,,"5,0",4,,Ada,Tidak Tersedia,-7.3581401,108.6417423,Aksesibilitas Tersedia,[]
-Yayasan Wihara,Lembaga Swadaya Masyarakat (LSM),,,"5,0",2,,Ada,Tidak Tersedia,-7.3273532,108.220936,Aksesibilitas Tersedia,[]
-Vihara Avalokitesvara,Tempat Ibadah,,,"5,0",5,,Ada,Tidak Tersedia,-7.3273834,108.2211018,Aksesibilitas Tersedia,[]
-Kong Miao MAKIN Tasikmalaya,Tempat Ibadah,,,"4,7",6,,Ada,Tidak Tersedia,-7.3294575,108.2221739,Aksesibilitas Tersedia,[]
-Pura Salon,Salon Kecantikan,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.3432366,108.1961951,Aksesibilitas Tersedia,[]
-Koropak Media Parahyangan,Perusahaan Media,,09.00 hingga 16.00,"4,9",28,,Ada,Tersedia,-7.3251927,108.1972796,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-"galuh,,, FUMRAD wDUH",Pura,,,,,,Tidak Ada ,Tidak Tersedia,-7.3262878,108.2214022,Aksesibilitas Tersedia,[]
-Gapura Ir Ade Munir,Pura,,Buka 24 jam,"5,0",1,,Tidak Ada ,Tidak Tersedia,-7.3271079,108.2004876,Aksesibilitas Tersedia,[]
-Garasi Car,Pura,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-7.3780595,108.2140355,Aksesibilitas Tersedia,[]
-Makam Eyang Prabudilaya,Pemakaman,,Buka 24 jam,"4,7",12,,Tidak Ada ,Tersedia,-7.335556,108.185833,Aksesibilitas Tersedia,[]
-Candi Pura. PT,,,,"4,0",2,,Ada,Tidak Tersedia,-7.3152853,108.2298159,Aksesibilitas Tersedia,[]
-PDAM TIRTA SUKAPURA INDIHIANG,,,,"4,2",5,,Ada,Tidak Tersedia,-7.300578,108.202969,Aksesibilitas Tersedia,[]
-Situs Lingga Yoni Indihiang,Pura,,07.30 hingga 16.00,"4,5",13,,Ada,Tidak Tersedia,-7.2946649,108.1880701,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Pura Sukapura Pasundan Lingga Yoni,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-7.2945371,108.1878481,Aksesibilitas Tersedia,[]
-Pura Mandiri Rent Cart,Kantor Perusahaan,,Buka 24 jam,,,,Ada,Tidak Tersedia,-7.3303561,108.149739,Aksesibilitas Tersedia,[]
-Area Bersantay,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-7.3780271,108.213983,Aksesibilitas Tersedia,[]
-Dhan cell,Pura,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.3181912,108.2107996,Aksesibilitas Tersedia,[]
-mamah daffa,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-7.1302116,108.1826762,Aksesibilitas Tersedia,[]
-Mega Pura. CV,,,,,,,Ada,Tidak Tersedia,-7.3234893,108.2194516,Aksesibilitas Tersedia,[]
-Masjid Agung Kota Tasikmalaya,Masjid,,Buka 24 jam,"4,8",10.988,,Tidak Ada ,Tidak Tersedia,-7.3261021,108.2199555,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Masjid Assalam, Gunung Ceuri 1",Masjid,"M665+6RV, Jl. Paseh Gg. Gn. Ceuri 1, Tuguraja, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46125",,"4,6",13,,Tidak Ada ,Tidak Tersedia,-7.3393792,108.2095464,Aksesibilitas Tersedia,[]
+Masjid Al-Hidayah,Masjid,"P5RG+6XQ, kp.babakanjawa desa, Sukaraharja, Kec. Cisayong, Kabupaten Tasikmalaya, Jawa Barat 46153",,"4,9",8,"
+0812-8564-6400",Ada,Tidak Tersedia,-7.2594113,108.1774907,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Aisyah,Masjid,"Jl. Ir. H. Juanda No.39, Bantarsari, Kec. Bungursari, Kab. Tasikmalaya, Jawa Barat 46151",04.00 hingga 20.00,"4,7",328,,Tidak Ada ,Tidak Tersedia,-7.3222858,108.1979833,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Ihsan,Masjid,"J5JH+RM2 Sela'awi, Kp, Karanganyar, Kawalu, Tasikmalaya Regency, West Java 46182",Buka 24 jam,"4,7",13,"
+0815-8431-9014",Ada,Tidak Tersedia,-7.3679822,108.179148,Aksesibilitas Tersedia,[]
+Masjid At-Tazakka,Masjid,"Jl. Cisalak, Nagarasari, Kec. Cipedes, Kab. Tasikmalaya, Jawa Barat 46132",,"4,7",17,,Tidak Ada ,Tidak Tersedia,-7.3032568,108.2267321,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Mesjid Sarongge,Masjid,"F38G+VP8, Wakap, Kec. Bantarkalong, Kabupaten Tasikmalaya, Jawa Barat 46187",,"4,6",17,"
+0821-1586-3354",Ada,Tidak Tersedia,-7.5328349,108.0768399,Aksesibilitas Tersedia,[]
+Masjid Al Hanafiyah,Masjid,"M5GP+VRX, Bantarsari, Kec. Bungursari, Kab. Tasikmalaya, Jawa Barat 46151",,"4,7",23,,Tidak Ada ,Tidak Tersedia,-7.3227684,108.1871061,Aksesibilitas Tersedia,[]
+Masjid Agung Kota Tasikmalaya,Masjid,"Jl. Mesjid Agung No.01, Yudanagara, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46121",Buka 24 jam,"4,8",10.994,,Tidak Ada ,Tidak Tersedia,-7.3261021,108.2199555,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Al Mujahidin,Masjid,"M5VV+4XC, Jl. Letnan Harun, Sukarindik, Kec. Bungursari, Kab. Tasikmalaya, Jawa Barat 46151",,"4,9",38,,Tidak Ada ,Tidak Tersedia,-7.3071773,108.1948842,Aksesibilitas Tersedia,[]
+Masjid Jami Nurul Huda Sindanggalih,Masjid,"J9FC+62P, Sindanggalih, Rajadatu, Kec. Cineam, Kabupaten Tasikmalaya, Jawa Barat 46198",,"4,7",12,,Tidak Ada ,Tidak Tersedia,-7.3769,108.3700861,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Ranca (Miftahul Jannah),Masjid,"Yayasan Pendidikan Islam Al-I'tishaam, Pasirbatang, Kec. Manonjaya, Kabupaten Tasikmalaya, Jawa Barat 46197",Buka 24 jam,"4,9",10,"
+0823-2008-8150",Ada,Tidak Tersedia,-7.3592637,108.3453117,Aksesibilitas Tersedia,[]
+Masjid Jami Hanaslangah,Masjid,"G65Q+5G7, Jl.hanaslangah, RT.001/RW.004, Banjarwaringin, Kec. Salopa, Kabupaten Tasikmalaya, Jawa Barat 46192",Buka 24 jam,"4,9",26,,Tidak Ada ,Tidak Tersedia,-7.4920868,108.2387861,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Dawagung,Masjid,"Q57Q+V96, Jl. Desa Dawagung/Cibogo, Dawagung, Kec. Rajapolah, Kabupaten Tasikmalaya, Jawa Barat 46155",,"4,6",23,,Tidak Ada ,Tidak Tersedia,-7.2353454,108.1883949,Aksesibilitas Tersedia,[]
+Masjid Al-Muhajirin Perum Sukarindik,Masjid,"M5VX+235, Jl. Sukarindik, Sukarindik, Kec. Bungursari, Kab. Tasikmalaya, Jawa Barat 46151",,"4,4",31,,Tidak Ada ,Tidak Tersedia,-7.3074813,108.1977253,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Besar Al-Rosyad,Masjid,"Jl. Letnan Ibrahim Adji, Indihiang, Kec. Indihiang, Kab. Tasikmalaya, Jawa Barat 46151",,"4,6",84,"
+0813-2332-5112",Ada,Tidak Tersedia,-7.2925092,108.2001202,Aksesibilitas Tersedia,[]
+Masjid Jami Nurul Huda Kp. Bongkor,Masjid,"P4QM+FQ9, Bongkor, Sukaratu, Indrajaya, Tasikmalaya, Kabupaten Tasikmalaya, Jawa Barat 46415",,"4,9",11,"
+0813-2330-0032",Ada,Tidak Tersedia,-7.261341,108.1344939,Aksesibilitas Tersedia,[]
+Masjid Besar Muhajirin,Masjid,"M68H+R3J, Jl. Saptamarga No.03, Cikalang, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46114",Buka 24 jam,"4,8",449,"
+0852-2343-4434",Ada,Tidak Tersedia,-7.3328318,108.2273678,Aksesibilitas Tersedia,[]
+"Masjid Al Ihsan Kp. Jinten, Sukarame, Singaparna, Tasikmalaya",Masjid,"J4WG+G9G, Kp.zinten, Cipakat, Kec. Singaparna, Kabupaten Tasikmalaya, Jawa Barat 46417",,"4,7",28,"
+0851-5653-9182",Ada,Tidak Tersedia,-7.3536825,108.1259625,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Falah,Masjid,"Jl. Cisalak No.32, Sukamanah, Kec. Cipedes, Kab. Tasikmalaya, Jawa Barat 46131",04.00 hingga 20.00,"4,5",13,,Tidak Ada ,Tidak Tersedia,-7.3110872,108.2303216,Aksesibilitas Tersedia,[]
+Masjid Al Ikhlas Sukahening,Masjid,"Sukahening, Kota/kab, Jl. Kereteg No.1, Cigantang, Kec. Mangkubumi, Kab. Tasikmalaya, Jawa Barat 46181",,"4,5",31,,Tidak Ada ,Tidak Tersedia,-7.3602224,108.189325,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Cicurug,Masjid,"J8V3+C79, Margahayu, Kec. Manonjaya, Kabupaten Tasikmalaya, Jawa Barat 46197",,"4,3",24,,Tidak Ada ,Tidak Tersedia,-7.3564702,108.3032205,Aksesibilitas Tersedia,[]
+MASJID Al Barokah Toblongan,Masjid,"Jl. Raya Mangunreja No.101, Mangunreja, Kec. Mangunreja, Kabupaten Tasikmalaya, Jawa Barat 46462",Buka 24 jam,"4,8",16,,Tidak Ada ,Tidak Tersedia,-7.36931,108.0979424,Aksesibilitas Tersedia,[]
+Mesjid At-Taqwa,Masjid,"P5P4+CG9, Kp. Sukamahi, Sukajadi, Kec. Cisayong, Kabupaten Tasikmalaya, Jawa Barat 46153",Buka 24 jam,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.263951,108.1563553,Aksesibilitas Tersedia,[]
+MASJID BANI ISMAIL,Masjid,"Yudanagara, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46121",Buka 24 jam,"5,0",12,"
+0852-1387-6887",Ada,Tidak Tersedia,-7.3317607,108.2207638,Aksesibilitas Tersedia,[]
+Masjid Assalam,Masjid,"J3WX+33F, Jl. Raya Cigalontang, Cikunten, Kec. Singaparna, Kabupaten Tasikmalaya, Jawa Barat 46414",Buka 24 jam,"3,6",16,,Tidak Ada ,Tidak Tersedia,-7.354811,108.0976645,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Bani Zein,Masjid,"Jl. Raya Sukamantri No.217, Pasirhuni, Kec. Ciawi, Kabupaten Tasikmalaya, Jawa Barat 46156",,"4,4",69,,Tidak Ada ,Tidak Tersedia,-7.1414973,108.1471522,Aksesibilitas Tersedia,[]
+Masjid Al Fattah,Masjid,"M62H+JFW, Jl. Cilolohan, RT.08/RW.08, Kahuripan, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46115",,"4,7",30,,Tidak Ada ,Tidak Tersedia,-7.3483824,108.2287116,Aksesibilitas Tersedia,[]
+Masjid Jami' Besar Sukaraja,Masjid,"Jl. Karangnunggal, Sukapura, Kec. Sukaraja, Kabupaten Tasikmalaya, Jawa Barat 46185",Buka 24 jam,"4,6",762,"
+0853-5350-6995",Ada,Tidak Tersedia,-7.451923,108.1939157,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al-Hikmah,Masjid,"Jl. Cikalang Tengah No.14, Cikalang, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46114",,"4,9",14,,Tidak Ada ,Tidak Tersedia,-7.339271,108.2294021,Aksesibilitas Tersedia,[]
+"Masjid Agung Cibalong, Kabupaten Tasikmalaya",Masjid,"F5PJ+4V3, Girikencana, Kec. Parungponteng, Kabupaten Tasikmalaya, Jawa Barat 46185",,"4,5",46,,Tidak Ada ,Tidak Tersedia,-7.5147358,108.1821732,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Rancamaya,Masjid,"J4XG+4W8, JL. Rancamaya, Sukarame, Cipakat, Tasikmalaya, Kabupaten Tasikmalaya, Jawa Barat 46417",,"4,4",16,,Tidak Ada ,Tidak Tersedia,-7.3522151,108.1273127,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Al-Muttaqin,Masjid,"Jl. Sutisna Senjaya No.235, Cikalang, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46114",,"4,8",32,"
+0822-1683-2624",Ada,Tidak Tersedia,-7.3333717,108.2362861,Aksesibilitas Tersedia,[]
+Masjid Rahmatullah,Masjid,"Jl. Cendramerta No.1, Panglayungan, Kec. Cipedes, Kab. Tasikmalaya, Jawa Barat 46134",Buka 24 jam,"4,7",331,,Tidak Ada ,Tidak Tersedia,-7.318611,108.2066641,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Kaum bantarkalong,Masjid,"83PG+8JH, Bantarkalong, Kec. Cipatujah, Kabupaten Tasikmalaya, Jawa Barat 46187",Buka 24 jam,"4,7",68,"
+0853-1924-9276",Ada,Tidak Tersedia,-7.6641768,108.0766203,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-muttaqin,Masjid,"M652+MMR, Jl. Brig. Jen. Sutoko, Linggajaya, Kec. Mangkubumi, Kab. Tasikmalaya, Jawa Barat 46181",,"4,7",34,,Tidak Ada ,Tidak Tersedia,-7.3407543,108.201633,Aksesibilitas Tersedia,[]
+Masjid Agung Manonjaya,Masjid,"J8X4+FVG, Jl. RTA. Prawira Adiningrat, Manonjaya, Kec. Manonjaya, Kab. Tasikmalaya, Jawa Barat 46197",,"4,7",1.773,,Tidak Ada ,Tidak Tersedia,-7.3513169,108.3072051,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Besar Singaparna Kota,Masjid,"M425+3W6, alun alun, Kec. Singaparna, Kabupaten Tasikmalaya, Jawa Barat 46411","04.30 hingga 05.00,11.00 hingga 13.00,15.00 hingga 15.30,18.00 hingga 18.30,19.00 hingga 19.30","4,5",82,,Tidak Ada ,Tidak Tersedia,-7.3498459,108.1097626,Aksesibilitas Tersedia,[]
+MASJID BAITURRAHMAN,Masjid,"Jl. R.E. Martadinata No.93, Cipedes, Kec. Cipedes, Kab. Tasikmalaya, Jawa Barat 46133",Buka 24 jam,"4,8",330,,Tidak Ada ,Tidak Tersedia,-7.314606,108.2133101,Aksesibilitas Tersedia,[]
+Masjid iceu,Masjid,"R56J+Q9P, Sindangraja, Kec. Jamanis, Kabupaten Tasikmalaya, Jawa Barat 46175",,"4,3",681,,Tidak Ada ,Tidak Tersedia,-7.1880365,108.1809677,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Al Ilyas,Masjid,"JL. Panyingkiran, RT.02/01, Jl. Panyingkiran I No.27, Panyingkiran, Kec. Indihiang, Kab. Tasikmalaya, Jawa Barat 46151",,"4,9",22,"
+(0265) 336008",Ada,Tidak Tersedia,-7.3058591,108.2082101,Aksesibilitas Tersedia,[]
+Masjid At-Taqwa Tanjung Resik,Masjid,"J6V9+V97, Cipamutih, Taman Sari, Sambongjaya, Kec. Mangkubumi, Kab. Tasikmalaya, Jawa Barat 46181",,"4,8",16,,Tidak Ada ,Tidak Tersedia,-7.3553361,108.2184306,Aksesibilitas Tersedia,[]
+Masjid Asy Syafii,Masjid,"M5MR+2RG, Sukamulya, Kec. Bungursari, Kab. Tasikmalaya, Jawa Barat 46151",,"5,0",22,,Tidak Ada ,Tidak Tersedia,-7.3174442,108.1920901,Aksesibilitas Tersedia,[]
+Masjid Al-Iman,Masjid,"Jl. Siliwangi No.207, Cikalang, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46114",,"4,7",53,"
+0853-2026-0061",Ada,Tidak Tersedia,-7.3362202,108.2315669,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+"Masjid Desa Cianda, TasikMalaya",Masjid,"J4VQ+QPF, Sukarame, Kec. Sukarame, Kabupaten Tasikmalaya, Jawa Barat 46461",,"4,8",26,,Tidak Ada ,Tidak Tersedia,-7.3555516,108.1393055,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Muawanah,Masjid,"Q5HH+GRR, Jl. Pangligaran, Manggungjaya, Kec. Rajapolah, Kabupaten Tasikmalaya, Jawa Barat 46155",,"4,8",20,,Tidak Ada ,Tidak Tersedia,-7.2211476,108.1795036,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Nurul Huda,Masjid,"Jl. Rancageneng No.2, Sukajaya, Kec. Bungursari, Kab. Tasikmalaya, Jawa Barat 46151",,"5,0",11,"
+0853-2224-3773",Ada,Tidak Tersedia,-7.3129663,108.188119,Aksesibilitas Tersedia,[]
+Masjid Jami Perum Sawati Mas,Masjid,"Jl. Ciawi - Panumbangan No.16, Cipondok, Kec. Sukaresik, Kabupaten Tasikmalaya, Jawa Barat 46156",,"4,2",31,"
+0813-2076-7308",Ada,Tidak Tersedia,-7.1557407,108.1636013,Aksesibilitas Tersedia,[]
+Masjid Gunung Yuda,Masjid,"J5VM+828, Gunung Yuda, Mangkubumi, Kp. Gunung yuda, RT.01/RW.07, Cigantang, Kec. Mangkubumi, Kab. Tasikmalaya, Jawa Barat 46181",03.30 hingga 20.30,"4,7",16,,Tidak Ada ,Tidak Tersedia,-7.3567087,108.1825823,Aksesibilitas Tersedia,[]
+Masjid Ar-Ruhaeniah,Masjid,"J6PG+959, Jalan, Mulyasari, Tamansari, Tasikmalaya Regency, West Java 46196",,"4,7",120,"
+0823-1587-1237",Ada,Tidak Tersedia,-7.3640868,108.2254843,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Ikhlas Markaz Dakwah Tasik,Masjid,"J6P2+CXM, Sambongjaya, Kec. Mangkubumi, Kab. Tasikmalaya, Jawa Barat 46181",Buka 24 jam,"4,9",78,,Tidak Ada ,Tidak Tersedia,-7.3639125,108.2024219,Aksesibilitas Tersedia,[]
+Masjid Jami Al Ishlah Nagrog,Masjid,"Jl. Situ Gede No.Rt02/04, Nagrog, Kec. Mangkubumi, Kab. Tasikmalaya, Jawa Barat 46181",,"4,7",24,,Tidak Ada ,Tidak Tersedia,-7.3406572,108.1927733,Aksesibilitas Tersedia,[]
+Masjid Al Hidayah,Masjid,"Jl. Raya Cikatomas, Dusun Muara Rt. 003/001, Sukakerta, Jatiwaras, Tasikmalaya Regency, West Java 46185",Buka 24 jam,"4,0",12,,Tidak Ada ,Tidak Tersedia,-7.4536374,108.2067289,Aksesibilitas Tersedia,[]
+Masjid Jamie At Taqwa,Masjid,"M6GJ+GMH, Lengkongsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46111",,"4,6",17,,Tidak Ada ,Tidak Tersedia,-7.323677,108.231726,Aksesibilitas Tersedia,[]
+Masjid Baitul Amanah(Masjid Itjeu),Masjid,"Jl. Raya Jamanis, Tanjungmekar, Kec. Jamanis, Kabupaten Tasikmalaya, Jawa Barat",Buka 24 jam,"4,3",62,,Tidak Ada ,Tidak Tersedia,-7.188196,108.1805143,Aksesibilitas Tersedia,[]
+Masjid Al Azhar,Masjid,"P576+HHQ, Sukamahi, Kec. Sukaratu, Kabupaten Tasikmalaya, Jawa Barat 46415",,"5,0",7,,Tidak Ada ,Tidak Tersedia,-7.2860454,108.161498,Aksesibilitas Tersedia,[]
+Masjid Al-Hasanah,Masjid,"kp.Sindangelet No.46153, Sukaraharja, Kec. Cisayong, Kabupaten Tasikmalaya, Jawa Barat 46153",,"4,8",26,,Tidak Ada ,Tidak Tersedia,-7.2625076,108.1779058,Aksesibilitas Tersedia,[]
+Masjid Amaliah TASCO,Masjid,"Jl. Bebedahan II No.13-21, Lengkongsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46111",Buka 24 jam,"4,8",61,,Tidak Ada ,Tidak Tersedia,-7.3280376,108.2356056,Aksesibilitas Tersedia,[]
+Masjid Cimerak,Masjid,"J48X+2VH, Wargakerta, Kec. Sukarame, Kabupaten Tasikmalaya, Jawa Barat 46461",,"4,6",10,,Tidak Ada ,Tidak Tersedia,-7.3849412,108.1497488,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Nur Rafi'i,Masjid,"M6PH+5JV, Jl. Mohamad Hatta, RT.04/RW.14, Sukamanah, Kec. Cipedes, Kab. Tasikmalaya, Jawa Barat 46131",,"4,7",110,"
+0897-7715-333",Ada,Tidak Tersedia,-7.3145244,108.2290499,Aksesibilitas Tersedia,[]
+Masjid Besar Kec. Cineam,Masjid,"J954+86X, Cineam, Kec. Cineam, Kabupaten Tasikmalaya, Jawa Barat 46198",Buka 24 jam,"4,6",37,,Tidak Ada ,Tidak Tersedia,-7.3916427,108.3556053,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Besar Ciawi,Masjid,"Jl. Raya Ciawi, Ciawi, Kec. Ciawi, Kabupaten Tasikmalaya, Jawa Barat 46156",,"4,5",121,,Tidak Ada ,Tidak Tersedia,-7.1585501,108.1465883,Aksesibilitas Tersedia,[]
+Masjid At-Taqwa Dadaha,Masjid,"M67F+957, Jl. Lingkar Dadaha, Nagarawangi, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46124",,"4,5",20,,Tidak Ada ,Tidak Tersedia,-7.336582,108.2229226,Aksesibilitas Tersedia,[]
+"Masjid At Tajdid, Sindang Galih",Masjid,"J6WH+9F9, Kahuripan, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46115",,"4,7",30,"
+0893-4366-545",Ada,Tidak Tersedia,-7.3540924,108.2287266,Aksesibilitas Tersedia,[]
+Masjid Besar Kawalu,Masjid,"J695+78M, Jl. Perintis Kemerdekaan, Karsamenak, Kec. Kawalu, Kab. Tasikmalaya, Jawa Barat 46182",,"4,6",487,,Tidak Ada ,Tidak Tersedia,-7.3817761,108.2083037,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al - Falah,Masjid,"Kp. Citiga Rt.001 Rw.004, Desa, Condong, Kec. Jamanis, Kabupaten Tasikmalaya, Jawa Barat 46175",,"4,6",15,,Tidak Ada ,Tidak Tersedia,-7.198474,108.157191,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid BAITUL JANNAH,Masjid,"Jl. Sheikh Abdul Muhyi No.28, Urug, Kec. Kawalu, Kab. Tasikmalaya, Jawa Barat 46182",,"4,4",88,,Tidak Ada ,Tidak Tersedia,-7.440443,108.1950827,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Agung Baiturrohman,Tempat Ibadah,"Sukamulya, Kec. Singaparna, Kabupaten Tasikmalaya, Jawa Barat 46416",,"4,6",468,"
+0878-0816-2123",Ada,Tidak Tersedia,-7.357472,108.112673,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid As Salam,Masjid,"J6XG+H5P, Jl. Gn. Roay 1, RT.03/RW.14, Kahuripan, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46115",,"4,6",34,,Tidak Ada ,Tidak Tersedia,-7.3510396,108.2254674,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Neundeut,Masjid,"Jl. Raya Cisayong No.2, Sukaraharja, Kec. Cisayong, Kabupaten Tasikmalaya, Jawa Barat 46153",07.00 hingga 21.00,"4,9",21,,Tidak Ada ,Tidak Tersedia,-7.2618743,108.1713321,Aksesibilitas Tersedia,[]
+Masjid Jami Al Barkah,Masjid,"R5R9+5VX, Kampung Situbuleud, RT.03/RW.04, Cipondok, Kec. Sukaresik, Kabupaten Tasikmalaya, Jawa Barat 46418",Buka 24 jam,"4,7",3,,Tidak Ada ,Tidak Tersedia,-7.1595188,108.1697214,Aksesibilitas Tersedia,[]
+Masjid Agung Mangunreja,Masjid,"J4M2+WJ2, Jl. Garut - Tasikmalaya, Mangunreja, Kec. Mangunreja, Kabupaten Tasikmalaya, Jawa Barat 46462",Buka 24 jam,"4,6",373,,Tidak Ada ,Tidak Tersedia,-7.3652334,108.1015252,Aksesibilitas Tersedia,[]
+Mesjid Jami Darussalam,Masjid,"Q4CW+3RW, Jln kp.sarongge, RT.2/RW.010, Banyurasa, Kec. Sukahening, Kabupaten Tasikmalaya, Jawa Barat 46153",Buka 24 jam,"4,8",13,"
+0831-9559-9481",Ada,Tidak Tersedia,-7.229753,108.1470754,Aksesibilitas Tersedia,[]
+Masjid Jami CISEPET,Masjid,"C4JH+3Q5, Cisepet, Girijaya, Bojongasih, Tasikmalaya Regency, West Java 46475",,"4,1",21,,Tidak Ada ,Tidak Tersedia,-7.5693058,108.1287768,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Abu Bakar Ash-Shiddiq,Masjid,"Q5JW+8HG, Manggungjaya, Kec. Rajapolah, Kabupaten Tasikmalaya, Jawa Barat 46155",Buka 24 jam,"4,6",21,,Tidak Ada ,Tidak Tersedia,-7.2191875,108.1964531,Aksesibilitas Tersedia,[]
+Masjid Jami Al Falah,Masjid,"M547+CMJ, Cikadongdong, Kec. Singaparna, Kabupaten Tasikmalaya, Jawa Barat 46418",,"4,8",13,"
+0812-1090-7094",Ada,Tidak Tersedia,-7.3439085,108.1641272,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Al-Muawanah,Masjid,"Jl. Raya Pagerageung No.51, Pagerageung, Kec. Pagerageung, Kabupaten Tasikmalaya, Jawa Barat 46158",,"4,4",21,,Tidak Ada ,Tidak Tersedia,-7.1117102,108.1643295,Aksesibilitas Tersedia,[]
+Masjid Jame Al iklas,Masjid,"J3MW+CF9, Jl. Kaum Selatan, Mangunreja, Kec. Mangunreja, Kabupaten Tasikmalaya, Jawa Barat 46462",,"4,5",10,,Tidak Ada ,Tidak Tersedia,-7.3664656,108.0962466,Aksesibilitas Tersedia,[]
+MASJID AL ISHLAH | Asia Plaza,Masjid,"M658+766, Tuguraja, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46125",Buka 24 jam,"4,6",599,,Tidak Ada ,Tidak Tersedia,-7.3418357,108.2155098,Aksesibilitas Tersedia,[]
+Masjid At Taqwa,Masjid,"J6VF+G8X, Jl. Cikunten Indah, RT.04/RW.10, Kahuripan, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46115",Buka 24 jam,"4,9",64,"
+0812-2051-3760",Ada,Tidak Tersedia,-7.3561391,108.2233676,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Al-mujahidin,Masjid,"Jl. Mohamad Hatta No.119-139, Sukamanah, Kec. Cipedes, Kab. Tasikmalaya, Jawa Barat 46131",,"4,8",17,,Tidak Ada ,Tidak Tersedia,-7.3198301,108.2261732,Aksesibilitas Tersedia,[]
+Masjid As-Syukur,Masjid,"C596+XQP, Eureunpalay, Kec. Cibalong, Kabupaten Tasikmalaya, Jawa Barat 46185",,"4,3",70,,Tidak Ada ,Tidak Tersedia,-7.5800395,108.1619428,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al- Abror,Masjid,"V6J2+3FX, Puteran, Kec. Pagerageung, Kabupaten Tasikmalaya, Jawa Barat 46158",Buka 24 jam,"4,4",41,,Tidak Ada ,Tidak Tersedia,-7.1197555,108.2012355,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid STAI Al Hidayah Tasikmalaya,Masjid,"Talagasari, Kec. Kawalu, Kab. Tasikmalaya, Jawa Barat 46182",Buka 24 jam,"4,8",24,"
+0821-2604-7604",Ada,Tidak Tersedia,-7.3789904,108.1993883,Aksesibilitas Tersedia,[]
+MASJID AL - MAKKAH STASIUN TASIKMALAYA,Masjid,"Jl. Tarumanagara, Tawangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46112","00.00 hingga 06.00,12.00 hingga 00.00","4,6",18,"
+(0265) 332485",Ada,Tidak Tersedia,-7.3229616,108.223156,Aksesibilitas Tersedia,[]
+Masjid Babussalam,Masjid,"Jl. Syekh Abdul Muhyi Pasirdatar No.45, Gununggede, Kec. Kawalu, Kab. Tasikmalaya, Jawa Barat 46182",,"4,9",69,,Tidak Ada ,Tidak Tersedia,-7.4021241,108.2111514,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Irsyad,Masjid,"Jl. Manonjaya - Banjar No.142, Pasirbatang, Kec. Manonjaya, Kabupaten Tasikmalaya, Jawa Barat 46197",Buka 24 jam,"4,7",110,,Tidak Ada ,Tidak Tersedia,-7.3633547,108.3557752,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+"Masjid Jami Al Falah Sukabetah, Sukaasih, Kec.Purbaratu",Masjid,"M6HX+PQW, Jl. KH. Tubagus Abdullah, Sukaasih, Kec. Purbaratu, Kab. Tasikmalaya, Jawa Barat 46196",Buka 24 jam,"4,4",17,,Tidak Ada ,Tidak Tersedia,-7.3206368,108.2494661,Aksesibilitas Tersedia,[]
+Masjid Jami Al Barokah Daleum,Masjid,"M6HX+J86, Sukaasih, Kec. Purbaratu, Kab. Tasikmalaya, Jawa Barat 46196",,"4,7",15,,Tidak Ada ,Tidak Tersedia,-7.3209527,108.2482599,Aksesibilitas Tersedia,[]
+Masjid Al-Fattah,Masjid,"P5MP+RC2, Pagendingan, Jatihurip, Kec. Cisayong, Kabupaten Tasikmalaya, Jawa Barat 46153",Buka 24 jam,"4,7",285,"
+(0265) 421157",Ada,Tidak Tersedia,-7.2652176,108.185297,Aksesibilitas Tersedia,['Memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami' AL-FITHROH Gunung Tujuh,Masjid,"M5XV+CQQ, Sukarindik, Kec. Bungursari, Kab. Tasikmalaya, Jawa Barat 46151",04.00 hingga 20.00,"4,9",20,"
+0812-2295-3369",Ada,Tidak Tersedia,-7.3014099,108.1944949,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+MASJID AHSANUL MAHMUDA,Masjid,"Jl. Letnan Harun No.99, Sukamajukaler, Kec. Indihiang, Kab. Tasikmalaya, Jawa Barat 46151",,"4,9",30,,Tidak Ada ,Tidak Tersedia,-7.2931506,108.1925126,Aksesibilitas Tersedia,[]
+Masjid Besar Kec. Cibeureum,Masjid,"J7X6+2VX, Kotabaru, Kec. Cibeureum, Kab. Tasikmalaya, Jawa Barat 46196",,"4,7",38,,Tidak Ada ,Tidak Tersedia,-7.3523786,108.2622193,Aksesibilitas Tersedia,[]
+Masjid Jami Ar-Ridho,Masjid,"P4WP+969, Jl. Kp. Leuwibodas, Santanamekar, Kec. Cisayong, Kabupaten Tasikmalaya, Jawa Barat 46153",,"5,0",6,,Tidak Ada ,Tidak Tersedia,-7.2540751,108.1356181,Aksesibilitas Tersedia,[]
+Masjid Baitussalam Cinusa,Masjid,"V53G+J5C, Banjarsari, Kec. Sukaresik, Kabupaten Tasikmalaya, Jawa Barat 46418",Buka 24 jam,"4,2",21,,Tidak Ada ,Tidak Tersedia,-7.1459308,108.1753884,Aksesibilitas Tersedia,[]
+Masjid Jami An-Nur ( Baperan Tasikmalaya ),Masjid,"Jl. Gudang Jero II No.22, Panglayungan, Kec. Cipedes, Kab. Tasikmalaya, Jawa Barat 46133",,"4,8",20,,Tidak Ada ,Tidak Tersedia,-7.3196487,108.2160467,Aksesibilitas Tersedia,[]
+Masjid Jami Al Abbas,Masjid,"Q5G7+FRP, Unnamed Road, Banyurasa, Kec. Sukahening, Kabupaten Tasikmalaya, Jawa Barat 46155",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.2237863,108.164583,Aksesibilitas Tersedia,[]
+Masjid AT TAQWA Citepus,Masjid,"Jl. Citepus No.60, Santanamekar, Cisayong, Tasikmalaya Regency, West Java 46153",Buka 24 jam,"4,4",50,,Tidak Ada ,Tidak Tersedia,-7.2525933,108.1418946,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jamie At-Tawakkal,Masjid,"Q5Q4+MFJ, Calingcing, Kec. Sukahening, Kabupaten Tasikmalaya, Jawa Barat 46155",Buka 24 jam,"4,5",38,,Tidak Ada ,Tidak Tersedia,-7.2107761,108.1561345,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Darul Falah,Masjid,"P577+MWV, Cikadongdong, Sukamahi, Kec. Sukaratu, Kabupaten Tasikmalaya, Jawa Barat 46415",,"4,9",12,,Tidak Ada ,Tidak Tersedia,-7.2857557,108.1647902,Aksesibilitas Tersedia,[]
+Masjid Perum Batara,Masjid,"JL. Perum Batara No.RT. 02, Kahuripan, Tawang, Tasikmalaya Regency, West Java 46115",,"4,4",37,,Tidak Ada ,Tidak Tersedia,-7.3564603,108.226831,Aksesibilitas Tersedia,[]
+Masjid Besar Al Irsyad,Masjid,"P42F+5F2, Jl. Cisinga, Mekarjaya, Kec. Padakembang, Kabupaten Tasikmalaya, Jawa Barat 46466",Buka 24 jam,"4,6",82,,Tidak Ada ,Tidak Tersedia,-7.2996083,108.123649,Aksesibilitas Tersedia,[]
+Masjid Al Muhajirin Unsil,Masjid,"Jl. Siliwangi No.24, Kahuripan, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46115",,"4,8",474,,Tidak Ada ,Tidak Tersedia,-7.3493299,108.2234993,Aksesibilitas Tersedia,[]
+Masjid Persatuan Islam Ciawi Panyusuhan kab.tasikmalaya,Masjid,"Pakemitankidul, Kec. Ciawi, Kabupaten Tasikmalaya, Jawa Barat 46123",Buka 24 jam,"4,7",475,,Tidak Ada ,Tidak Tersedia,-7.1665522,108.1548512,Aksesibilitas Tersedia,[]
+Masjid Banjarsari,Masjid,"R5XR+C6R, Banjarsari, Kec. Sukaresik, Kabupaten Tasikmalaya, Jawa Barat 46418",,"4,7",31,,Tidak Ada ,Tidak Tersedia,-7.1513795,108.1905025,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Mustaqim Dahana Tasikmalaya,Masjid,"M742+W4Q, Jl. Kolonel Basyir Surya, Setianagara, Kec. Cibeureum, Kab. Tasikmalaya, Jawa Barat 46196",,"4,8",23,,Tidak Ada ,Tidak Tersedia,-7.3426514,108.2503589,Aksesibilitas Tersedia,[]
+Masjid H. Bakri,Masjid,"M699+CJ7, Jl. Babakan Payung I, RT.07/RW.06, Yudanagara, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46121",Buka 24 jam,"4,6",164,,Tidak Ada ,Tidak Tersedia,-7.331468,108.2190321,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami As Salam,Masjid,"M65P+HMP, Dusun Jl. Siluman, Setiaratu, Cibeureum, Tasikmalaya Regency, West Java 46196",,"4,9",13,,Tidak Ada ,Tidak Tersedia,-7.3410336,108.2367159,Aksesibilitas Tersedia,[]
+Masjid Fastabiqul Khairat,Masjid,"M6J2+285, Jl. Bougenville, Panglayungan, Kec. Cipedes, Kab. Tasikmalaya, Jawa Barat 46134",,"4,8",21,,Tidak Ada ,Tidak Tersedia,-7.319976,108.2008612,Aksesibilitas Tersedia,[]
+Masjid AL-Ikhlash,Masjid,"Jl. Anggaraja Kp. Gunung Kasur No.RT 02/07, Cikunir, Kec. Singaparna, Kabupaten Tasikmalaya, Jawa Barat 46418",,"4,3",18,,Tidak Ada ,Tidak Tersedia,-7.3481211,108.1481454,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Miftahul Huda,Masjid,"J8V5+5WM, Jl. Miftahul Huda, Dusun Pasirpanjang, RT.05/RW.02, Kalimanggis, Kec. Manonjaya, Kabupaten Tasikmalaya, Jawa Barat 46197",,"4,8",210,,Tidak Ada ,Tidak Tersedia,-7.3570496,108.3097849,Aksesibilitas Tersedia,[]
+Masjid Jami Al-huda,Masjid,"M52X+M2Q, Jalan, Sambong, Mangkubumi, Tasikmalaya Regency, West Java 46181",,"4,6",13,,Tidak Ada ,Tidak Tersedia,-7.3482985,108.1976163,Aksesibilitas Tersedia,[]
+Masjid Gunung Siman,Masjid,"J5RM+F5R, Cigantang, Kec. Mangkubumi, Kab. Tasikmalaya, Jawa Barat 46181",Buka 24 jam,"4,5",28,"
+0852-2365-5998",Ada,Tidak Tersedia,-7.3587529,108.1828755,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Ansor,Masjid,"P5PC+57Q, Sukaraharja, Kec. Cisayong, Kabupaten Tasikmalaya, Jawa Barat 46153",,"4,3",15,,Tidak Ada ,Tidak Tersedia,-7.2645267,108.1707188,Aksesibilitas Tersedia,[]
+Mesjid Agung Rajapolah,Masjid,"Q5JR+22Q, Manggungjaya, Kec. Rajapolah, Kabupaten Tasikmalaya, Jawa Barat 46155",Buka 24 jam,"4,7",672,,Tidak Ada ,Tidak Tersedia,-7.2199075,108.1901096,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Jami Al Ikhlas Padaasih,Masjid,"M6HX+92M, Jl. KH. Tubagus Abdullah, Sukaasih, Kec. Purbaratu, Kab. Tasikmalaya, Jawa Barat 46196",,"4,6",33,,Tidak Ada ,Tidak Tersedia,-7.3215354,108.2475362,Aksesibilitas Tersedia,[]
+Masjid At-Tiyah,Masjid,"Q55Q+PX6, Dawagung, Kec. Rajapolah, Kabupaten Tasikmalaya, Jawa Barat 46155",Buka 24 jam,"4,7",186,,Tidak Ada ,Tidak Tersedia,-7.2407043,108.189894,Aksesibilitas Tersedia,[]
+Masjid Asy-Syuja Gunung Nangka,Masjid,"M568+2RF, Jl. Gn. Nangka, Cipawitra, Kec. Mangkubumi, Kab. Tasikmalaya, Jawa Barat 46181",,"4,6",44,,Tidak Ada ,Tidak Tersedia,-7.3399456,108.1670379,Aksesibilitas Tersedia,[]
+Gereja BNKP,Gereja,"Tasik Indah, KM. 60 Jalur 1, Simpang Baserah",,,,,Tidak Ada ,Tidak Tersedia,-7.3505813,108.2171484,Aksesibilitas Tersedia,[]
+GEREJA KERASULAN BARU,Gereja,"M68C+XQC, Gg. Tunggalrasa, Yudanagara, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46121",,"4,5",10,,Tidak Ada ,Tidak Tersedia,-7.3325505,108.221881,Aksesibilitas Tersedia,[]
+"Gereja Katolik Stasi Kristus Gapuraning Rahayu, Ciawi",Gereja Katolik,"Kp. Balemanggu Jl. Raya Ciawi, Pakemitankidul, Kec. Ciawi, Kabupaten Tasikmalaya, Jawa Barat",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.1631079,108.1516316,Aksesibilitas Tersedia,[]
+GPdI Tasikmalaya,Gereja Pantekosta,"Jl. Panyerutan No.10, Nagarawangi, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46124",Tutup,"4,9",18,"
+(0265) 332391",Ada,Tidak Tersedia,-7.3326725,108.2200762,Aksesibilitas Tersedia,[]
+Gereja Kristen Indonesia (GKI) Veteran Tasikmalaya,Gereja Kristen,"Jl. Veteran No.49, Nagarawangi, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46121",08.00 hingga 20.00,"4,9",42,"
+(0265) 330106",Ada,Tersedia,-7.3313175,108.2162786,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Hati Kudus Yesus, Tasikmalaya",Gereja Katolik,"Jl. Sutisna Senjaya No.50, Empangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46113","08.00 hingga 12.00,16.00 hingga 19.00","4,8",184,"
+(0265) 331570",Ada,Tersedia,-7.3278278,108.227521,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Rumah omlek,Gereja,"M835+6P, Margaluyu, Kec. Manonjaya, Kabupaten Tasikmalaya, Jawa Barat 46197",,"1,7",3,,Tidak Ada ,Tidak Tersedia,-7.3465921,108.3098752,Aksesibilitas Tersedia,[]
+Masjid Agung Manonjaya,Masjid,"J8X4+FVG, Jl. RTA. Prawira Adiningrat, Manonjaya, Kec. Manonjaya, Kab. Tasikmalaya, Jawa Barat 46197",,"4,7",1.773,,Tidak Ada ,Tidak Tersedia,-7.3513169,108.3072051,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Gereja Bethel Indonesia (GBI),Gereja,"KM. 59 Tasik Indah, Kahuripan, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat",,,,,Tidak Ada ,Tidak Tersedia,-7.3450494,108.2178664,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Yohanes, Ciamis",Gereja Katolik,"Jl. Pemuda No.56-58, Ciamis, Kec. Ciamis, Kabupaten Ciamis, Jawa Barat 46211",Buka 24 jam,"4,7",52,"
+(0265) 772575",Ada,Tersedia,-7.3249592,108.3545817,Aksesibilitas Tersedia,[]
+Gereja Bethel Indonesia,Gereja,"Jl. Tentara Pelajar No.19, Tawangsari, Empangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46124",08.00 hingga 15.00,"4,8",90,"
+(0265) 335401",Ada,Tersedia,-7.3278967,108.2244648,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Protestan di Indonesia Bagian Barat Jamaat Maranata,Gereja Protestan,"Jl. Hayam Wuruk No.37B, Empangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46113",,,0353,"
+(0353) 886833",Ada,Tidak Tersedia,-7.330932,108.2228634,Aksesibilitas Tersedia,[]
+Gereja Kristen Pasundan (GKP) Kalaksanan,Gereja,"Kampung Kalaksanan No.002, RT./RW:006, Cikawungading, Kec. Cipatujah, Kabupaten Tasikmalaya, Jawa Barat 46189",Tutup,"4,5",21,"
+0887-0632-6430",Ada,Tidak Tersedia,-7.7522578,108.086596,Aksesibilitas Tersedia,[]
+siluman buaya putih didikan bagus momok,Gereja,"94CM+GGX, Karangnunggal, Kec. Karangnunggal, Kabupaten Tasikmalaya, Jawa Barat 46186",,,,,Tidak Ada ,Tidak Tersedia,-7.6285719,108.1339465,Aksesibilitas Tersedia,[]
+"Gereja Katolik Stasi Santo Dismas, Nagaraherang",Gereja Katolik,"Jl. Rajapolah Sukahening No.19, Sukahening, Kec. Sukahening, Kabupaten Tasikmalaya, Jawa Barat 46155",,"5,0",4,,Tidak Ada ,Tidak Tersedia,-7.202958,108.1399375,Aksesibilitas Tersedia,[]
+Gedung Bale Riung Pasundan,Gereja,"M6C9+228, Yudanagara, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat",,,,,Tidak Ada ,Tidak Tersedia,-7.3299567,108.2175934,Aksesibilitas Tersedia,[]
+GEREJA BETH-EL TABERNAKEL,Gereja,"Jl. Veteran No.72, Cilembang, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46124",08.00 hingga 15.00,"5,0",11,,Tidak Ada ,Tersedia,-7.332716,108.2151515,Aksesibilitas Tersedia,[]
+Gereja Kristen Pasundan Jemaat Tasikmalaya,Gereja,"Jl. Selakaso No.53, Yudanagara, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46121",,"4,3",23,"
+(0265) 332588",Ada,Tidak Tersedia,-7.329927,108.21759,Aksesibilitas Tersedia,[]
+Gereja Kristen Indonesia - GKI Sion Tasikmalaya,Gereja Kristen,"Jl. Tentara Pelajar No.8, Nagarawangi, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46124",08.00 hingga 16.00,"4,6",16,"
+0852-3232-3018",Ada,Tersedia,-7.3343105,108.2196106,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKIm Ka Im Tong Tasikmalaya,Gereja Kristen,"Jl. Mayor Utarya No.11, Empangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46113",,"4,8",14,,Tidak Ada ,Tersedia,-7.3271982,108.223036,Aksesibilitas Tersedia,[]
+Gereja Gerakan Pentakosta Eben Haezer,Gereja Pantekosta,"Jl. RAA. Wiratanuningrat No.14, Empangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46113",Tutup,"4,9",7,"
+(0265) 311118",Ada,Tidak Tersedia,-7.3247691,108.2247255,Aksesibilitas Tersedia,[]
+Pastori GKI,Lembaga Swadaya Masyarakat (LSM),"Jl. Babakan Payung I No.2, Yudanagara, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46121",,,0265,"
+(0265) 323358",Ada,Tidak Tersedia,-7.331188,108.217773,Aksesibilitas Tersedia,[]
+GBT ANUGERAH Cipatujah,Gereja,"kp. mekarsari desa, RT.18/RW.04, Cipanas, Kec. Cipatujah, Kabupaten Tasikmalaya, Jawa Barat 46189",,"5,0",12,"
+0813-1256-6203",Ada,Tidak Tersedia,-7.7165115,107.9741062,Aksesibilitas Tersedia,[]
+bumi nail,Gereja,"P4RW+RVV, Cisayong, Kec. Cisayong, Kabupaten Tasikmalaya, Jawa Barat 46153",,,,"
+0821-1689-4768",Ada,Tidak Tersedia,-7.2578889,108.1471513,Aksesibilitas Tersedia,[]
+"Gereja Katolik St. Simon, Susuru",Gereja Katolik,"Susuru Kertajaya No.Ds, Kertayasa, Panawangan, Ciamis Regency, West Java 46255",,"4,3",3,,Tidak Ada ,Tidak Tersedia,-7.11352,108.3484682,Aksesibilitas Tersedia,[]
+Gereja Pantekosta Ciamis,Gereja Pantekosta,"Jl. Ir. H. Juanda No.231, Ciamis, Kec. Ciamis, Kabupaten Ciamis, Jawa Barat 46211",,"4,4",16,,Tidak Ada ,Tidak Tersedia,-7.3271088,108.3555016,Aksesibilitas Tersedia,[]
+bacitul kadaluarsa,Gereja,"94GR+865, Kp rancabakung, Karangmekar, Kec. Karangnunggal, Kabupaten Tasikmalaya, Jawa Barat 46186",,,,,Tidak Ada ,Tidak Tersedia,-7.6242464,108.1406139,Aksesibilitas Tersedia,[]
+Sarang waduh,Gereja,"Jl. RTA. Prawira Adiningrat No.109, Manonjaya, Kec. Manonjaya, Kabupaten Tasikmalaya, Jawa Barat 46197",,,,,Tidak Ada ,Tidak Tersedia,-7.3504929,108.3059731,Aksesibilitas Tersedia,[]
+Gereja Yesus Sejati Tasikmalaya,Gereja,"Jl. Empang Sari No.38, Yudanagara, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46121",06.30 hingga 07.00,,,,Tidak Ada ,Tidak Tersedia,-7.3298411,108.2215905,Aksesibilitas Tersedia,[]
+Rumah Teh Tenoy,Gereja,"M6V9+XG7, Kp Gg. Cicariu II, RT.06/RW.09, Nagarasari, Cipedes, Tasikmalaya Regency, West Java 46132",Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-7.3050988,108.2188028,Aksesibilitas Tersedia,[]
+IMAH FATIR GEBER,Gereja,"R4RW+MWG, Ciawi, Kec. Ciawi, Kabupaten Tasikmalaya, Jawa Barat 46156",,,,,Tidak Ada ,Tidak Tersedia,-7.1583051,108.1473178,Aksesibilitas Tersedia,[]
+GKI Kota Banjar,Gereja Kristen,"Jl. Kantor Pos No.56, Hegarsari, Kec. Pataruman, Kota Banjar, Jawa Barat 46322",09.00 hingga 17.00,"4,4",29,"
+(0265) 741565",Ada,Tidak Tersedia,-7.3733139,108.5426655,Aksesibilitas Tersedia,[]
+Cilenca,Gereja,"H449+6Q, Cikeusal, Kec. Tanjungjaya, Kabupaten Tasikmalaya, Jawa Barat",,,,,Tidak Ada ,Tidak Tersedia,-7.444486,108.1193963,Aksesibilitas Tersedia,[]
+"Kapel Maria Ratu Para Malaikat, Ciamis",Kapel,"Jl. Pemuda No.58, Ciamis, Kec. Ciamis, Kabupaten Ciamis, Jawa Barat 46211",Buka 24 jam,"5,0",10,,Tidak Ada ,Tersedia,-7.3247927,108.3547704,Aksesibilitas Tersedia,[]
+GKBI Tasikmalaya,Tempat Ibadah,"Jl. Tentara Pelajar No.50, Empangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46121",,,,,Tidak Ada ,Tidak Tersedia,-7.3323623,108.2219357,Aksesibilitas Tersedia,[]
+Gereja HKBP Tasikmalaya,Gereja Lutheran,"M6FG+VHM, Jl. Merdeka, Tawangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46112",,"4,0",2,,Tidak Ada ,Tidak Tersedia,-7.3252836,108.2264107,Aksesibilitas Tersedia,[]
+Gereja Advent (GMAHK) Tasikmalaya,Gereja,"Jl. Lingkar Dadaha No.4, Kahuripan, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46115",,"5,0",3,,Tidak Ada ,Tidak Tersedia,-7.33848,108.2198322,Aksesibilitas Tersedia,[]
+rumah nurhidayat,Gereja,"M78F+56J, Purbaratu, Kec. Purbaratu, Kab. Tasikmalaya, Jawa Barat 46196",,,,,Tidak Ada ,Tidak Tersedia,-7.3345266,108.2730063,Aksesibilitas Tersedia,[]
+GBI Empangsari,Gereja,"M6CC+3XJ, Jl. Empang Sari, Empangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46113",,"4,9",62,,Tidak Ada ,Tersedia,-7.3297955,108.2223993,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katolik Stasi Santo Dismas, Nagaraherang",Gereja Katolik,"Jl. Rajapolah Sukahening No.19, Sukahening, Kec. Sukahening, Kabupaten Tasikmalaya, Jawa Barat 46155",,"5,0",4,,Tidak Ada ,Tidak Tersedia,-7.202958,108.1399375,Aksesibilitas Tersedia,[]
+Gereja Katolik Stasi Wanareja,Gereja Katolik,"MM8R+772, Cihandiwung Lor, Adimulya, Kec. Wanareja, Kabupaten Cilacap, Jawa Tengah 53265",Buka 24 jam,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.3343625,108.6906406,Aksesibilitas Tersedia,[]
+"Gereja Katolik St. Simon, Susuru",Gereja Katolik,"Susuru Kertajaya No.Ds, Kertayasa, Panawangan, Ciamis Regency, West Java 46255",,"4,3",3,,Tidak Ada ,Tidak Tersedia,-7.11352,108.3484682,Aksesibilitas Tersedia,[]
+"Gereja Katolik Stasi Kristus Gapuraning Rahayu, Ciawi",Gereja Katolik,"Kp. Balemanggu Jl. Raya Ciawi, Pakemitankidul, Kec. Ciawi, Kabupaten Tasikmalaya, Jawa Barat",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.1631079,108.1516316,Aksesibilitas Tersedia,[]
+Gereja Katolik Stasi Cipatujah,Gereja Katolik,"7XMF+M9M, Unnamed Road, Ciheras, Kec. Cipatujah, Kabupaten Tasikmalaya, Jawa Barat 46189",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-7.7157873,107.9734249,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Hati Kudus Yesus, Tasikmalaya",Gereja Katolik,"Jl. Sutisna Senjaya No.50, Empangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46113","08.00 hingga 12.00,16.00 hingga 19.00","4,8",184,"
+(0265) 331570",Ada,Tersedia,-7.3278278,108.227521,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Kristen Pasundan Jemaat Tasikmalaya,Gereja,"Jl. Selakaso No.53, Yudanagara, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46121",,"4,3",23,"
+(0265) 332588",Ada,Tidak Tersedia,-7.329927,108.21759,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Yohanes, Ciamis",Gereja Katolik,"Jl. Pemuda No.56-58, Ciamis, Kec. Ciamis, Kabupaten Ciamis, Jawa Barat 46211",Buka 24 jam,"4,7",52,"
+(0265) 772575",Ada,Tersedia,-7.3249592,108.3545817,Aksesibilitas Tersedia,[]
+"Gereja Katolik Stasi Santo Wilibrordus, Langensari",Gereja Katolik,"Jl. Pelita II, Waringinsari, Kec. Langensari, Kota Banjar, Jawa Barat 46342",,"5,0",4,"
+(0265) 2754071",Ada,Tidak Tersedia,-7.3581401,108.6417423,Aksesibilitas Tersedia,[]
+"Gereja Katolik Stasi Santa Maria, Mergo Karaharjan",Gereja Katolik,"MHFW+4JV, Ciawitali, Panulisan Tim., Kec. Dayeuhluhur, Kabupaten Cilacap, Jawa Tengah 53266",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-7.3271287,108.5965376,Aksesibilitas Tersedia,[]
+"Gereja Katolik Santo Filipus, Banjar",Gereja Katolik,"Jl. Kantor Pos No.261, Hegarsari, Kec. Pataruman, Kota Banjar, Jawa Barat 46322",,"4,3",7,,Tidak Ada ,Tidak Tersedia,-7.375391,108.5414605,Aksesibilitas Tersedia,[]
+Yayasan Wihara,Lembaga Swadaya Masyarakat (LSM),"Jl. HZ. Mustofa No.41, Yudanagara, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46121",,"5,0",2,"
+(0265) 332161",Ada,Tidak Tersedia,-7.3273532,108.220936,Aksesibilitas Tersedia,[]
+Vihara Avalokitesvara,Tempat Ibadah,"Jl. Pemuda No.15, Yudanagara, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46121",,"5,0",5,"
+0898-0069-800",Ada,Tidak Tersedia,-7.3273834,108.2211018,Aksesibilitas Tersedia,[]
+Kong Miao MAKIN Tasikmalaya,Tempat Ibadah,"JL. Empangsari, No. 47, Empangsari, Tawang, Yudanagara, Tasikmalaya, Kab. Tasikmalaya, Jawa Barat 46113",,"4,7",6,"
+(0265) 321495",Ada,Tidak Tersedia,-7.3294575,108.2221739,Aksesibilitas Tersedia,[]
+Pura Mandiri Rent Cart,Kantor Perusahaan,"M49X+VV5 Perum Margamulya, Jl. Kp. Gn. Kawung, Cikunir, Kec. Singaparna, Kabupaten Tasikmalaya, Jawa Barat 46418",Buka 24 jam,,,"
+0812-2428-3945",Ada,Tidak Tersedia,-7.3303561,108.149739,Aksesibilitas Tersedia,[]
+Makam Eyang Prabudilaya,Pemakaman,"M57P+Q8G, Jl. Situ Gede, Mangkubumi, Kec. Mangkubumi, Kab. Tasikmalaya, Jawa Barat 46181",Buka 24 jam,"4,7",12,,Tidak Ada ,Tersedia,-7.335556,108.185833,Aksesibilitas Tersedia,[]
+Masjid Agung Kota Tasikmalaya,Masjid,"Jl. Mesjid Agung No.01, Yudanagara, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46121",Buka 24 jam,"4,8",10.994,,Tidak Ada ,Tidak Tersedia,-7.3261021,108.2199555,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Area Bersantay,Pura,"J6C7+QHQ, Unnamed Road, Mulyasari, Kec. Tamansari, Kab. Tasikmalaya, Jawa Barat 46196",,,,,Tidak Ada ,Tidak Tersedia,-7.3780271,108.213983,Aksesibilitas Tersedia,[]
+Masjid Pusaka,Masjid,"Jl. Galunggung No.26, Tawangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46112",,"4,0",1,,Tidak Ada ,Tidak Tersedia,-7.3230978,108.217989,Aksesibilitas Tersedia,[]
+mamah daffa,Pura,"V59J+PV, Margaluyu, Sukamaju, Kec. Pagerageung, Kabupaten Tasikmalaya, Jawa Barat 46158",,,,,Tidak Ada ,Tidak Tersedia,-7.1302116,108.1826762,Aksesibilitas Tersedia,[]
+Koropak Media Parahyangan,Perusahaan Media,"Baitul Jannah Residence, Blok I No. 4/5, Bantarsari, Kec. Bungursari, Kab. Tasikmalaya, Jawa Barat 46151",09.00 hingga 16.00,"4,9",28,"
+0811-113-555",Ada,Tersedia,-7.3251927,108.1972796,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Makam Syekh H. Abdul Ghorib,Tempat Ziarah,"J638+38X, Kampung Jl. Cibeas, Gununggede, Kec. Kawalu, Kab. Tasikmalaya, Jawa Barat 46182",,"4,8",34,,Tidak Ada ,Tidak Tersedia,-7.3972692,108.2158728,Aksesibilitas Tersedia,[]
+Pura Salon,Salon Kecantikan,"Mangkubumi, Kec. Mangkubumi, Kab. Tasikmalaya, Jawa Barat",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.3432366,108.1961951,Aksesibilitas Tersedia,[]
+Candi Pura. PT,Tambah jam buka,"Jl. Dr. Moh. Toha No.237, Sukamanah, Kec. Cipedes, Kab. Tasikmalaya, Jawa Barat 46131",,"4,0",2,"
+(0265) 330329",Ada,Tidak Tersedia,-7.3152853,108.2298159,Aksesibilitas Tersedia,[]
+Pura Sukapura Pasundan Lingga Yoni,Pura,"P54Q+54Q, Jl. Letnan Harun, Sukamajukidul, Kec. Indihiang, Kab. Tasikmalaya, Jawa Barat",,,,,Tidak Ada ,Tidak Tersedia,-7.2945371,108.1878481,Aksesibilitas Tersedia,[]
+Garasi Car,Pura,"J6C7+QJF, Unnamed Road, Mulyasari, Kec. Tamansari, Kab. Tasikmalaya, Jawa Barat 46196",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-7.3780595,108.2140355,Aksesibilitas Tersedia,[]
+Mega Pura. CV,Tambah jam buka,"Jl. Galunggung Gang H Syarif No.92, Tawangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46112",,,0265,"
+(0265) 331759",Ada,Tidak Tersedia,-7.3234893,108.2194516,Aksesibilitas Tersedia,[]
+Dhan cell,Pura,"M6J6+P8F, Jl. H.Ma'mun Sodik, Panglayungan, Kec. Cipedes, Kab. Tasikmalaya, Jawa Barat 46133",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-7.3181912,108.2107996,Aksesibilitas Tersedia,[]
+"galuh,,, FUMRAD wDUH",Pura,"Jl. Pemuda No.5, Empangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46121",,,,,Tidak Ada ,Tidak Tersedia,-7.3262878,108.2214022,Aksesibilitas Tersedia,[]
+Gapura Ir Ade Munir,Pura,"M6F2+55F, Gapura ir ade munir, Linggajaya, Kec. Mangkubumi, Kab. Tasikmalaya, Jawa Barat",Buka 24 jam,"5,0",1,,Tidak Ada ,Tidak Tersedia,-7.3271079,108.2004876,Aksesibilitas Tersedia,[]
+Situs Lingga Yoni Indihiang,Pura,"P54Q+46P, Jl. Letnan Harun, Sukamajukidul, Kec. Indihiang, Kab. Tasikmalaya, Jawa Barat 46151",07.30 hingga 16.00,"4,5",13,"
+0852-1610-3800",Ada,Tidak Tersedia,-7.2946649,108.1880701,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+PDAM TIRTA SUKAPURA INDIHIANG,Tambah jam buka,"Jl. Leuwi Dahu No.126, Indihiang, Kec. Indihiang, Kab. Tasikmalaya, Jawa Barat 46151",,"4,2",5,"
+(0265) 7075955",Ada,Tidak Tersedia,-7.300578,108.202969,Aksesibilitas Tersedia,[]
+Puncak Pelita,Tujuan Wisata,"sukamaju, Kertamukti, Kec. Ciawi, Kabupaten Tasikmalaya, Jawa Barat 46156",06.00 hingga 17.00,"4,4",325,"
+0822-9920-0810",Ada,Tidak Tersedia,-7.1933509,108.107009,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
