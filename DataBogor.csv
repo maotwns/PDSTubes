@@ -1,0 +1,196 @@
+nama_tempat,type_place,alamat,jam_operasional,rating,jumlah_review,telepon,stt_tlp,website,latitude,longitude,Ketersediaan Akses,aksesibilitas
+Masjid Jami' Mahabbaturrasul,Masjid,"Jl. Villa Bogor Indah 2, RT.01/RW.14, Kedunghalang, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16157",Buka 24 jam,"4,8",798,,Tidak Ada ,Tersedia,-6.5461951,106.8077637,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Agung Bogor,Masjid,"Jl. Nyi Raja Permas No.1, RT.04/RW.06, Cibogor, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16124",04.00 hingga 21.15,"4,5",1.251,"
+(0251) 8320461",Ada,Tidak Tersedia,-6.5933468,106.7916457,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Tazkia Islamic Center (d/h Andalusia),Masjid,"Jl. Ir H Juanda No.78, Citaringgul, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810",Buka 24 jam,"4,8",4.829,"
+0815-1000-8899",Ada,Tersedia,-6.5685157,106.8467604,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami' As-Sofia,Masjid,"Jl. Re. Martadinata, RT.01/RW.11, Ciwaringin, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16162",03.00 hingga 22.00,"4,9",1.893,"
+0811-1226-242",Ada,Tidak Tersedia,-6.5826202,106.7881913,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Raya Al-Mi'raj,Masjid,"Jl. Raya Pajajaran No.10, RT.02/RW.6, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143","04.30 hingga 05.00,11.00 hingga 13.00,15.00 hingga 15.30,18.00 hingga 18.30,19.00 hingga 19.30","4,8",4.717,,Tidak Ada ,Tidak Tersedia,-6.6071805,106.8085741,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami' Asy Syifa - RS PMI Bogor,Masjid,"CR24+HRX, Rumah Sakit PMI, JL. Raya Pajajaran, Tegallega Bogor Timur, RT.02/RW.05, Tegallega, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",Buka 24 jam,"4,6",256,,Tidak Ada ,Tidak Tersedia,-6.5985125,106.8071094,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid At-Taufiq,Masjid,"Jl. Paledang No.44, RT.04/RW.07, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",04.00 hingga 20.30,"4,8",646,,Tidak Ada ,Tidak Tersedia,-6.6015902,106.7936161,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Ghozi Bogor,Masjid,"Jl. Palem Raya Jl. Ring Road Taman Yasmin No.V, RT.04/RW.10, Curugmekar, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16113",Buka 24 jam,"4,8",349,,Tidak Ada ,Tidak Tersedia,-6.5616606,106.7678521,Aksesibilitas Tersedia,[]
+Masjid Al-Hurriyyah,Masjid,"Kampus IPB, Gd. Al Hurriyyah, Jl. Agatis No.1 Lt. 1, Babakan, Kec. Dramaga, Kabupaten Bogor, Jawa Barat 16680",Buka 24 jam,"4,8",2.061,"
+(0251) 8621746",Ada,Tersedia,-6.5556053,106.7254153,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Nurul Maa'i (PDAM Tirta Pakuan),Masjid,"Jl. Siliwangi No.60, RT.07/RW.02, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16134",04.00 hingga 20.00,"4,8",646,,Tidak Ada ,Tidak Tersedia,-6.6207648,106.8157727,Aksesibilitas Tersedia,[]
+MASJID AZ-ZIKRA,Masjid,"Perumahan Muslim Bukit Azzikra Sentul, Cimpambuan, Babakan Madang, Sentul Selatan, Cipambuan, Kabupaten Bogor, Jawa Barat 16810",08.00 hingga 17.00,"4,8",4.410,,Tidak Ada ,Tersedia,-6.556623,106.843028,Aksesibilitas Tersedia,"['Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Masjid Jami' At-Taqwa, Walikota Kota Bogor",Masjid,"CQ3V+V96, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat",04.00 hingga 20.15,"4,7",312,,Tidak Ada ,Tidak Tersedia,-6.5953375,106.7933906,Aksesibilitas Tersedia,[]
+Masjid Biru At Thohirin,Masjid,"Jl. Raya Ciawi - Sukabumi, RT.03/RW.10, Benda, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16138",04.00 hingga 21.00,"4,8",1.026,,Tidak Ada ,Tersedia,-6.671011,106.8460694,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Raya Taman Yasmin,Masjid,"Jl. Pakis Raya No.22, RT.04/RW.09, Cilendek Tim., Kec. Bogor Bar., Kota Bogor, Jawa Barat 16112",Buka 24 jam,"4,8",874,,Tidak Ada ,Tersedia,-6.5677833,106.7744821,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Kifayatul Abidin Kebun Raya Bogor,Masjid,"Jl. Ir. H. Juanda No.13, RT.04/RW.02, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",03.30 hingga 21.30,"4,6",105,"
+(0251) 8311362",Ada,Tidak Tersedia,-6.597578,106.8018826,Aksesibilitas Tersedia,[]
+Masjid Jendral Besar Sudirman,Masjid,"Jl. Jend. Sudirman No.35, RT.01/RW.05, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",04.00 hingga 21.00,"4,9",814,,Tidak Ada ,Tidak Tersedia,-6.584853,106.7963716,Aksesibilitas Tersedia,"['Ada toilet khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Bogor Baru,Masjid,"blok c3, Jl. Mesjid Bogor Baru No.16144, RT.07/RW.03, Tegallega, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",05.05 hingga 22.00,"4,8",364,"
+(0251) 320259",Ada,Tidak Tersedia,-6.593748,106.8103939,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Agung Harakatul Jannah,Masjid,"Jl. Raya Puncak KM. 71, Gadog, Ciawi Bogor, Sukamahi, Megamendung, Sukamahi, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770",Buka 24 jam,"4,8",1.773,,Tidak Ada ,Tidak Tersedia,-6.6559382,106.8596896,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Jami' Alumni IPB,Masjid,"Jl. Cidangiang No.4, RT.04/RW.05, Baranangsiang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",Buka 24 jam,"4,8",2.975,,Tidak Ada ,Tidak Tersedia,-6.6023394,106.8069068,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami' Al-Muslimun,Masjid,"Jl. Kresna Raya No.16, RT.05/RW.15, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",Buka 24 jam,"4,8",434,"
+(0251) 8390008",Ada,Tidak Tersedia,-6.5718601,106.8118609,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami' Adz-Dzikraa,Masjid,"Jl. Mayor Oking No.92, RT.04/RW.06, Kp. Parung Jambu, Cibogor, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16124",04.00 hingga 21.15,"4,8",580,,Tidak Ada ,Tidak Tersedia,-6.5910211,106.7907749,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Juman,Masjid,"9RQ2+7XX, Bondongan, Kec. Bogor Sel., Kota Bogor, Jawa Barat",Buka 24 jam,"4,8",434,"
+0878-7422-2834",Ada,Tidak Tersedia,-6.6117625,106.8024844,Aksesibilitas Tersedia,[]
+Masjid Jami' Salman Al Farisi,Masjid,"CR84+9JW, Jl. Raya Pajajaran, RT.04/RW.07, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",04.00 hingga 21.15,"4,8",605,,Tidak Ada ,Tidak Tersedia,-6.5840137,106.8065782,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Raya Al Muttaqin,Masjid,"Jl. Achmad Adnawijaya No.112, RT.02/RW.15, Tegal Gundil, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16152",04.00 hingga 20.00,"4,8",2.356,"
+0896-8191-6255",Ada,Tidak Tersedia,-6.5851858,106.8165121,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Jami' Al-Amanah,Masjid,"Jl. Rena Wijaya No.1, RT.08/RW.14, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143",04.00 hingga 21.00,"4,9",506,,Tidak Ada ,Tidak Tersedia,-6.6080068,106.8166016,Aksesibilitas Tersedia,[]
+MDC Bogor,Gereja,"Jl. Raya Pajajaran No.8, RT.04/RW.01, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142",09.00 hingga 17.00,"4,8",88,"
+0896-3799-0755",Ada,Tersedia,-6.619809,106.8168578,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GKI Pengadilan,Gereja,"Jl. Pengadilan No.35, RT.03/RW.1, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",Buka 24 jam,"4,8",426,"
+(0251) 8379152",Ada,Tersedia,-6.5917839,106.7947135,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GKKD Bogor,Gereja,"Jl. Kompleks Pulo Armin Jalan Ciburial No.5-6 Blok A, RT.07/RW.04, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143",Tutup,"4,8",33,"
+(0251) 8360229",Ada,Tersedia,-6.6135854,106.8119434,Aksesibilitas Tersedia,[]
+GPdI Tiberias Bogor,Gereja Pantekosta,"Jl. Gereja No.19, RT.02/RW.08, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",,"4,7",103,"
+0813-1819-3919",Ada,Tersedia,-6.5995613,106.7930884,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKI Pos Bogor Barat,Gereja,"Jl. KH. R. Abdullah Bin Nuh No.11, RT.04/RW.12, Cilendek Bar., Kec. Bogor Bar., Kota Bogor, Jawa Barat 16114",Tutup,"4,8",53,,Tidak Ada ,Tidak Tersedia,-6.5658284,106.7608498,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GPIB Zebaoth Bogor,Gereja Protestan,"Jl. Ir. H. Juanda No.3, RT.04/RW.01, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",Tutup,"4,8",1.213,"
+(0251) 8346128",Ada,Tersedia,-6.5978404,106.7944499,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GKMI BOGOR,Gereja,"H, Jl. Ringroad Taman Yasmin No.61, RT.03/RW.09, Curugmekar, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16113",Buka 24 jam,"5,0",11,,Tidak Ada ,Tidak Tersedia,-6.5636829,106.7738856,Aksesibilitas Tersedia,[]
+GGP Immanuel Bogor,Gereja Kristen,"Jl. Riau No.3, RT.02/RW.04, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143",Tutup,"4,9",18,"
+(0251) 8323612",Ada,Tidak Tersedia,-6.6068169,106.8065963,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Kristus Bogor,Gereja,"Jl. Siliwangi No.51, RT.01/RW.02, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142",08.00 hingga 16.00,"4,7",190,"
+(0251) 8325618",Ada,Tersedia,-6.6150349,106.8093725,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja HKBP Ressort Bogor,Gereja Lutheran,"Jl. Paledang No.15, RT.02/RW.01, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",Tutup,"4,7",389,"
+(0251) 8323875",Ada,Tersedia,-6.5979534,106.7897491,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GKDI BOGOR,Gereja,"Hotel Amaris Pakuan, D'ESTA SQUARE VIII-IX, Jl. Pakuan No.2, RT.01/RW.11, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143",Tutup,"5,0",10,,Tidak Ada ,Tidak Tersedia,-6.6075326,106.8104969,Aksesibilitas Tersedia,[]
+Gereja Kristen Pasundan Bogor,Gereja,"Jl. A. Yani, RT.01/RW.05, Tanah Sareal, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16161",,"4,8",76,,Tidak Ada ,Tersedia,-6.5689796,106.8049883,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GMS Bogor,Gereja,"Boxies Jl. Raya Tajur No.123 123 Lantai 1, RT.01/RW.06, Tajur, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16141",Tutup,"4,8",50,"
+0811-3020-081",Ada,Tersedia,-6.6343182,106.8271854,Aksesibilitas Tersedia,[]
+Gereja Protestan GKPO Lanud Atang Sendjaja,Gereja Protestan,"JL. RS TNI-AU Blok B-XI, No.1, Atang Sanjaya, Semplak, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",,"4,4",67,"
+(0251) 7538942",Ada,Tidak Tersedia,-6.5443287,106.7606608,Aksesibilitas Tersedia,[]
+Gereja Kristus Kartini Bogor,Gereja Kristus,"Jl. Kartini No.2, RT.04/RW.01, Ciwaringin, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16114",Tutup,"4,9",14,,Tidak Ada ,Tersedia,-6.5930146,106.7883898,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GKI Bogor Baru,Gereja Kristen,"Jl. Cimanuk No.10, RT.03/RW.09, Tegal Gundil, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16152",08.00 hingga 16.00,"4,8",73,"
+(0251) 8380768",Ada,Tersedia,-6.588338,106.810998,Aksesibilitas Tersedia,[]
+Katedral Bogor - Gereja Santa Perawan Maria,Katedral Katolik,"Jl. Kapten Muslihat No.22, RT.04/RW.01, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",Buka 24 jam,"4,8",3.078,"
+(0251) 8321188",Ada,Tersedia,-6.5969179,106.7931299,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Kristen Jawa,Gereja,"Komplek Pulo Armen Jalan Ciburial, Jl. Baranangsiang No.4, RT.07/RW.04, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143",,"4,8",35,"
+(0251) 8360334",Ada,Tersedia,-6.6135381,106.8119181,Aksesibilitas Tersedia,[]
+GBI Danau Bogor Raya,Gereja Kristen,"Jl. Danau Bogor Raya No.8A, Katulampa, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16144",Tutup,"4,8",126,"
+0811-1875-001",Ada,Tersedia,-6.5976896,106.8302626,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GPIA Sion Bogor,Gereja Kristen,"Jl. Pabaton No.3, RT.03/RW.02, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",Tutup,"5,0",4,"
+(0251) 8326634",Ada,Tersedia,-6.5904623,106.7935356,Aksesibilitas Tersedia,[]
+"Gereja Bersama, Pura Bojonggede",Gereja,"Jl. Palembang I No.1 Blok E1, Tajurhalang, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat 16320",,"4,6",38,,Tidak Ada ,Tidak Tersedia,-6.4870964,106.768576,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki St. Joannes Baptista, Parung",Gereja Katolik,"HPPG+G3Q, Jl. Metro Parung No.109, Waru, Kec. Parung, Kabupaten Bogor, Jawa Barat 16340",,"4,8",350,"
+(0251) 8610067",Ada,Tersedia,-6.413982,106.726185,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Keluarga Kudus, Cibinong",Gereja Katolik,"Jl. Raya Tapos No.31, Ciriung, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16918",Tutup,"4,8",768,"
+(021) 83716357",Ada,Tersedia,-6.4640887,106.8577915,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Katolik Paroki St. Rasul Yakobus Megamendung,Gereja Katolik,"Jl. Kelud, Komp. Pertamina, Cipayung Girang, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770",08.00 hingga 17.00,"4,7",150,,Tidak Ada ,Tersedia,-6.6478545,106.9060452,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Pusat Pastoral Keuskupan Bogor,Katedral Katolik,"Jl. Kapten Muslihat No.22, RT.04/RW.01, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",08.00 hingga 16.00,"4,8",25,,Tidak Ada ,Tidak Tersedia,-6.5969974,106.7927623,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GEREJA KASIH,Gereja,"Jl. Raya Bogor, RT.04/RW.08, Cibuluh, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16151",Tutup,"4,9",42,"
+0821-1342-1111",Ada,Tidak Tersedia,-6.5576266,106.8192058,Aksesibilitas Tersedia,[]
+Gua Maria Pengurai Simpul Masalah,Tempat Ziarah,"Jl. Anyar No.37, RT.2/RW.1, Tangkil, Kec. Citeureup, Kabupaten Bogor, Jawa Barat 16810",Buka 24 jam,"4,8",85,,Tidak Ada ,Tidak Tersedia,-6.5227493,106.876184,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Fransiskus dari Asisi, Sukasari",Gereja Katolik,"Jl. Siliwangi No.50, RT.01/RW.13, Bondongan, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16131",08.00 hingga 16.00,"4,8",733,"
+0811-9196-350",Ada,Tersedia,-6.6146122,106.8082708,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GPIB Zebaoth Bogor,Gereja Protestan,"Jl. Ir. H. Juanda No.3, RT.04/RW.01, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",Tutup,"4,8",1.213,"
+(0251) 8346128",Ada,Tersedia,-6.5978404,106.7944499,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Keuskupan Bogor (Wisma Lama),Lembaga Agama,"Jl. A. Yani No.31, RT.04/RW.04, Tanah Sareal, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16161",,"4,6",25,"
+(0251) 8331117",Ada,Tersedia,-6.5743936,106.8013344,Aksesibilitas Tersedia,[]
+Bumi Maria Sareng Para Rasul,Tempat Ziarah,"FR4J+P25, Cijujung, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat 16710",06.00 hingga 18.00,"4,8",321,"
+0819-2748-6617",Ada,Tersedia,-6.5434508,106.8302772,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Kapel Katolik Pd. Rumput,Gereja Katolik,"Gg. Gurame No.1, RT.04/RW.13, Kb. Pedes, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16162",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.5738855,106.7931925,Aksesibilitas Tersedia,[]
+Gereja Katolik St. Yohanes Rasul Ciampea,Gereja Katolik,"Jl. Raya Ps. Ciampea No.24, Benteng, Kec. Ciampea, Kabupaten Bogor, Jawa Barat 16620",,"4,7",42,"
+0895-3183-4643",Ada,Tidak Tersedia,-6.542227,106.6952119,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Ignatius Loyola, Semplak",Gereja Katolik,"Jl. Salabenda Raya, RW.77, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",08.00 hingga 15.00,"4,7",242,"
+(0251) 7536429",Ada,Tersedia,-6.5389643,106.760867,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+JKI SCOP (Sentul Community Of Prayer),Gereja,"Ruko Plaza Niaga 2 Blok G No. 63, Citaringgul, Babakan Madang, 16810",Tutup,"4,9",45,,Tidak Ada ,Tidak Tersedia,-6.5687708,106.8594432,Aksesibilitas Tersedia,[]
+Puri Asih,Gereja,"Jl. Raya Gadog, Jl. Cikopo Sel. No.17, Pandansari, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770",07.00 hingga 21.00,"4,5",13,,Tidak Ada ,Tidak Tersedia,-6.6645999,106.8728971,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Andreas, Sukaraja (Ciluar)",Gereja Katolik,"Jl. Raya Jakarta-Bogor, Cimandala, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat 16710",Tutup,"4,7",166,"
+0813-1520-1863",Ada,Tersedia,-6.5435936,106.8256958,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Kapel Katolik Susteran Gembala Baik,Gereja Katolik,"Jl. Raya Pajajaran No.6, RT.01/RW.03, Gudang, Bogor, Jawa Barat, 16142",,"4,8",44,"
+(0251) 8321270",Ada,Tidak Tersedia,-6.605422,106.8069758,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GMS Bogor,Gereja,"Boxies Jl. Raya Tajur No.123 123 Lantai 1, RT.01/RW.06, Tajur, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16141",Tutup,"4,8",50,"
+0811-3020-081",Ada,Tersedia,-6.6343182,106.8271854,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki St. Maria Fatima, Sentul",Gereja Katolik,"Graha Bina Humaniora, Jl. Dewi Sartika No.10A, Sentul, City, Kabupaten Bogor, Jawa Barat 16810",,"4,8",108,"
+(021) 87967888",Ada,Tersedia,-6.5714031,106.8577482,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+"Gereja Katolik Paroki Santa Faustina Kowalska, Bojonggede",Gereja Katolik,"Jl. Polsek, Tonjong, Tajur Halang, Bogor Regency, West Java 16320",Buka 24 jam,"4,8",239,,Tidak Ada ,Tidak Tersedia,-6.4915324,106.7670116,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Maria Bunda Segala Bangsa, Kota Wisata",Gereja Katolik,"JX74+VFG, Jl. Raya Kota Wisata, Nagrak, Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat 16967",Buka 24 jam,"4,8",1.016,"
+(021) 84932402",Ada,Tersedia,-6.3853222,106.9561905,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Katedral Bogor - Gereja Santa Perawan Maria,Katedral Katolik,"Jl. Kapten Muslihat No.22, RT.04/RW.01, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",Buka 24 jam,"4,8",3.078,"
+(0251) 8321188",Ada,Tersedia,-6.5969179,106.7931299,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki St. Vincentius a Paulo, Gunung Putri",Gereja Katolik,"Jl. Gn. Putri Utama II, RT.03/RW.09, Tlajung Udik, Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat 16962",Tutup,"4,8",117,"
+0813-9838-3599",Ada,Tersedia,-6.4486686,106.8995749,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Kristus Raja, PMPP TNI - Hambalang",Gereja Katolik,"FVGG+WF3, no 16810, Jl. Anyar No.37, RT.2/RW.1, Tangkil, Citeureup, Bogor Regency, West Java 16810",Tutup,"4,9",135,,Tidak Ada ,Tidak Tersedia,-6.5227212,106.8761783,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Vihara Phan Ko,Vihara,"Jl. Pulo Geulis No.18, RT.02/RW.04, Babakan Ps., Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16126",,"4,6",10,,Tidak Ada ,Tidak Tersedia,-6.6051494,106.8036505,Aksesibilitas Tersedia,[]
+Vihara Saung Paramita,Vihara,"buniaga Jl. Raya Ciapus No.rt 1, RW.01, Sukaresmi, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16610",,"4,7",94,"
+(0251) 8388271",Ada,Tidak Tersedia,-6.6492719,106.7505803,Aksesibilitas Tersedia,[]
+Yayasan Buddha Paramita,Vihara,"9Q22+96W, Sukaresmi, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16610",,"4,7",21,,Tidak Ada ,Tidak Tersedia,-6.6490194,106.750578,Aksesibilitas Tersedia,[]
+Vihara Avalokitesvara,Vihara,"GQ93+F3G, Unnamed Road,, Tonjong, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat 16320",Buka 24 jam,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.4813241,106.7526999,Aksesibilitas Tersedia,[]
+Chen It Thian Kun,Tempat Ibadah,"CVM9+V45, Jalan Babakan-Madang, Sentul, Babakan Madang, Kadumangu, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810",05.30 hingga 21.00,"4,7",109,"
+0878-7093-4340",Ada,Tidak Tersedia,-6.5653566,106.8678668,Aksesibilitas Tersedia,[]
+Vihara Satya Dharma Bhakti,Lembaga Agama,"9RW2+377, Jl. Roda, RT.02/RW.06, Babakan Ps., Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16126",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.6048492,106.8006767,Aksesibilitas Tersedia,[]
+Vihara Buddha Dharma & 8 Pho Sat,Vihara,"Jalan PWRI Kampung Jati, Jalan Raya Parung RT. 02 / RW. 06, Tonjong, Tajur Halang, Tonjong, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat 16320",Buka 24 jam,"4,7",370,"
+0859-2993-6142",Ada,Tidak Tersedia,-6.4838051,106.7486915,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Pa Auk Tawya Vipassana Dhura Hermitage Bogor,Vihara,"Jl. Nanas no.105 kampung warung loa, Tamansari, Ciapus. Bogor, RT.03/RW.09, Tamansari, Kabupaten Bogor, Jawa Barat 16610",06.30 hingga 18.00,"5,0",31,"
+0811-8018-111",Ada,Tidak Tersedia,-6.6713677,106.7361378,Aksesibilitas Tersedia,[]
+Graha Kenangan,Vihara,"Jl. Batu Tulis No.6A, RT.01/RW.04, Bondongan, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16131",,"4,0",1,,Tidak Ada ,Tidak Tersedia,-6.6167486,106.8097965,Aksesibilitas Tersedia,[]
+Klenteng Hok Tek Bio,Tempat Ibadah,"Jl. Kp. Karang Asam Bar No.45, RT.4/RW.5, Karang Asem Bar., Kec. Citeureup, Kabupaten Bogor, Jawa Barat 16810",,"4,6",48,,Tidak Ada ,Tidak Tersedia,-6.4918788,106.8763317,Aksesibilitas Tersedia,[]
+Vihara Dhammacakkhu,Vihara,"jl. Dahlia 2, komplek pakuan2, Tajur Bogor, RT.04/RW.03, Pakuan, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16141",Tutup,"4,8",37,"
+0818-0498-5258",Ada,Tidak Tersedia,-6.6326638,106.8220553,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Vihara chi kao kwan,Vihara,"9VF7+FR, Gn. Geulis, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.6263482,106.8645882,Aksesibilitas Tersedia,[]
+Vihara Sangha Metta Arama,Vihara,"GQC2+25X, Tonjong, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat 16320",,"4,6",38,,Tidak Ada ,Tidak Tersedia,-6.4798998,106.7504778,Aksesibilitas Tersedia,[]
+Vihara Dharma Surya,Vihara,"Jl. Roda No.94-B, RT.01/RW.02, Babakan Ps., Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16126",,"5,0",13,,Tidak Ada ,Tidak Tersedia,-6.6076931,106.8033277,Aksesibilitas Tersedia,[]
+Kwan Xin Tang,Vihara,"GQ48+WQW, Jl. Raya Tonjong, Tonjong, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat 16320",07.30 hingga 23.00,"5,0",2,"
+0878-2335-5729",Ada,Tidak Tersedia,-6.4926487,106.7669486,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+VIHARA KHANTI BHUMI,Tempat Ibadah,"GV5G+6F4, Karang Asem Bar., Kec. Citeureup, Kabupaten Bogor, Jawa Barat 16810",,"5,0",6,,Tidak Ada ,Tidak Tersedia,-6.4919768,106.8761953,Aksesibilitas Tersedia,[]
+Vihara Amurwa Bhumi (Hok Tek Bio) Cibinong,Vihara,"Jl. HR. Lukman No.51, RT.2/RW.4, Cirimekar, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16917",08.30 hingga 20.00,"4,8",89,,Tidak Ada ,Tidak Tersedia,-6.4693273,106.8529665,Aksesibilitas Tersedia,[]
+Vihara Shian Djin Ku Poh - Ciluar,Vihara,"FR3Q+69C, Pasirlaya, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat",06.00 hingga 18.00,"4,5",2,"
+(0251) 8658651",Ada,Tidak Tersedia,-6.5469265,106.8383902,Aksesibilitas Tersedia,[]
+Vihara CIN TE,Vihara,"A, Jl. Siliwangi No.25, RT.02/RW.02, Sukasari, Bogor Timur, Bogor City, West Java 16131",,"4,6",5,"
+0897-9109-788",Ada,Tidak Tersedia,-6.6174327,106.8117533,Aksesibilitas Tersedia,[]
+Vihara Dhammaguna,Vihara,"No, Jl. Desa Cijujung No.68, RT.03/RW.01, Cijujung, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat 16710",,"4,7",18,"
+(0251) 8665882",Ada,Tidak Tersedia,-6.5429012,106.8286293,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Vihara Vajrabodhi,Vihara,"Jl. Raya Pajajaran No.1, RT.04/RW.01, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142",Buka 24 jam,"4,6",126,"
+(0251) 8322542",Ada,Tidak Tersedia,-6.6206555,106.8166841,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Vihara Kwan Kong,Vihara,"GQ92+HV2, Unnamed Road,, Tonjong, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat 16320",Buka 24 jam,"4,6",9,,Tidak Ada ,Tidak Tersedia,-6.4811141,106.7521462,Aksesibilitas Tersedia,[]
+Vihara Buddhasena,Vihara,"Jl. Batu Tulis No.6, Bondongan, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16131",,"4,8",111,"
+(0251) 8351844",Ada,Tersedia,-6.6168776,106.8096452,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Klenteng Hok Tek Bio Ciampea,Tempat Ibadah,"FM6W+4H4, Jl. Raya Letnan Sukarna Jl. Raya Ps. Ciampea, Ciampea, Kec. Ciampea, Kabupaten Bogor, Jawa Barat 16620",,"4,3",248,"
+(0251) 8629901",Ada,Tidak Tersedia,-6.5397425,106.6964457,Aksesibilitas Tersedia,[]
+Klenteng Pankho,Pelestarian Situs Peninggalan,"Jl. Pulo Geulis No.18, RT.02/RW.04, Babakan Ps., Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16126",09.00 hingga 17.00,"4,8",170,"
+0812-9608-5740",Ada,Tidak Tersedia,-6.6050613,106.803669,Aksesibilitas Tersedia,[]
+Jhana Manghala Meditasi Graha Centre,Vihara,"Jl. Terobosan, Cipayung Datar, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770",08.00 hingga 18.00,"4,6",32,"
+0816-780-090",Ada,Tidak Tersedia,-6.6435094,106.8784753,Aksesibilitas Tersedia,[]
+Vihara Dhanagun (Hok Tek Bio) Bogor,Vihara,"RT.03/RW.07, Babakan Ps., Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16126",08.00 hingga 17.00,"4,8",271,"
+(0251) 8381650",Ada,Tidak Tersedia,-6.6033707,106.7991851,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Vihara dharma pertiwi,Vihara,"Jl. Kb. Pala No.63, Gudang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 13320",,"5,0",14,,Tidak Ada ,Tidak Tersedia,-6.6080072,106.8007082,Aksesibilitas Tersedia,[]
+BUDDHA SLEEPING VIHARA,Tempat Ibadah,"Jl. PWRI No.15, Tonjong, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat 16320",,"4,9",11,"
+0859-2993-6142",Ada,Tidak Tersedia,-6.4840666,106.7482659,Aksesibilitas Tersedia,[]
+Sian Jin Ku Pho Temple,Tempat Ibadah,"FR4H+4M7, Jl. Ps. Ciluar, Pasirlaya, Kec. Sukaraja, Kabupaten Bogor, Jawa Barat 16710",Buka 24 jam,"4,8",36,"
+(0251) 8651462",Ada,Tidak Tersedia,-6.5447006,106.8291728,Aksesibilitas Tersedia,[]
+Vihara Pusdiklat Kasih Alam Maitreya,Vihara,"Jl. Raya Ciapus No.270, Kota Batu, Kec. Ciomas, Kabupaten Bogor, Jawa Barat 16610",,"4,8",32,,Tidak Ada ,Tidak Tersedia,-6.626141,106.7794753,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Vihara Sian Jin Ku Poh,Vihara,"Jl.PWRI KM 36 Rt.02/06 Jati, Tonjong, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat 16320",,"4,8",326,,Tidak Ada ,Tersedia,-6.4814371,106.7497304,Aksesibilitas Tersedia,[]
+Bio Dewa Rejeki Sentul,Tempat Ibadah,"Jl. Sumur Batu Raya No.50, Sumur Batu, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810",,"4,6",31,,Tidak Ada ,Tidak Tersedia,-6.565384,106.8674786,Aksesibilitas Tersedia,[]
+Vihara Ti Cang Tien Yayasan Dharma Bakti Utama Toko Khanti,Vihara,"Jl. Raya Cipaku, RT.02/RW.12, Cipaku, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16133",09.00 hingga 05.00,"4,6",11,,Tidak Ada ,Tidak Tersedia,-6.6402782,106.8145661,Aksesibilitas Tersedia,[]
+Vihara Saddharma (Myohoji) NSI,Vihara,"9P2W+6J2, Sukaluyu, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16610",,"4,8",48,"
+(0251) 8487033",Ada,Tidak Tersedia,-6.6494965,106.7465279,Aksesibilitas Tersedia,[]
+Vihara Vimalakirti,Vihara,"Jl. Merak No.27, RT.05/RW.03, Tanah Sareal, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16161",,"4,8",20,,Tidak Ada ,Tidak Tersedia,-6.5723977,106.8012339,Aksesibilitas Tersedia,[]
+VIHARA KARUNA BODHI CIAMPEA,Tempat Ibadah,"FM4V+XWM, Ciampea, Kec. Ciampea, Kabupaten Bogor, Jawa Barat 16620",Tutup,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.5425418,106.6947958,Aksesibilitas Tersedia,[]
+Vihara Dharmakaya,Vihara,"9RQ4+6MP, RT.02/RW.04, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142",,"4,8",27,,Tidak Ada ,Tidak Tersedia,-6.6119055,106.8066992,Aksesibilitas Tersedia,[]
+MAHAVIRYA ARAMA,Vihara,"Jl. Raya Puncak - Cianjur No.55, Gadog, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770",,"4,7",35,"
+0815-8568-1955",Ada,Tidak Tersedia,-6.6547732,106.8602981,Aksesibilitas Tersedia,[]
+Vihara Naca,Vihara,"Tonjong, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat 16320",07.00 hingga 00.00,"4,5",12,"
+0813-9863-4167",Ada,Tidak Tersedia,-6.4820385,106.7489847,Aksesibilitas Tersedia,[]
+Pura Vira Çanti Dharma PMPP TNI,Pura,"FVGG+RMR, Sukahati, Kec. Citeureup, Kabupaten Bogor, Jawa Barat 16810",,"4,9",22,,Tidak Ada ,Tidak Tersedia,-6.5228799,106.8766254,Aksesibilitas Tersedia,[]
+Pura Saraswati Asrama Bali Bogor,Pura,"Jl. Cikurai No.10, RT.04/RW.03, Babakan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16153",Buka 24 jam,"4,7",23,"
+(0251) 8335931",Ada,Tidak Tersedia,-6.5851864,106.8015414,Aksesibilitas Tersedia,[]
+Pura Prajapati Kota Bogor ᬧᬸᬭᬧ᭄ᬭᬚᬧᬢᬶᬓᭀᬢᬩᭀᬕᭀᬃ᭟,Pura,"9R47+F7V, RT.01/RW.15, Cipaku, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16133",Buka 24 jam,"4,9",10,,Tidak Ada ,Tidak Tersedia,-6.6437707,106.8131778,Aksesibilitas Tersedia,[]
+Pura Angkasa Amertha Dharma Jati,Pura,"Jl. Salabenda Raya, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",Tutup,"4,5",51,"
+0856-5139-1128",Ada,Tersedia,-6.5335511,106.7612422,Aksesibilitas Tersedia,[]
+Pura Bojong Gede,Taman,"GQ6F+CC5, Jl. Raya Medan, Tajurhalang, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat 16320",Buka 24 jam,"4,2",17,,Tidak Ada ,Tidak Tersedia,-6.4889956,106.7736108,Aksesibilitas Tersedia,[]
+Pura Melanting Gunung Salak,Pura,"8PJP+M52, Unnamed Road, Tamansari, Bogor Regency, West Java 16610",09.00 hingga 17.00,"4,9",75,,Tidak Ada ,Tidak Tersedia,-6.6683649,106.7353826,Aksesibilitas Tersedia,[]
+Pura Melanting Pasar Agung Gunung Salak Bogor,Pura,"8PHP+Q5V, Jalan, Tamansari, Bogor Regency, West Java 16610",Buka 24 jam,"4,7",18,"
+0823-1123-7573",Ada,Tidak Tersedia,-6.6705111,106.7354246,Aksesibilitas Tersedia,[]
+Pura Raditya Dharma Cibinong,Pura,"Jl. Caduad Asrama No.7, Cibinong, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16911",Buka 24 jam,"4,8",56,,Tidak Ada ,Tidak Tersedia,-6.4775412,106.8461237,Aksesibilitas Tersedia,[]
+Pancuran 7 Sudhamala Pura Melanting Ciapus,Pura,"8PJP+P44, Tamansari, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16610",Buka 24 jam,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.6682364,106.7353397,Aksesibilitas Tersedia,[]
+Persatuan Gojek Pura,Pura,"GQ7F+PVM, Tajurhalang, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat 16320",Buka 24 jam,"5,0",17,"
+(0251) 8551653",Ada,Tidak Tersedia,-6.4856588,106.7746861,Aksesibilitas Tersedia,[]
+Pura Giri Kusuma,Pura,"Jl. Pawon No.34, RT.03/RW.10, Tanah Baru, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16154",Buka 24 jam,"4,8",101,,Tidak Ada ,Tidak Tersedia,-6.59132,106.8180431,Aksesibilitas Tersedia,[]
+Pura Tribrata,Pura,"7R79+6PM, Komplek Sekolah Polisi Negara (SPN) Polda Metro Jaya, Jl. Raya Sukabumi, Srogol, Kec. Cigombong, Kabupaten Bogor, Jawa Barat 16138",Buka 24 jam,"4,8",15,"
+0813-1492-4266",Ada,Tidak Tersedia,-6.736905,106.8192817,Aksesibilitas Tersedia,[]
+Pura Parahyangan Agung Jagatkarta,Pura,"8PJP+C5W, Tamansari, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16610",Buka 24 jam,"4,8",1.580,,Tidak Ada ,Tidak Tersedia,-6.6688984,106.7354632,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Gapura Kp. Sawah,Pura,"9RWC+5MG, Jl. Kp. Sawah, RT.05/RW.07, Cimahpar, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16144",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.6045638,106.8217154,Aksesibilitas Tersedia,[]
+Pura Bhuminatha Sakti ᮕᮥᮛ ᮘ᮪ᮠᮥᮙᮤᮔᮒ᮪ᮠ ᮞᮊ᮪ᮒᮤ,Pura,"CRP8+HXG, Jl. Raya Bogor, RT.01/RW.05, Cibuluh, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16151",Buka 24 jam,"4,8",22,,Tidak Ada ,Tidak Tersedia,-6.5635504,106.8174561,Aksesibilitas Tersedia,[]
+Warung Kopi Pura Ciapus,Tujuan Wisata,"8PMM+HXF, Tamansari, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16610",,"4,4",261,,Tidak Ada ,Tidak Tersedia,-6.6660736,106.7349181,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Pura Gunung Salak ORG,Pusat kebudayaan,"Jl. Gn. Malang, Sukajadi, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16610",10.00 hingga 17.00,"4,9",17,"
+0817-0335-6564",Ada,Tersedia,-6.6689266,106.7354211,Aksesibilitas Tersedia,[]
+Masuk Pura Gunung Salak,Pura,"8PQM+FW9, Tamansari, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16610",Buka 24 jam,"4,0",1,,Tidak Ada ,Tidak Tersedia,-6.6615515,106.7348767,Aksesibilitas Tersedia,[]
+Parahyangan Jagadkarta Gunung Salak Taman Sari Bogor,Pura,"8PJP+H38, Unnamed Rd, Tamansari, Kec. Tamansari, Kabupaten Bogor, Jawa Barat 16610",,"4,8",51,,Tidak Ada ,Tidak Tersedia,-6.6685877,106.7351957,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"

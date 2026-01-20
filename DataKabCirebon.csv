@@ -1,0 +1,299 @@
+nama_tempat,type_place,alamat,jam_operasional,rating,jumlah_review,telepon,stt_tlp,website,latitude,longitude,Ketersediaan Akses,aksesibilitas
+Masjid Jami Al Mujahidin,Masjid,"Gintung Tengah, Gintung Lor, Kec. Susukan, Kabupaten Cirebon, Jawa Barat 45166",Buka 24 jam,"4,6",16,,Ada,Tidak Tersedia,-6.6508147,108.383578,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Besar Al Hidayah Ciwaringin,Masjid,"894F+4Q6, Ciwaringin, Kec. Ciwaringin, Kabupaten Cirebon, Jawa Barat 45167",,"4,6",145,,Tidak Ada ,Tidak Tersedia,-6.6947218,108.3743924,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Al-Furqon,Masjid,"Purwawinangun, Kec. Suranenggala, Kabupaten Cirebon, Jawa Barat 45152",Buka 24 jam,"4,7",20,,Tidak Ada ,Tidak Tersedia,-6.6506236,108.5315705,Aksesibilitas Tersedia,[]
+Masjid Sirathal Mustaqim,Masjid,"Ciperna, Kec. Talun, Kabupaten Cirebon, Jawa Barat 45171",Buka 24 jam,"4,9",586,,Tidak Ada ,Tidak Tersedia,-6.7668258,108.5261665,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Maslicha,Masjid,"Jl. Angsana Raya No.127, Cirebon Girang, Kec. Talun, Kabupaten Cirebon, Jawa Barat 45171",Buka 24 jam,"4,8",98,,Tidak Ada ,Tidak Tersedia,-6.7633828,108.5142934,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Ahlak,Masjid,"8CW4+C2M, Kebonturi, Kec. Arjawinangun, Kabupaten Cirebon, Jawa Barat 45162",Buka 24 jam,"4,8",48,,Tidak Ada ,Tidak Tersedia,-6.6539057,108.405039,Aksesibilitas Tersedia,[]
+Masjid Jakatawa Lama,Masjid,"8H44+5PP, Pasindangan, Kec. Gunungjati, Kabupaten Cirebon, Jawa Barat 45121",,"4,8",72,,Tidak Ada ,Tidak Tersedia,-6.6945486,108.5568131,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Manshuroh,Masjid,"6HX8+7VR, Jl. GN Lawu, Larangan, Kec. Harjamukti, Kota Cirebon, Jawa Barat",Buka 24 jam,"4,7",114,,Tidak Ada ,Tidak Tersedia,-6.7517644,108.5671409,Aksesibilitas Tersedia,[]
+Masjid Baitul Muttaqin,Masjid,"Indramayu-Cirebon Ra No.171, Klayan, Kec. Gunungjati, Kabupaten Cirebon, Jawa Barat 45151",Buka 24 jam,"4,8",23,,Tidak Ada ,Tidak Tersedia,-6.6803743,108.5418136,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Besar Raudlatul Muttaqien,Masjid,"7CRM+FJ8, Palimanan Tim., Kec. Palimanan, Kabupaten Cirebon, Jawa Barat 45161",Buka 24 jam,"4,7",176,,Tidak Ada ,Tidak Tersedia,-6.7088499,108.4340816,Aksesibilitas Tersedia,[]
+Masjid At-Ta'awun,Masjid,"Jl. Ketilang Raya No.39, Larangan, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45141",Buka 24 jam,"4,7",41,,Tidak Ada ,Tidak Tersedia,-6.7388123,108.5666064,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Nurul Hasanah,Masjid,"8H53+QPW, Pasidangan, Cirebon Utara, Pasindangan, Kec. Gunungjati, Kabupaten Cirebon, Jawa Barat 45151",Buka 24 jam,"4,7",26,,Tidak Ada ,Tidak Tersedia,-6.6905229,108.5543169,Aksesibilitas Tersedia,[]
+Masjid ABU HURAIRAH,Masjid,"Jl. Bougenville VII No.87, Tukmudal, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",,"4,5",42,,Tidak Ada ,Tidak Tersedia,-6.7564942,108.4736864,Aksesibilitas Tersedia,[]
+Masjid Jami Al Karomah,Masjid,"7CCJ+75R, Panongan, Kec. Palimanan, Kabupaten Cirebon, Jawa Barat 45161",,"4,8",30,,Tidak Ada ,Tidak Tersedia,-6.7292736,108.4303946,Aksesibilitas Tersedia,[]
+Masjid Darul Ulum,Masjid,"Jl. Cideng Raya No.194e, Kertawinangun, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",,"4,5",38,,Tidak Ada ,Tidak Tersedia,-6.7173681,108.534352,Aksesibilitas Tersedia,[]
+Masjid Assalaam Mangkuraga,Masjid,"7FH6+XG5, Lurah, Kec. Plumbon, Kabupaten Cirebon, Jawa Barat 45155",,"4,8",17,,Tidak Ada ,Tidak Tersedia,-6.7201212,108.4613561,Aksesibilitas Tersedia,[]
+Masjid Jami Nurussobah,Masjid,"7GW4+GRC, Weru Lor, Kec. Weru, Kabupaten Cirebon, Jawa Barat 45154",,"4,9",49,,Tidak Ada ,Tidak Tersedia,-6.7036791,108.5070062,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Bani Ma'mun Sirnabaya,Masjid,"8CQ8+Q98, Kebonturi, Kec. Arjawinangun, Kabupaten Cirebon, Jawa Barat 45162",,"4,9",70,,Tidak Ada ,Tidak Tersedia,-6.6605838,108.4159381,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Mu'tamarul Huda,Masjid,"Jl. Kisabalanang Desa No.344, Bode Lor, Kec. Plumbon, Kabupaten Cirebon, Jawa Barat 45155",,"4,8",203,,Tidak Ada ,Tidak Tersedia,-6.716951,108.4904968,Aksesibilitas Tersedia,[]
+Masjid Jami Al Munawwarah Gempol Cirebon,Masjid,"Jl. Leuwimunding-Palimanan No.140, Palimanan Bar., Kec. Gempol, Kabupaten Cirebon, Jawa Barat 45161",,"4,7",99,,Tidak Ada ,Tidak Tersedia,-6.705338,108.4165178,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Keramat Kaliwulu,Masjid,"8G44+3Q7, Kaliwulu, Kec. Plered, Kabupaten Cirebon, Jawa Barat 45154",Buka 24 jam,"4,7",54,,Tidak Ada ,Tidak Tersedia,-6.6948493,108.506917,Aksesibilitas Tersedia,[]
+Masjid Jami Baitul Muttaqien,Masjid,"7FWG+JXJ, Karangmulya, Kec. Plumbon, Kabupaten Cirebon, Jawa Barat 45155",Buka 24 jam,"4,8",29,,Tidak Ada ,Tidak Tersedia,-6.7034161,108.4773915,Aksesibilitas Tersedia,[]
+MASJID NURUL BAYAN,Masjid,"7GQ2+HJ9, Setu Kulon, Kec. Weru, Kabupaten Cirebon, Jawa Barat 45154",,"4,8",11,,Tidak Ada ,Tidak Tersedia,-6.7110989,108.5015945,Aksesibilitas Tersedia,[]
+Masjid Maqbuluddu'a,Masjid,"Jl. Syeh Bayanillah, gg.prajurit Jl. H. Abas, RT./RW/RW.04/02, Setu Wetan, Kabupaten Cirebon, Jawa Barat",,"4,7",74,,Tidak Ada ,Tidak Tersedia,-6.7095696,108.5133107,Aksesibilitas Tersedia,[]
+Masjid Agung At-Tajdid,Masjid,"7F8W+CMG, Jl. Tangkil Gede, Watubelah, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",,"4,8",51,,Tidak Ada ,Tidak Tersedia,-6.7339466,108.4967055,Aksesibilitas Tersedia,[]
+Masjid Al-Hidayah,Masjid,"Kejuden, Kec. Depok, Kabupaten Cirebon, Jawa Barat 45155",,"4,8",97,,Tidak Ada ,Tidak Tersedia,-6.7371335,108.46447,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Baiturrohman,Masjid,"8C5H+4HH, Lungbenda, Kec. Palimanan, Kabupaten Cirebon, Jawa Barat 45161",,"4,7",29,,Tidak Ada ,Tidak Tersedia,-6.6921851,108.428975,Aksesibilitas Tersedia,[]
+Masjid Baiturahman,Masjid,"6FX4+4XP, Kenanga, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45155",Buka 24 jam,"4,8",10,,Tidak Ada ,Tidak Tersedia,-6.7521584,108.4574416,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid At-Taubah,Masjid,"7GJR+W23, Sutawinangun, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",,"4,5",30,,Tidak Ada ,Tidak Tersedia,-6.7177495,108.5400577,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Mitra Plumbon,Masjid,"7FXJ+3V4, Unnamed Road, Gombang, Kec. Plumbon, Kabupaten Cirebon, Jawa Barat 45155",Buka 24 jam,"4,8",28,,Tidak Ada ,Tidak Tersedia,-6.7023535,108.4821977,Aksesibilitas Tersedia,[]
+Masjid Hijau Grage City Kota Cirebon,Masjid,"Jl. Jenderal Ahmad Yani By Pass, Pegambiran, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45141",Buka 24 jam,"4,7",1.050,"
+0821-2063-3315",Ada,Tidak Tersedia,-6.7411024,108.5716726,Aksesibilitas Tersedia,"['Ada toilet khusus pengguna kursi roda', 'Tidak memiliki pintu masuk khusus pengguna kursi roda']"
+Masjid Jami Hidayatul Mutaqin,Masjid,"5GHP+C2V, Beber, Durajaya, Greged, Cirebon, West Java 45172",Buka 24 jam,"4,8",12,,Tidak Ada ,Tidak Tersedia,-6.8213957,108.5350378,Aksesibilitas Tersedia,[]
+Masjid Baiturrohim,Masjid,"7GVG+HX9, Jalan Raya Kemlaka, Sampang, Kemlakagede, Tengah Tani, Cirebon, West Java 45153",Buka 24 jam,"4,9",63,,Tidak Ada ,Tidak Tersedia,-6.7060792,108.5274935,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Hikmah Widarasari,Masjid,"7GQV+3CF, Sutawinangun, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",Buka 24 jam,"4,8",38,,Tidak Ada ,Tidak Tersedia,-6.7123175,108.5435317,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Jamaah Pertamina Klayan Cirebon,Masjid,"8H82+6C2, Jl. Nangka, Jadimulya, Kec. Gunungjati, Kabupaten Cirebon, Jawa Barat 45151",Buka 24 jam,"4,8",26,,Tidak Ada ,Tidak Tersedia,-6.6844762,108.5510283,Aksesibilitas Tersedia,[]
+Masjid Jami Al Hidayah,Masjid,"8C7G+8XC, JL. Indramayu, Tegalkarang, Kec. Palimanan, Kabupaten Cirebon, Jawa Barat 45161",,"4,7",350,,Tidak Ada ,Tidak Tersedia,-6.68668,108.4273841,Aksesibilitas Tersedia,[]
+Masjid Jagatamu,Masjid,"6FXC+JF3, Tukmudal, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45155",,"4,8",36,,Tidak Ada ,Tidak Tersedia,-6.7509902,108.4711833,Aksesibilitas Tersedia,[]
+Masjid Baabussalam,Masjid,"8CV7+C4P, Kebonturi, Kec. Arjawinangun, Kabupaten Cirebon, Jawa Barat 45162",Buka 24 jam,"4,7",58,,Tidak Ada ,Tidak Tersedia,-6.6564004,108.4128345,Aksesibilitas Tersedia,[]
+Masjid Nurul Karomah,Masjid,"Jl. Syekh Datul Kahfi No.53, Gamel, Kec. Plered, Kabupaten Cirebon, Jawa Barat 45154",,"4,7",36,,Tidak Ada ,Tidak Tersedia,-6.6906123,108.5113906,Aksesibilitas Tersedia,[]
+Masjid Ar-Roudhoh (RS. Permata Cirebon),Masjid,"Jl. Pilang Raya No.587, Pilangsari, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",Buka 24 jam,"4,6",99,"
+0821-6893-3537",Ada,Tersedia,-6.707619,108.5339567,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Jami Al Mukarromah,Masjid,"7FWR+MH8, Tegalwangi, Kec. Weru, Kabupaten Cirebon, Jawa Barat 45154",,"4,8",22,,Tidak Ada ,Tidak Tersedia,-6.7033326,108.4914627,Aksesibilitas Tersedia,[]
+Masjid Jami' Kecomberan,Masjid,"Jl. Pangeran Cakrabuana No.20, Kecomberan, Kec. Talun, Kabupaten Cirebon, Jawa Barat 45171",,"4,4",13,,Tidak Ada ,Tidak Tersedia,-6.7536604,108.5167044,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Baiturrahman,Masjid,"Jl. Bengawan Solo No.212, Kalikoa, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",04.00 hingga 21.00,"4,7",143,,Tidak Ada ,Tidak Tersedia,-6.7291854,108.5340636,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Baiturahman,Masjid,"6HM6+VRM, Pamengkang, Kec. Mundu, Kabupaten Cirebon, Jawa Barat 45173",,"4,8",83,,Tidak Ada ,Tidak Tersedia,-6.7652911,108.5620443,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Al Munawaroh Sicalung,Masjid,"Jl. Kandang Perahu No.13, Karyamulya, Kec. Kesambi, Kota Cirebon, Jawa Barat 45131",Buka 24 jam,"4,7",145,,Tidak Ada ,Tidak Tersedia,-6.7398085,108.5403896,Aksesibilitas Tersedia,[]
+"Masjid JAM'I AL-GHUFRON, Taman Tukmudal Indah",Masjid,"Tukmudal, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",Buka 24 jam,"4,7",38,"
+0858-6313-3088",Ada,Tidak Tersedia,-6.7624023,108.4663757,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid At - Taqwa,Masjid,"6HF7+P7P, Setupatok, Kec. Mundu, Kabupaten Cirebon, Jawa Barat 45173",Buka 24 jam,"4,8",109,,Tidak Ada ,Tidak Tersedia,-6.775653,108.56319,Aksesibilitas Tersedia,[]
+Masjid Al-Hasanah,Masjid,"7GXR+G5H, Pilang Sari Endah blok A, Kedungjaya, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",,"4,8",42,,Tidak Ada ,Tidak Tersedia,-6.7011988,108.5404891,Aksesibilitas Tersedia,[]
+Masjid Jami' Nurul Falah,Masjid,"7G9G+G34, Kalikoa, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",,"4,7",22,,Tidak Ada ,Tidak Tersedia,-6.7312479,108.5252144,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Jagabayan,Masjid,"Jl. Karanggetas No.191, Panjunan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45113",Buka 24 jam,"4,5",136,,Tidak Ada ,Tidak Tersedia,-6.7195183,108.5657308,Aksesibilitas Tersedia,[]
+Masjid Nur Aswitiyah,Masjid,"6FRV+PHX, Jl. Pangeran Cakrabuana, Kemantren, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",,"4,8",255,,Tidak Ada ,Tidak Tersedia,-6.7581356,108.4939944,Aksesibilitas Tersedia,[]
+Masjid Agung Sang Cipta Rasa,Masjid,"7HFC+W48, Jl. Kasepuhan No.Komplek, Kesepuhan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45114",Buka 24 jam,"4,7",4.490,,Tidak Ada ,Tidak Tersedia,-6.7255956,108.5700485,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Al-Muhajirin,Masjid,"7GXR+RJR, Kedungjaya, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",Buka 24 jam,"4,6",84,,Tidak Ada ,Tidak Tersedia,-6.7003819,108.5415094,Aksesibilitas Tersedia,[]
+Masjid Al Jabbar Plumbon,Masjid,"Masjid Al Jabbar Plumbon, Plumbon, Kec. Plumbon, Kabupaten Cirebon, Jawa Barat 45155",Buka 24 jam,"4,6",1.239,,Tidak Ada ,Tidak Tersedia,-6.7023935,108.4677148,Aksesibilitas Tersedia,[]
+Masjid Daarussalaam,Masjid,"8G76+7R5, Jl. Syekh Datul Kahfi, Sarabau, Kec. Plered, Kabupaten Cirebon, Jawa Barat 45154",Buka 24 jam,"4,9",18,"
+0812-2213-133",Ada,Tidak Tersedia,-6.686851,108.5121069,Aksesibilitas Tersedia,[]
+Masjid Jami AlMunawwarah,Masjid,"7CPV+WJR, Serang, Kec. Klangenan, Kabupaten Cirebon, Jawa Barat 45156",,"4,8",17,,Tidak Ada ,Tidak Tersedia,-6.7126263,108.4440195,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Muttaqin,Masjid,"Jl. Raya Plumbon - Palimanan No.81, Jamblang, Kec. Jamblang, Kabupaten Cirebon, Jawa Barat 45156",,"4,6",34,"
+0821-1775-0505",Ada,Tidak Tersedia,-6.7070349,108.4476553,Aksesibilitas Tersedia,[]
+Masjid Syekh Bayanillah,Masjid,"6GP9+GMX, Sampiran, Kec. Talun, Kota Cirebon, Jawa Barat 45171",Buka 24 jam,"4,6",73,,Tidak Ada ,Tidak Tersedia,-6.7636454,108.519221,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Jami Nurul Huda,Masjid,"Jl. Jenderal Sudirman, Ciperna, Kec. Talun, Kabupaten Cirebon, Jawa Barat 45171",Buka 24 jam,"4,7",37,,Tidak Ada ,Tidak Tersedia,-6.7628456,108.5297275,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Nurul Islam,Masjid,"7CWM+FFG, Pegagan, Kec. Palimanan, Kabupaten Cirebon, Jawa Barat 45161",Buka 24 jam,"4,9",18,,Tidak Ada ,Tidak Tersedia,-6.7038043,108.4337121,Aksesibilitas Tersedia,[]
+Masjid Teja Suar Muhammadiyah,Masjid,"Jl. Tuparev No.mor 70, Sutawinangun, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",,"4,8",99,,Tidak Ada ,Tidak Tersedia,-6.7101523,108.5371478,Aksesibilitas Tersedia,[]
+Masjid Al Khotib,Masjid,"7GQ5+9R2, Jl. Syekh Bayanillah, Setu Kulon, Kec. Weru, Kabupaten Cirebon, Jawa Barat 45154",Buka 24 jam,"4,7",56,,Tidak Ada ,Tidak Tersedia,-6.7116179,108.5095181,Aksesibilitas Tersedia,[]
+Masjid Nurul Hidayah,Masjid,"Jl. Raya Cirebon - Bandung No.63, Dawuan, Kec. Tengah Tani, Kabupaten Cirebon, Jawa Barat 45153",03.30 hingga 21.00,"4,7",97,,Tidak Ada ,Tidak Tersedia,-6.7090758,108.5217047,Aksesibilitas Tersedia,[]
+Masjid Jami Hidayatuth Tholibin Desa Nanggela,Masjid,"Jl. Desa Nomor No.59, Nanggela, Kec. Greged, Kabupaten Cirebon, Jawa Barat 45172",,"4,4",57,"
+0821-2208-1080",Ada,Tidak Tersedia,-6.8095223,108.5571277,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al 'Affan,Masjid,"5GJF+78, Beber, Kec. Beber, Kabupaten Cirebon, Jawa Barat",Buka 24 jam,"4,9",244,,Tidak Ada ,Tidak Tersedia,-6.8193676,108.5233705,Aksesibilitas Tersedia,[]
+Masjid Baiturrohmah,Masjid,"5GXF+FR9, Jalan Raya Cirebon, Kuningan, Kondangsari, Beber, Cirebon, West Java 45172",,"4,7",331,,Tidak Ada ,Tidak Tersedia,-6.8013499,108.5246013,Aksesibilitas Tersedia,[]
+Masjid Al Imam,Masjid,"7FQ3+F6H, Kasugengan Lor, Kec. Depok, Kabupaten Cirebon, Jawa Barat 45155",,"4,7",88,,Tidak Ada ,Tidak Tersedia,-6.71131,108.4531082,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Al - Ikhlas,Masjid,"7GPJ+H4G, Kedawung, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",,"4,8",64,,Tidak Ada ,Tidak Tersedia,-6.7135607,108.5303169,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Besar An-Nur,Masjid,"Masjid Besar Annur, Dukupuntang, Kec. Dukupuntang, Kabupaten Cirebon, Jawa Barat 45652",,"4,6",53,,Tidak Ada ,Tidak Tersedia,-6.7678682,108.4150609,Aksesibilitas Tersedia,[]
+Masjid Nurul Karomah Megu Cilik,Masjid,"7FGX+XH5, Megu Cilik, Kec. Weru, Kabupaten Cirebon, Jawa Barat 45154",Buka 24 jam,"4,8",27,,Tidak Ada ,Tidak Tersedia,-6.7226107,108.4989963,Aksesibilitas Tersedia,[]
+Masjid Raya UMC,Masjid,"Watubelah, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",04.00 hingga 20.00,"4,7",24,,Tidak Ada ,Tidak Tersedia,-6.7427788,108.4929502,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Falah Kedawung,Masjid,"Jl. Raya Cirebon - Bandung No.5, Kemlakagede, Kec. Tengah Tani, Kabupaten Cirebon, Jawa Barat 45153",Buka 24 jam,"4,8",135,"
+0812-2471-653",Ada,Tidak Tersedia,-6.7093711,108.5271831,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Merah Panjunan,Masjid,"Jl. Panjunan No.43, Panjunan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45112",Buka 24 jam,"4,7",1.229,,Tidak Ada ,Tidak Tersedia,-6.717455,108.5662572,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid At Tajdid,Masjid,"Asrama H. Cirebon, Watubelah, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",,"4,9",15,,Tidak Ada ,Tidak Tersedia,-6.7347716,108.4962764,Aksesibilitas Tersedia,[]
+Masjid Al Yusro,Masjid,"Winong Utara No.1, Winong, Kec. Gempol, Kabupaten Cirebon, Jawa Barat 45161",,"4,7",75,,Tidak Ada ,Tidak Tersedia,-6.6715817,108.4208763,Aksesibilitas Tersedia,[]
+Masjid Pusaka Sidapurna,Masjid,"7CGV+RMJ, Kasugengan Kidul, Kec. Depok, Kabupaten Cirebon, Jawa Barat 45155",Buka 24 jam,"4,5",44,,Tidak Ada ,Tidak Tersedia,-6.7229151,108.4441433,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+MASJID AN-NURIDAH,Masjid,"5G9C+9QC, Jl. Raya Beber No.203, Beber, Kec. Beber, Kabupaten Cirebon, Jawa Barat 45172",Buka 24 jam,"4,7",168,,Tidak Ada ,Tidak Tersedia,-6.8310962,108.5220235,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Al-Auliya,Masjid,"Blk. Canggong No.7, Battembat, Kec. Tengah Tani, Kabupaten Cirebon, Jawa Barat 45153",,"4,7",92,,Tidak Ada ,Tidak Tersedia,-6.7046861,108.5190728,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Nurussaadah,Masjid,"Jl. Panembahan Ratu No.144, Panembahan, Kec. Plered, Kabupaten Cirebon, Jawa Barat 45154",,"4,7",137,"
+0822-9546-1733",Ada,Tidak Tersedia,-6.704981,108.515333,Aksesibilitas Tersedia,[]
+MASJID KRAMAT MEGU,Masjid,"7GM3+MF6 Masjid Kramat Megu, Jl. Fatahillah, Megu Gede, Kec. Weru, Kabupaten Cirebon, Jawa Barat 45154",,"4,7",242,"
+0852-2331-526",Ada,Tidak Tersedia,-6.7158619,108.5037557,Aksesibilitas Tersedia,[]
+Masjid Al Ittihad,Masjid,"7GPQ+QMF, Jl. Simega III, Kertawinangun, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",,"4,6",150,"
+0895-7071-16565",Ada,Tidak Tersedia,-6.7130742,108.5391602,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Agung Sumber,Masjid,"6FPH+G7W, Sumber, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",Buka 24 jam,"4,6",768,,Tidak Ada ,Tidak Tersedia,-6.7636262,108.4782076,Aksesibilitas Tersedia,[]
+"MASJID AL-IMAN, Desa Kebarepan",Masjid,"7FW7+R7V, Kebarepan, Kec. Plumbon, Kabupaten Cirebon, Jawa Barat 45155",04.30 hingga 23.00,"4,6",48,,Tidak Ada ,Tidak Tersedia,-6.7028988,108.4631853,Aksesibilitas Tersedia,[]
+Masjid Baitussalam,Masjid,"7FG8+MW6, Lurah, Kec. Plumbon, Kabupaten Cirebon, Jawa Barat 45155",Buka 24 jam,"4,8",35,,Tidak Ada ,Tidak Tersedia,-6.7233384,108.4672729,Aksesibilitas Tersedia,[]
+Masjid Al Ikhlas,Masjid,"7G9C+VMM, Perumahan Griya Caraka, Jl. Caraka, Kalikoa, Kedawung, Kalikoa, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",,"4,7",65,,Tidak Ada ,Tidak Tersedia,-6.7302914,108.521662,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Baitul Mutaqin,Masjid,"7F9C+9H5, Pamijahan, Kec. Plumbon, Kabupaten Cirebon, Jawa Barat 45155",,"4,6",43,,Tidak Ada ,Tidak Tersedia,-6.7316017,108.4714726,Aksesibilitas Tersedia,[]
+Masjid Agung Arum Sari,Masjid,"6GR9+82V masjid, Cirebon Girang, Kec. Talun, Kabupaten Cirebon, Jawa Barat 45171",,"4,5",80,,Tidak Ada ,Tidak Tersedia,-6.7591257,108.517537,Aksesibilitas Tersedia,[]
+Masjid Al-Mustaqim,Masjid,"7GR4+J5G, Jl. Fatahillah, Weru Kidul, Kec. Weru, Kabupaten Cirebon, Jawa Barat 45154",Buka 24 jam,"4,6",519,,Tidak Ada ,Tidak Tersedia,-6.7084311,108.5054518,Aksesibilitas Tersedia,[]
+Masjid Jami' Baiturrohman Sindangjawa,Masjid,"Jl. Nyi Ageng Serang No.39, Sindangjawa, Kec. Dukupuntang, Kabupaten Cirebon, Jawa Barat 45652",,"4,7",121,,Tidak Ada ,Tidak Tersedia,-6.7647372,108.4487382,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Miftahul Jannah,Masjid,"6HWC+2J8, Jl. Raya Bima Sakti, Banjarwangunan, Kec. Mundu, Kabupaten Cirebon, Jawa Barat 45173",,"4,9",78,,Tidak Ada ,Tidak Tersedia,-6.7549529,108.5715897,Aksesibilitas Tersedia,[]
+Masjid Purnama Ar-Rohim,Masjid,"Jl. Sumadinata No.53, RT.01/RW.01, Adidharma, Kec. Gunungjati, Kabupaten Cirebon, Jawa Barat 45151",Buka 24 jam,"4,8",46,"
+0852-9565-7337",Ada,Tidak Tersedia,-6.6978176,108.5505746,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al Barokah,Masjid,"6CMF+QG7, Balad, Kec. Dukupuntang, Kabupaten Cirebon, Jawa Barat 45652",Buka 24 jam,"4,4",24,,Tidak Ada ,Tidak Tersedia,-6.7655791,108.4237977,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Kramat Kalijaga,Masjid,"7H22+H8M, Kalijaga, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45144",Buka 24 jam,"4,6",37,,Tidak Ada ,Tidak Tersedia,-6.7485463,108.5507956,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Jami' Asy-Syamsu,Masjid,"7G5M+QJV, Jl. Terusan Sekar Kemuning, RT.02/RW.03, Karyamulya, Kec. Kesambi, Kota Cirebon, Jawa Barat 45131",,"4,7",87,,Tidak Ada ,Tidak Tersedia,-6.7405087,108.5340607,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Furqon,Masjid,"6GJ6+37W, Sampiran, Kec. Talun, Kabupaten Cirebon, Jawa Barat 45171",,"4,5",60,,Tidak Ada ,Tidak Tersedia,-6.7697533,108.5107044,Aksesibilitas Tersedia,[]
+Masjid Purwawinangun,Masjid,"9G2J+MF4, Jl. Sunan Gn. Jati, Purwawinangun, Kec. Suranenggala, Kabupaten Cirebon, Jawa Barat 45122",,"4,6",45,,Tidak Ada ,Tidak Tersedia,-6.6483644,108.5312061,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Nahdlatul Iman,Masjid,"7FFR+67F, Kertasari, Kec. Weru, Kabupaten Cirebon, Jawa Barat 45154",,"4,6",34,,Tidak Ada ,Tidak Tersedia,-6.7269288,108.4906816,Aksesibilitas Tersedia,[]
+Masjid Jami Al Minna,Masjid,"7CMJ+WH5, Gg. Sumur Bandung, RT./Rw/RW.018/007, Palimanan Tim., Kec. Palimanan, Kabupaten Cirebon, Jawa Barat 45161",,"4,6",17,,Tidak Ada ,Tidak Tersedia,-6.7152425,108.4314996,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Syarif Hidayatullah,Masjid,"6FJP+V89 masjid syarif hidayatullah, Depan, Babakan, Sumber, Cirebon, West Java 45612",,"4,5",90,,Tidak Ada ,Tidak Tersedia,-6.7678445,108.485874,Aksesibilitas Tersedia,[]
+Masjid Wanantara,Masjid,"6FFR+X5C, Jl. Syekh Nurjati, wanantara, Kec. Talun, Kabupaten Cirebon, Jawa Barat 45612",Buka 24 jam,"4,8",52,"
+0852-2212-5247",Ada,Tidak Tersedia,-6.7750565,108.4903859,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid PEJLAGRAHAN,Masjid,"7HFC+8VQ, Kesepuhan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45114",,"4,9",34,,Tidak Ada ,Tidak Tersedia,-6.7266571,108.5722408,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Baitul Mu'minin,Masjid,"Jl. DR. Setiabudi No.2011, Pegagan, Kec. Palimanan, Kabupaten Cirebon, Jawa Barat 45161",,"4,7",106,,Tidak Ada ,Tidak Tersedia,-6.6986707,108.430583,Aksesibilitas Tersedia,[]
+Masjid Merah Kedung Menjangan Cirebon,Masjid,"Jl. Kedung Menjangan, Kalijaga, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45144",Buka 24 jam,"4,8",132,,Tidak Ada ,Tersedia,-6.7553099,108.5427737,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Nambo Wetan,Masjid,"89HF+VG7, Tangkil, Kec. Susukan, Kabupaten Cirebon, Jawa Barat 45166",Buka 24 jam,"4,7",38,,Tidak Ada ,Tidak Tersedia,-6.6703448,108.3738054,Aksesibilitas Tersedia,[]
+Masjid Syarif Abdurachman Cirebon,Masjid,"8GFR+WCJ, Astana, Kec. Gunungjati, Kabupaten Cirebon, Jawa Barat 45151",Buka 24 jam,"4,6",1.658,,Tidak Ada ,Tidak Tersedia,-6.6751549,108.5410035,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Ukhwatul Ummah,Masjid,"Kalikoa, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",Buka 24 jam,"4,8",44,,Tidak Ada ,Tidak Tersedia,-6.7333156,108.5222926,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Al - Munawir,Masjid,"7GX5+JJ7, Trusmi Kulon, Kec. Plered, Kabupaten Cirebon, Jawa Barat 45154",,"4,6",26,,Tidak Ada ,Tidak Tersedia,-6.7009646,108.5090477,Aksesibilitas Tersedia,[]
+Masjid Besar Fadhlullah,Masjid,"Jl. Kalibaru Timur No.36, Arjawinangun, Kec. Arjawinangun, Kabupaten Cirebon, Jawa Barat 45162",Buka 24 jam,"4,7",89,"
+(0231) 359088",Ada,Tidak Tersedia,-6.647342,108.4069246,Aksesibilitas Tersedia,[]
+Masjid Jami' NURUL HUDA,Masjid,"7F3R+WGJ, Watubelah, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",,"4,6",38,,Tidak Ada ,Tidak Tersedia,-6.7451259,108.4912546,Aksesibilitas Tersedia,[]
+Masjid Raya Arjawinangun,Masjid,"9C34+3R3, Arjawinangun, Kec. Arjawinangun, Kabupaten Cirebon, Jawa Barat 45162",Buka 24 jam,"4,7",53,,Tidak Ada ,Tidak Tersedia,-6.64737,108.4070479,Aksesibilitas Tersedia,[]
+Masjid Graha Permai,Masjid,"7F5W+MV3, Unnamed Road, Watubelah, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",,"4,8",22,,Tidak Ada ,Tidak Tersedia,-6.7408723,108.4971695,Aksesibilitas Tersedia,[]
+Masjid Kramat Pasalakan Makam Syekh Syarif Abdurohaman Al-Usmani,Masjid,"7F7P+W5W, Pasalakan, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",Buka 24 jam,"4,6",22,,Tidak Ada ,Tidak Tersedia,-6.7351358,108.485452,Aksesibilitas Tersedia,[]
+Masjid Syarif Hidayatullah RSD Gunung Jati,Masjid,"7HC3+2F6 RSD Gunung Jati, Jl. Kesambi Baru, Drajat, Kec. Kesambi, Kota Cirebon, Jawa Barat 45134",,"4,8",162,,Tidak Ada ,Tidak Tersedia,-6.729954,108.5536555,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Hidayah,Masjid,"Jl. Raya Indramayu - Cirebon No.1A, Klayan, Kec. Gunungjati, Kabupaten Cirebon, Jawa Barat 45151",,"4,6",88,,Tidak Ada ,Tidak Tersedia,-6.6852831,108.5480805,Aksesibilitas Tersedia,[]
+MASJID JAMI' AL IKHLAS,Masjid,"7H8G+PPC, Jl. Pronggol, RT.05/RW.03, Pegambiran, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45113",,"4,6",19,"
+0812-2289-4231",Ada,Tersedia,-6.7331795,108.57678,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Raya At-Taqwa Kota Cirebon,Masjid,"Jl. Kartini No.2, Kebonbaru, Kec. Kejaksan, Kota Cirebon, Jawa Barat 45121",Buka 24 jam,"4,8",12.492,"
+(0231) 232755",Ada,Tersedia,-6.7100387,108.5584335,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Al Hidayah,Masjid,"7F53+6HX, Prapatan Jawa Bar., Getasan, Depok, Getasan, Cirebon, Kabupaten Cirebon, Jawa Barat 45155",,"4,6",94,,Tidak Ada ,Tidak Tersedia,-6.741887,108.4539696,Aksesibilitas Tersedia,[]
+Masjid Jami Penangisan,Masjid,"Desa Kempek Blok 3 Penangisan, Gempol, Kempek, Kec. Gempol, Kabupaten Cirebon, Jawa Barat 45161",Buka 24 jam,"4,4",37,,Tidak Ada ,Tidak Tersedia,-6.6857983,108.4145902,Aksesibilitas Tersedia,[]
+Gereja Isa Almasih Jemaat Cirebon,Gereja Kristus,"Jl. Karang Kencana No.38, Panjunan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45112",Buka 24 jam,"4,8",21,"
+(0231) 202054",Ada,Tersedia,-6.7143069,108.5649339,Aksesibilitas Tersedia,[]
+Gereja Katolik Bunda Maria Cirebon,Gereja Katolik,"Jl. Dukuh Semar No.34, Kecapi, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45142",04.30 hingga 21.00,"4,9",445,"
+0898-0030-100",Ada,Tersedia,-6.7379297,108.5602821,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GKI Pamitran,Gereja Kristen,"Jl. Kromong Jl. Pamitran No.1, Kejaksan, Kec. Kejaksan, Kota Cirebon, Jawa Barat 45134",,"4,7",33,"
+(0231) 232335",Ada,Tersedia,-6.7137018,108.5595398,Aksesibilitas Tersedia,[]
+Gereja Masehi Advent Hari Ketujuh (GMAHK) Cirebon,Gereja,"Jl. Pulasaren No.1, Kesepuhan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45114",07.00 hingga 15.00,"4,6",14,,Tidak Ada ,Tidak Tersedia,-6.724138,108.5696555,Aksesibilitas Tersedia,[]
+IFGF Cirebon,Gereja,"Surya Toserba Cirebon, Jl. Karanggetas No.23 Lantai 5, Panjunan, Lemahwungkuk, Cirebon City, West Java 45118",Tutup,"4,3",6,"
+0851-7985-6262",Ada,Tersedia,-6.714199,108.5626794,Aksesibilitas Tersedia,[]
+GKI Rahmani,Gereja Kristen,"Jl. Pengampon No.24, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",,"4,8",9,"
+(0231) 203632",Ada,Tersedia,-6.7225558,108.5696478,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki St. Yusuf, Cirebon",Gereja Katolik,"Jl. Yos Sudarso No.20, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",Buka 24 jam,"4,8",598,"
+(0231) 202200",Ada,Tersedia,-6.7217318,108.5721279,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Katolik St Louis oktoh,Gereja,"Jl. Cimaja Raya II No.6, Tukmudal, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-6.7637803,108.4678664,Aksesibilitas Tersedia,[]
+Gereja GPPS Cirebon,Gereja Pantekosta,"Jl. Kesambi No.2, Pekalipan, Kec. Kesambi, Kota Cirebon, Jawa Barat 45117",,"4,8",5,"
+0896-6103-4869",Ada,Tersedia,-6.724951,108.5608892,Aksesibilitas Tersedia,[]
+Taman Tuhan Gratia,Tempat Ibadah,"Jl. DR. Sudarsono No.32, Kesambi, Kec. Kesambi, Kota Cirebon, Jawa Barat 45134",09.00 hingga 17.00,"5,0",42,"
+0811-1649-959",Ada,Tersedia,-6.7285782,108.5535996,Aksesibilitas Tersedia,[]
+GKPS PERSIAPAN CIREBON,Gereja Protestan,"Jl. Perum Citraland Boulevard No.5, Pamengkang, Kec. Mundu, Kota Cirebon, Jawa Barat 45144",17.00 hingga 20.00,"5,0",1,,Tidak Ada ,Tersedia,-6.7569913,108.5610347,Aksesibilitas Tersedia,[]
+GKP Bethel Cirebon,Gereja,"Jl. Yos Sudarso No.10, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",08.00 hingga 16.00,"4,7",37,"
+(0231) 207081",Ada,Tidak Tersedia,-6.7202026,108.571555,Aksesibilitas Tersedia,[]
+Gereja Isa Almasih Jemaat Jamblang,Gereja Kristen,"7CRX+RQG, Jamblang, Kec. Jamblang, Kabupaten Cirebon, Jawa Barat 45156",,"4,9",7,"
+(0231) 202054",Ada,Tersedia,-6.7079441,108.449461,Aksesibilitas Tersedia,[]
+"Gereja Katolik Gembala Yang Baik, Jamblang",Gereja Katolik,"7FR2+G4G, Jamblang, Kec. Jamblang, Kabupaten Cirebon, Jawa Barat 45156",Tutup,"4,5",13,,Tidak Ada ,Tidak Tersedia,-6.7086906,108.450327,Aksesibilitas Tersedia,[]
+GKDI CIREBON,Gereja Kristen,"Jl. Pegambiran Residence Cluster Oasis Blok A7 No. 6, Penggambiran No.Kec, Pegambiran, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45113",Buka 24 jam,"5,0",59,"
+0821-3086-0235",Ada,Tidak Tersedia,-6.7342386,108.5666737,Aksesibilitas Tersedia,[]
+"GEREJA KRISTEN TIRTAYASA (GKT) JEMAAT KEDAWUNG, CIREBON",Gereja,"7G99+6H4, Jl. Mahoni Raya Gsp, Karyamulya, Kec. Kesambi, Kota Cirebon, Jawa Barat 45135",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.7320568,108.5189665,Aksesibilitas Tersedia,[]
+GKI Pengampon,Gereja Kristen,"Jl. Pengampon No.31, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",,"4,9",63,"
+(0231) 204815",Ada,Tersedia,-6.7226437,108.5703951,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPdI Alfa Omega Jamblang,Gereja Pantekosta,"Jl. Otto Iskandardinata No.63, Jamblang, Kec. Jamblang, Kabupaten Cirebon, Jawa Barat 45156",Buka 24 jam,"4,3",22,"
+0853-1872-1919",Ada,Tersedia,-6.7075767,108.4489731,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GBI Arjawinangun,Gereja,"Jl. Kantor Pos No.1, Jungjang, Kec. Arjawinangun, Kabupaten Cirebon, Jawa Barat 45162",,"4,8",31,"
+(0231) 357216",Ada,Tersedia,-6.6481225,108.4079118,Aksesibilitas Tersedia,[]
+"GPIB Jemaat ""GETSEMANI"" di Cirebon",Gereja Protestan,"7GGW+QPV, Jl. Pembangunan VI, Pekiringan, Kec. Kedawung, Kota Cirebon, Jawa Barat 45153",,"4,7",50,"
+(0231) 231143",Ada,Tersedia,-6.7230025,108.546812,Aksesibilitas Tersedia,[]
+GPdI Jemaat Trifina,Gereja,"Jl. Talang No.7, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",,"4,8",15,"
+(0231) 205709",Ada,Tersedia,-6.7207582,108.5697649,Aksesibilitas Tersedia,[]
+GPdI Weru Plered Cirebon,Gereja,"7GV7+86M, Jl. Ps. Kue, Weru Kidul, Kec. Weru, Kabupaten Cirebon, Jawa Barat 45154",19.00 hingga 21.00,"5,0",10,"
+0821-3021-2437",Ada,Tersedia,-6.7066703,108.5130488,Aksesibilitas Tersedia,[]
+GSRI CIREBON,Gereja,"7H28+4QG, Jl. Rajungan, Larangan, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45141",Tutup,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.7499454,108.5674964,Aksesibilitas Tersedia,[]
+GSPDI Filadelfia Kenduruan Cirebon,Gereja Pantekosta,"Jl. Kenduruan No.92, Panjunan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45112",,"4,9",185,"
+(0231) 233565",Ada,Tersedia,-6.7169189,108.5690098,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda', ' Tidak dilengkapi dukungan instalasi bantu dengar']"
+Gereja Ecclesia PD ECCLESIA /JKI ANUGRAH SION,Gereja,"Jl. DR. Sudarsono No.32, Kesambi, Kec. Kesambi, Kota Cirebon, Jawa Barat 45134",,"4,4",10,,Tidak Ada ,Tersedia,-6.7284382,108.5531094,Aksesibilitas Tersedia,[]
+Gereja GKPB Fajar Keagungan MDC,Gereja Kristen,"7HH6+95R, Pekalangan, Pekalipan, Pekalangan, Cirebon, Kota Cirebon, Jawa Barat 45118",,"4,9",27,"
+(0231) 209501",Ada,Tersedia,-6.7215014,108.5603893,Aksesibilitas Tersedia,[]
+Gereja Pantekosta,Gereja Pantekosta,"Endah B4, Ruko, Pulasaren, Pekalipan, Cirebon City, West Java 45116",Tutup,"4,8",59,"
+0852-2422-2221",Ada,Tersedia,-6.7255753,108.5634305,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GBI PPL Tuparev Cirebon,Gereja,"Jl. Tuparev No.20b, Sutawinangun, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",08.00 hingga 16.00,"4,9",17,"
+(0231) 237730",Ada,Tersedia,-6.7114642,108.545802,Aksesibilitas Tersedia,[]
+GBI ROCK CIREBON,Gereja,"Jl. Siliwangi No.20, Kesenden, Kec. Kejaksan, Kota Cirebon, Jawa Barat 45121",09.00 hingga 16.00,"5,0",6,"
+0812-4697-1115",Ada,Tersedia,-6.7002725,108.5548156,Aksesibilitas Tersedia,[]
+Gereja Baptis Indonesia Baitlahim Cirebon,Gereja Baptis,"Jl. Ratu Mas Gandasari No.109, Pekalipan, Kec. Pekalipan, Kota Cirebon, Jawa Barat 45117",,"4,5",13,"
+(0231) 204315",Ada,Tersedia,-6.7223993,108.5605039,Aksesibilitas Tersedia,[]
+GMS Cirebon,Gereja,"Jl. Kalijaga No.72, Pegambiran, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45113",09.00 hingga 17.00,"4,9",130,"
+0815-2120-080",Ada,Tersedia,-6.7345453,108.579284,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKI Pengampon Bajem Jamblang,Gereja,"7FR2+R6R, Jl. Raya Jamblang, Kasugengan Lor, Kec. Depok, Kabupaten Cirebon, Jawa Barat 45155",,"5,0",2,"
+(0231) 341449",Ada,Tidak Tersedia,-6.7078927,108.4505015,Aksesibilitas Tersedia,[]
+Gereja Bethany Cirebon,Gereja Kristus,"Jl. Lemahwungkuk No.132, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",,"4,9",17,"
+0819-0999-5962",Ada,Tersedia,-6.7232215,108.5692887,Aksesibilitas Tersedia,[]
+GSPDI Filadelfia Ahmad Yani Cirebon,Gereja Pantekosta,"Jl. Ahmad Yani No.31, Kecapi, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45142",Tutup,"4,8",22,,Tidak Ada ,Tersedia,-6.740573,108.5540528,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+HKBP Resort Cirebon,Gereja Lutheran,"7GRX+7W2, Sukapura, Kec. Kejaksan, Kota Cirebon, Jawa Barat 45122",Tutup,"4,7",70,"
+(0231) 232207",Ada,Tersedia,-6.7093594,108.5497757,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Bethel Tabernakel,Gereja,"7HGF+9C2, Jl. Yos Sudarso, cangkol tengah, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",,"5,0",11,,Tidak Ada ,Tersedia,-6.724121,108.5735124,Aksesibilitas Tersedia,[]
+"Gereja Katolik Santa Maria In Montana, Capar",Gereja Katolik,"Sidawangi, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.7836906,108.4749062,Aksesibilitas Tersedia,[]
+Gereja Kristen Immanuel Jemaat Saron,Gereja Kristen,"Jl. Kalibaru Utara No.28, Kejaksan, Kec. Kejaksan, Kota Cirebon, Jawa Barat 45123",Tutup,"4,9",22,"
+(0231) 208536",Ada,Tersedia,-6.7118486,108.5637058,Aksesibilitas Tersedia,[]
+Gereja Bethel Indonesia (GBI) Kalvari,Gereja,"Jl. Yos Sudarso No.44, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",09.00 hingga 15.00,"4,8",212,"
+(0231) 206841",Ada,Tersedia,-6.7230941,108.5727364,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Pastori GKI Pengampon,Gereja,"Jl. Sasana Budaya No.H17, Sutawinangun, Kec. Kedawung, Kota Cirebon, Jawa Barat",,"5,0",2,,Tidak Ada ,Tersedia,-6.7198512,108.5476463,Aksesibilitas Tersedia,[]
+Gereja Isa Almasih Jemaat Cirebon,Gereja Kristus,"Jl. Karang Kencana No.38, Panjunan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45112",Buka 24 jam,"4,8",21,"
+(0231) 202054",Ada,Tersedia,-6.7143069,108.5649339,Aksesibilitas Tersedia,[]
+Gereja Katolik Santo Yohanes Rasul ( Stasi Arjawinangun ),Gereja Katolik,"Jl. Pegadaian, Jungjang, Kec. Arjawinangun, Kabupaten Cirebon, Jawa Barat 45162",,"4,8",31,,Tidak Ada ,Tidak Tersedia,-6.6473039,108.4085749,Aksesibilitas Tersedia,[]
+Gereja Katolik Bunda Maria Cirebon,Gereja Katolik,"Jl. Dukuh Semar No.34, Kecapi, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45142",04.30 hingga 21.00,"4,9",445,"
+0898-0030-100",Ada,Tersedia,-6.7379297,108.5602821,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki St. Yusuf, Cirebon",Gereja Katolik,"Jl. Yos Sudarso No.20, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",Buka 24 jam,"4,8",598,"
+(0231) 202200",Ada,Tersedia,-6.7217318,108.5721279,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Taman Doa Regina Rosari,Tempat Ziarah,"Jl. Dukuh Semar No.34, Kecapi, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45142",08.00 hingga 00.00,"4,8",1.000,"
+(0231) 206232",Ada,Tersedia,-6.7385994,108.5604379,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Katolik St Louis oktoh,Gereja,"Jl. Cimaja Raya II No.6, Tukmudal, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-6.7637803,108.4678664,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki St. Theresia, Ciledug",Gereja Katolik,"Jl. Pangeran Walangsungsang No.137, Jatiseeng, Kec. Ciledug, Kabupaten Cirebon, Jawa Barat 45188",06.00 hingga 17.00,"5,0",7,,Tidak Ada ,Tidak Tersedia,-6.9083625,108.7390012,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKP Bethel Cirebon,Gereja,"Jl. Yos Sudarso No.10, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",08.00 hingga 16.00,"4,7",37,"
+(0231) 207081",Ada,Tidak Tersedia,-6.7202026,108.571555,Aksesibilitas Tersedia,[]
+Amal Penguburan Katolik,Gereja,"Jl. Yos Sudarso No.20, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",Buka 24 jam,"4,9",445,"
+0852-1254-0981",Ada,Tidak Tersedia,-6.7217359,108.5718177,Aksesibilitas Tersedia,[]
+"Gereja Katolik Gembala Yang Baik, Jamblang",Gereja Katolik,"7FR2+G4G, Jamblang, Kec. Jamblang, Kabupaten Cirebon, Jawa Barat 45156",Tutup,"4,5",13,,Tidak Ada ,Tidak Tersedia,-6.7086906,108.450327,Aksesibilitas Tersedia,[]
+GKI Pengampon,Gereja Kristen,"Jl. Pengampon No.31, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",,"4,9",63,"
+(0231) 204815",Ada,Tersedia,-6.7226437,108.5703951,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GBI Arjawinangun,Gereja,"Jl. Kantor Pos No.1, Jungjang, Kec. Arjawinangun, Kabupaten Cirebon, Jawa Barat 45162",,"4,8",31,"
+(0231) 357216",Ada,Tersedia,-6.6481225,108.4079118,Aksesibilitas Tersedia,[]
+Rumah Mulia Cirebon - Paroki Bunda Maria Cirebon,Rumah Duka,"Jl. Dukuh Semar No.34, Kecapi, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45142",Buka 24 jam,"4,9",57,"
+0877-7779-1956",Ada,Tersedia,-6.7386904,108.5605501,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GBI PPL Tuparev Cirebon,Gereja,"Jl. Tuparev No.20b, Sutawinangun, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",08.00 hingga 16.00,"4,9",17,"
+(0231) 237730",Ada,Tersedia,-6.7114642,108.545802,Aksesibilitas Tersedia,[]
+"Gereja Katolik Kristus Jaya, Babakan",Gereja Katolik,"Jl. Pangeran Sutajaya No.20, Babakan Gebang, Kec. Babakan, Kabupaten Cirebon, Jawa Barat 45191",Tutup,"5,0",7,,Tidak Ada ,Tersedia,-6.8697103,108.7218058,Aksesibilitas Tersedia,[]
+"Gereja Katolik Kristus Raja, Jatiwangi",Gereja Katolik,"7785+CV3, Sutawangi, Kec. Jatiwangi, Kabupaten Majalengka, Jawa Barat 45454",,"5,0",6,,Tidak Ada ,Tidak Tersedia,-6.7339965,108.2596631,Aksesibilitas Tersedia,[]
+Taman Budaya Hati Tersuci,Tempat Ziarah,"Jl. Dukuh Semar No.34, Kecapi, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45143",05.00 hingga 21.00,"4,0",3,,Tidak Ada ,Tersedia,-6.7388529,108.5603705,Aksesibilitas Tersedia,[]
+"Gereja Katolik Santa Maria In Montana, Capar",Gereja Katolik,"Sidawangi, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.7836906,108.4749062,Aksesibilitas Tersedia,[]
+Gereja Bethel Indonesia (GBI) Kalvari,Gereja,"Jl. Yos Sudarso No.44, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",09.00 hingga 15.00,"4,8",212,"
+(0231) 206841",Ada,Tersedia,-6.7230941,108.5727364,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Taman Doa Maria Penolong Abadi,Tempat Ziarah,"Jl. Yos Sudarso No.20, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",06.00 hingga 21.00,"5,0",269,"
+(0231) 202200",Ada,Tersedia,-6.7216778,108.5718595,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Wihara Dwi Welas Asih,Vihara,"JL. Kantor, No. 2, Panjunan, Lemahwungkuk, Jungjang, Kec. Arjawinangun, Kabupaten Cirebon, Jawa Barat 45162",,"3,3",4,"
+(0231) 205331",Ada,Tidak Tersedia,-6.6478842,108.4080045,Aksesibilitas Tersedia,[]
+HOK TEK KIONG BIO,Vihara,"5PJH+R83, Jl. Gebang - Ciledug, Gebang Ilir, Kec. Gebang, Kabupaten Cirebon, Jawa Barat 45191",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.8179887,108.7282961,Aksesibilitas Tersedia,[]
+Wihara Bodhi Dharma,Vihara,"5PJH+R79, Gebang Mekar, Kec. Gebang, Kabupaten Cirebon, Jawa Barat 45191",,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.8179703,108.728245,Aksesibilitas Tersedia,[]
+Vihara Seribu keramat,Vihara,"6HW5+4QQ, Jalan gn. Ciremai Raya,(jl. Bali, Perumnas, Larangan, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45141",,"4,8",4,,Tidak Ada ,Tidak Tersedia,-6.7546614,108.5594922,Aksesibilitas Tersedia,[]
+Vihara Dharma Ratna,Vihara,"JL. Lanud S. Sukani, No. 41, Mekarsari, Majalengka, Kabupaten Majalengka, Jawa Barat 45454",,"4,6",10,,Tidak Ada ,Tidak Tersedia,-6.7336952,108.2573354,Aksesibilitas Tersedia,[]
+Vihara Pemancar Keselamatan,Vihara,"Winaon No.26/69, Pekalipan, Kec. Pekalipan, Kota Cirebon, Jawa Barat 45117",,"4,4",89,,Tidak Ada ,Tidak Tersedia,-6.7206866,108.5662263,Aksesibilitas Tersedia,[]
+Klenteng Dharma Mulia,Vihara,"JL Losari, 55, Dukuhwidara, Kec. Losari, Kabupaten Cirebon, Jawa Barat 45193",,"4,3",4,"
+(0231) 831803",Ada,Tidak Tersedia,-6.8707429,108.7942604,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki St. Yusuf, Cirebon",Gereja Katolik,"Jl. Yos Sudarso No.20, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",Buka 24 jam,"4,8",598,"
+(0231) 202200",Ada,Tersedia,-6.7217318,108.5721279,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Centrum Vimalakirti Cirebon,Vihara,"Jl. Gn. Galunggung Permai No.178, Kecapi, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45142",,"4,5",2,"
+(0231) 483072",Ada,Tidak Tersedia,-6.7524578,108.5596564,Aksesibilitas Tersedia,[]
+Vihara Vimala Kirti,Vihara,"Jl. Merdeka No.57 RT.05/03, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.722873,108.571272,Aksesibilitas Tersedia,[]
+Vihara Bodhi Asih,Tempat Ibadah,"6HW5+4X6, Jl. Karanggetas, Pegambiran, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45113",,"5,0",1,"
+0823-1896-5789",Ada,Tidak Tersedia,-6.7547145,108.5598949,Aksesibilitas Tersedia,[]
+Vihara Dharma Loka (Po An Bio) Sindanglaut,Vihara,"5JCJ+H6F, Lemahabang Wetan, Kec. Lemahabang, Kabupaten Cirebon, Jawa Barat 45183",,"4,4",11,"
+(0231) 635155",Ada,Tidak Tersedia,-6.8285666,108.6305433,Aksesibilitas Tersedia,[]
+Vihara Pemancar Keselamatan Majalengka,Vihara,"Jl. Kh. Abdul Halim No.204, Majalengka Kulon, Kec. Majalengka, Kabupaten Majalengka, Jawa Barat 45418",,"4,9",8,"
+0821-2301-2524",Ada,Tersedia,-6.8345399,108.2248979,Aksesibilitas Tersedia,[]
+JAMBLANG FESTIVAL,Museum,"Klenteng, Jamblang, Kec. Jamblang, Kabupaten Cirebon, Jawa Barat 45156",09.00 hingga 17.00,"4,9",10,,Tidak Ada ,Tidak Tersedia,-6.7081787,108.4513374,Aksesibilitas Tersedia,[]
+Kelenteng Boen San Tong,Tempat Ibadah,"Winaon No.26, Pekalipan, Kec. Pekalipan, Kota Cirebon, Jawa Barat 45117",,"4,3",18,,Tidak Ada ,Tidak Tersedia,-6.7205593,108.566015,Aksesibilitas Tersedia,[]
+Vihara Budhi Asih,Vihara,"9C25+W68, Jungjang, Kec. Arjawinangun, Kabupaten Cirebon, Jawa Barat 45162",,"4,7",3,,Tidak Ada ,Tidak Tersedia,-6.6477183,108.408092,Aksesibilitas Tersedia,[]
+Kelenteng Talang,Tempat Ibadah,"Jl. Talang No.2, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",07.00 hingga 19.00,"4,9",50,,Tidak Ada ,Tersedia,-6.71967,108.569421,Aksesibilitas Tersedia,[]
+Masjid Agung Sang Cipta Rasa,Masjid,"7HFC+W48, Jl. Kasepuhan No.Komplek, Kesepuhan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45114",Buka 24 jam,"4,7",4.490,,Tidak Ada ,Tidak Tersedia,-6.7255956,108.5700485,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Vihara Dharma Sukha,Vihara,"Jl. Pasar Waru Jl. Nyi Gede Cangkring No.01, Kaliwulu, Kec. Plered, Kabupaten Cirebon, Jawa Barat 45154",07.00 hingga 17.00,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.6839903,108.5007419,Aksesibilitas Tersedia,[]
+Vihara Bodhi Dharma Maitreya,Vihara,"Jl. Panjunan No.87, Panjunan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45112",,"4,3",6,,Tidak Ada ,Tidak Tersedia,-6.7183969,108.5654427,Aksesibilitas Tersedia,[]
+Vihara Dharma Rakkhita,Vihara,"Jl. Pekarungan GG. A No.48, Panjunan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45112",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.715308,108.5637996,Aksesibilitas Tersedia,[]
+Masjid Merah Kedung Menjangan Cirebon,Masjid,"Jl. Kedung Menjangan, Kalijaga, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45144",Buka 24 jam,"4,8",132,,Tidak Ada ,Tersedia,-6.7553099,108.5427737,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Vihara Buddha Sasana,Vihara,"Jl. Parujakan No.35, Pekalangan, Kec. Pekalipan, Kota Cirebon, Jawa Barat 45118",,"4,4",20,,Tidak Ada ,Tidak Tersedia,-6.7174697,108.5597125,Aksesibilitas Tersedia,[]
+Vihara Dewi Welas Asih,Vihara,"7HJC+R4Q Kantor, Jalan, Panjunan, Lemahwungkuk, Cirebon City, West Java 45112",,"4,6",307,,Tidak Ada ,Tidak Tersedia,-6.7179106,108.570364,Aksesibilitas Tersedia,[]
+Lokasi pertama Jinntote,Vihara,"7HG9+V6H, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",,,,,Tidak Ada ,Tidak Tersedia,-6.7228178,108.5680735,Aksesibilitas Tersedia,[]
+Vihara Budhi Dharma/ Djin Sioe Hwe,Vihara,"Jl. Bahagia No.1, Panjunan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45112",,"4,3",6,,Tidak Ada ,Tidak Tersedia,-6.7148798,108.5630814,Aksesibilitas Tersedia,[]
+Kelenteng Hok Tek Cheng Sin,Vihara,"JL. Kol S Sukani No.41 Jatisura, Mekarsari, Kec. Jatiwangi, Kabupaten Majalengka, Jawa Barat 45454",08.00 hingga 21.00,"4,6",9,"
+(0233) 882101",Ada,Tidak Tersedia,-6.733777,108.2572279,Aksesibilitas Tersedia,[]
+Klenteng Plered,Vihara,"Jalan Plered Raya No. 17, Weru, Plered, Weru Kidul, Kec. Weru, Kabupaten Cirebon, Jawa Barat 45154",08.00 hingga 16.00,"4,4",70,"
+(0231) 320825",Ada,Tidak Tersedia,-6.7058788,108.5128899,Aksesibilitas Tersedia,[]
+Vihara Anuruddha,Vihara,"3QV2+CGH, JL. Lapangan Bola Ampera No.57, Ciledug Lor, Kec. Ciledug, Kabupaten Cirebon, Jawa Barat 45188",,"4,7",13,,Tidak Ada ,Tidak Tersedia,-6.9061501,108.7510258,Aksesibilitas Tersedia,[]
+Vihara Vidya Dharma,Vihara,"Gg. Pandesan 1 No.65, Pekalangan, Kec. Pekalipan, Kota Cirebon, Jawa Barat 45118",,"4,5",4,,Tidak Ada ,Tidak Tersedia,-6.7189444,108.5648336,Aksesibilitas Tersedia,[]
+Vihara Hok Tek,Vihara,"7HH8+PF9, Jalan Kebon Pisang, Pekalipan, Kec. Pekalipan, Kota Cirebon, Jawa Barat 45117",,"5,0",1,"
+0813-1256-6486",Ada,Tidak Tersedia,-6.7207023,108.5662219,Aksesibilitas Tersedia,[]
+Pura Batur sari,Pura,"4F7F+PCX, Desa adat Komala, Banjar, Linggasana, Kec. Cilimus, Kabupaten Kuningan, Jawa Barat 45556",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8856358,108.4736007,Aksesibilitas Tersedia,[]
+Petilasan Mbah Kuwu Sangkan Cirebon Girang,Tujuan Wisata,"6GG3+PX3, Jl. Lembah Cimandung, Kerandon, Kec. Talun, Kabupaten Cirebon, Jawa Barat 45171",Buka 24 jam,"4,7",563,,Tidak Ada ,Tidak Tersedia,-6.7732321,108.5049204,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Kp kanyere,Pura,"778H+54F, Jl. Kramat, Karamat, Kec. Sindang, Kabupaten Majalengka, Jawa Barat 45471",,"2,0",1,,Tidak Ada ,Tidak Tersedia,-6.7345601,108.2777899,Aksesibilitas Tersedia,[]
+Sumur Katandan Mbah Kuwu Sangkan Cirebon,Bangunan Bersejarah,"7HGC+7H4, Jl. Ariodinoto, Kesepuhan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45114",,"4,4",58,,Tidak Ada ,Tidak Tersedia,-6.7243643,108.5714573,Aksesibilitas Tersedia,[]
+Alun-Alun Kejaksan Kota Cirebon,Taman Kota,"Jl. Siliwangi No.1, Kebonbaru, Kec. Kejaksan, Kota Cirebon, Jawa Barat 45124",Buka 24 jam,"4,5",17.103,,Tidak Ada ,Tidak Tersedia,-6.7097427,108.5591407,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Keramat Talun,Tempat Religius,"6GG3+PVP, Cirebon Girang, Kec. Talun, Kabupaten Cirebon, Jawa Barat 45171",Buka 24 jam,"4,6",489,,Tidak Ada ,Tidak Tersedia,-6.7731561,108.5046993,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Merah Panjunan,Masjid,"Jl. Panjunan No.43, Panjunan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45112",Buka 24 jam,"4,7",1.229,,Tidak Ada ,Tidak Tersedia,-6.717455,108.5662572,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Keraton Kaprabonan,Bangunan Bersejarah,"Jl. Lemahwungkuk, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111",Buka 24 jam,"4,5",93,,Tidak Ada ,Tidak Tersedia,-6.7213373,108.5692686,Aksesibilitas Tersedia,"['Dilengkapi dengan sistem bantu dengar', 'Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Tidak ada toilet khusus pengguna kursi roda']"
+Rumah Elsa,Pura,"8996+V9J, Budur, Kec. Ciwaringin, Kabupaten Cirebon, Jawa Barat",,,,,Tidak Ada ,Tidak Tersedia,-6.6802791,108.3608852,Aksesibilitas Tersedia,[]
+Masjid Agung Sang Cipta Rasa,Masjid,"7HFC+W48, Jl. Kasepuhan No.Komplek, Kesepuhan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45114",Buka 24 jam,"4,7",4.490,,Tidak Ada ,Tidak Tersedia,-6.7255956,108.5700485,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+PT. Pura Marka Bhakti,Kantor Perusahaan,"7G4V+MH7, Harjamukti, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45143",,"4,4",5,,Tidak Ada ,Tidak Tersedia,-6.7433279,108.5439127,Aksesibilitas Tersedia,[]
+Vihara Dewi Welas Asih,Vihara,"7HJC+R4Q Kantor, Jalan, Panjunan, Lemahwungkuk, Cirebon City, West Java 45112",,"4,6",307,,Tidak Ada ,Tidak Tersedia,-6.7179106,108.570364,Aksesibilitas Tersedia,[]
+Gapura Selamat Datang Kabupaten Cirebon,Pura,"4H93+76M, Jalan Koreak, Windujaya, Sedong, Cirebon, West Java 45556",,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.8817827,108.5530399,Aksesibilitas Tersedia,[]
+ANTERAJA CIREBON HUB,Pura,"7HF6+6MW, Pulasaren, Kec. Pekalipan, Kota Cirebon, Jawa Barat 45134",Buka 24 jam,"1,0",20,"
+0838-6952-7486",Ada,Tidak Tersedia,-6.7269228,108.5618772,Aksesibilitas Tersedia,[]
+Situs Wisata Religi Sindang Pancuran,Tempat Religius,"Sindanglaut, Kec. Lemahabang, Kabupaten Cirebon, Jawa Barat",,"4,7",96,"
+0851-4772-6544",Ada,Tidak Tersedia,-6.8352881,108.6141383,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+DUTA BESAR,Pura,"Gg. Flamboyan No.6, Sumber, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.7640227,108.4819587,Aksesibilitas Tersedia,[]
+Pura Agung Jati Pramana Cirebon,Pura,"Jl. Bali No.4, Larangan, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45141",,"4,5",222,,Tidak Ada ,Tidak Tersedia,-6.754175,108.5603237,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Situs Sumur Wasiat,Museum,"Kepongpongan, Kec. Talun, Kabupaten Cirebon, Jawa Barat 45171",Buka 24 jam,"4,9",39,,Tidak Ada ,Tidak Tersedia,-6.7433242,108.5177739,Aksesibilitas Tersedia,[]
+Keraton Kasepuhan,Bangunan Bersejarah,"Jl. Kasepuhan No.43, Kesepuhan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45114",08.00 hingga 18.00,"4,5",17.243,"
+0819-3113-2884",Ada,Tersedia,-6.7260285,108.5708692,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Petilasan Sunan Kalijaga,Tujuan Wisata,"7H22+QG8, Jl. Bhakti Abri, Kalijaga, Kec. Harjamukti, Kota Cirebon, Jawa Barat 45144",,"4,6",879,,Tidak Ada ,Tidak Tersedia,-6.7480985,108.551337,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
