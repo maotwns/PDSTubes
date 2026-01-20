@@ -201,7 +201,3 @@ df = pd.DataFrame(data)
 df.to_csv("DataKabCiamis2.csv", index=False)
 
 print("Selesai. Data tersimpan.")
-
-
-
-
