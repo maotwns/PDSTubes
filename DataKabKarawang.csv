@@ -1,0 +1,121 @@
+nama_tempat,type_place,alamat,jam_operasional,rating,jumlah_review,telepon,stt_tlp,website,latitude,longitude,Ketersediaan Akses,aksesibilitas
+Masjid Ar-Rahmah,Masjid,"M8FW+H99, Jl. Perum Citra Kebun Mas, Bengle, Kec. Majalaya, Karawang, Jawa Barat 41371",Buka 24 jam,"4,8",324,,Tidak Ada ,Tidak Tersedia,-6.325179,107.3495739,Aksesibilitas Tersedia,[]
+Masjid jami Al-Hidayah,Masjid,"M86R+8Q9, Jl. Citra Kebun Mas, Kondangjaya, Kec. Karawang Tim., Karawang, Jawa Barat 41371",Buka 24 jam,"4,5",29,,Tidak Ada ,Tidak Tersedia,-6.3392212,107.3419923,Aksesibilitas Tersedia,[]
+Masjid Besar Nurul Anwar,Masjid,"M7VW+8WX, Jl. Rm Soleh, Nagasari, Kec. Karawang Bar., Karawang, Jawa Barat 41312",Buka 24 jam,"4,8",270,,Tidak Ada ,Tidak Tersedia,-6.3066329,107.2973638,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Jihad Karawang,Masjid,"P72X+H8Q Natural Tengah, Jl. Jenderal Ahmad Yani, Karangpawitan, Kec. Karawang Bar., Karawang, Jawa Barat 41315",Buka 24 jam,"4,7",1.997,,Ada,Tidak Tersedia,-6.2985372,107.2983683,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Raya Al-Kasiah,Masjid,"J9R2+CP4, Klari, Kec. Klari, Karawang, Jawa Barat 41371",Buka 24 jam,"4,7",456,,Tidak Ada ,Tidak Tersedia,-6.3589928,107.3518162,Aksesibilitas Tersedia,[]
+Masjid Al Barokah Perumahan Karawang Jaya,Masjid,"M82X+F9G Perumahan Karawang Jaya, Desa, Gintungkerta, Kec. Klari, Karawang, Jawa Barat 41371",Buka 24 jam,"4,7",71,,Tidak Ada ,Tidak Tersedia,-6.3488126,107.3484646,Aksesibilitas Tersedia,[]
+Masjid Jami' Nurul Islam,Masjid,"M84R+3PP, Jl. Raya Klari, Anggadita, Kec. Klari, Karawang, Jawa Barat 41371",Buka 24 jam,"4,7",80,,Tidak Ada ,Tersedia,-6.3447877,107.3418344,Aksesibilitas Tersedia,[]
+Masjid Jami' Baiturrahman,Masjid,"Perumnas Jl. Cisokan Raya No.1 2, RT.2/RW.12, West Adiarsa, West Karawang, Karawang, West Java 41311",Buka 24 jam,"4,8",141,,Tidak Ada ,Tidak Tersedia,-6.3204228,107.3096972,Aksesibilitas Tersedia,[]
+Masjid Jami' Nurul Falah,Masjid,"W7GW+HJ9, Desa Jl. Raya Bolang, RT.010/RW.003, Dusun Krajan, Bolang, Kec. Tirtajaya, Karawang, Jawa Barat 41357",Buka 24 jam,"4,4",51,,Tidak Ada ,Tidak Tersedia,-6.0734964,107.2961192,Aksesibilitas Tersedia,[]
+Masjid Jami An-Nur Karawang,Masjid,"P7GM+CWR, Jl. Lingkar Tanjungpura, Tanjungmekar, Kec. Karawang Bar., Karawang, Jawa Barat 41316",Buka 24 jam,"4,7",746,,Tidak Ada ,Tidak Tersedia,-6.2739,107.2847664,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Jami Aliyah,Masjid,"Jl. International Karawang Barat No.Km 03, Wadas, Telukjambe Timur, Karawang, Jawa Barat 41361",Buka 24 jam,"4,8",3.216,,Ada,Tidak Tersedia,-6.3215993,107.2716724,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Al Falah,Masjid,"P74R+CW5, Kp.bubulak sauyunan, RT.04/rw08, Tanjungpura, Kec. Karawang Bar., Karawang, Jawa Barat 41316",Buka 24 jam,"4,8",43,,Tidak Ada ,Tidak Tersedia,-6.2939937,107.2923468,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Huda Grand Taruma,Masjid,"M7VP+M67, Sukamakmur, Telukjambe Timur, Karawang, Jawa Barat 41361",Buka 24 jam,"4,8",191,,Tidak Ada ,Tidak Tersedia,-6.3058368,107.2855458,Aksesibilitas Tersedia,[]
+Masjid At-Taubah Rest Area KM 57A Jakarta-Cikampek,Masjid,"Rest Area Km. 57 , Tol Cikampek, Kec. Klari, Karawang, Jawa Barat 41371",,"4,7",7.125,,Tidak Ada ,Tidak Tersedia,-6.3676978,107.3614454,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami Al Barkah,Masjid,"V8C9+QW7, Jl. Raya Kemiri, Kemiri, Kec. Jayakerta, Karawang, Jawa Barat 41352",Buka 24 jam,"4,6",55,,Tidak Ada ,Tidak Tersedia,-6.1280863,107.3197937,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Falah,Masjid,"H9Q2+25Q, Kutanegara, Kec. Ciampel, Karawang, Jawa Barat 41363",Buka 24 jam,"4,7",38,,Tidak Ada ,Tidak Tersedia,-6.4124133,107.3504983,Aksesibilitas Tersedia,[]
+Masjid Jami' Baiturrohman,Masjid,"Jl. Proklamasi No.20, Tanjungmekar, Kec. Karawang Bar., Karawang, Jawa Barat 41316",Buka 24 jam,"4,9",101,,Ada,Tersedia,-6.2672615,107.2782581,Aksesibilitas Tersedia,[]
+Masjid Agung Syekh Quro Karawang,Masjid,"Jl. Alun-Alun Utara, Karawang, Kec. Cikole, Kota Sukabumi, Jawa Barat 41311",04.00 hingga 22.00,"4,7",1.140,"
+(0267) 401001",Ada,Tersedia,-6.310403,107.292437,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Raya Bumi Telukjambe,Masjid,"Perumnas Bumi Telukjambe, Jl. Bharata Raya No.1A, RT.02/RW.08, Sukaluyu, Telukjambe Timur, Karawang Barat, Jawa Barat 41361",Buka 24 jam,"4,7",1.082,,Tidak Ada ,Tidak Tersedia,-6.3327734,107.2828242,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Hidayah,Masjid,"Jl. Raya Klari No.25, Gintungkerta, Kec. Klari, Karawang, Jawa Barat 41371",Buka 24 jam,"4,7",106,,Tidak Ada ,Tidak Tersedia,-6.3527562,107.3450826,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Mitra,Masjid,"Kawasan Industri MitraKarawang, Jl. Mitra Tim. II, Parungmulya, Kec. Ciampel, Karawang, Jawa Barat 41363",Buka 24 jam,"4,8",83,,Tidak Ada ,Tidak Tersedia,-6.3720241,107.32295,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jamie Al-Ulya,Masjid,"P79H+67F, Jalan Rangga Gede RT. 006 RW. 012 KP. Teluk Mungkal. Kel, Jl. Rangga Gede, Tanjungmekar, Kec. Karawang Bar., Karawang, Jawa Barat 41316",04.30 hingga 22.30,"4,7",63,"
+0822-1162-1364",Ada,Tidak Tersedia,-6.2832997,107.2790986,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Raya KIIC,Masjid,"J7WC+288, Sukaluyu, Telukjambe Timur, Karawang, Jawa Barat 41361",,"4,6",552,,Tidak Ada ,Tidak Tersedia,-6.3549518,107.2708317,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Raya Puri Teluk Jambe,Masjid,"Sirnabaya, Telukjambe Timur, Karawang, Jawa Barat 41361",Buka 24 jam,"4,7",2.535,"
+(0267) 645593",Ada,Tidak Tersedia,-6.3343143,107.3044431,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al-Huda,Masjid,"Jl. Suhud Hidayat No.13, Warungbambu, Kec. Karawang Tim., Karawang, Jawa Barat 41371",Buka 24 jam,"4,7",160,,Tidak Ada ,Tidak Tersedia,-6.3290236,107.3261053,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+GKPI KARAWANG,Gereja,"M8G5+53J, Telukjambe, Telukjambe Timur, Karawang, Jawa Barat 41361",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.3245306,107.3076338,Aksesibilitas Tersedia,[]
+Gereja Kristen Pasundan Jemaat Sadang,Gereja Kristen,"Jl. Raya Sadang - Subang No.9, Ciwangi, Kec. Bungursari, Kabupaten Purwakarta, Jawa Barat 41118",,"4,9",16,"
+(0264) 202597",Ada,Tidak Tersedia,-6.5141886,107.4676593,Aksesibilitas Tersedia,[]
+Gereja Protestan di Indonesia bagian Barat (GPIB) Syalom Cikampek,Gereja,"Jl. Ps. Permai Gang Bina Pemuda No.3, Cikampek Sel., Kec. Cikampek, Karawang, Jawa Barat 41373",09.00 hingga 17.00,"4,9",27,"
+(0264) 313621",Ada,Tersedia,-6.4101383,107.456749,Aksesibilitas Tersedia,[]
+Gereja GKI Rengasdengklok,Gereja Presbiterian,"R7RW+J37, Jl. Perintis Kemerdekaan, R.Dengklok Sel., Kec. R.Dengklok, Karawang, Jawa Barat 41352",08.00 hingga 04.00,"4,5",42,"
+0857-1999-2038",Ada,Tidak Tersedia,-6.1584585,107.2951865,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Charles Business Center GBI Rachmani,Tempat Ibadah,"M8QJ+QVF, Margasari, Kec. Karawang Tim., Karawang, Jawa Barat 41371",,"4,7",36,,Tidak Ada ,Tersedia,-6.3105732,107.3321785,Aksesibilitas Tersedia,[]
+HKBP Karawang Resort Karawang. Kota Karawang.,Gereja Lutheran,"Jl. Resinda No.8 Blok J, Purwadana, Telukjambe Timur, Karawang, West Java 41361",08.00 hingga 22.00,"4,6",124,,Tidak Ada ,Tersedia,-6.2910907,107.2698516,Aksesibilitas Tersedia,[]
+GKI Karawang,Gereja,"Jl. Resinda, Ruko Resinda D'plaza II F3 No.12, Purwadana, Telukjambe Timur, Karawang, West Java 41361",Tutup,"5,0",19,"
+0852-1004-8599",Ada,Tersedia,-6.2989924,107.2733469,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Kristus Raja, Karawang",Gereja Katolik,"Jl. Parahiyangan No.45, Adiarsa Bar., Kec. Karawang Bar., Karawang, Jawa Barat 41311",,"4,7",458,"
+0811-1184-6688",Ada,Tersedia,-6.315867,107.3089935,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GBI Galuh Mas Karawang,Gereja,"M7FR+V2W, Sukaharja, Telukjambe Timur, Karawang, Jawa Barat 41361",08.00 hingga 22.00,"4,9",118,,Tidak Ada ,Tersedia,-6.3252539,107.2900707,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Bethel Indonesia Sion,Gereja,"Jl. Tuparev No.78, RT.2/RW.31, Nagasari, Kec. Karawang Bar., Karawang, Jawa Barat 41312",,"4,6",62,"
+(0267) 403865",Ada,Tersedia,-6.3086223,107.3036284,Aksesibilitas Tersedia,[]
+GKI Lippo Cikarang,Gereja,"Ruko Roxy Blok A No.12, 15, 16, Jl. MH. Thamrin, Cibatu, Cikarang, Cibatu, Cikarang Sel., Kabupaten Bekasi, Jawa Barat 14250",Buka 24 jam,"4,7",152,"
+(021) 89900165",Ada,Tersedia,-6.33137,107.148921,Aksesibilitas Tersedia,[]
+HKBP Ressort Cikampek,Gereja Lutheran,"Jl. Kamojing No.1, Cikampek Sel., Kec. Cikampek, Karawang, Jawa Barat 41373",Buka 24 jam,"4,5",84,"
+0823-1111-1649",Ada,Tidak Tersedia,-6.4106549,107.4563889,Aksesibilitas Tersedia,[]
+Gkbi Karawang,Gereja Apostolik,"P72C+8J9, Purwadana, Telukjambe Timur, Karawang, Jawa Barat 41361",Tutup,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.2992014,107.2716156,Aksesibilitas Tersedia,[]
+Gereja Kristen Pasundan Jemaat Bekasi,Gereja,"Jl. Insinyur H. Juanda No.166B, RT.001/RW.009, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17114",,"4,7",68,"
+(021) 8814961",Ada,Tersedia,-6.2494918,107.0141986,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Kristen Protestan Simalungun (GKPS) Karawang,Gereja,"M8C6+7QJ, Unnamed Road, Telukjambe, Telukjambe Timur, Karawang, West Java 41361",,"4,6",10,,Tidak Ada ,Tersedia,-6.3292993,107.3118923,Aksesibilitas Tersedia,[]
+GKP Cikampek,Gereja,"Jl. Ahmad Yani No.23, Cikampek Sel., Kec. Cikampek, Karawang, Jawa Barat 41373",Tutup,"4,8",35,,Tidak Ada ,Tidak Tersedia,-6.4042763,107.4519261,Aksesibilitas Tersedia,[]
+ADVENT CIKAMPEK,Gereja Advent Hari Ketujuh,"Cikampek Bar., Kec. Cikampek, Karawang, Jawa Barat 41373",09.00 hingga 21.00,"4,7",15,,Tidak Ada ,Tidak Tersedia,-6.3898235,107.455729,Aksesibilitas Tersedia,[]
+GKIN HOSIANA,Gereja,"Jl. Camar 6 Blok Ai No.16, RT.12/RW.5, Duren, Kec. Klari, Karawang, Jawa Barat 41371",Buka 24 jam,"5,0",6,"
+(0267) 433617",Ada,Tersedia,-6.3602987,107.3748655,Aksesibilitas Tersedia,[]
+Gereja Online,Gereja,"Jl. Perum Kandiwa II.18 Blok A1RT.4, RW.18, DurenKec, Kec. Klari, Karawang, Jawa Barat 41371",Buka 24 jam,"5,0",1,"
+0822-1790-7499",Ada,Tidak Tersedia,-6.3569017,107.3780339,Aksesibilitas Tersedia,[]
+"Gereja Katolik Santa Maria, Kota Bukit Indah",Gereja Katolik,"HF49+94Q, Jl. Kota Bukit Indah Raya, Wanakerta, Kec. Bungursari, Kabupaten Purwakarta, Jawa Barat 41181",,"4,8",209,,Tidak Ada ,Tidak Tersedia,-6.4440306,107.4678547,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GSRI Karawang,Gereja Injil,"M8R2+8FQ, Nagasari, Kec. Karawang Bar., Karawang, Jawa Barat 41312",,"4,9",39,,Tidak Ada ,Tersedia,-6.3091562,107.3012278,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GKJ Bekasi,Gereja,"Jl. Jatiluhur Raya RT.001/RW.013. Kompl. Pengairan, Bekasi, Jawa Barat, 17145",09.00 hingga 17.00,"4,7",250,"
+(021) 8840760",Ada,Tersedia,-6.2475898,106.9678082,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+TIBERIAS KARAWANG,Gereja,"P72X+X5F, By Pass, Karangpawitan, Kec. Karawang Bar., Karawang, Jawa Barat 41315",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.2973462,107.2977755,Aksesibilitas Tersedia,[]
+GMS Karawang,Gereja,"Jalan Interchange, Margakaya, Kec. Telukjambe Bar., Karawang, Jawa Barat 41361",Tutup,"5,0",26,,Tidak Ada ,Tersedia,-6.3375569,107.2721379,Aksesibilitas Tersedia,[]
+Gereja Kristen Pasundan Purwakarta,Gereja,"Jl. Jendral Sudirman No.226, Nagri Kaler, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat 41115",08.00 hingga 14.00,"4,5",80,,Tidak Ada ,Tersedia,-6.5420562,107.4438784,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKP Immanuel Karawang,Gereja,"Jl. Kertabumi No.39, Karawang Kulon, Kec. Karawang Bar., Karawang, Jawa Barat 41311",Tutup,"4,7",129,"
+(0267) 402039",Ada,Tersedia,-6.3045485,107.2928894,Aksesibilitas Tersedia,[]
+GKII Cabang Cikampek,Gereja,"Balonggandu, Blok 52 no 18, Rt 008/008, Balonggandu, Kec. Jatisari, Karawang, Jawa Barat 41374",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.3885896,107.5135065,Aksesibilitas Tersedia,[]
+"Gereja Katolik - Paroki St Marinus, Resinda",Gereja Katolik,"Jl. Pandawa No.2, Purwadana, Telukjambe Timur, Karawang, Jawa Barat 41361",,"4,8",153,"
+(0267) 412641",Ada,Tersedia,-6.2919774,107.2694553,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GPI Sidang Cikampek (Gereja Pentakosta Indonesia),Gereja Karismatik,"Warung bob, Dawuan Tengah, Kec. Cikampek, Karawang, Jawa Barat 41373",Tutup,"5,0",5,"
+0813-9573-4957",Ada,Tidak Tersedia,-6.3897301,107.4338685,Aksesibilitas Tersedia,[]
+City Light Church Karawang,Gereja,"Ruko CBP, Jl. Galuh Mas Raya Barat No.6D Blok D, Sukaharja, Telukjambe Timur, Karawang, Jawa Barat 41361",,"5,0",1,,Tidak Ada ,Tersedia,-6.3252374,107.291326,Aksesibilitas Tersedia,[]
+GPdI Petra Cikampek,Gereja,"HFR5+XC7, Cikampek Kota, Kec. Cikampek, Karawang, Jawa Barat",,"4,9",9,,Tidak Ada ,Tidak Tersedia,-6.4075809,107.4585494,Aksesibilitas Tersedia,[]
+GPdI Resinda,Gereja Pantekosta,"P759+9VW Perumahan Resinda, Jl. Pandawa, Purwadana, Telukjambe Timur, Karawang, Jawa Barat 41361",,"4,8",61,,Tidak Ada ,Tersedia,-6.2915026,107.2697009,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GBI Cinangoh Karawang,Gereja,"Jl. Tuparev No.429b, Karawang Wetan, Kec. Karawang Tim., Karawang, Jawa Barat 41314",Buka 24 jam,"4,7",146,"
+0812-9067-4590",Ada,Tersedia,-6.3088746,107.310573,Aksesibilitas Tersedia,[]
+Gereja Kristen Jakarta jemaat cikarang,Gereja,"P5P2+G3G, Jl. Anggur, Cikarang Kota, Kec. Cikarang Utara, Kabupaten Bekasi, Jawa Barat 17530",Tutup,"4,9",19,"
+0823-1197-7510",Ada,Tidak Tersedia,-6.2636912,107.1502071,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+"GPdI ""AGAPE"" KOSAMBI PERMAI, KARAWANG.",Gereja,"Jl. Perum Bumi Kosambi Permai Jl. Anggrek No.14, Duren, Kec. Klari, Karawang, Jawa Barat 41371",Buka 24 jam,"5,0",19,,Tidak Ada ,Tidak Tersedia,-6.3747232,107.3751452,Aksesibilitas Tersedia,[]
+GMAHK Panatayuda Karawang,Gereja,"Jl. Panatayuda I No.27, Nagasari, Kec. Karawang Bar., Karawang, Jawa Barat 41312",,"4,7",3,,Tidak Ada ,Tersedia,-6.3046309,107.3014583,Aksesibilitas Tersedia,[]
+GBI Villa Kencana Karawang,Gereja Kristen,"Villa Kencana Karawang blok c2 no 53, Wancimekar, Kec. Kota Baru, Karawang, Jawa Barat",Tutup,"5,0",1,"
+0831-8892-9759",Ada,Tidak Tersedia,-6.3911353,107.4745837,Aksesibilitas Tersedia,[]
+GKJ Karawang,Gereja,"Jl. Resinda Raya No.27, Purwadana, Telukjambe Timur, Karawang, Jawa Barat 41361",,"4,9",10,,Tidak Ada ,Tersedia,-6.2990214,107.2721564,Aksesibilitas Tersedia,[]
+Gereja Bethel Indonesia Cikampek,Gereja,"Jl. Ahmad Yani No.63, 41373, Cikampek Sel., Kec. Cikampek, Karawang, Jawa Barat 41373",,"4,6",68,"
+(0264) 303921",Ada,Tidak Tersedia,-6.407159,107.4548725,Aksesibilitas Tersedia,[]
+GPI Sidang Karawang,Gereja Kristen,"P7G9+842, Tanjungmekar, Kec. Karawang Bar., Karawang, Jawa Barat 41316",Tutup,"4,0",1,,Tidak Ada ,Tidak Tersedia,-6.2742289,107.2677673,Aksesibilitas Tersedia,[]
+"Gereja Katolik - Paroki St Marinus, Resinda",Gereja Katolik,"Jl. Pandawa No.2, Purwadana, Telukjambe Timur, Karawang, Jawa Barat 41361",,"4,8",153,"
+(0267) 412641",Ada,Tersedia,-6.2919774,107.2694553,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Kristus Raja, Karawang",Gereja Katolik,"Jl. Parahiyangan No.45, Adiarsa Bar., Kec. Karawang Bar., Karawang, Jawa Barat 41311",,"4,7",458,"
+0811-1184-6688",Ada,Tersedia,-6.315867,107.3089935,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Vihara Ariyasacca Wancimekar Kalioyod,Vihara,"HFXH+36W, Jl. Raya Kotabaru, Wancimekar, Kec. Kota Baru, Karawang, Jawa Barat 41374",06.00 hingga 18.30,"5,0",10,"
+0858-1189-0375",Ada,Tidak Tersedia,-6.4022542,107.4780675,Aksesibilitas Tersedia,[]
+Vihara Sanghamitta,Vihara,"P759+HJV Resinda Lake, Purwadana, Telukjambe Timur, Karawang, Jawa Barat 41361",,"4,6",13,"
+0812-8008-0670",Ada,Tidak Tersedia,-6.2910145,107.2690451,Aksesibilitas Tersedia,[]
+Vihara Buddha Sasana,Vihara,"R8X3+89F, R.Dengklok Utara, Kec. R.Dengklok, Karawang, Jawa Barat 41352",,"4,7",38,"
+(0267) 482581",Ada,Tidak Tersedia,-6.1516786,107.3034262,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Vihara Dharma Mudita,Vihara,"P7H8+3V2, Jl. Kedung Gede, Kedungwaringin, Kec. Kedungwaringin, Kabupaten Bekasi, Jawa Barat 17540",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.2723536,107.2671394,Aksesibilitas Tersedia,[]
+Vihara Vajra Bumi Karawang,Tempat Ibadah,"M8HF+2P5, Jl. Surotokunto, Adiarsa Tim., Kec. Karawang Tim., Karawang, Jawa Barat 41311",,"4,8",20,,Tidak Ada ,Tidak Tersedia,-6.3224912,107.3243699,Aksesibilitas Tersedia,[]
+Cetya Hianthiankiong Karawang,Vihara,"M8Q2+X4R, Gg. Anyelir 2, Nagasari, Kec. Karawang Bar., Karawang, Jawa Barat 41312",,"5,0",4,"
+0821-2393-3358",Ada,Tidak Tersedia,-6.3100189,107.3002638,Aksesibilitas Tersedia,[]
+Vihara Surya Adhi Guna,Vihara,"Jl. Raya R.Dengklok No.94, R.Dengklok Sel., Kec. R.Dengklok, Karawang, Jawa Barat 41352",Buka 24 jam,"4,7",37,"
+(0267) 482447",Ada,Tidak Tersedia,-6.1622595,107.2979136,Aksesibilitas Tersedia,[]
+Bio Tjou Soe Kong Karawang,Tempat Ibadah,,06.30 hingga 21.00,"3,7",3,,Ada,Tidak Tersedia,-6.3086861,107.3079031,Aksesibilitas Tersedia,[]
+Vihara Dharma Prasada,Vihara,"M7RX+GV6, Jl. Ir. H. Juanda No.1a, Nagasari, Kec. Karawang Bar., Karawang, Jawa Barat 41312",,"4,9",25,"
+(0267) 414145",Ada,Tidak Tersedia,-6.3086091,107.2993828,Aksesibilitas Tersedia,[]
+Shin Jin Kuh Po,Tempat Religius,"Jl. Rangga Gede No.1, Tanjungpura, Kec. Karawang Bar., Karawang, Jawa Barat 41316",,"4,9",13,,Tidak Ada ,Tidak Tersedia,-6.2975066,107.2905825,Aksesibilitas Tersedia,[]
+Ban Lin Tan,Vihara,"Jl. Muhamad Toha No.9, RT.6/RW.9, Tanjungmekar, Kec. Karawang Bar., Karawang, Jawa Barat 41316",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.2749328,107.2680163,Aksesibilitas Tersedia,[]
+Vihara Maha Metta Bio Tjou Soe Kong Karawang,Lembaga Agama,"Nagasari, Kec. Karawang Bar., Karawang, Jawa Barat",,"4,9",9,,Tidak Ada ,Tidak Tersedia,-6.3086598,107.3054363,Aksesibilitas Tersedia,[]
+Vihara Buddha Loka,Vihara,"Jl. Muhamad Toha No.9, Tanjungmekar, Kec. Karawang Bar., Karawang, Jawa Barat 41316",Buka 24 jam,"5,0",9,,Tidak Ada ,Tidak Tersedia,-6.2756436,107.2670417,Aksesibilitas Tersedia,[]
+Vihara Saddhadipa,Vihara,"Jl. Raya Pebayuran No.17450, Kedungwaringin, Kec. Kedungwaringin, Kabupaten Bekasi, Jawa Barat 17540",,"4,9",17,,Tidak Ada ,Tidak Tersedia,-6.2651737,107.2715253,Aksesibilitas Tersedia,[]
+Vihara Buddha Guna- Karawang,Vihara,"M7RX+HRX, Jl. Ir. H. Juanda No.1a, Nagasari, Kec. Karawang Bar., Karawang, Jawa Barat 41312",08.00 hingga 18.00,"4,7",22,"
+0819-0668-5716",Ada,Tidak Tersedia,-6.3086091,107.2993828,Aksesibilitas Tersedia,[]
+Vihara Buddha Dhamma Karawang,Vihara,"Nagasari, Kec. Karawang Bar., Karawang, Jawa Barat",Tutup,"4,9",9,,Tidak Ada ,Tidak Tersedia,-6.3085436,107.3077957,Aksesibilitas Tersedia,[]
+Bio cay sen ye,Vihara,"Jl. Johar Tim. No.11, Adiarsa Tim., Kec. Karawang Tim., Karawang, Jawa Barat 41314",,"5,0",1,"
+0812-1998-0485",Ada,Tidak Tersedia,-6.3107048,107.3208245,Aksesibilitas Tersedia,[]
+Sian Djin Ku Poh Temple,Vihara,"Jl. Muhamad Toha No.9, Tanjungmekar, Kec. Karawang Bar., Karawang, Jawa Barat 41316",,"4,7",1.055,,Tidak Ada ,Tidak Tersedia,-6.2757844,107.2670002,Aksesibilitas Tersedia,[]
+Bio Kwan Tee Koen,Tempat Ibadah,"Jl. Ir. H. Juanda No.1A, Nagasari, Kec. Karawang Bar., Karawang, Jawa Barat 41312",05.00 hingga 21.00,"4,9",27,"
+(0267) 414145",Ada,Tidak Tersedia,-6.3087547,107.2993197,Aksesibilitas Tersedia,[]
+Rumah Sihotang,Vihara,"P7G9+F86, Tanjungmekar, Kec. Karawang Bar., Karawang, Jawa Barat 41316",,"5,0",9,,Tidak Ada ,Tidak Tersedia,-6.2738403,107.2682631,Aksesibilitas Tersedia,[]
