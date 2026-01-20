@@ -1,161 +1,178 @@
 nama_tempat,type_place,alamat,jam_operasional,rating,jumlah_review,telepon,stt_tlp,website,latitude,longitude,Ketersediaan Akses,aksesibilitas
-Masjid Agung Situraja,Masjid,,Buka 24 jam,"4,6",198,,Tidak Ada ,Tidak Tersedia,-6.8398208,108.0179064,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
-Masjid Besar Al Birkah,Masjid,,Buka 24 jam,"4,9",8,,Tidak Ada ,Tidak Tersedia,-6.9482503,108.1261446,Aksesibilitas Tersedia,[]
-Masjid Jami As Sunnah,Masjid,,,"4,9",13,,Tidak Ada ,Tidak Tersedia,-6.8352262,107.9078335,Aksesibilitas Tersedia,[]
-Masjid Agung SUMEDANG,Masjid,,04.00 hingga 22.00,"4,7",4.748,,Tidak Ada ,Tidak Tersedia,-6.8594612,107.9198736,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
-Masjid Jami Nurul Hasanah,Masjid,,Buka 24 jam,"4,8",6,,Tidak Ada ,Tidak Tersedia,-6.8993849,107.8510287,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
-Masjid Al-Syukur,Masjid,,,"4,8",12,,Tidak Ada ,Tidak Tersedia,-6.9513585,107.8189771,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid jami AL FALAH,Masjid,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9182941,107.8399954,Aksesibilitas Tersedia,[]
-MASJID JAMI AL-IKLAS,Tempat Ibadah,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9329456,107.8330052,Aksesibilitas Tersedia,[]
-Masjid Agung MIFTAHUL HUĎA,Masjid,,Buka 24 jam,"4,6",5,,Tidak Ada ,Tidak Tersedia,-6.950547,108.0788861,Aksesibilitas Tersedia,[]
-Masjid Al-Furqon,Masjid,,Buka 24 jam,"4,7",3,,Tidak Ada ,Tidak Tersedia,-6.8119766,107.9396308,Aksesibilitas Tersedia,[]
-Masjid Al-Barokah,Masjid,,,"4,6",7,,Tidak Ada ,Tidak Tersedia,-6.8447518,107.9361704,Aksesibilitas Tersedia,[]
-Masjid Jami Al-Abror,Masjid,,Buka 24 jam,"4,7",11,,Tidak Ada ,Tidak Tersedia,-6.9636244,107.8116777,Aksesibilitas Tersedia,[]
-Masjid Besar Tanjungsari,Masjid,,03.00 hingga 22.00,"4,6",1.234,,Ada,Tidak Tersedia,-6.9033284,107.8008082,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Darussalam Haurlawang,Masjid,,,"4,4",17,,Tidak Ada ,Tidak Tersedia,-6.8880321,107.9067338,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-MASJID JAMI NURUL HAYAT,Masjid,,Buka 24 jam,"4,8",35,,Tidak Ada ,Tidak Tersedia,-6.8650884,107.9491201,Aksesibilitas Tersedia,[]
-Masjid Al-Huda,Masjid,,Buka 24 jam,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.8472032,107.9216224,Aksesibilitas Tersedia,[]
-Masjid Cikaramas,Masjid,,,"4,4",12,,Tidak Ada ,Tidak Tersedia,-6.8258252,107.9498574,Aksesibilitas Tersedia,[]
-Masjid Jami Al-Iman Darussalam,Masjid,,,"4,5",2,,Ada,Tidak Tersedia,-6.911927,107.8083606,Aksesibilitas Tersedia,[]
-Masjid Jami Al Djumsin,Masjid,,Buka 24 jam,"4,6",34,,Tidak Ada ,Tidak Tersedia,-6.953153,107.7973618,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
-Masjid Raya Nyalindung,Masjid,,Buka 24 jam,"4,7",505,,Tidak Ada ,Tidak Tersedia,-6.7907563,108.0418095,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-masjid jami al ghufron,Masjid,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8436814,107.9276999,Aksesibilitas Tersedia,[]
-Masjid Jami At-Taqwa,Masjid,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8308209,107.9193592,Aksesibilitas Tersedia,[]
-Masjid Besar Cimalaka,Masjid,,,"4,6",9,,Tidak Ada ,Tidak Tersedia,-6.8145168,107.9485116,Aksesibilitas Tersedia,[]
-Masjid Jami babussalam,Masjid,,Buka 24 jam,"4,8",9,,Tidak Ada ,Tidak Tersedia,-6.8130287,107.9674185,Aksesibilitas Tersedia,[]
-Masjid Nurul Iman,Masjid,,,"4,7",15,,Tidak Ada ,Tidak Tersedia,-6.9144512,107.7962466,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
-Masjid Jami PT.PLN GITET (S.O.F.T),Masjid,,Buka 24 jam,"5,0",10,,Tidak Ada ,Tidak Tersedia,-6.9658937,107.8175655,Aksesibilitas Tersedia,[]
-Masjid Jami Al Furqon 1 PT. Kahatex,Masjid,,Buka 24 jam,"4,9",44,,Tidak Ada ,Tidak Tersedia,-6.9608791,107.7908681,Aksesibilitas Tersedia,[]
-Mesjid Jami' Assalam Cikoneng,Masjid,,,"4,7",57,,Tidak Ada ,Tidak Tersedia,-6.853601,107.9586871,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Besar AT TAQWA Buahdua,Masjid,,Buka 24 jam,"4,5",11,,Tidak Ada ,Tidak Tersedia,-6.7037446,107.9575778,Aksesibilitas Tersedia,[]
-Masjid Besar Pamulihan,Masjid,,03.30 hingga 20.00,"4,5",167,,Tidak Ada ,Tidak Tersedia,-6.9063298,107.8274145,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Jami Najmul Akbar,Masjid,,,"4,8",21,,Tidak Ada ,Tidak Tersedia,-6.9542509,107.8199677,Aksesibilitas Tersedia,[]
-Masjid al-Furqon Sumedang Selatan,Masjid,,,"4,4",9,,Tidak Ada ,Tidak Tersedia,-6.8531608,107.9234818,Aksesibilitas Tersedia,[]
-Masjid Besar Nurul Iman,Masjid,,,"4,7",22,,Tidak Ada ,Tidak Tersedia,-6.7601974,108.1384732,Aksesibilitas Tersedia,[]
-MASJID AN NAJAH,Masjid,,,"4,7",26,,Tidak Ada ,Tidak Tersedia,-6.9584542,107.8257371,Aksesibilitas Tersedia,[]
-Masjid Jami Nurul Hikmah,Masjid,,Buka 24 jam,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.9522434,107.7991732,Aksesibilitas Tersedia,[]
-Masjid Jami Al-Khudamat,Masjid,,,"4,1",10,,Tidak Ada ,Tidak Tersedia,-6.800649,107.9945128,Aksesibilitas Tersedia,[]
-Masjid Al-Furqon (H. Abdul Rosyid),Masjid,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.809974,107.9641073,Aksesibilitas Tersedia,[]
-Masjid Al-Hikmah,Masjid,,Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-6.8385579,107.9276248,Aksesibilitas Tersedia,[]
-Masjid Besar Tegal Kalong,Masjid,,,"4,6",613,,Tidak Ada ,Tidak Tersedia,-6.848454,107.927356,Aksesibilitas Tersedia,[]
-MASJID JAMI IAL-IKHLAS,Masjid,,Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-6.8463738,107.9393942,Aksesibilitas Tersedia,[]
-Masjid Mujahidin,Masjid,,04.00 hingga 22.00,"4,9",10,,Ada,Tidak Tersedia,-6.8400901,107.932692,Aksesibilitas Tersedia,[]
-Masjid Jami LDII BAITURROHMAN,Masjid,,Buka 24 jam,"4,3",15,,Tidak Ada ,Tidak Tersedia,-6.833696,107.9334782,Aksesibilitas Tersedia,[]
-Masjid Agung Cikareo,Masjid,,Buka 24 jam,"4,5",44,,Tidak Ada ,Tidak Tersedia,-6.9610219,108.0947894,Aksesibilitas Tersedia,[]
-Masjid Jami Al-MUTTAQIIN,Masjid,,Buka 24 jam,"4,7",25,,Tidak Ada ,Tidak Tersedia,-6.8799508,107.9222044,Aksesibilitas Tersedia,[]
-Masjid Umar Bin Khattab,Masjid,,,"4,6",32,,Tidak Ada ,Tidak Tersedia,-6.8454533,107.9161221,Aksesibilitas Tersedia,[]
-Masjid Baitul Makmur (LDII),Masjid,,Buka 24 jam,"4,8",28,,Ada,Tersedia,-6.8398577,107.9216898,Aksesibilitas Tersedia,[]
-Masjid Jami An-Nurullah,Masjid,,,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.8237422,107.9356564,Aksesibilitas Tersedia,[]
-Masjid Jami Nyalindung - Riyaadhul Jannah,Masjid,,Buka 24 jam,"4,8",12,,Tidak Ada ,Tidak Tersedia,-6.9675187,108.1683467,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid AL-BAROKAH,Masjid,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.84489,107.9302129,Aksesibilitas Tersedia,[]
-Masjid Jami Al Ikhlas,Masjid,,Buka 24 jam,"4,5",2,,Tidak Ada ,Tidak Tersedia,-6.9169681,108.2085186,Aksesibilitas Tersedia,[]
-Masjid Jami Nasurulloh,Masjid,,Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-6.8482668,107.9463167,Aksesibilitas Tersedia,[]
-Masjid Jami' Ibnu Taimiyah Sumedang,Masjid,,04.00 hingga 21.00,"4,8",61,,Ada,Tidak Tersedia,-6.8630612,107.903422,Aksesibilitas Tersedia,[]
-Masjid Al Bashir,Masjid,,,"5,0",17,,Tidak Ada ,Tidak Tersedia,-6.8103801,107.9713394,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Agung Sukamantri,Masjid,,,"4,1",28,,Tidak Ada ,Tidak Tersedia,-6.7633408,107.8871403,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Nurul Amanah,Masjid,,Buka 24 jam,"4,6",110,,Ada,Tidak Tersedia,-6.9601128,107.8284263,Aksesibilitas Tersedia,[]
-Masjid AL Ihsan SMKN 1 Sumedang,Masjid,,,"4,0",5,,Tidak Ada ,Tidak Tersedia,-6.8361696,107.9265942,Aksesibilitas Tersedia,[]
-Masjid Jamie Nurulhidayah,Masjid,,,"4,2",6,,Tidak Ada ,Tidak Tersedia,-6.8461879,107.889525,Aksesibilitas Tersedia,[]
-Masjid Al Fajri,Masjid,,,"4,7",13,,Tidak Ada ,Tidak Tersedia,-6.9514822,107.7983307,Aksesibilitas Tersedia,[]
-Masjid Agung Darmaraja,Masjid,,Buka 24 jam,"4,5",117,,Tidak Ada ,Tidak Tersedia,-6.9180621,108.0742914,Aksesibilitas Tersedia,[]
-Mesjid Al-Muawwanah,Masjid,,,"4,7",15,,Tidak Ada ,Tidak Tersedia,-6.8110323,107.9198674,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Al-Mubarok,Masjid,,Buka 24 jam,"4,8",11,,Tidak Ada ,Tidak Tersedia,-6.8215427,107.9650477,Aksesibilitas Tersedia,[]
-Masjid Al Alif,Masjid,,,"4,6",29,,Tidak Ada ,Tidak Tersedia,-6.9206502,107.7931358,Aksesibilitas Tersedia,[]
-Masjid Jami Al-amanah,Masjid,,,"4,5",20,,Tidak Ada ,Tersedia,,,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
-Masjid Al Mujahidin,Masjid,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.8466871,107.9364319,Aksesibilitas Tersedia,[]
-Masjid Al Huda Tegalwangon,Masjid,,,"4,5",44,,Tidak Ada ,Tidak Tersedia,-6.7518494,108.1357675,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Miftahul Falah,Masjid,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.8401254,107.9309628,Aksesibilitas Tersedia,[]
-MASJID AL-ANHAAR JATIGEDE,Masjid,,Buka 24 jam,"4,6",5,,Tidak Ada ,Tidak Tersedia,-6.8583191,108.1064502,Aksesibilitas Tersedia,[]
-Masjid Asy-Syafa'ah,Masjid,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8994431,107.8573316,Aksesibilitas Tersedia,[]
-Masjid Agung Conggeang,Masjid,,,"4,6",105,,Ada,Tidak Tersedia,-6.739418,108.009434,Aksesibilitas Tersedia,[]
-MASJID JAMI NURUL HUDA,Masjid,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8153009,107.9562665,Aksesibilitas Tersedia,[]
-Masjid Jami' Nurul Iman,Masjid,,,"4,8",23,,Tidak Ada ,Tidak Tersedia,-6.8465577,107.9285482,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Al Karnaen,Masjid,,Buka 24 jam,"5,0",2,,Ada,Tidak Tersedia,-6.84935,107.9348733,Aksesibilitas Tersedia,[]
-Masjid As Sa'diah,Masjid,,04.00 hingga 20.00,"4,8",210,,Tidak Ada ,Tidak Tersedia,-6.8360022,107.9171458,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
-MASJID AL BAROKAH,Masjid,,,"4,7",3,,Tidak Ada ,Tidak Tersedia,-6.8328886,107.9249376,Aksesibilitas Tersedia,[]
-Masjid Al-Kamil PP Sumedang,Masjid,,05.00 hingga 20.00,"4,6",220,,Ada,Tidak Tersedia,-6.8399571,107.9181533,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
-Masjid Al Huda,Masjid,,,"4,7",19,,Tidak Ada ,Tidak Tersedia,-6.8378181,107.9252022,Aksesibilitas Tersedia,[]
-MASJID MIFTAHUL FALAH,Masjid,,,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.8469146,107.9259865,Aksesibilitas Tersedia,[]
-Masjid Assalam,Masjid,,,"4,7",156,,Tidak Ada ,Tidak Tersedia,-6.8447291,107.9202003,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Jami DARUSSALAM Panadahan,Masjid,,Buka 24 jam,"4,9",14,,Tidak Ada ,Tidak Tersedia,-6.7265456,108.1467969,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Jami Nurul Huda,Masjid,,,"4,3",13,,Tidak Ada ,Tidak Tersedia,-6.8421114,107.9381277,Aksesibilitas Tersedia,[]
-Masjid Jami As-Salam,Masjid,,,"4,7",9,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
-MESJID AT-TAQWA,Masjid,,,"4,5",17,,Tidak Ada ,Tidak Tersedia,-6.8528176,107.9216607,Aksesibilitas Tersedia,[]
-Al-Hidayah Mosque,Masjid,,,"4,9",8,,Tidak Ada ,Tidak Tersedia,-6.8698155,107.9339965,Aksesibilitas Tersedia,[]
-Masjid Darussakinah Griya Sampurna,Masjid,,,"5,0",9,,Tidak Ada ,Tidak Tersedia,-6.9501091,107.8107818,Aksesibilitas Tersedia,[]
-Masjid Jami Dan Majlis Ta'lim AL QOMARIYYAH,Masjid,,Buka 24 jam,"4,6",8,,Ada,Tidak Tersedia,-6.8651351,107.9170043,Aksesibilitas Tersedia,[]
-Masjid Sholahuddin Al-Ayubi,Masjid,,Buka 24 jam,"4,1",10,,Tidak Ada ,Tidak Tersedia,-6.8336546,107.9279588,Aksesibilitas Tersedia,[]
-Menara Masjid Agung Sumedang,Masjid,,,"4,3",3,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
-Masjid Sabeulit,Masjid,,Buka 24 jam,"4,6",14,,Tidak Ada ,Tidak Tersedia,-6.8811669,108.1192888,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
-Masjid Al - Hidayah,Masjid,,Buka 24 jam,"4,8",6,,Tidak Ada ,Tersedia,-6.8996524,107.8428573,Aksesibilitas Tersedia,[]
-Masjid NUR ATIN,Masjid,,Buka 24 jam,"4,9",25,,Tidak Ada ,Tersedia,-6.8165544,107.9597723,Aksesibilitas Tersedia,[]
-Masjid Al Ishlah,Masjid,,09.00 hingga 22.00,"4,7",31,,Tidak Ada ,Tidak Tersedia,-6.8341163,107.9282905,Aksesibilitas Tersedia,[]
-Masjid Raya Ciromed,Masjid,,Buka 24 jam,"4,5",117,,Tidak Ada ,Tidak Tersedia,-6.910372,107.793926,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Agung Wado,Masjid,,Buka 24 jam,"4,6",48,,Tidak Ada ,Tidak Tersedia,-6.9456618,108.0920932,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-MASJID JAMI AL BAROKAH,Masjid,,,"5,0",4,,Ada,Tidak Tersedia,-6.8556005,107.9586754,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
-Masjid AL-FATHONAH,Masjid,,,"4,6",11,,Tidak Ada ,Tidak Tersedia,-6.8334998,107.9222624,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid Baitul Amanah,Masjid,,,"4,5",33,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
-Masjid Jami Al-Ikhlas,Masjid,,Buka 24 jam,"4,4",11,,Tidak Ada ,Tidak Tersedia,-6.9658385,107.8200267,Aksesibilitas Tersedia,[]
-Masjid Jami Nurul Ai'n,Masjid,,,"5,0",1,,Ada,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
-Masjid Abu Khalifa,Masjid,,,"4,7",14,,Tidak Ada ,Tidak Tersedia,-6.9083363,107.944043,Aksesibilitas Tersedia,[]
-Masjid Jami Al Ihsan,Masjid,,,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.8416585,107.9267416,Aksesibilitas Tersedia,[]
-Masjid AT TAQWA Margamukti,Masjid,,Buka 24 jam,"4,8",4,,Tidak Ada ,Tidak Tersedia,-6.8330114,107.9038632,Aksesibilitas Tersedia,[]
-Masjid Jami Ar-Rohman,Masjid,,,"4,4",39,,Tidak Ada ,Tidak Tersedia,-6.8684641,107.875443,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
-Masjid Jami Al-Muhajirin,Masjid,,,"4,6",42,,Tidak Ada ,Tidak Tersedia,-6.8989027,107.8230871,Aksesibilitas Tersedia,[]
-Masjid Al Hidayah,Masjid,,,"4,5",17,,Tidak Ada ,Tidak Tersedia,-6.9454593,108.1021532,Aksesibilitas Tersedia,[]
-MASJID JAMI ASSANUSIYAH,Masjid,,,"4,4",5,,Tidak Ada ,Tidak Tersedia,-6.8423281,107.9248253,Aksesibilitas Tersedia,[]
-Masjid Jami Nuurul Iman,Masjid,,Buka 24 jam,"4,7",13,,Tidak Ada ,Tidak Tersedia,-6.8359865,107.9305223,Aksesibilitas Tersedia,[]
-Masjid Al-Amin,Masjid,,,"4,9",13,,Tidak Ada ,Tidak Tersedia,-6.861511,107.9252572,Aksesibilitas Tersedia,[]
-MASJID AS SALEH,Masjid,,,"4,5",6,,Tidak Ada ,Tidak Tersedia,-6.807922,107.9499287,Aksesibilitas Tersedia,[]
-MASJID AT TAUBAT,Masjid,,,"5,0",7,,Tidak Ada ,Tidak Tersedia,-6.856184,107.8917772,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
-Masjid jami at-taqwa,Masjid,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8071122,107.9526412,Aksesibilitas Tersedia,[]
-Masjid Jami An Najah,Masjid,,,"4,0",5,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
-Masjid Al Anwar,Masjid,,Buka 24 jam,"5,0",3,,Tidak Ada ,Tersedia,-6.8509176,107.9246408,Aksesibilitas Tersedia,[]
-Masjid Al-hidayah Polres Sumedang,Masjid,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.836884,107.9184883,Aksesibilitas Tersedia,[]
-HKBP SUMEDANG,Gereja Lutheran,,,"5,0",1,,Tidak Ada ,Tersedia,-6.8338387,107.9287578,Aksesibilitas Tersedia,[]
-"Gereja Katolik Santa Maria Fatima, Sumedang",Gereja Katolik,,,"4,2",37,,Tidak Ada ,Tersedia,-6.8448913,107.924891,Aksesibilitas Tersedia,[]
-WELL CC,Gereja,,Tutup,"5,0",24,,Ada,Tersedia,-6.9251406,107.7838026,Aksesibilitas Tersedia,[]
-GKKD Jatinangor,Gereja,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9283977,107.7816423,Aksesibilitas Tersedia,[]
-Gereja Kristen Pasundan Sumedang,Gereja,,,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.8550652,107.9225565,Aksesibilitas Tersedia,[]
-GPdI Sumedang,Gereja,,,"4,8",5,,Tidak Ada ,Tersedia,-6.8417639,107.9256161,Aksesibilitas Tersedia,[]
-"Gereja Katolik Santo Albertus Magnus, Jatinangor",Gereja Katolik,,Tutup,"4,7",100,,Tidak Ada ,Tersedia,-6.9287443,107.763012,Aksesibilitas Tersedia,[]
-Gki anugerah sumedang,Gereja,,Tutup,,,,Tidak Ada ,Tidak Tersedia,-6.8445501,107.9243667,Aksesibilitas Tersedia,[]
-GPdI IMPACT Rancaekek-Jatinangor,Gereja,,08.00 hingga 20.00,"5,0",16,,Tidak Ada ,Tidak Tersedia,-6.9560293,107.7758583,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
-GBI Rock Sumedang,Gereja Karismatik,,05.00 hingga 06.00,"5,0",1,,Ada,Tidak Tersedia,-6.8436115,107.9159839,Aksesibilitas Tersedia,[]
-Gereja,Gereja,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.8395568,107.9264544,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
-"Gereja Katolik Santa Maria Fatima, Sumedang",Gereja Katolik,,,"4,2",37,,Tidak Ada ,Tersedia,,,Aksesibilitas Tersedia,[]
-"Gereja Katolik Santo Albertus Magnus, Jatinangor",Gereja Katolik,,Tutup,"4,7",100,,Tidak Ada ,Tersedia,-6.9287443,107.763012,Aksesibilitas Tersedia,[]
-Syaeful ( Eplu ) Home,Vihara,,Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-6.9930235,107.8529879,Aksesibilitas Tersedia,[]
-Patubg Sembah Konghucu,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.9301023,107.7869708,Aksesibilitas Tersedia,[]
-Wisata Kampoeng Ciherang,Tujuan Wisata,,08.00 hingga 17.00,"4,3",3.407,,Tidak Ada ,Tidak Tersedia,-6.8293636,107.7978925,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Sanggar Pemujaan Wira Widya Angkasa Seskoau,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.8286615,107.630758,Aksesibilitas Tersedia,[]
-user alucard mematikan sigma,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.9752134,107.6685752,Aksesibilitas Tersedia,[]
-Candi Bojongemas,Pura,,08.00 hingga 18.00,"4,5",23,,Ada,Tidak Tersedia,-6.9967228,107.7089853,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Gapura selamat datang desa cijeler,Pura,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.857494,108.0062903,Aksesibilitas Tersedia,[]
-Pura Puser Dayeuh Siliwangi ᮕᮥᮛ ᮕᮥᮞᮨᮁ ᮓᮚᮩᮂ ᮞᮤᮜᮤᮝᮍᮤ,Pura,,Buka 24 jam,"4,8",40,,Tidak Ada ,Tidak Tersedia,-6.9176854,107.611264,Aksesibilitas Tersedia,[]
-Makam keramat gunung nangtung,Museum,,Buka 24 jam,"4,8",60,,Tidak Ada ,Tidak Tersedia,-6.8622047,107.8883286,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Pura Wira Natha Dharma,Pura,,Buka 24 jam,"4,6",29,,Tidak Ada ,Tidak Tersedia,-6.9286169,107.6289606,Aksesibilitas Tersedia,[]
-Bunderan Polres Lama ( Mahkota Binokasih),Titik Pemandangan,,Buka 24 jam,"4,5",318,,Tidak Ada ,Tidak Tersedia,-6.8604645,107.9163744,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
-Sai Jelita Bandung,Pura,,18.00 hingga 21.00,,,,Tidak Ada ,Tidak Tersedia,-6.9591839,107.6355893,Aksesibilitas Tersedia,[]
-FamSuherman,Pura,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.7231143,107.9098254,Aksesibilitas Tersedia,[]
-Kontrakan jengad jengad,Pura,,Buka 24 jam,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.9706642,107.6341071,Aksesibilitas Tersedia,[]
-Jeroan Lobongan,Pura,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9175241,107.619048,Aksesibilitas Tersedia,[]
-Candi Bojong Menje,Tujuan Wisata,,08.00 hingga 16.00,"4,1",361,,Ada,Tersedia,-6.9659789,107.801837,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-rubbish burning place,Pura,,,,,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
-Batok biled (binsar),Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.9430221,107.5871644,Aksesibilitas Tersedia,[]
-JL Cepat Dr Rosye Rosaria Zaena Cileunnyi,Pura,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9412199,107.7560215,Aksesibilitas Tersedia,[]
-Pura Praja Natha IPDN,Pura,,,"4,6",9,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
-Kuil Ganesha Dago Pakar ᮊᮥᮄᮜ᮪ ᮌᮔᮨᮞ᮪ᮠ ᮓᮌᮧ ᮕᮊᮁ,Pura,,08.00 hingga 20.00,"4,8",16,,Ada,Tidak Tersedia,-6.8545259,107.6483593,Aksesibilitas Tersedia,[]
-Viyata Wira Pradata,Pura,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8638969,107.5945256,Aksesibilitas Tersedia,[]
-Merajan Dadia Pasek Gelgel Delod Sekolahan Wit Ki Dira,Pura,,Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-6.9272534,107.7050971,Aksesibilitas Tersedia,[]
-Pura Giri Nata Sespim,Pura,,,"4,9",15,,Tidak Ada ,Tidak Tersedia,-6.8215123,107.6384103,Aksesibilitas Tersedia,[]
-markas tiens,Pura,,,,,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
-Pura Cita Pramesthya,Lembaga Agama,,,"5,0",1,,Ada,Tidak Tersedia,-6.9260056,107.6615095,Aksesibilitas Tersedia,[]
-Pura Vira Chandra Dharma Secapa AD,Pura,,,"4,9",73,,Tidak Ada ,Tidak Tersedia,-6.8702837,107.5977838,Aksesibilitas Tersedia,[]
-"Gereja Katolik Santo Albertus Magnus, Jatinangor",Gereja Katolik,,Tutup,"4,7",100,,Tidak Ada ,Tersedia,-6.9287443,107.763012,Aksesibilitas Tersedia,[]
-Pura Wira Satya Dharma ᮕᮥᮛ ᮝᮤᮛ ᮞᮒᮡ ᮓᮁᮙ,Pura,,Buka 24 jam,"4,7",118,,Ada,Tidak Tersedia,-6.9158995,107.6915073,Aksesibilitas Tersedia,[]
-AMINAH TIPU TIPU,Pura,,Buka 24 jam,"3,7",6,,Ada,Tersedia,-6.8018238,107.5689431,Aksesibilitas Tersedia,[]
-Padma Sari Wira Catya Yudha,Pura,,09.00 hingga 21.00,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.9868299,107.6239356,Aksesibilitas Tersedia,[]
-Pura Wira Satya Akaça ᮕᮥᮛ ᮝᮤᮛ ᮞᮒᮡ ᮃᮊᮞ᮪ᮠ,Pura,,Buka 24 jam,"4,9",44,,Ada,Tidak Tersedia,-6.9851114,107.5681101,Aksesibilitas Tersedia,[]
-Gapura Desa Naluk,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.7810227,107.9192064,Aksesibilitas Tersedia,[]
-Pura Agung Wira Loka Natha,Pura,,Buka 24 jam,"4,7",180,,Ada,Tidak Tersedia,-6.88402,107.5354883,Aksesibilitas Tersedia,[]
+Masjid Baitul Makmur (LDII),Masjid,"5W6C+3M4, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",Buka 24 jam,"4,8",28,"
+0813-2111-5597",Ada,Tersedia,-6.8398577,107.9216898,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Ikhlas,Masjid,"2RMC+M26, Ciburaleng, Sindangpakuon, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",Buka 24 jam,"4,4",11,,Tidak Ada ,Tidak Tersedia,-6.9658385,107.8200267,Aksesibilitas Tersedia,[]
+MASJID JAMI AL-IKLAS,Tempat Ibadah,"3R8M+R6C, kp.kiarajegang, RT.05/RW.02, Mekarbakti, Kec. Pamulihan, Kabupaten Sumedang, Jawa Barat 45365",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9329456,107.8330052,Aksesibilitas Tersedia,[]
+Masjid Jami Al Djumsin,Masjid,"2QWW+PWQ, Kp. Baturumpil, Desa, Mangunarga, Cimanggung, Sumedang Regency, West Java 45364",Buka 24 jam,"4,6",34,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Besar Isra Noor,Masjid,"3R49+7M8, Cikahuripan, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",Buka 24 jam,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9443366,107.819189,Aksesibilitas Tersedia,[]
+Masjid Jami Dan Majlis Ta'lim AL QOMARIYYAH,Masjid,"4WM8+WRR, Sukajaya, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",Buka 24 jam,"4,6",8,"
+0857-2255-4703",Ada,Tidak Tersedia,-6.8651351,107.9170043,Aksesibilitas Tersedia,[]
+Masjid Al-Huda,Masjid,"Jl. Serma Muchtar Gg. Pabrik Es, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45323",Buka 24 jam,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.8472032,107.9216224,Aksesibilitas Tersedia,[]
+Masjid Jami Al Ikhlas,Masjid,"36M5+6C6, Cimanintin, Kec. Jatinunggal, Kabupaten Sumedang, Jawa Barat 45376",Buka 24 jam,"4,5",2,,Tidak Ada ,Tidak Tersedia,-6.9169681,108.2085186,Aksesibilitas Tersedia,[]
+Masjid Abu Khalifa,Masjid,"3WRV+MJ7, Cipancar, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",,"4,7",14,,Tidak Ada ,Tidak Tersedia,-6.9083363,107.944043,Aksesibilitas Tersedia,[]
+Masjid Jami Al Ikhwan,Masjid,"45373 kabupaten/kota madya, cihirung 1, RT.01/RW.07, Ganjaresik, Kec. Wado, Kabupaten Sumedang, Jawa Barat 45373",Buka 24 jam,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9890961,108.1402992,Aksesibilitas Tersedia,[]
+Masjid Agung Conggeang,Masjid,"7265+6QM, Dsn.Kaum, Desa Ke.Conggeang, Kab.Sumedang, Jl. Legok - Conggeang, Conggeang Kulon, Kec. Conggeang, Kabupaten Sumedang, Jawa Barat 45391",,"4,6",105,"
+0822-1926-3240",Ada,Tidak Tersedia,-6.739418,108.009434,Aksesibilitas Tersedia,[]
+Masjid AL Ihsan SMKN 1 Sumedang,Masjid,"5W7G+GJQ, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"4,0",5,,Tidak Ada ,Tidak Tersedia,-6.8361696,107.9265942,Aksesibilitas Tersedia,[]
+Masjid Jami' Ibnu Taimiyah Sumedang,Masjid,"4WP3+Q9F, Pasanggrahan Baru, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",04.00 hingga 21.00,"4,8",61,"
+0852-2425-1844",Ada,Tidak Tersedia,-6.8630612,107.903422,Aksesibilitas Tersedia,[]
+Masjid Raya Ciromed,Masjid,"3QQV+VH3, Jl. Pamagersari, Kutamandiri, Kec. Tanjungsari, Kabupaten Sumedang, Jawa Barat 45362",Buka 24 jam,"4,5",117,,Tidak Ada ,Tidak Tersedia,-6.910372,107.793926,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Menara Masjid Agung Sumedang,Masjid,"Jl. Raya Cirebon - Bandung No.40, Regol Wetan, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",,"4,3",3,,Tidak Ada ,Tidak Tersedia,-6.8604267,107.9210257,Aksesibilitas Tersedia,[]
+MASJID JAMI AL-KHOIRIYAH,Masjid,"Dusun Cilangah, Baginda, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",04.00 hingga 20.00,"4,6",38,"
+0823-7555-5573",Ada,Tidak Tersedia,-6.8985511,107.9377285,Aksesibilitas Tersedia,[]
+Masjid Nurul Iman,Masjid,"Perumahan Griya Jatinangor 2 RW.14, RT.06, Cinanjung, Kec. Tanjungsari, Kabupaten Sumedang, Jawa Barat 45362",,"4,7",15,,Tidak Ada ,Tidak Tersedia,-6.9144512,107.7962466,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Al-Furqon (H. Abdul Rosyid),Masjid,"5XR7+2J9, Jl. Bukit Nyampai Mandalaherang, Mandalaherang, Kec. Cimalaka, Kabupaten Sumedang, Jawa Barat 45353",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.809974,107.9641073,Aksesibilitas Tersedia,[]
+Masjid Jami Ar-Rohman,Masjid,"4VJG+J58, Jl. Cadas Pangeran, Ciherang, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",,"4,4",39,,Tidak Ada ,Tidak Tersedia,-6.8684641,107.875443,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Al Falah Amariya,Masjid,"65P2+FM8, Dusun Situsari, RT.01/RW.05, Tolengas, Kec. Tomo, Kabupaten Sumedang, Jawa Barat 45382",,"5,0",20,"
+0812-2174-1285",Ada,Tidak Tersedia,-6.7638345,108.1517074,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Syukur,Masjid,"2RX9+FH5, Jl. Dadali, Cihanjuang, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",,"4,8",12,,Tidak Ada ,Tidak Tersedia,-6.9513585,107.8189771,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami babussalam,Masjid,"5XP8+QXM, Cibeureum Kulon, Kec. Cimalaka, Kabupaten Sumedang, Jawa Barat",Buka 24 jam,"4,8",9,,Tidak Ada ,Tidak Tersedia,-6.8130287,107.9674185,Aksesibilitas Tersedia,[]
+MESJID AT-TAQWA,Masjid,"4WWC+VMF, Jl. Kutamaya, Kotakulon, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",,"4,5",17,,Tidak Ada ,Tidak Tersedia,-6.8528176,107.9216607,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Fatimah,Masjid,"Jl. Serma Muchtar No.73, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",03.45 hingga 20.00,"4,0",3,,Tidak Ada ,Tidak Tersedia,-6.8446648,107.9190487,Aksesibilitas Tersedia,[]
+Masjid Besar Al Birkah,Masjid,"342G+MFR, Sirnasari, Kec. Jatinunggal, Kabupaten Sumedang, Jawa Barat 45376",Buka 24 jam,"4,9",8,,Tidak Ada ,Tidak Tersedia,-6.9482503,108.1261446,Aksesibilitas Tersedia,[]
+Masjid Jami Al-amanah,Masjid,"2RWJ+PC2, Pasirnanjung, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",,"4,5",20,,Tidak Ada ,Tersedia,-6.9532455,107.8310134,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid AT TAQWA Margamukti,Masjid,"Jl. Panyindangan No.53, Margamukti, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",Buka 24 jam,"4,8",4,,Tidak Ada ,Tidak Tersedia,-6.8330114,107.9038632,Aksesibilitas Tersedia,[]
+Masjid Jami Al-MUTTAQIIN,Masjid,"4WCC+2V8, Margamekar, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",Buka 24 jam,"4,7",25,,Tidak Ada ,Tidak Tersedia,-6.8799508,107.9222044,Aksesibilitas Tersedia,[]
+Masjid Jami Nurul Huda,Masjid,"5W5Q+572, Jl. Kebon Kalapa, Rancamulya, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"4,3",13,,Tidak Ada ,Tidak Tersedia,-6.8421114,107.9381277,Aksesibilitas Tersedia,[]
+Masjid Raya Nyalindung,Masjid,"625R+MPV, Nyalindung, RT.06/RW.2, Padanaan, Kec. Paseh, Kabupaten Sumedang, Jawa Barat 45381",Buka 24 jam,"4,7",505,,Tidak Ada ,Tidak Tersedia,-6.7907563,108.0418095,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al Ihsan,Masjid,"5W5G+8MQ, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.8416585,107.9267416,Aksesibilitas Tersedia,[]
+Mesjid Al Mubarok,Tempat Ibadah,"Pabuaran, RT. 04 RW. 02, Sukawenang, Ganeas, Jatihurip, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.8163934,107.9258167,Aksesibilitas Tersedia,[]
+Masjid Jami PT.PLN GITET (S.O.F.T),Masjid,"2RM9+J2W, Cihanjuang, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",Buka 24 jam,"5,0",10,,Tidak Ada ,Tidak Tersedia,-6.9658937,107.8175655,Aksesibilitas Tersedia,[]
+Masjid Jami Al Falah,Masjid,"5WRW+V3, Licin, Kec. Cimalaka, Kabupaten Sumedang, Jawa Barat 45353",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8079798,107.9452003,Aksesibilitas Tersedia,[]
+Masjid Al - Hidayah,Masjid,"4R2V+44Q, Cihonje, Cigendel, Pamulihan, Sumedang Regency, West Java 45365",Buka 24 jam,"4,8",6,,Tidak Ada ,Tersedia,-6.8996524,107.8428573,Aksesibilitas Tersedia,[]
+Masjid Al-Furqon,Masjid,"Asem/Pasir Lembur Sawah, Cijeruk, Kec. Pamulihan, Kabupaten Sumedang, Jawa Barat 45365",,"5,0",24,"
+0811-2181-876",Ada,Tidak Tersedia,-6.8745922,107.8602088,Aksesibilitas Tersedia,[]
+Masjid Besar Pamulihan,Masjid,"Jl. Raya Simpang-Parakanmuncang No.16, Haurngombong, Kec. Pamulihan, Kabupaten Sumedang, Jawa Barat 45362",03.30 hingga 20.00,"4,5",167,,Tidak Ada ,Tidak Tersedia,-6.9063298,107.8274145,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid al-Furqon Sumedang Selatan,Masjid,"4WWF+P9Q, Jl. Prabu Geusan Ulun, Regol Wetan, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",,"4,4",9,,Tidak Ada ,Tidak Tersedia,-6.8531608,107.9234818,Aksesibilitas Tersedia,[]
+Masjid Al Huda Tegalwangon,Masjid,"64XP+786, Palabuan, Kec. Ujung Jaya, Kabupaten Sumedang, Jawa Barat 45383",,"4,5",44,,Tidak Ada ,Tidak Tersedia,-6.7518494,108.1357675,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Cikaramas,Masjid,"5WFX+MW9, Kebonkalapa, Kec. Cisarua, Kabupaten Sumedang, Jawa Barat 45353",,"4,4",12,,Tidak Ada ,Tidak Tersedia,-6.8258252,107.9498574,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Khudamat,Masjid,"5XXV+PRR, Legok Kaler, Kec. Paseh, Kabupaten Sumedang, Jawa Barat 45381",,"4,1",10,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
+Masjid Fatwa Wicaksono,Masjid,"8VHF+FHF Dsn, ciloa, Pamekarsari, Surian, Sumedang Regency, West Java 45393",04.00 hingga 19.30,"4,9",14,,Tidak Ada ,Tidak Tersedia,-6.6713203,107.8739183,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al Fathiah,Masjid,"JL.Bojong Kaler Kebon Kelapa No.45321, Rancamulya, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45321",Buka 24 jam,"4,8",5,"
+0822-9949-7811",Ada,Tidak Tersedia,-6.8438017,107.9401518,Aksesibilitas Tersedia,[]
+mesjid pasir balok,Masjid,"348C+J83, Unnamed Road, Sarimekar, Kec. Jatinunggal, Kabupaten Sumedang, Jawa Barat 45376",Buka 24 jam,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.9334934,108.1208056,Aksesibilitas Tersedia,[]
+MASJID JAMI ASSANUSIYAH,Masjid,"Jl. Panyingkiran No.80, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"4,4",5,,Tidak Ada ,Tidak Tersedia,-6.8423281,107.9248253,Aksesibilitas Tersedia,[]
+Mesjid Jami' Assalam Cikoneng,Masjid,"4XW5+HF3, Cikoneng, Kec. Ganeas, Kabupaten Sumedang, Jawa Barat 45356",,"4,7",57,,Tidak Ada ,Tidak Tersedia,-6.853601,107.9586871,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Cahyati,Masjid,"Jl. Pangeran Santri No.60, RT.01/RW.13, Kotakulon, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",,"4,9",17,,Tidak Ada ,Tidak Tersedia,-6.8516845,107.9214018,Aksesibilitas Tersedia,[]
+Mesjid Jami Nurul Iman,Masjid,"4W96+VW6, Gunung Gadung, Sukajaya, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",Buka 24 jam,"5,0",1,"
+0881-5108-256",Ada,Tidak Tersedia,-6.8803337,107.9122763,Aksesibilitas Tersedia,[]
+Masjid Al Hidayah,Masjid,"3432+RV6, Pawenang, Kec. Jatinunggal, Kabupaten Sumedang, Jawa Barat 45376",,"4,5",17,,Tidak Ada ,Tidak Tersedia,-6.9454593,108.1021532,Aksesibilitas Tersedia,[]
+MASJID JAMI NURUL HAYAT,Masjid,"4WMX+XJ9, Cikondang, Kec. Ganeas, Kabupaten Sumedang, Jawa Barat 45356",Buka 24 jam,"4,8",35,,Tidak Ada ,Tidak Tersedia,-6.8650884,107.9491201,Aksesibilitas Tersedia,[]
+Masjid Al-Amin,Masjid,"4WQG+94R, Cipameungpeuk, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45315",,"4,9",13,,Tidak Ada ,Tidak Tersedia,-6.861511,107.9252572,Aksesibilitas Tersedia,[]
+Masjid Al-hidayah Polres Sumedang,Masjid,"5W79+7CW, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.836884,107.9184883,Aksesibilitas Tersedia,[]
+Masjid Al Fajri,Masjid,"2QXX+C84, Mangunarga, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",,"4,7",13,,Tidak Ada ,Tidak Tersedia,-6.9514822,107.7983307,Aksesibilitas Tersedia,[]
+Masjid Al Mujahidin,Masjid,"5W3P+8HF, Jl. Sebelas April, Rancamulya, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.8466871,107.9364319,Aksesibilitas Tersedia,[]
+Masjid Jami Nasurulloh,Masjid,"Jl. Sebelas April No.km 3, Rancamulya, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-6.8482668,107.9463167,Aksesibilitas Tersedia,[]
+Masjid Jami DARUSSALAM Panadahan,Masjid,"74FW+9PM, Kudangwangi, Kec. Ujung Jaya, Kabupaten Sumedang, Jawa Barat 45383",Buka 24 jam,"4,9",14,,Tidak Ada ,Tidak Tersedia,-6.7265456,108.1467969,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Darussakinah Griya Sampurna,Masjid,"2RX6+X83, Sawahdadap, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",,"5,0",9,,Tidak Ada ,Tidak Tersedia,-6.9501091,107.8107818,Aksesibilitas Tersedia,[]
+Masjid Agung Cikareo,Masjid,"23QV+HWV, Cikareo Utara, Kec. Wado, Kabupaten Sumedang, Jawa Barat 45373",Buka 24 jam,"4,5",44,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
+Mesjid AT-TAUFIQ,Masjid,"3RJQ+V47, Dusun Cipelah, RT.24/RW.06, Mekarbakti, Kec. Pamulihan, Kabupaten Sumedang, Jawa Barat 45365",Buka 24 jam,"5,0",2,"
+0857-8871-1236",Ada,Tidak Tersedia,-6.9178398,107.8378024,Aksesibilitas Tersedia,[]
+masjid jami al ghufron,Masjid,"5W4H+G3G, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8436814,107.9276999,Aksesibilitas Tersedia,[]
+Masjid As Sa'diah,Masjid,"Jl. Prabu Gajah Agung No.11, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",04.00 hingga 20.00,"4,8",210,,Tidak Ada ,Tidak Tersedia,-6.8360022,107.9171458,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Agung Darmaraja,Masjid,"33JF+QPF, Darmaraja, Kec. Darmaraja, Kabupaten Sumedang, Jawa Barat 45372",Buka 24 jam,"4,5",117,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
+MASJID JAMI AL BAROKAH,Masjid,"4XV5+QF3, Cikoneng, Kec. Ganeas, Kabupaten Sumedang, Jawa Barat 45356",,"5,0",4,"
+0819-3203-4621",Ada,Tidak Tersedia,-6.8556005,107.9586754,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Agung Situraja,Masjid,"Situraja, Kec. Situraja, Kabupaten Sumedang, Jawa Barat 45371",Buka 24 jam,"4,6",198,,Tidak Ada ,Tidak Tersedia,-6.8398208,108.0179064,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami LDII BAITURROHMAN,Masjid,"5W8M+G9H, Kebonjati, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",Buka 24 jam,"4,3",15,,Tidak Ada ,Tidak Tersedia,-6.833696,107.9334782,Aksesibilitas Tersedia,[]
+Masjid Sabeulit,Masjid,"4499+GPM, Jemah, Kec. Jatigede, Kabupaten Sumedang, Jawa Barat 45377",Buka 24 jam,"4,6",14,,Tidak Ada ,Tidak Tersedia,-6.8811669,108.1192888,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid jami Al-Mubaroq,Masjid,"2RVJ+G39, Jl. Mayor Mansu, Pasirnanjung, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",Buka 24 jam,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.9562096,107.8302257,Aksesibilitas Tersedia,[]
+Masjid Al Ishlah,Masjid,"Jl. Prabu Gajah Agung No.19, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",09.00 hingga 22.00,"4,7",31,,Tidak Ada ,Tidak Tersedia,-6.8341163,107.9282905,Aksesibilitas Tersedia,[]
+Masjid PT PLN (Persero) UIT JBT,Masjid,"2RM8+JWQ, Jl. Raya Bandung - Garut, Cihanjuang, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",03.30 hingga 20.00,"4,8",1.340,,Tidak Ada ,Tersedia,-6.9659093,107.8173462,Aksesibilitas Tersedia,[]
+Masjid Besar Nurul Iman,Masjid,"64QQ+W9H, Tomo, Kec. Tomo, Kabupaten Sumedang, Jawa Barat 45382",,"4,7",22,,Tidak Ada ,Tidak Tersedia,-6.7601974,108.1384732,Aksesibilitas Tersedia,[]
+Masjid Baitul Amanah,Masjid,"5X2F+XW9, Cibogo Dua, Ganeas, Kec. Ganeas, Kabupaten Sumedang, Jawa Barat 45356",,"4,5",33,,Tidak Ada ,Tidak Tersedia,-6.8476,107.974874,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Al-Kamil PP Sumedang,Masjid,"5W69+276, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",05.00 hingga 20.00,"4,6",220,"
+0823-7555-5573",Ada,Tidak Tersedia,-6.8399571,107.9181533,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami Al-Iman Darussalam,Masjid,"3RQ5+68H, Cinanjung, Kec. Tanjungsari, Kabupaten Sumedang, Jawa Barat 45362",,"4,5",2,"
+0813-2407-6768",Ada,Tidak Tersedia,-6.911927,107.8083606,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Abror,Masjid,"2RP6+HM3, Jl. Bunter, Sukadana, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",Buka 24 jam,"4,7",11,,Tidak Ada ,Tidak Tersedia,-6.9636244,107.8116777,Aksesibilitas Tersedia,[]
+Masjid Besar Cimalaka,Masjid,"5WPX+68J, Cimalaka, Kec. Cimalaka, Kabupaten Sumedang, Jawa Barat 45353",,"4,6",9,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
+Masjid Jami Al Ikhlas Cibengkung Jembarwangi,Tempat Ibadah,"55M4+784, Jembarwangi, Kec. Tomo, Kabupaten Sumedang, Jawa Barat 45382",,"4,5",8,,Tidak Ada ,Tidak Tersedia,-6.8168708,108.1558353,Aksesibilitas Tersedia,[]
+Al-Hidayah Mosque,Masjid,"4WJM+3HH, Jl. Pagar Betis, Dusun Nangkod, RT.02/RW.03, Sukagalih, Sumedang Selatan, Sumedang Regency, West Java 45311",,"4,9",8,,Tidak Ada ,Tidak Tersedia,-6.8698155,107.9339965,Aksesibilitas Tersedia,[]
+Masjid Assalam,Masjid,"Jl. Serma Muchtar No.52, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45323",,"4,7",156,,Tidak Ada ,Tidak Tersedia,-6.8447291,107.9202003,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al- Hidayah,Masjid,"4VVW+FPH, Girimukti, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",Buka 24 jam,"5,0",2,"
+0812-8840-017",Ada,Tidak Tersedia,-6.8563168,107.8968455,Aksesibilitas Tersedia,[]
+Masjid Al Alif,Masjid,"3QHV+P7J, Cinanjung, Kec. Tanjungsari, Kabupaten Sumedang, Jawa Barat 45362",,"4,6",29,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
+MASJID AN NAJAH,Masjid,"2RRG+J79, Jl. Parakanmuncang, Sindanggalih, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",,"4,7",26,,Tidak Ada ,Tidak Tersedia,-6.9584542,107.8257371,Aksesibilitas Tersedia,[]
+Masjid Al Bashir,Masjid,"5XQC+RGW, Cibeureum Kulon, Kec. Cimalaka, Kabupaten Sumedang, Jawa Barat 45353",,"5,0",17,,Tidak Ada ,Tidak Tersedia,-6.8103801,107.9713394,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Mesjid Nurul Ikhlàs Tegal Panjang,Masjid,"5X39+664, Ganeas, Kec. Ganeas, Kabupaten Sumedang, Jawa Barat 45356",,"4,6",66,,Tidak Ada ,Tidak Tersedia,-6.8469782,107.9680783,Aksesibilitas Tersedia,[]
+Masjid Besar Tegal Kalong,Masjid,"5W2G+JW9, Jl. H. Sulaeman, Talun, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"4,6",613,,Tidak Ada ,Tidak Tersedia,-6.848454,107.927356,Aksesibilitas Tersedia,[]
+Masjid Jami Nurul Hasanah,Masjid,"4V22+6CR, Dangdeur, Cigendel, Kec. Pamulihan, Kabupaten Sumedang, Jawa Barat 45361",Buka 24 jam,"4,8",6,,Tidak Ada ,Tidak Tersedia,-6.8993849,107.8510287,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Al Huda,Masjid,"5W6G+V3G, Jl. Angkrek Asrama Polisi Angkrek, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"4,7",19,,Tidak Ada ,Tidak Tersedia,-6.8378181,107.9252022,Aksesibilitas Tersedia,[]
+Masjid Jami Najmul Akbar,Masjid,"Jl. Bintang Agung Raya No.82, Cihanjuang, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",,"4,8",21,,Tidak Ada ,Tidak Tersedia,-6.9542509,107.8199677,Aksesibilitas Tersedia,[]
+Masjid Jami Nuurul Iman,Masjid,"5W7J+J62, Jl. Mayor Abdurahman, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",Buka 24 jam,"4,7",13,,Tidak Ada ,Tidak Tersedia,-6.8359865,107.9305223,Aksesibilitas Tersedia,[]
+MASJID JAMI IAL-IKHLAS,Masjid,"Cikoneng No.213, Rancamulya, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-6.8463738,107.9393942,Aksesibilitas Tersedia,[]
+Masjid Jamie Nurulhidayah,Masjid,"5V3Q+GRC, Cihanyir, Girimukti, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"4,2",6,,Tidak Ada ,Tidak Tersedia,-6.8461879,107.889525,Aksesibilitas Tersedia,[]
+Masjid jami AL FALAH,Masjid,"3RJQ+MXQ, Dsn cipelah, RT.29/RW.07, Mekarbakti, Kec. Pamulihan",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9182941,107.8399954,Aksesibilitas Tersedia,[]
+Masjid NUR ATIN,Masjid,"Cicelot, Mandalaherang, Kec. Cimalaka, Kabupaten Sumedang, Jawa Barat 45353",Buka 24 jam,"4,9",25,,Tidak Ada ,Tersedia,-6.8165544,107.9597723,Aksesibilitas Tersedia,[]
+Masjid Besar Tanjungsari,Masjid,"Jl. Raya Tanjungsari No.217, Jatisari, Kec. Tanjungsari, Kabupaten Sumedang, Jawa Barat 45362",03.00 hingga 22.00,"4,6",1.234,"
+(022) 7914922",Ada,Tidak Tersedia,-6.9033284,107.8008082,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid AL-FATHONAH,Masjid,"5W8C+JW2, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"4,6",11,,Tidak Ada ,Tidak Tersedia,-6.8334998,107.9222624,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+mesjid kabbul al karomah,Masjid,"23RF+7PQ, Cipasang, Kec. Cibugel, Kabupaten Sumedang, Jawa Barat 45375",Buka 24 jam,"4,3",9,,Tidak Ada ,Tidak Tersedia,-6.9592816,108.0743665,Aksesibilitas Tersedia,[]
+Masjid Mujahidin,Masjid,"Jalan Pacuan Kuda No.2, Kotakaler, Sumedang Utara, Sumedang Regency, West Java 45621",04.00 hingga 22.00,"4,9",10,"
+0811-2351-700",Ada,Tidak Tersedia,-6.8400901,107.932692,Aksesibilitas Tersedia,[]
+Masjid Agung Wado,Masjid,"Jl. Raya Wado - Malangbong No.8, Wado, Kec. Wado, Kabupaten Sumedang, Jawa Barat 45373",Buka 24 jam,"4,6",48,,Tidak Ada ,Tidak Tersedia,-6.9456618,108.0920932,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Agung MIFTAHUL HUĎA,Masjid,"DSN.KISEPAT RT 05/01, Sukapura, Kec. Wado, Kabupaten Sumedang, Jawa Barat 45373",Buka 24 jam,"4,6",5,,Tidak Ada ,Tidak Tersedia,-6.950547,108.0788861,Aksesibilitas Tersedia,[]
+Masjid Besar AT TAQWA Buahdua,Masjid,"7XW5+G24, Jl. Raya Buahdua, Buahdua, Kec. Buahdua, Kabupaten Sumedang, Jawa Barat 45392",Buka 24 jam,"4,5",11,,Tidak Ada ,Tidak Tersedia,-6.7037446,107.9575778,Aksesibilitas Tersedia,[]
+Masjid Sholahuddin Al-Ayubi,Masjid,"5W8H+G5P, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",Buka 24 jam,"4,1",10,,Tidak Ada ,Tidak Tersedia,-6.8336546,107.9279588,Aksesibilitas Tersedia,[]
+Masjid Jami At-Taqwa,Masjid,"5WFC+58J, Bojong Jl. Ciakar, RT.04/rw04, Jatimulya, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"5,0",1,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
+MASJID AL-ANHAAR JATIGEDE,Masjid,"44R4+MHG, Kulon, Cijeungjing, Jatigede, Sumedang Regency, West Java 45377",Buka 24 jam,"4,6",5,,Tidak Ada ,Tidak Tersedia,-6.8583191,108.1064502,Aksesibilitas Tersedia,[]
+Masjid Al-Hikmah,Masjid,"2RW8+C25, Jl. Cipareuag, Sukadana, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",,"5,0",8,"
+0852-2108-0159",Ada,Tidak Tersedia,-6.953987,107.8151112,Aksesibilitas Tersedia,[]
+Masjid Darussalam Haurlawang,Masjid,"4W64+QMQ, Dsn, haurlawang, Sukajaya, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",,"4,4",17,,Tidak Ada ,Tidak Tersedia,-6.8880321,107.9067338,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Nur Al Munawwarah,Masjid,"6348+Q9W, Jl. Nasional 5, Bugel, Kec. Tomo, Kabupaten Sumedang, Jawa Barat 45382",,"4,7",11,,Tidak Ada ,Tidak Tersedia,-6.7930174,108.0659555,Aksesibilitas Tersedia,[]
+Masjid Agung SUMEDANG,Masjid,"4WR9+6W9, Jl. P. Sugih, Regol Wetan, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",04.00 hingga 22.00,"4,7",4.748,,Tidak Ada ,Tidak Tersedia,-6.8594612,107.9198736,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Umar Bin Khattab,Masjid,"Jl. Sumedang Utara - Sumedang Sel. No.56, Kotakulon, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45311",,"4,6",32,,Tidak Ada ,Tidak Tersedia,-6.8454533,107.9161221,Aksesibilitas Tersedia,[]
+Masjid Agung Sukamantri,Masjid,"6VPP+MV6, Sukamantri, Kec. Tanjungkerta, Kabupaten Sumedang, Jawa Barat 45354",,"4,1",28,,Tidak Ada ,Tidak Tersedia,-6.7633408,107.8871403,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Karnaen,Masjid,"Jl. Sebelas April No.7, Rancamulya, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",Buka 24 jam,"5,0",2,"
+0852-2004-3393",Ada,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
+Masjid Jami Nyalindung - Riyaadhul Jannah,Masjid,"25J9+X8X, Kirisik, Kec. Jatinunggal, Kabupaten Sumedang, Jawa Barat 45376",Buka 24 jam,"4,8",12,,Tidak Ada ,Tidak Tersedia,-6.9675187,108.1683467,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Nurul Hikmah,Masjid,"Santaka, Jl. Sawah Dadap No.16, RT.02/RW.06, Mangunarga, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",Buka 24 jam,"5,0",3,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
+Mesjid Al-Muawwanah,Masjid,"Jl. Salak 7 . No.208 .Kv 4, Perumnas, Jatihurip, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45353",,"4,7",15,,Tidak Ada ,Tidak Tersedia,-6.8110323,107.9198674,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Nurul Amanah,Masjid,"RW12, Jl. Griya Prima Alam Asri, Sindangpakuon, Kec. Cimanggung, Kabupaten Sumedang, Jawa Barat 45364",Buka 24 jam,"4,6",110,"
+0812-8268-4149",Ada,Tidak Tersedia,-6.9601128,107.8284263,Aksesibilitas Tersedia,[]
+Masjid Jami' Nurul Iman,Masjid,"5W3H+9CF, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"4,8",23,,Tidak Ada ,Tidak Tersedia,-6.8465577,107.9285482,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami As Sunnah,Masjid,"Jl. Panyindangan No.139, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"4,9",13,,Tidak Ada ,Tidak Tersedia,-6.8352262,107.9078335,Aksesibilitas Tersedia,[]
+Masjid Jami Al Istiqomah,Masjid,"5XQ2+M4W, Cimalaka, Kec. Cimalaka, Kabupaten Sumedang, Jawa Barat 45353",04.00 hingga 22.00,"4,3",10,,Tidak Ada ,Tidak Tersedia,-6.8107563,107.9503254,Aksesibilitas Tersedia,[]
+Masjid Al Kamil Jatigede,Masjid,"44HC+JXC, Jemah, Kec. Jatigede, Kabupaten Sumedang, Jawa Barat 45377",08.00 hingga 20.00,"4,6",1.461,,Tidak Ada ,Tidak Tersedia,-6.8710328,108.1223613,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+HKBP SUMEDANG,Gereja Lutheran,"Jl. Prabu Gajah Agung No.08, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"5,0",1,,Tidak Ada ,Tersedia,-6.8338387,107.9287578,Aksesibilitas Tersedia,[]
+"Gereja Katolik Santo Albertus Magnus, Jatinangor",Gereja Katolik,"3QC7+G62, Cibeusi, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",Tutup,"4,7",100,,Tidak Ada ,Tersedia,-6.9287443,107.763012,Aksesibilitas Tersedia,[]
+Gki anugerah sumedang,Gereja,"Jl. Mayor Abdurahman gg Lasmana No.2, RT./RW/RW.004, 003, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",Tutup,,,,Tidak Ada ,Tidak Tersedia,-6.8445501,107.9243667,Aksesibilitas Tersedia,[]
+GKKD Jatinangor,Gereja,"Jl. Raya Jatinangor No.267, Hegarmanah, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9283977,107.7816423,Aksesibilitas Tersedia,[]
+"Gereja Katolik Santa Maria Fatima, Sumedang",Gereja Katolik,"Jl. Mayor Abdurahman No.38, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"4,2",37,,Tidak Ada ,Tersedia,-6.8448913,107.924891,Aksesibilitas Tersedia,[]
+Gereja Kristen Pasundan Sumedang,Gereja,"Jl. Prabu Geusan Ulun No.104, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45311",,"5,0",3,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
+GPdI IMPACT Rancaekek-Jatinangor,Gereja,"Jl. Rancaekek No.219, Mekargalih, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",08.00 hingga 20.00,"5,0",16,,Tidak Ada ,Tidak Tersedia,-6.9560293,107.7758583,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja,Gereja,"Jl. Mayor Abdurahman gang lesmana No.W, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.8395568,107.9264544,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+WELL CC,Gereja,"Jl. Raya Cirebon - Bandung, Hegarmanah, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45360",Tutup,"5,0",24,"
+0812-2153-4176",Ada,Tersedia,-6.9251406,107.7838026,Aksesibilitas Tersedia,[]
+GBI Rock Sumedang,Gereja Karismatik,"Jl. Prabu Gajah Agung No.112, RT.001/RW.007, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45323",05.00 hingga 06.00,"5,0",1,"
+(0261) 2142299",Ada,Tidak Tersedia,-6.8436115,107.9159839,Aksesibilitas Tersedia,[]
+"Gereja Katolik Santa Maria Fatima, Sumedang",Gereja Katolik,"Jl. Mayor Abdurahman No.38, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",,"4,2",37,,Tidak Ada ,Tersedia,-6.8448913,107.924891,Aksesibilitas Tersedia,[]
+"Gereja Katolik Santo Albertus Magnus, Jatinangor",Gereja Katolik,"3QC7+G62, Cibeusi, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",Tutup,"4,7",100,,Tidak Ada ,Tersedia,-6.9287443,107.763012,Aksesibilitas Tersedia,[]
+Syaeful ( Eplu ) Home,Vihara,"2V43+Q5X, Jl. Beor Babakan Peuteuy, Babakan Peuteuy, Kec. Cicalengka, Kabupaten Bandung, Jawa Barat 40395",Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-6.9930235,107.8529879,Aksesibilitas Tersedia,[]
+Patubg Sembah Konghucu,Vihara,"3Q9P+WQX, Jatiroke, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",,,,,Tidak Ada ,Tidak Tersedia,-6.9301023,107.7869708,Aksesibilitas Tersedia,[]
+Gapura selamat datang desa cijeler,Pura,"42V4+2G3, Jl. Yudha Manggala, Cijeler, Kec. Situraja, Kabupaten Sumedang, Jawa Barat 45371",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.857494,108.0062903,Aksesibilitas Tersedia,[]
+Kuil Ganesha Dago Pakar ᮊᮥᮄᮜ᮪ ᮌᮔᮨᮞ᮪ᮠ ᮓᮌᮧ ᮕᮊᮁ,Pura,"4JWX+58Q, Ciburial, Kec. Cimenyan, Kabupaten Bandung, Jawa Barat 40198",08.00 hingga 20.00,"4,8",16,"
+0859-5654-1313",Ada,Tidak Tersedia,-6.8545259,107.6483593,Aksesibilitas Tersedia,[]
+Jeroan Lobongan,Pura,"3JJ9+XJV, Kb. Pisang, Kec. Sumur Bandung, gianyar, Jawa Barat",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9175241,107.619048,Aksesibilitas Tersedia,[]
+FamSuherman,Pura,"7WG5+PVG, Tanjungmulya, Kec. Tanjungkerta, Kabupaten Sumedang, Jawa Barat 45354",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.7231143,107.9098254,Aksesibilitas Tersedia,[]
+Pura Cita Pramesthya,Lembaga Agama,"Jl. Pratista Bar. IV No.15, Antapani Kidul, Kec. Antapani, Kota Bandung, Jawa Barat 40291",,"5,0",1,"
+(022) 7272219",Ada,Tidak Tersedia,-6.9260056,107.6615095,Aksesibilitas Tersedia,[]
+Pura Wira Natha Dharma,Pura,"3JCH+HH4, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40263",Buka 24 jam,"4,6",29,,Tidak Ada ,Tidak Tersedia,-6.9286169,107.6289606,Aksesibilitas Tersedia,[]
+Pura Wira Satya Akaça ᮕᮥᮛ ᮝᮤᮛ ᮞᮒᮡ ᮃᮊᮞ᮪ᮠ,Pura,"2H79+X65, Sulaiman, Kec. Margahayu, Kabupaten Bandung, Jawa Barat 40229",Buka 24 jam,"4,9",44,"
+(022) 5405857",Ada,Tidak Tersedia,-6.9851114,107.5681101,Aksesibilitas Tersedia,[]
+Pura Praja Natha IPDN,Pura,"3QC7+HG4, Komp. IPDN, Cibeusi, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45355",,"4,6",9,,Tidak Ada ,Tidak Tersedia,-6.9286125,107.7638281,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Padma Sari Wira Catya Yudha,Pura,"2J7F+7H7, Dayeuhkolot, Kec. Dayeuhkolot, Kabupaten Bandung, Jawa Barat 40258",09.00 hingga 21.00,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.9868299,107.6239356,Aksesibilitas Tersedia,[]
+Sai Jelita Bandung,Pura,"Jl. Batununggal Jelita II No.86, Mengger, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40271",Tutup,,,,Tidak Ada ,Tidak Tersedia,-6.9591839,107.6355893,Aksesibilitas Tersedia,[]
+Pura Giri Nata Sespim,Pura,"Jl. Sukaampat No.87, Kayuambon, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",,"4,9",15,,Tidak Ada ,Tidak Tersedia,-6.8215123,107.6384103,Aksesibilitas Tersedia,[]
+Pura Wira Satya Dharma ᮕᮥᮛ ᮝᮤᮛ ᮞᮒᮡ ᮓᮁᮙ,Pura,"JL. H. Nasution, Ujung Berung, Komplek Batalion Zipur 9/ Kostrad, Pakemitan, Kec. Cinambo, Kota Bandung, Jawa Barat 45474",Buka 24 jam,"4,7",118,"
+(022) 7801339",Ada,Tidak Tersedia,-6.9158995,107.6915073,Aksesibilitas Tersedia,[]
+Pura Puser Dayeuh Siliwangi ᮕᮥᮛ ᮕᮥᮞᮨᮁ ᮓᮚᮩᮂ ᮞᮤᮜᮤᮝᮍᮤ,Pura,"Jl. Lembong No.38, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",Buka 24 jam,"4,8",40,,Tidak Ada ,Tidak Tersedia,-6.9176854,107.611264,Aksesibilitas Tersedia,[]
+Pura Vira Chandra Dharma Secapa AD,Pura,"4HHX+V4M, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",,"4,9",73,,Tidak Ada ,Tidak Tersedia,-6.8702837,107.5977838,Aksesibilitas Tersedia,[]
+Pura Agung Wira Loka Natha,Pura,"4G8P+95X, Jl. Sriwijaya Raya, Karangmekar, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40523",Buka 24 jam,"4,7",180,"
+(022) 6640019",Ada,Tidak Tersedia,-6.88402,107.5354883,Aksesibilitas Tersedia,[]
+Wisata Kampoeng Ciherang,Tujuan Wisata,"Astana Panjang, Cijambu, Kec. Tanjungsari, Kabupaten Sumedang, Jawa Barat 45362",08.00 hingga 17.00,"4,3",3.408,,Tidak Ada ,Tidak Tersedia,-6.8293636,107.7978925,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Candi Bojongemas,Pura,"2P35+8H9, Jl. Babakan Patrol, Bojongemas, Kec. Solokanjeruk, Kabupaten Bandung, Jawa Barat 40376",08.00 hingga 18.00,"4,5",23,"
+(022) 5897517",Ada,Tidak Tersedia,-6.9967228,107.7089853,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Gapura Desa Naluk,Pura,"6W99+HMW, Naluk, Kec. Cimalaka, Kabupaten Sumedang, Jawa Barat",,,,,Tidak Ada ,Tidak Tersedia,-6.7810227,107.9192064,Aksesibilitas Tersedia,[]
+JL Cepat Dr Rosye Rosaria Zaena Cileunnyi,Pura,"3Q54+9C3, Cileunyi Wetan, Kec. Cileunyi, Kabupaten Bandung, Jawa Barat 40622",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9412199,107.7560215,Aksesibilitas Tersedia,[]
