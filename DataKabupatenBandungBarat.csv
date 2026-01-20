@@ -1,0 +1,589 @@
+nama_tempat,type_place,alamat,jam_operasional,rating,jumlah_review,telepon,stt_tlp,website,latitude,longitude,Ketersediaan Akses,aksesibilitas
+Masjid Nurul Iman,Masjid,"4HRG+CX9, Jl. Waruga Jaya, Ciwaruga, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559",,"4,7",53,,Tidak Ada ,Tidak Tersedia,-6.858971,107.5774884,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Agung Cililin,Masjid,"2FX4+CQ3, Jalan Raya, Cililin, West Bandung Regency, West Java 40562",,"4,5",70,"
+0896-5717-2135",Ada,Tidak Tersedia,-6.9514999,107.4569073,Aksesibilitas Tersedia,[]
+Masjid Nur Azizi,Masjid,"Jl. Raya Bukit Permata, RW.22, Cilame, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",Buka 24 jam,"4,8",155,"
+0821-1786-8241",Ada,Tidak Tersedia,-6.8580318,107.5159641,Aksesibilitas Tersedia,[]
+Masjid Raya Bandung,Masjid,"Jl. Dalem Kaum No.14, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",05.00 hingga 22.00,"4,6",8.794,"
+(022) 4240275",Ada,Tidak Tersedia,-6.9216897,107.6061399,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jamie Assanusi Peusing Girang,Masjid,"2C76+FHR, Sindangkerta, Kec. Sindangkerta, Kabupaten Bandung Barat, Jawa Barat 40563",,"4,5",22,,Tidak Ada ,Tidak Tersedia,-6.9862528,107.4113778,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Mutmainah,Masjid,"X9XH+2PR, Cicangkang Girang, Kec. Sindangkerta, Kabupaten Bandung Barat, Jawa Barat 40563",Buka 24 jam,"4,5",2,"
+0831-4857-5287",Ada,Tidak Tersedia,-7.0023842,107.3792635,Aksesibilitas Tersedia,[]
+Masjid Almah Jariyah,Masjid,"4G66+X5J, Jl. Sindangsari, RW.12, Laksanamekar, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40715",,"4,8",33,,Tidak Ada ,Tidak Tersedia,-6.8875445,107.5104039,Aksesibilitas Tersedia,[]
+Masjid Jami Al Barokah,Masjid,"Kampung, Jl. Rancatiis Jl.Hegarmanah II No.1, RT.01/RW.06, Galanggang, Kec. Batujajar",Buka 24 jam,"5,0",15,"
+0821-1547-7333",Ada,Tidak Tersedia,-6.9136133,107.4943446,Aksesibilitas Tersedia,[]
+Masjid jami' Al Ma'mir,Masjid,"3CXR+WC6, Jl, Pangauban, Batujajar, West Bandung Regency, West Java 40561",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9002019,107.4410195,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Ikhlas,Masjid,"4FMP+492, Kp Jl. Cibacang, RT.02/RW.05, Cipeundeuy, Padalarang, West Bandung Regency, West Java 40553",Buka 24 jam,"4,5",8,,Tidak Ada ,Tidak Tersedia,-6.8672372,107.4858763,Aksesibilitas Tersedia,[]
+Masjid Nurul Awani,Masjid,"The Awani Residence, Jl. Awani Raya Utara No.D, Cilame, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",Buka 24 jam,"4,9",54,"
+0878-2386-0553",Ada,Tidak Tersedia,-6.8618122,107.512271,Aksesibilitas Tersedia,['Memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Al Barokah,Masjid,"4FCQ+V73, Cimerang, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,5",2,,Tidak Ada ,Tidak Tersedia,-6.8778705,107.4881591,Aksesibilitas Tersedia,[]
+Masjid Al Ukhuwah Kota Baru Parahyangan,Masjid,"4FJ7+R77, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",Buka 24 jam,"4,9",215,,Tidak Ada ,Tidak Tersedia,-6.8696191,107.4625795,Aksesibilitas Tersedia,['Memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Al Fat'h,Masjid,"Jl. Puri Kenanga Raya, Jl. Puri Cipageran Indah 2 Blok B5, Tanimulya, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,9",91,,Tidak Ada ,Tidak Tersedia,-6.8580295,107.5270168,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid At Tijaniyyah,Masjid,"4GH2+PM5, Jl. Cikandang, Cimareme, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,5",14,"
+0822-1720-5383",Ada,Tidak Tersedia,-6.8707357,107.5017251,Aksesibilitas Tersedia,[]
+Masjid jami al ikhlas pos giro,Masjid,"4F9X+7H6, Jl. Industri II, Laksanamekar, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",Buka 24 jam,"4,5",2,,Tidak Ada ,Tidak Tersedia,-6.881831,107.498885,Aksesibilitas Tersedia,[]
+Masjid Al Fatih,Masjid,"4JWF+8CJ, Jl. Dago Giri, Mekarwangi, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",04.00 hingga 20.00,"4,7",142,,Tidak Ada ,Tidak Tersedia,-6.8541738,107.6235254,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Sanghyang Pancanaka,Masjid,"4G57+CQW, Jl. Michigan, Cibeber, Kec. Cimahi Sel., Kabupaten Bandung Barat, Jawa Barat 40553",,"4,8",33,,Tidak Ada ,Tidak Tersedia,-6.8913919,107.5144525,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Al-Ikhlash,Masjid,"Komplek Cimareme Indah, Masjid Jl. Raya Caringin, Cimareme, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,8",67,,Tidak Ada ,Tidak Tersedia,-6.8604222,107.5023288,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Aghnia,Masjid,"4GC2+3VC, Laksanamekar, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,6",27,,Tidak Ada ,Tersedia,-6.8798219,107.5021483,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Riyadhul Jannah Sodong,Masjid,"4FMH+57J, Java, kp sodong cijumleung jalan cibacang hilir, Jalan Cipeundeuy, Cipeundeuy, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,8",17,,Tidak Ada ,Tidak Tersedia,-6.867037,107.4781251,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Munajat,Masjid,"rw02 No.rt03 40553, Cipeundeuy, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",Buka 24 jam,"4,6",37,"
+0812-2378-4911",Ada,Tidak Tersedia,-6.8596829,107.495002,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Bayyinah PERSIS,Masjid,"Jl. Bunisari Kulon No. 21, RT. 01/06, Bandung Barat, Jawa Barat",,"4,7",36,"
+(022) 6651097",Ada,Tidak Tersedia,-6.8680556,107.5115944,Aksesibilitas Tersedia,[]
+Masjid Besar Lembang,Masjid,"Jl. Raya Lembang No.295, Jayagiri, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40153",Buka 24 jam,"4,7",1.626,,Tidak Ada ,Tidak Tersedia,-6.8121338,107.6183172,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Al-Muhajirin,Masjid,"4HQX+994, Ledeng, Kec. Cidadap, Kota Bandung, Jawa Barat 40143",,"4,9",28,,Tidak Ada ,Tidak Tersedia,-6.8616029,107.5984511,Aksesibilitas Tersedia,[]
+Masjid Al Itihad,Masjid,"4GG3+CVV, Laksanamekar, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"5,0",12,,Tidak Ada ,Tidak Tersedia,-6.8738925,107.5046791,Aksesibilitas Tersedia,[]
+Masjid Jami Al Mujahidin,Masjid,"Komplek Tanimulya Indah, Jl. Botani I No.2 A, Tanimulya, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",Buka 24 jam,"4,8",258,"
+(022) 6625664",Ada,Tersedia,-6.8612644,107.5259758,Aksesibilitas Tersedia,[]
+Masjid Jami Nurul Hikmah,Masjid,"4FFR+QJP DS, Kp Cimerang, RT.04/RW.12, Citatah, Kec. Cipatat, Kabupaten Bandung Barat, Jawa Barat",,"4,0",1,,Tidak Ada ,Tidak Tersedia,-6.8755296,107.4915869,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Mubarokah,Masjid,"4FMP+RWQ, kp Jl. Cibacang, Cipeundeuy, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,8",4,,Tidak Ada ,Tidak Tersedia,-6.8654173,107.4873616,Aksesibilitas Tersedia,[]
+Masjid Jami Attaqwa Nuryakin,Masjid,"3GG8+P48, Pasir Honje Kidul, Selacau, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",,"5,0",11,,Tidak Ada ,Tidak Tersedia,-6.9232151,107.5153218,Aksesibilitas Tersedia,[]
+Masjid Jami Al Barkah Lengkong,Tempat Ibadah,"296P+C78, Lengkong, Puncaksari, Kec. Sindangkerta, Kabupaten Bandung Barat, Jawa Barat 40563",Buka 24 jam,"4,9",16,,Tidak Ada ,Tidak Tersedia,-6.9889553,107.3857067,Aksesibilitas Tersedia,[]
+Masjid Al-Ikhlas,Masjid,"3GW3+334, Giriasih, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",Buka 24 jam,"4,8",51,"
+0896-7838-0401",Ada,Tidak Tersedia,-6.904873,107.5027187,Aksesibilitas Tersedia,[]
+Masjid Al Jihad,Masjid,"4GV5+6FQ, Jl. Cilame, RW.20, Cilame, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,6",88,,Tidak Ada ,Tidak Tersedia,-6.856909,107.5087269,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Babakan,Masjid,"29XG+35J, Mekarsari, Kec. Cipongkor, Kabupaten Bandung Barat, Jawa Barat 40564",,"4,4",12,,Tidak Ada ,Tidak Tersedia,-6.9522978,107.3753841,Aksesibilitas Tersedia,[]
+masjid darul huda cimanggala,Masjid,"3C33+MVC, pasir kuya, Sukamulya, Kec. Cipongkor, Kabupaten Bandung Barat, Jawa Barat 40564",03.00 hingga 22.00,"4,4",20,"
+0858-1732-5895",Ada,Tidak Tersedia,-6.9458121,107.4046424,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jabal Nur,Masjid,"4GW7+2F9, Jl. Ciharashas, Cilame, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,7",160,,Tidak Ada ,Tidak Tersedia,-6.8549694,107.5137342,Aksesibilitas Tersedia,[]
+Masjid Jami Miftahulhuda Cibeletong,Masjid,"XCV6+G8C, Citanjung, Ranca Senggang, Kec. Sindangkerta, Kabupaten Bandung Barat, Jawa Barat 40563",Buka 24 jam,"4,5",2,"
+0818-0947-7236",Ada,Tidak Tersedia,-7.0061953,107.410754,Aksesibilitas Tersedia,[]
+Masjid Jami' Al Ikhlas,Tempat Ibadah,"3G9C+4CH, Kp.Giriwang, RT.01/RW.10, Selacau, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",Buka 24 jam,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.9321824,107.5211069,Aksesibilitas Tersedia,[]
+Masjid Jami Ar-Rochman,Masjid,"Jl. Raya Batujajar No.30, Cimareme, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",Buka 24 jam,"4,8",10,"
+0896-0252-9274",Ada,Tidak Tersedia,-6.8653088,107.5029336,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Nur Roehjat 1,Masjid,"4G92+7QR, Jalan Raya Pondok Ciptamas 2, RT.4/RW.11, Laksanamekar, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",Buka 24 jam,"5,0",6,"
+(022) 6867403",Ada,Tidak Tersedia,-6.8817633,107.5019029,Aksesibilitas Tersedia,[]
+Masjid Al Furqon RW 15,Masjid,"4G35+MJG, Kp Gn. Leutik, RT.02/RW.15, Giriasih, Batujajar, West Bandung Regency, West Java 40561",,"4,4",10,,Tidak Ada ,Tidak Tersedia,-6.8958052,107.5090933,Aksesibilitas Tersedia,[]
+Masjid An Nur,Masjid,"3G86+VP2, Giriwangi, RT.02/RW.07, Selacau, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.9328689,107.511777,Aksesibilitas Tersedia,[]
+Masjid Jami Al-ikhwan,Masjid,"Jl. Sindang Sari Bar. No.37, Melong, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat 40534",Buka 24 jam,"4,7",30,,Tidak Ada ,Tidak Tersedia,-6.9169797,107.5640863,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Muhajirin BCI,Masjid,"4GMG+RVM, Jl. Bukit Cipageran Indah, Cipageran, Kec. Cimahi Utara, Kota Cimahi, Jawa Barat 40511",,"4,8",42,,Tidak Ada ,Tidak Tersedia,-6.8654184,107.5271788,Aksesibilitas Tersedia,[]
+Masjid Al-Mujaddid,Masjid,"Jl. Raya Batujajar No.90, Laksanamekar, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",Buka 24 jam,,,"
+0822-6193-1975",Ada,Tersedia,-6.8792319,107.5043482,Aksesibilitas Tersedia,[]
+Masjid Al Jauhar,Masjid,"Jl. Permata Raya I No.12, Tanimulya, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,9",95,,Tidak Ada ,Tidak Tersedia,-6.8610703,107.5155323,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al Islah,Masjid,"Jl. Ciharashas No.06, Margajaya, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",Buka 24 jam,"4,9",14,"
+0813-2122-6650",Ada,Tidak Tersedia,-6.8602237,107.5056212,Aksesibilitas Tersedia,[]
+Masjid Jami Al - Hijrah,Masjid,"Jl. Suka Indah Raya, Padasuka, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40526",,"4,7",163,,Tidak Ada ,Tidak Tersedia,-6.8714466,107.525448,Aksesibilitas Tersedia,[]
+Masjid Jami Attaqwa Sukaratu,Masjid,"Kp.Sukaratu Jl. Tangkil Pasir Panjang, Celak, Kec. Gununghalu, Kabupaten Bandung Barat, Jawa Barat 40565",,"4,2",12,"
+0831-0124-3436",Ada,Tidak Tersedia,-7.0105382,107.3427266,Aksesibilitas Tersedia,[]
+MASJID JAMI AL - MUBAROKAH,Masjid,"4FGQ+C76, Cimerang, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,3",6,,Tidak Ada ,Tidak Tersedia,-6.8739584,107.4881285,Aksesibilitas Tersedia,[]
+Masjid Baiturrohman,Masjid,"5F3V+H97, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat",Buka 24 jam,"4,8",47,,Tidak Ada ,Tidak Tersedia,-6.846092,107.4934302,Aksesibilitas Tersedia,[]
+Masjid Lautze 2 Bandung,Masjid,"Jl. Tamblong No.27, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",03.00 hingga 21.00,"4,8",1.019,"
+0813-8782-5825",Ada,Tidak Tersedia,-6.9180923,107.6123063,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Ar Rahman Kota Baru Parahyangan,Masjid,"Bale Seni Barli, Kota Baru Parahyangan,, Kertajaya, Padalarang, West Bandung Regency, West Java 40553",03.30 hingga 21.00,"4,8",1.211,"
+0857-2222-1111",Ada,Tersedia,-6.8584326,107.4828858,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Mesjid Jami AL-Muhazirin,Masjid,"39VF+4J4 parsel, Kp, RT.1/RW.5, Saguling, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat",Buka 24 jam,"5,0",1,"
+0838-2190-1105",Ada,Tidak Tersedia,-6.9072375,107.3740781,Aksesibilitas Tersedia,[]
+Mesjid Al Istiqamah Taman Bunga Cilame,Masjid,"4GX5+679, Cilame, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",Buka 24 jam,"4,7",25,"
+0838-4051-8484",Ada,Tidak Tersedia,-6.8519625,107.5082344,Aksesibilitas Tersedia,[]
+Masjid Al-Irsyad Satya,Masjid,"Jl. Parahyangan KM. 2,7, Kota Baru, Parahyangan, Cipeundeuy, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",03.30 hingga 21.00,"4,8",5.819,"
+(022) 6803956",Ada,Tidak Tersedia,-6.8647209,107.47769,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami Al Fajar,Masjid,"Pasir Kuntul Bojong Koneng, RT.01/RW.01, Bojongkoneng, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,5",48,,Tidak Ada ,Tidak Tersedia,-6.8312244,107.4895425,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Cibodas,Masjid,"3FW4+97P, Pangauban, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",,"4,5",11,,Tidak Ada ,Tidak Tersedia,-6.9040449,107.4556917,Aksesibilitas Tersedia,[]
+Masjid Umar Bin Khattab,Masjid,"3G85+X5V, Selacau, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",Buka 24 jam,"5,0",64,"
+0852-2023-1121",Ada,Tersedia,-6.9325094,107.5079189,Aksesibilitas Tersedia,[]
+Masjid Agung Ash-Shiddiq,Masjid,"5G66+524, Mekarsari, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat",Buka 24 jam,"4,7",781,,Tidak Ada ,Tidak Tersedia,-6.8396184,107.5100837,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al Muhajirin,Masjid,"Jl. Bakti Sejati No.13, Gudangkahuripan, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",Buka 24 jam,"4,9",14,,Tidak Ada ,Tidak Tersedia,-6.8206444,107.6113497,Aksesibilitas Tersedia,[]
+Masjid Zamrud,Masjid,"4GP8+2WH, Jl. Masjid Zamrud, Tanimulya, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",Buka 24 jam,"4,8",43,,Tidak Ada ,Tidak Tersedia,-6.8649392,107.5173668,Aksesibilitas Tersedia,[]
+Masjid Nurul Falah,Masjid,"3HRC+G5C, Jl. Maleber Barat, RT.05/RW.03, Maleber, Bandung, Jawa Barat, 40184",,"4,4",20,,Tidak Ada ,Tidak Tersedia,-6.9086917,107.5704039,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Agung Bandung,Masjid,"3JH4+6MW, Jl. Alun-Alun Timur, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",,"4,5",399,,Tidak Ada ,Tidak Tersedia,-6.921895,107.6067073,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Asy Syifa,Masjid,"5H24+6F4, Jl. Kamarung, Wetan, Padaasih, Kec. Cisarua, Kabupaten Bandung Barat, Jawa Barat 40551",,"5,0",83,"
+0812-2399-2905",Ada,Tidak Tersedia,-6.849483,107.5561896,Aksesibilitas Tersedia,[]
+Masjid Ar-Ridwan,Masjid,"Jl. Raya Gadobangkong No.92, Gadobangkong, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,8",545,,Tidak Ada ,Tidak Tersedia,-6.8674072,107.519049,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Miftahul Barokah,Masjid,"3HRV+XGV, Kaler, Jl. Tlk. Buyung, RT.01/RW.03, Arjuna, Kec. Cicendo, Kota Bandung, Jawa Barat 40172",,"4,8",48,,Tidak Ada ,Tidak Tersedia,-6.9075096,107.5937937,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Jami Ar Rasyid,Masjid,"Jl. Daarul Fikri No.33, Cihanjuang, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559",Buka 24 jam,"4,3",18,"
+0812-1866-1801",Ada,Tidak Tersedia,-6.8569827,107.571655,Aksesibilitas Tersedia,[]
+Masjid Besar Kecamatan Batujajar Bandung Barat,Masjid,"3FJR+FG6, Jl. Raya Batujajar, Batujajar Bar., Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",Buka 24 jam,"4,6",668,"
+(022) 6865023",Ada,Tidak Tersedia,-6.918841,107.49126,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+"Masjid Jami AMANAH MA'MUN, Pasir Meong",Masjid,"2FW2+V8C, Cililin - Cihampelas Jl. Raya Pasir Meong, Cililin, Kec. Cililin, Kabupaten Bandung Barat, Jawa Barat 40562",Buka 24 jam,"4,8",62,,Tidak Ada ,Tersedia,-6.9528092,107.4507716,Aksesibilitas Tersedia,[]
+Masjid Jame Al-Hikmah,Masjid,"4938+RJ6, Girimukti, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",Buka 24 jam,"4,8",5,,Tidak Ada ,Tidak Tersedia,-6.8954737,107.3665299,Aksesibilitas Tersedia,[]
+"Masjid Al-Muhajirin Puspa Regency Batujajar, Bandung Barat",Masjid,"3FMX+C45, Batujajar Tim., Kec. Batujajar, Kabupaten Bandung, Jawa Barat 40561",,"4,6",74,,Tidak Ada ,Tidak Tersedia,-6.9164961,107.4978666,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Mu'minun,Masjid,"5JM3+5HV, Cikahuripan, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",Buka 24 jam,"4,8",17,,Tidak Ada ,Tidak Tersedia,-6.8170199,107.6039339,Aksesibilitas Tersedia,[]
+Masjid Al Mishbah,Masjid,"4GMC+RHR, Komplek Permata Jl. Safir Raya, RT.07/RW.05, Tanimulya, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",Buka 24 jam,"4,7",30,,Tidak Ada ,Tidak Tersedia,-6.865397,107.521406,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami At-Taufiq,Masjid,"Jl. Cikandang, Cimareme, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,7",15,,Tidak Ada ,Tidak Tersedia,-6.8719509,107.5050556,Aksesibilitas Tersedia,[]
+Masjid Al Huda,Masjid,"4GQC+868 Permata Cimahi, Tanimulya, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",04.00 hingga 21.00,"4,8",93,,Tidak Ada ,Tidak Tersedia,-6.8617055,107.520587,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Pancasila,Masjid,"4G82+4WJ, Laksanamekar, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,7",7,,Tidak Ada ,Tidak Tersedia,-6.8846699,107.5022741,Aksesibilitas Tersedia,[]
+Masjid Al - Bahria Cendekia Kuttab Bandung Barat,Masjid,"Jl. Graha Bukit Raya III No.24, Cilame, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",Buka 24 jam,"4,9",16,,Tidak Ada ,Tidak Tersedia,-6.8518636,107.5208085,Aksesibilitas Tersedia,[]
+Mesjid agung pasir sereh,Masjid,"293H+W5, Cicangkang Girang, Kec. Sindangkerta, Kabupaten Bandung Barat, Jawa Barat 40563",Buka 24 jam,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.9951457,107.3779987,Aksesibilitas Tersedia,[]
+Masjid Jami' Izzatul Mu'minin,Masjid,"Jl. Raya Lembang No.160, Gudangkahuripan, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",Buka 24 jam,"4,7",25,"
+0877-3725-1356",Ada,Tidak Tersedia,-6.821707,107.6098908,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Wakaf,Masjid,"Jl. Raya Caringin Jl. Caringin No.335, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",Buka 24 jam,"4,7",68,"
+(022) 6865128",Ada,Tidak Tersedia,-6.8568095,107.4983326,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami Al Mu'min,Masjid,"Jl. Raya Gadobangkong No.04, Cimareme, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",05.00 hingga 22.00,"4,5",13,,Tidak Ada ,Tidak Tersedia,-6.863242,107.507966,Aksesibilitas Tersedia,[]
+MASJID JAMI AL-IKHLASH CIBORERANG,Masjid,"2H3G+6JP, Jl. Bojong Tanjung Kp. Ciborerang, RT.01/RW.19, Sangkanhurip, Kec. Katapang, Kabupaten Bandung, Jawa Barat 40921",,"5,0",11,"
+0898-5450-540",Ada,Tidak Tersedia,-6.9969098,107.576573,Aksesibilitas Tersedia,[]
+Masjid Miftahul Jannah,Masjid,"4GX5+2RR, Cilame, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,6",28,"
+0813-2169-8384",Ada,Tidak Tersedia,-6.8523862,107.5095027,Aksesibilitas Tersedia,[]
+Masjid Besar Cipari,Masjid,"38CX+V83, Cijambu, Kec. Cipongkor, Kabupaten Bandung Barat, Jawa Barat 40564",,"4,6",16,,Tidak Ada ,Tidak Tersedia,-6.9278525,107.3482934,Aksesibilitas Tersedia,[]
+Masjid Ponpes Al-Mu'awanah,Masjid,"Kp.Sukamaju RT.01/01, Cilame, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,4",44,"
+(022) 20683833",Ada,Tidak Tersedia,-6.8556951,107.5179189,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Fatah,Masjid,"4GG8+5PV, Jl. Komp. Tipar, Laksanamekar, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,7",21,,Tidak Ada ,Tidak Tersedia,-6.8745221,107.516786,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Cikadu,Masjid,"2CX8+63H, Bongas, Kec. Cililin, Kabupaten Bandung Barat, Jawa Barat 40562",,"4,9",12,,Tidak Ada ,Tidak Tersedia,-6.9519416,107.415228,Aksesibilitas Tersedia,[]
+Masjid Daarul Muhsiniin,Masjid,"Jl. Raya Bukit Permata No.02, Cilame, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",03.00 hingga 21.00,"4,8",76,"
+(022) 91165867",Ada,Tidak Tersedia,-6.859874,107.515711,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Baiturrohman,Masjid,"4GH5+FC6, Gadobangkong, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,8",11,,Tidak Ada ,Tidak Tersedia,-6.8713456,107.5085166,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+MESJID DARULHUDA GARUNGGANG,Masjid,"4FGG+VJ3, Jln Kp Jl. Garunggang, RT.04/RW.10, Cipeundeuy, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,9",10,,Tidak Ada ,Tidak Tersedia,-6.872853,107.4765625,Aksesibilitas Tersedia,[]
+Masjid Jami Al Falah,Masjid,"Jalan Blok Sinar jaya No.05, RW.16, West Batujajar, Batujajar, West Bandung Regency, West Java 40561",,"4,6",57,,Tidak Ada ,Tidak Tersedia,-6.9243774,107.4957839,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Imtizaj,Masjid,"Jl. ABC No.8, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",11.40 hingga 19.40,"4,7",1.129,,Tidak Ada ,Tidak Tersedia,-6.919425,107.6078639,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid agung Batujajar,Masjid,"3FJR+CFG, Batujajar Bar., Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",,"4,7",42,,Tidak Ada ,Tidak Tersedia,-6.9189336,107.4912012,Aksesibilitas Tersedia,[]
+Masjid Al Hidayah,Masjid,"no, Jl. Raya Batujajar No.98, Cimareme, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,7",30,"
+0813-8904-8436",Ada,Tidak Tersedia,-6.8692089,107.5028031,Aksesibilitas Tersedia,[]
+Masjid Al-Musyawarah,Masjid,"4G93+W7R, Perum Ciampel Indah I, Laksanamekar, Padalarang, West Bandung Regency, West Java 40553",,"4,8",18,,Tidak Ada ,Tidak Tersedia,-6.8801357,107.5031542,Aksesibilitas Tersedia,[]
+Masjid Al-Hidayah,Masjid,"4FFP+G39, Cimerang, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",Buka 24 jam,"3,9",11,,Tidak Ada ,Tidak Tersedia,-6.8762191,107.4852311,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid At Tin,Masjid,"4GJG+886, Gadobangkong, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",,"4,9",25,,Tidak Ada ,Tidak Tersedia,-6.8692243,107.525758,Aksesibilitas Tersedia,[]
+Masjid Baitul Jannah,Tempat Ibadah,"3FQX+WRC, Jl. Rancatiis, Galanggang, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",Buka 24 jam,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9101908,107.4995038,Aksesibilitas Tersedia,[]
+"Masjid, MDT Al-Inayah",Masjid,"Kp Jl. Bunisari Kulon No.RT02/06, Gadobangkong, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",13.00 hingga 20.30,"5,0",14,,Tidak Ada ,Tidak Tersedia,-6.8677706,107.5111222,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+"Masjid Besar ""Al Hikam""",Masjid,"Jl. Kaum No.09, Cililin, Kec. Cililin, Kabupaten Bandung Barat, Jawa Barat 40562",,"4,7",19,"
+(022) 6940421",Ada,Tidak Tersedia,-6.951474,107.456824,Aksesibilitas Tersedia,[]
+Masjid Asy Syukur,Masjid,"Jl. Tipar Barat No.22, Laksanamekar, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,7",29,,Tidak Ada ,Tidak Tersedia,-6.8730496,107.5070443,Aksesibilitas Tersedia,[]
+Masjid Adz-Dzikra,Masjid,"Jl. Puri Cipageran Indah 2 D-10 No.29, RT.02/RW.22, Tanimulya, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",Buka 24 jam,"4,6",52,"
+0898-6769-192",Ada,Tersedia,-6.8588761,107.5315136,Aksesibilitas Tersedia,[]
+Masjid Al-anshary,Masjid,"Cimerang, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",Buka 24 jam,"4,5",2,,Tidak Ada ,Tidak Tersedia,-6.876116,107.4829505,Aksesibilitas Tersedia,[]
+Masjid Jami' An-Nahl,Masjid,"4FWR+22C, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat",Buka 24 jam,"4,8",34,,Tidak Ada ,Tidak Tersedia,-6.8549434,107.4900312,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid PWNU Jawa Barat,Masjid,"Jl. Terusan Galunggung No.9, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40263",,"4,8",120,"
+0822-4444-5969",Ada,Tidak Tersedia,-6.9280258,107.6253289,Aksesibilitas Tersedia,[]
+Mesjid,Masjid,"4F8H+5R3, Cipenday, Cimerang, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"5,0",1,"
+0838-9038-3585",Ada,Tidak Tersedia,-6.8846237,107.4795498,Aksesibilitas Tersedia,[]
+Masjid Jami Baiturrahman Pasar Cililin,Masjid,"Jl. Cintakarya No.58, Cililin, Kec. Cililin, Kabupaten Bandung Barat, Jawa Barat 40562",,"4,3",22,,Tidak Ada ,Tidak Tersedia,-6.9480724,107.4580377,Aksesibilitas Tersedia,[]
+Masjid Jami Al Jihad,Masjid,"Komplek Permata, Jl. Giok Blok M6 No.1, Tanimulya, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",04.00 hingga 21.00,"4,8",97,"
+(022) 6623242",Ada,Tidak Tersedia,-6.8604168,107.5189489,Aksesibilitas Tersedia,[]
+Masjid Jami'at Taubah,Masjid,"4GP7+2RJ, Gadobangkong, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",04.00 hingga 20.00,"4,7",15,,Tidak Ada ,Tidak Tersedia,-6.8649094,107.5145154,Aksesibilitas Tersedia,[]
+GGP SOLIDEO,Gereja,"Jl. Raya Purwakarta No.159, Mandalasari, Kec. Cikalong Wetan, Kabupaten Bandung Barat, Jawa Barat 40556",,"4,7",16,,Tidak Ada ,Tidak Tersedia,-6.7564208,107.4452764,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+GKDI Bandung,Gereja Kristus,"Istana BEC, Jl. Purnawarman No.13-15 Lantai 3, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",10.30 hingga 22.00,"5,0",89,"
+0821-1996-2001",Ada,Tidak Tersedia,-6.908257,107.6088796,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda', ' Tidak dilengkapi dukungan instalasi bantu dengar', 'Tidak memiliki kursi khusus pengguna kursi roda']"
+"GMI Persiapan Filadelfia Kotabaru, Padalarang",Gereja,"Jl. Pariwarna Niaga Wetan No.05, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553","00.00 hingga 06.00,08.00 hingga 00.00","5,0",1,"
+0819-1855-2001",Ada,Tidak Tersedia,-6.8659762,107.4712577,Aksesibilitas Tersedia,[]
+GEREJA BETHEL TABERNAKEL IMMANUEL GBT,Gereja Pantekosta,"Jl. A. Yani No.265, Cihapit, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40114",Tutup,"4,4",16,"
+(022) 7234567",Ada,Tersedia,-6.9145427,107.6318545,Aksesibilitas Tersedia,[]
+GPIB Maranatha Bandung,Gereja Protestan,"Jl. Taman Cibeunying Utara No.2, Cihapit, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40114",09.00 hingga 17.00,"4,8",286,"
+(022) 7271563",Ada,Tersedia,-6.9071617,107.6265027,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Kristen Pasundan Jemaat Ciwidey,Gereja,"VFW7+C47, Ciwidey, Kec. Ciwidey, Kabupaten Bandung, Jawa Barat 40973",,"4,8",12,,Tidak Ada ,Tidak Tersedia,-7.1039698,107.462785,Aksesibilitas Tersedia,[]
+GBI ROCK BANDUNG,Gereja Kristen,"Convention Hall, Landmark, Braga, Sumurbandung, Bandung City, West Java 40111",Tutup,"4,8",36,"
+(022) 4260611",Ada,Tersedia,-6.9157253,107.6087822,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+HKBP Jalan Lurah,Gereja Lutheran,"Jl. Lurah No.253, Karangmekar, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40523",,"4,6",126,"
+(022) 6632024",Ada,Tersedia,-6.8755349,107.5421355,Aksesibilitas Tersedia,[]
+Gereja Kristen Jawa Bandung,Gereja Protestan,"Jl. Merdeka No.28, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",09.00 hingga 21.00,"4,8",148,"
+(022) 4203106",Ada,Tersedia,-6.9119042,107.6107257,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPdI LK Bandung (Gereja Pantekosta di Indonesia Lengkong Kecil),Gereja Pantekosta,"Jl. Lengkong Kecil No.34-36, Paledang, Kec. Lengkong, Kota Bandung, Jawa Barat 40261",Tutup,"4,5",55,,Tidak Ada ,Tidak Tersedia,-6.9234223,107.6138491,Aksesibilitas Tersedia,[]
+HKBP Ressort Cimahi Jl. Sisingamangaraja,Gereja Lutheran,"Jl. Sisingamangaraja Kel.Padasuka No.174, Setiamanah, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40524",,"4,6",204,"
+(022) 6646339",Ada,Tersedia,-6.8755656,107.5368173,Aksesibilitas Tersedia,[]
+Church In Bandung,Gereja,"3JH9+7VQ, Jl. Katapang, Malabar, Kec. Lengkong, Kota Bandung, Jawa Barat 40262",,"4,9",45,"
+(022) 7318316",Ada,Tersedia,-6.9217783,107.6197254,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKI Sudirman,Gereja Kristen,"Jl. Jend. Sudirman No.638, Dungus Cariang, Kec. Andir, Kota Bandung, Jawa Barat 40183",,"4,6",11,"
+(022) 6002374",Ada,Tidak Tersedia,-6.9172294,107.5777119,Aksesibilitas Tersedia,[]
+GKI Pasirkaliki di Jalan Surya Sumantri,Gereja,"Jl. Prof. drg. Soeria Soemantri No.83, RW.01, Sukawarna, Kec. Sukajadi, Kota Bandung, Jawa Barat 40164",08.00 hingga 16.00,"4,5",4,"
+(022) 2012354",Ada,Tersedia,-6.8845582,107.5812412,Aksesibilitas Tersedia,[]
+GPIB Imanuel Cimahi,Gereja Protestan,"Jl. Pasir Kumeli No.149 A, Baros, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40521",Buka 24 jam,"4,7",138,"
+(022) 6659144",Ada,Tersedia,-6.8892445,107.5415932,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Bethel Indonesia Kota Baru Parahyangan,Gereja Kristen,"Jl. Wangsaniaga Wetan No.28, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,9",14,,Tidak Ada ,Tidak Tersedia,-6.8594888,107.4829247,Aksesibilitas Tersedia,[]
+GPIB Bethel Bandung,Gereja,"Jl. Wastukencana No.1, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",Buka 24 jam,"4,8",224,"
+(022) 4201794",Ada,Tersedia,-6.9136532,107.608698,Aksesibilitas Tersedia,[]
+Gereja Kristen Indonesia Maulana Yusuf,Gereja Presbiterian,"Jl. Maulana Yusuf No.20, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",Tutup,"4,8",587,"
+(022) 4232907",Ada,Tersedia,-6.9007873,107.6137771,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GKO Sarijadi,Gereja,"4H9G+H8P, Sarijadi, Kec. Sukasari, Kota Bandung, Jawa Barat 40151",Tutup,"4,6",34,"
+(022) 2020604",Ada,Tidak Tersedia,-6.8810297,107.5758379,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GJKI Motekar Church,Gereja,"No Jl. Kolonel Masturi No.611, Jambudipa, Kec. Cisarua, Kabupaten Bandung Barat, Jawa Barat 40551",,"4,8",22,,Tidak Ada ,Tersedia,-6.8389919,107.5519874,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPdI Bukit Hermon,Gereja Pantekosta,"Jl. Mahar Martanegara No.103, Cigugur Tengah, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40522",,"4,7",137,"
+(022) 20560199",Ada,Tersedia,-6.8992965,107.5517264,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GMS Bandung,Gereja,"istana bandung electronic center, Istana BEC, Jl. Purnawarman lantai 3A, Babakanciamis, Sumurbandung, Bandung City, West Java 40117",09.00 hingga 16.30,"4,9",125,"
+(021) 30020080",Ada,Tersedia,-6.9078216,107.6087898,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Jemaat Kristus Indonesia,Gereja,"Jl. Luna No.19, Jamika, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40231",,"4,3",3,,Tidak Ada ,Tidak Tersedia,-6.9200811,107.5909561,Aksesibilitas Tersedia,[]
+GII Hok Im Tong • Batununggal,Gereja Evangelis,"Jl. Batununggal Indah II No.50, Mengger, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40267",Tutup,"4,7",54,,Tidak Ada ,Tidak Tersedia,-6.9632753,107.6251629,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katedral Bandung, Santo Petrus",Katedral Katolik,"Jl. Merdeka No.14, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",08.00 hingga 18.00,"4,8",5.123,"
+(022) 4235537",Ada,Tersedia,-6.9148463,107.6106056,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GRII Bandung,Gereja Aliran Baru,"Jl. Moch. Toha No.229, Ciseureuh, Kec. Regol, Kota Bandung, Jawa Barat 40255",,"4,7",217,"
+(022) 5212211",Ada,Tersedia,-6.9463663,107.6091629,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GKI Kebon Jati,Gereja Protestan,"Jl. Kebon Jati No.100, Kb. Jeruk, Kec. Andir, Kota Bandung, Jawa Barat 40181",,"4,8",289,"
+(022) 4231063",Ada,Tidak Tersedia,-6.9160658,107.598979,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPdI,Gereja Pantekosta,"Jl. Gempol Asri XIV No.1, Gempolsari, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40215",Tutup,"4,8",9,"
+0878-2360-0444",Ada,Tidak Tersedia,-6.9372944,107.5544044,Aksesibilitas Tersedia,[]
+Gereja Penggerakan Kristus-Ibadah Pola Tubuh Kristus,Gereja,"Jl. Marjuk No.17, Pasir Kaliki, Kec. Cicendo, Kota Bandung, Jawa Barat 40171",09.00 hingga 17.00,"4,7",15,"
+(022) 87805066",Ada,Tidak Tersedia,-6.911459,107.602246,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKI Pasirkoja,Gereja Kristen,"Jl. Terusan Pasirkoja No.57, Panjunan, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40233",05.30 hingga 19.00,"4,6",30,"
+(022) 6014272",Ada,Tersedia,-6.9266339,107.5953793,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja Kristen Kalam Kudus (GKKK) Kopo Permai,Gereja Protestan,"Komplek Kopo Permai 3 Blok F14 No. 2, 4, Kabupaten Bandung, Jawa Barat 40227",,"4,9",17,,Tidak Ada ,Tersedia,-6.9661413,107.5883972,Aksesibilitas Tersedia,"['Tidak memiliki kursi khusus pengguna kursi roda', 'Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda', 'Tidak ada toilet khusus pengguna kursi roda']"
+Community of Life GPPK Bandung,Gereja,"Jl. Raya Bukit Permata No.12 A Blok P 8, Tanimulya, Ngamprah, West Bandung Regency, West Java 40552",,"4,4",5,,Tidak Ada ,Tidak Tersedia,-6.8623655,107.519628,Aksesibilitas Tersedia,[]
+GKI Pasteur,Gereja Protestan,"Jl. Pasteur No.12A, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",09.00 hingga 17.00,"4,7",151,"
+(022) 2030027",Ada,Tersedia,-6.9001356,107.6027443,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Kerasulan Baru Indonesia,Gereja Protestan,"Jl. Ir. H. Juanda No.7, Tamansari, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40116",07.30 hingga 17.30,"4,5",2,"
+(022) 4203154",Ada,Tersedia,-6.9058452,107.6102835,Aksesibilitas Tersedia,[]
+HKBP Bandung Reformanda,Gereja Lutheran,"Jl. Sumedang No.2, Kacapiring, Kec. Batununggal, Kota Bandung, Jawa Barat 40271",09.00 hingga 17.00,"4,8",132,"
+(022) 7201940",Ada,Tersedia,-6.9158324,107.631053,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Kemah Injil Indonesia,Gereja,"Jl. Cimanuk No.3, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",08.00 hingga 19.00,"5,0",23,"
+(022) 4236934",Ada,Tidak Tersedia,-6.9049905,107.6201963,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja Kristen Pasundan Awiligar,Gereja Kristen,"Jl. Awiligar Raya No.55, Cibeunying, Kec. Cimenyan, Kabupaten Bandung, Jawa Barat 40191",,"4,5",33,,Tidak Ada ,Tidak Tersedia,-6.8807375,107.6369234,Aksesibilitas Tersedia,[]
+GBI Bethel Paskal Hyper Square,Gereja Protestan,"Jl. Pasir Kaliki No.28 Block B1-3A, Ciroyom, Andir, Bandung City, West Java 40181",Tutup,"4,7",126,"
+0813-2211-3301",Ada,Tersedia,-6.9150749,107.597088,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+POUK GKPO Lanud Sulaiman,Gereja Protestan,"Jl. Hercules 4 No.2, Sulaiman, Kec. Margahayu, Kabupaten Bandung, Jawa Barat 40229",18.30 hingga 20.30,"4,9",13,"
+0812-9000-3132",Ada,Tersedia,-6.9855156,107.5687453,Aksesibilitas Tersedia,[]
+GPIB SILIH ASIH BANDUNG,Gereja,"Jl. T. Kaktus No.15, Sukahaji, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40221",08.00 hingga 17.00,"5,0",21,,Tidak Ada ,Tidak Tersedia,-6.9348611,107.5822153,Aksesibilitas Tersedia,[]
+GKPII EBENHAEZER,Gereja,"Jl. Moch. Toha No.293, Citeureup, Kec. Dayeuhkolot, Kabupaten Bandung, Jawa Barat 40258",Tutup,"3,0",2,"
+0813-2219-4999",Ada,Tidak Tersedia,-6.9852745,107.6233511,Aksesibilitas Tersedia,[]
+GMAHK Jemaat Parongpong,Gereja Advent Hari Ketujuh,"5HWH+F72, Cihanjuang Rahayu, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559",Tutup,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.8038368,107.5782417,Aksesibilitas Tersedia,[]
+GSPDI Filadelfia Musa,Gereja,"3J42+5VP, Jl. Inhoftank, Kb. Lega, Kec. Bojongloa Kidul, Kota Bandung, Jawa Barat 40235",08.00 hingga 05.00,"4,9",10,,Tidak Ada ,Tidak Tersedia,-6.9445464,107.6022126,Aksesibilitas Tersedia,[]
+GPIB Sejahtera di Bandung,Gereja Protestan,"Jl. Malabar No.49, Malabar, Kec. Lengkong, Kota Bandung, Jawa Barat 40262",,"4,9",41,,Tidak Ada ,Tidak Tersedia,-6.9244718,107.6243329,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GBI Baranangsiang,Gereja Pantekosta,"ITC Kosambi, Ruko, Jl. Baranang Siang No.8, Kb. Pisang, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40112",Tutup,"4,8",542,"
+0878-1971-7181",Ada,Tersedia,-6.9187145,107.6205049,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPIB Immanuel,Gereja,"No Jl. Raya Ciburuy-Padalarang No.185, Ciburuy, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,9",7,,Tidak Ada ,Tidak Tersedia,-6.8383854,107.4751275,Aksesibilitas Tersedia,[]
+GKI Taman Cibunut,Gereja Presbiterian,"Jl. Van Deventer No.11, Kb. Pisang, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40112",08.00 hingga 16.00,"4,8",279,"
+(022) 4205541",Ada,Tersedia,-6.9171043,107.6154279,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Kristen Indonesia Arcamanik,Gereja Kristen,"Jl. Golf Bar. VIII Jl. Arcamanik Endah 29 Komplek, Sukamiskin, Kec. Arcamanik, Kota Bandung, Jawa Barat 40293",,"5,0",14,"
+(022) 7276592",Ada,Tidak Tersedia,-6.9174855,107.6726365,Aksesibilitas Tersedia,[]
+CLCC (City Light Community Church),Gereja,"Paris Van Java, PVJ Sky Level 53 Lantai S2, Jalan Sukajadi No 137, Sukabungah, Cipedes, Sukajadi, Bandung City, West Java 40162",,"4,8",179,"
+(022) 82063883",Ada,Tersedia,-6.890935,107.595673,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Laurentius, Sukajadi",Gereja Katolik,"Jl. Sukajadi No.223, Gegerkalong, Kec. Sukasari, Kota Bandung, Jawa Barat 40153",,"4,8",1.045,"
+(022) 2038462",Ada,Tersedia,-6.875829,107.596044,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GII Hok Im Tong - Gardujati,Gereja Evangelis,"Jl. Gardujati No.51, Kb. Jeruk, Kec. Andir, Kota Bandung, Jawa Barat 40181",08.00 hingga 17.00,"4,6",363,"
+(022) 6015276",Ada,Tersedia,-6.918472,107.598232,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPDI Permata Cimahi,Gereja,"Jl. Permata Raya No.18, Tanimulya, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552",Tutup,"4,4",5,,Tidak Ada ,Tidak Tersedia,-6.8650906,107.5187649,Aksesibilitas Tersedia,[]
+GII Hok Im Tong - Dago,Gereja Injil,"Jl. Cikapayang No.2 - 4, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",08.00 hingga 17.00,"4,8",355,"
+(022) 2508196",Ada,Tersedia,-6.8986082,107.6119473,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"GMAHK Maranatha, Secapa AD",Gereja,"4HHX+P2P, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",Tutup,"4,8",6,,Tidak Ada ,Tidak Tersedia,-6.8706722,107.5975825,Aksesibilitas Tersedia,[]
+GBKP Bandung Barat,Gereja,"Jl. Holis No.278 B, Caringin, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40212",Tutup,"4,5",52,"
+(022) 6045586",Ada,Tersedia,-6.9310621,107.5721195,Aksesibilitas Tersedia,[]
+GPdI Haleluyah,Gereja Pantekosta,"Jl. Kolonel Masturi No.67, Cimahi, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40525",,"4,7",14,"
+(022) 6650757",Ada,Tersedia,-6.8691512,107.5423108,Aksesibilitas Tersedia,[]
+GBI Sukacita,Gereja,"Jl. Dipati Ukur No.80-84, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",Tutup,"4,8",45,"
+(022) 2500482",Ada,Tersedia,-6.888788,107.6159056,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja Kristen Pantekosta Jemaat Rajawali,Gereja Pantekosta,"Jl. Rajawali Timur No.239, Dungus Cariang, Kec. Andir, Kota Bandung, Jawa Barat 40182",Tutup,"5,0",2,"
+0813-2052-8054",Ada,Tidak Tersedia,-6.9141752,107.5793559,Aksesibilitas Tersedia,[]
+"GEREJA HKBP Bandung, Resort Bandung",Gereja Lutheran,"Jl. L. L. R.E. Martadinata No.96, Cihapit, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40114",,"4,7",340,"
+(022) 4211627",Ada,Tidak Tersedia,-6.908937,107.6244831,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Kristen Pasundan Jemaat Bandung,Gereja Kristen,"Jl. Kebon Jati No.108, Kb. Jeruk, Kec. Andir, Kota Bandung, Jawa Barat 40181",,"4,9",41,"
+(022) 4237083",Ada,Tersedia,-6.915981,107.5986643,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GKI Guntur,Gereja Protestan,"Jl. Guntur No.13, Burangrang, Kec. Lengkong, Kota Bandung, Jawa Barat 40262",,"4,9",80,"
+(022) 7306232",Ada,Tidak Tersedia,-6.9246073,107.6218135,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Kristen Immanuel (GKIm) Mesias,Gereja Kristen,"Jl. Pagarsih No.369, Babakan, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40222",,"4,9",10,"
+(022) 6040516",Ada,Tersedia,-6.9236415,107.5816234,Aksesibilitas Tersedia,"[' Tidak dilengkapi dukungan instalasi bantu dengar', 'Tidak memiliki kursi khusus pengguna kursi roda', 'Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda', 'Tidak ada toilet khusus pengguna kursi roda']"
+GPdI Padalarang,Gereja Pantekosta,"Jl. Raya Padalarang, Kertamulya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",Tutup,"4,8",23,,Tidak Ada ,Tersedia,-6.8459603,107.4895496,Aksesibilitas Tersedia,[]
+BNKP Jemaat Bandung,Gereja,"Jl. Holis No.278D, Caringin, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40212",,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.9309439,107.5717277,Aksesibilitas Tersedia,[]
+GKPA Bandung,Gereja Protestan,"Jl. Kawaluyaan Indah Raya No.5B, Jatisari, Kec. Buahbatu, Kota Bandung, Jawa Barat 40286",,"4,9",11,,Tidak Ada ,Tidak Tersedia,-6.935064,107.6625911,Aksesibilitas Tersedia,[]
+GPKdI Bethel,Gereja,"Jl. Raya Lembang No.134D, Gudangkahuripan, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",,"5,0",4,"
+0812-1417-1019",Ada,Tidak Tersedia,-6.823412,107.6110369,Aksesibilitas Tersedia,[]
+Gereja Isa Almasih,Gereja Kristus,"Jl. Lengkong Besar, Cikawao, Kec. Lengkong, Kota Bandung, Jawa Barat 40261",Buka 24 jam,"4,8",101,,Tidak Ada ,Tersedia,-6.9286461,107.6127123,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Jemaat Kristus Indonesia (GJKI),Gereja,"Jl. Kol. Masturi No. 661, RT.01 / RW.01, Jambudipa, Kec. Cisarua, Kota Bandung, Jawa Barat 40551",,"4,9",23,"
+(022) 2700816",Ada,Tidak Tersedia,-6.8386763,107.5520648,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GBI Stairway From Heaven,Gereja Evangelis,"Jl. Mekar Laksana No.8, Mekarwangi, Kec. Bojongloa Kidul, Kota Bandung, Jawa Barat 40237",08.00 hingga 15.30,"4,8",309,"
+(022) 5225786",Ada,Tersedia,-6.9538614,107.6041844,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKPS Bandung,Gereja,"Jl. PDAM No.12, Sukagalih, Kec. Sukajadi, Kota Bandung, Jawa Barat 40163",Tutup,"5,0",14,,Tidak Ada ,Tidak Tersedia,-6.8924028,107.5863644,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GII Hok Im Tong - Kota Baru Parahyangan,Gereja Evangelis,"Jl. Parahyangan Raya No.Km 1.7, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,7",27,,Tidak Ada ,Tersedia,-6.8597374,107.4828507,Aksesibilitas Tersedia,[]
+GSPDI IMMANUEL CIMAHI,Gereja,"4GHV+C8V, Jl. Pabrik Aci, Cimahi, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40525",,"4,4",5,,Tidak Ada ,Tidak Tersedia,-6.8713783,107.5432853,Aksesibilitas Tersedia,[]
+GKKD Bandung Barat,Gereja Kristen,"4H4P+M5J, BTC Semi Basement, Jl. Pasteur, Pajajaran, Cicendo, Bandung City, West Java 40173",09.00 hingga 17.00,"5,0",4,"
+(022) 7276825",Ada,Tersedia,-6.8932992,107.5853884,Aksesibilitas Tersedia,[]
+GKI CIBEUREUM,Gereja Kristen,"4H27+FFJ, Campaka, Kec. Andir, Kota Bandung, Jawa Barat 40184",,"5,0",3,"
+(022) 6027782",Ada,Tidak Tersedia,-6.8987948,107.5636501,Aksesibilitas Tersedia,[]
+GKI Kota Baru Parahyangan,Gereja Aliran Baru,"Jl. Parahyangan Raya No.Kav 10C, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",Tutup,"5,0",5,"
+(022) 6632812",Ada,Tersedia,-6.8653737,107.4701337,Aksesibilitas Tersedia,[]
+GPIB Majelis Jemaat PNIEL,Gereja Protestan,"No Jl. Raya Dayeuhkolot No.409, Dayeuhkolot, Kec. Dayeuhkolot, Kabupaten Bandung, Jawa Barat 40257",,"5,0",4,"
+(022) 5224274",Ada,Tidak Tersedia,-6.9862245,107.6233755,Aksesibilitas Tersedia,[]
+GKI Maulana Yusuf - Kawaluyaan,Organisasi Keagamaan,"Komplek permata kawaluyaan Ruko no 17-19, jalan Buntu No.17, Jatisari, Kec. Buahbatu, Kota Bandung, Jawa Barat 40286",08.00 hingga 16.00,"4,8",29,"
+0821-2684-6080",Ada,Tersedia,-6.9316303,107.663792,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GPIB Wisma Asih Lembang,Gereja Protestan,"Jl. Maribaya No.93, Kayuambon, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",Tutup,"4,7",37,"
+(022) 2787320",Ada,Tidak Tersedia,-6.8239285,107.6377558,Aksesibilitas Tersedia,[]
+Gereja Kristen Kalam Kudus Pasundan,Gereja Protestan,"Jl. Pasundan No.78, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251","05.15 hingga 06.00,08.00 hingga 11.00","4,8",113,"
+(022) 4233061",Ada,Tersedia,-6.9269092,107.6085005,Aksesibilitas Tersedia,[]
+GKI Anugerah Bajem Sutami,Gereja,"Jl. Prof. Dr. Sutami No.52-54, Sukarasa, Kec. Sukasari, Kota Bandung, Jawa Barat 40152",Tutup,"5,0",14,,Tidak Ada ,Tidak Tersedia,-6.8776938,107.5881947,Aksesibilitas Tersedia,[]
+Gereja Baptis Indonesia Batu Zaman,Gereja Baptis,"Jl. A. Yani No.249, Cihapit, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40114",,"5,0",25,"
+(022) 7274655",Ada,Tersedia,-6.9151327,107.6306947,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', ' Tidak dilengkapi dukungan instalasi bantu dengar', 'Tidak memiliki kursi khusus pengguna kursi roda', 'Tidak ada toilet khusus pengguna kursi roda']"
+GBKP Bandung Timur,Gereja Protestan,"Jl. Kawaluyaan Raya No.10, Jatisari, Bandung, Jawa Barat, 40286",10.00 hingga 16.00,"4,8",21,"
+(022) 7332385",Ada,Tersedia,-6.9377318,107.6621463,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Majelis Jemaat Gereja Protestan,Lembaga Swadaya Masyarakat (LSM),"4J43+J88, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",,"4,7",022,"
+(022) 2031463",Ada,Tidak Tersedia,-6.8934744,107.6033146,Aksesibilitas Tersedia,[]
+Pastoran St.Martinus Bandung,Rumah Pendeta Protestan,"Perumahan Kopo Permai 1, Blk. H No.4, Sukamenak, Margahayu, Bandung Regency, West Java 40227",07.30 hingga 12.00,"4,8",75,"
+(022) 5404263",Ada,Tersedia,-6.9645848,107.5834733,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja Baptis Indonesia Maleber,Gereja Baptis,"Jl. Maleber Barat No.95, Maleber, Kec. Andir, Kota Bandung, Jawa Barat 40184",,"4,4",30,"
+(022) 6045056",Ada,Tidak Tersedia,-6.9059269,107.5714193,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+HKBP Bethesda,Gereja Lutheran,"2JV4+QXW, Jl. Mekar Agung No.20, Mekarwangi, Kec. Bojongloa Kidul, Kota Bandung, Jawa Barat 40237",07.00 hingga 19.00,"5,0",8,,Tidak Ada ,Tersedia,-6.9555395,107.6073088,Aksesibilitas Tersedia,[]
+Gereja Bala Keselamatan,Gereja Protestan,"Jl. Veteran No.6A, Kb. Pisang, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40112",Buka 24 jam,"4,7",24,,Tidak Ada ,Tidak Tersedia,-6.9184878,107.6132609,Aksesibilitas Tersedia,[]
+GKPB Fajar Pengharapan - Satelit Pasirkoja,Gereja Kristen,"Jl. Pasirkoja No.58, Karanganyar, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40242",,"4,8",463,"
+(022) 4237966",Ada,Tersedia,-6.9266151,107.6005577,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"Stasi St. Benediktus, Kota Baru Parahyangan (ABAI) #StBenediktusBandungBarat",Gereja Katolik,"Jl. Wangsaniaga Wetan Jl. Parahyangan Raya No.Km 2 2, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40713",08.00 hingga 16.00,"5,0",30,,Tidak Ada ,Tersedia,-6.8599269,107.4823739,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GKI Gatot Subroto,Gereja,"Jl. Gatot Subroto No.405-407, Binong, Kec. Batununggal, Kota Bandung, Jawa Barat 40275",,"4,8",29,"
+(022) 7310426",Ada,Tersedia,-6.9312244,107.6419576,Aksesibilitas Tersedia,[]
+GKPI Bandung,Gereja Protestan,"Jl. Ciliwung No.20, Cihapit, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40114",08.00 hingga 17.00,"4,7",71,"
+(022) 7107066",Ada,Tersedia,-6.9056299,107.6265278,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GKBI Palasari,Gereja,"Jl. Palasari No.7, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40262",,"4,9",14,,Tidak Ada ,Tersedia,-6.9268009,107.6237172,Aksesibilitas Tersedia,[]
+Gereja Kristen Immanuel Hosanna,Gereja Kristen,"Jl. Dr. Djunjunan No.141, Pajajaran, Kec. Cicendo, Kota Bandung, Jawa Barat 40173",08.00 hingga 16.00,"4,8",62,"
+(022) 6034822",Ada,Tersedia,-6.8935077,107.5856904,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja Methodist Indonesia Getsemani Bandung Barat,Gereja Metodis,"Jl. Marjuk No.15, Arjuna, Kec. Cicendo, Kota Bandung, Jawa Barat 40171",,"4,7",14,"
+(022) 20524143",Ada,Tidak Tersedia,-6.9116707,107.6021809,Aksesibilitas Tersedia,[]
+GKIm Ka Im Tong,Gereja Protestan,"Jl. HOS. Cokroaminoto No.63, Arjuna, Kec. Cicendo, Kota Bandung, Jawa Barat 40172",08.00 hingga 16.30,"4,8",176,"
+(022) 6011677",Ada,Tersedia,-6.910326,107.597774,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKI Ayudia,Gereja Kristen,"Jl. Ayudia No.10, Arjuna, Kec. Cicendo, Kota Bandung, Jawa Barat 40172",,"4,7",23,"
+(022) 6013341",Ada,Tidak Tersedia,-6.9095212,107.5894896,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja HKBP Bandung Barat,Gereja Lutheran,"Jl. HKBP No.1, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40241",08.00 hingga 22.00,"4,7",242,"
+(022) 6002984",Ada,Tidak Tersedia,-6.9215897,107.577921,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Keluarga Allah Bandung,Gereja Kristen,"Jl. Siliwangi Dalam No.3, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",09.00 hingga 16.00,"4,9",20,"
+0877-3903-5097",Ada,Tersedia,-6.8852162,107.6123637,Aksesibilitas Tersedia,[]
+GKP Jemaat Lembang,Gereja,"Jl. Jayagiri No.8, Jayagiri, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",Tutup,"4,7",55,"
+(022) 2787552",Ada,Tidak Tersedia,-6.8070629,107.6199061,Aksesibilitas Tersedia,[]
+Gereja Baptis Indonesia Baitlahim,Gereja Baptis,"Jl. Jend. Sudirman No.586, Dungus Cariang, Kec. Andir, Kota Bandung, Jawa Barat 40183",,"4,8",41,"
+(022) 6014479",Ada,Tidak Tersedia,-6.9179732,107.5815055,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Bethel Tabernakel,Gereja Protestan,"Jl. Holis No.300, Caringin, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40212",,"4,9",40,"
+(022) 6016561",Ada,Tidak Tersedia,-6.9327448,107.5715936,Aksesibilitas Tersedia,[]
+Gereja Kristen Kalam Kudus (GKKK) Taman Kopo Indah,Gereja Kristen,"Blk. A2 Jl. Taman Kopo Indah 2 No.2, Rahayu, Kec. Margaasih, Kabupaten Bandung, Jawa Barat 40218",,"4,8",22,"
+(022) 5423950",Ada,Tidak Tersedia,-6.9645862,107.5624295,Aksesibilitas Tersedia,[]
+GKIm Hosanna Ciumbuleuit,Gereja Kristen,"Galeri Ciumbuleuit Apartment 1, Jl. Ciumbuleuit, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",09.30 hingga 13.00,"4,8",19,"
+0821-2135-5788",Ada,Tidak Tersedia,-6.8813869,107.6046809,Aksesibilitas Tersedia,[]
+G.B.T. Anugrah,Gereja Protestan,"Jl. Kesatriaan No.31, Arjuna, Kec. Cicendo, Kota Bandung, Jawa Barat 40172",,"4,4",7,"
+(022) 91567760",Ada,Tidak Tersedia,-6.9123383,107.5958283,Aksesibilitas Tersedia,[]
+Gereja Isa Almasih (GIA) Kopo Permai,Gereja Pantekosta,"Jl. Kopo Permai II No.blok 52A 9 U, Sukamenak, Margahayu, Bandung Regency, West Java 40227",09.00 hingga 15.00,"4,9",20,"
+(022) 54416910",Ada,Tersedia,-6.9629258,107.5859432,Aksesibilitas Tersedia,[]
+Gereja Sidang Kristus,Gereja Kristus,"Jl. Sunda No.49, Kb. Pisang, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40112",,"4,9",30,"
+(022) 4237181",Ada,Tidak Tersedia,-6.919418,107.6177875,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja POUK Secapa AD,Gereja Kristen,"4HHX+R4W, Jl. Komp. Secapa, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",Tutup,"4,5",19,"
+0813-2227-1074",Ada,Tidak Tersedia,-6.8703774,107.5978357,Aksesibilitas Tersedia,[]
+GKI Cimahi,Gereja Kristen,"Jl. Pacinan No.32, Cimahi, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40525",08.00 hingga 16.00,"4,7",56,"
+(022) 6632812",Ada,Tersedia,-6.8711719,107.5438869,Aksesibilitas Tersedia,[]
+GKPI JK Cimahi,Gereja Lutheran,"4GFR+RX2, Jl. Lurah Gang As-Salam, Karangmekar, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40523",Buka 24 jam,"4,7",27,,Tidak Ada ,Tidak Tersedia,-6.8754809,107.5423947,Aksesibilitas Tersedia,[]
+Gereja Baptis Indonesia Cipaganti,Gereja Baptis,"Jalan Rd. A.A Wiranata Kusuma No.139, Pasteur, Kec. Sukajadi, Kota Bandung, Jawa Barat 40161",09.00 hingga 15.00,"4,8",18,"
+0895-3263-44675",Ada,Tidak Tersedia,-6.8881834,107.6016896,Aksesibilitas Tersedia,[]
+GKI Anugerah,Gereja,"Jl. Jend. Sudirman No.193-197, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",,"4,7",275,"
+(022) 6011818",Ada,Tersedia,-6.9201707,107.5974709,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPIB Efata Batujajar,Gereja,"3FPW+9X8, Jalan Raya, Galanggang, Batujajar, West Bandung Regency, West Java 40561",,"4,5",43,"
+(022) 6868613",Ada,Tidak Tersedia,-6.9140924,107.4974443,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+GBI Aruna,Gereja Pantekosta,"Jl. Aruna No.19, Husen Sastranegara, Kec. Cicendo, Kota Bandung, Jawa Barat 40174",13.00 hingga 16.30,"4,8",971,"
+(022) 6003808",Ada,Tersedia,-6.9082245,107.5874633,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GKJ Kiaracondong,Gereja,"Jl. Stasiun Kiaracondong No.99/134B, Kebun Jayanti, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40111",,"4,7",33,"
+(022) 7305127",Ada,Tidak Tersedia,-6.9255684,107.6463212,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Bunda Tujuh Kedukaan, Pandu",Gereja Katolik,"Jl. Pandu No.4, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173",06.00 hingga 21.00,"4,8",1.806,"
+(022) 6011138",Ada,Tersedia,-6.9055223,107.5934154,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Rehoboth,Gereja,"Jl. Raden Dewi Sartika No.36-38, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",08.00 hingga 16.00,"4,6",37,"
+(022) 4230722",Ada,Tidak Tersedia,-6.9251361,107.6059459,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKI Pasirkaliki,Gereja Kristen,"Jl. Pasir Kaliki No.157, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173",,"5,0",7,,Tidak Ada ,Tidak Tersedia,-6.9031897,107.597172,Aksesibilitas Tersedia,[]
+GKI Maulana Yusuf Pos Jemaat Bahureksa 26 Bandung,Gereja Protestan,"Jl. Bahureksa No.26, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",Tutup,,,,Tidak Ada ,Tersedia,-6.9053985,107.6155855,Aksesibilitas Tersedia,[]
+Gereja Kristen Protestan Terdekat dari POLBAN DAN ULBI,Gereja,"Jl. Prof. Dr. Sutami No.52, Sukarasa, Kec. Sukasari, Kota Bandung, Jawa Barat 40152",,,,,Tidak Ada ,Tidak Tersedia,-6.8777692,107.5882059,Aksesibilitas Tersedia,[]
+Gereja Oikumene Pusdiklatpassus,Tempat Ibadah,"3FMR+XJ8, Pintu, Galanggang, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",,"4,7",3,,Tidak Ada ,Tidak Tersedia,-6.9152383,107.4916358,Aksesibilitas Tersedia,[]
+"Stasi St. Benediktus, Kota Baru Parahyangan (ABAI) #StBenediktusBandungBarat",Gereja Katolik,"Jl. Wangsaniaga Wetan Jl. Parahyangan Raya No.Km 2 2, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40713",08.00 hingga 16.00,"5,0",30,,Tidak Ada ,Tersedia,-6.8599269,107.4823739,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Stasi Ratu Semesta Alam, Manggahang",Gereja Katolik,"Kampung Andir No.33, RT.04/RW.04, Manggahang, Kec. Baleendah, Kabupaten Bandung, Jawa Barat 40375",08.00 hingga 22.00,"4,4",44,,Tidak Ada ,Tersedia,-7.0150093,107.6433429,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santa Odilia, Cicadas",Gereja Katolik,"Jl. Cicadas Ps. II No.45, Cikutra, Kec. Cibeunying Kidul, Kota Bandung, Jawa Barat 40124",08.00 hingga 19.00,"4,6",598,"
+(022) 7271501",Ada,Tidak Tersedia,-6.9072705,107.6426698,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Amal Penguburan Katolik (APK) Santo Yusup,Kantor Perusahaan,"4H5M+8WP, Unnamed Road, Sukagalih, Sukajadi, Bandung City, West Java 40163",,"4,3",3,"
+(022) 2015282",Ada,Tersedia,-6.8916587,107.5848303,Aksesibilitas Tersedia,[]
+GII Hok Im Tong - Kota Baru Parahyangan,Gereja Evangelis,"Jl. Parahyangan Raya No.Km 1.7, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,7",27,,Tidak Ada ,Tersedia,-6.8597374,107.4828507,Aksesibilitas Tersedia,[]
+GSPDI PADALARANG,Gereja,"KPAD SEJAHTERA BLOK T NO 4, Padalarang, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",Tutup,"5,0",77,,Tidak Ada ,Tidak Tersedia,-6.8475371,107.4694271,Aksesibilitas Tersedia,[]
+"Gereja Katolik St. Benediktus, Kota Baru Parahyangan",Gereja,"Jl. Parahyangan Raya No.Kav 10C, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,,,,Tidak Ada ,Tidak Tersedia,-6.8648974,107.4698878,Aksesibilitas Tersedia,[]
+Gereja Bethel Tabernakel Cisokan,Gereja Injil Sepenuh,"Jl. Terusan Cisokan No. 19, Haurgeulis, Cileunyi, Cihaur Geulis, Bandung, Kota Bandung, Jawa Barat 40122",,"4,5",60,"
+(022) 7274778",Ada,Tidak Tersedia,-6.901797,107.6318821,Aksesibilitas Tersedia,[]
+GPIB SILIH ASIH BANDUNG,Gereja,"Jl. T. Kaktus No.15, Sukahaji, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40221",08.00 hingga 17.00,"5,0",21,,Tidak Ada ,Tidak Tersedia,-6.9348611,107.5822153,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Gabriel, Sumber Sari",Gereja Katolik,"Jl. Sumber Makmur No.4, Babakan, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40222",08.00 hingga 16.00,"4,8",483,,Tidak Ada ,Tidak Tersedia,-6.9374071,107.5721222,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Griya Fatima (Pastoran),Gereja Katolik,"Jln. Karmel No.112, Jayagiri, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",06.00 hingga 18.00,"4,9",10,"
+(022) 2787331",Ada,Tersedia,-6.8136839,107.6140502,Aksesibilitas Tersedia,[]
+"Gua Maria - Pertapaan Karmel, Lembang",Gereja Katolik,"Jl. Karmel 1 No.113, Jayagiri, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",07.30 hingga 19.00,"4,9",2.838,,Tidak Ada ,Tidak Tersedia,-6.8131704,107.6144404,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Laurentius, Sukajadi",Gereja Katolik,"Jl. Sukajadi No.223, Gegerkalong, Kec. Sukasari, Kota Bandung, Jawa Barat 40153",,"4,8",1.045,"
+(022) 2038462",Ada,Tersedia,-6.875829,107.596044,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Paulus, Moch. Toha",Gereja Katolik,"Jl. Moch. Toha No.19-21, Pungkur, Kec. Regol, Kota Bandung, Jawa Barat 40252","09.00 hingga 12.00,13.00 hingga 16.00","4,7",896,"
+(022) 5207404",Ada,Tersedia,-6.9293556,107.6070709,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Katolik St. Agustinus Cimahi,Gereja Katolik,"Jl. Gatot Subroto No.28, Karangmekar, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40523",,"4,5",66,,Tidak Ada ,Tidak Tersedia,-6.8780164,107.5445062,Aksesibilitas Tersedia,[]
+"Gua Maria, Santo Boromeus",Gereja Katolik,"Jl. Surya Kencana No.7, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",Tutup,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.8938101,107.6138715,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Salib Suci, Kamuning",Gereja Katolik,"Jl. Kemuning No.25, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113",05.00 hingga 00.00,"4,7",458,"
+(022) 7271310",Ada,Tersedia,-6.916163,107.6284408,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santa Melania, Cihaur Geulis",Gereja Katolik,"Jl. Melania No.1-3, Cihaur Geulis, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat 40122",,"4,7",117,"
+(022) 20463790",Ada,Tidak Tersedia,-6.9003616,107.6238023,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda', ' Tidak dilengkapi dukungan instalasi bantu dengar', 'Tidak memiliki kursi khusus pengguna kursi roda']"
+GKIm Hosanna Ciumbuleuit,Gereja Kristen,"Galeri Ciumbuleuit Apartment 1, Jl. Ciumbuleuit, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",09.30 hingga 13.00,"4,8",19,"
+0821-2135-5788",Ada,Tidak Tersedia,-6.8813869,107.6046809,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santa Maria Fatima, Lembang",Gereja Katolik,"Jl. Karmel, Jayagiri, Lembang, West Bandung Regency, West Java 40391",07.00 hingga 19.00,"4,8",541,"
+(022) 2787331",Ada,Tersedia,-6.8128003,107.6146483,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GBIS Kristus Pembela,Gereja Injil Sepenuh,"Jl. Muara Barat No.2, Situsaeur, Kec. Bojongloa Kidul, Kota Bandung, Jawa Barat 40234",Tutup,"5,0",31,"
+0811-2331-945",Ada,Tidak Tersedia,-6.9392999,107.5992571,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+"Gereja Katolik St. Yusuf Pekerja, Majalaya",Gereja Katolik,"Jl. Raya Laswi No.95, Padamulya, Kec. Majalaya, Kabupaten Bandung, Jawa Barat 40392",,"4,7",13,"
+0812-2352-538",Ada,Tersedia,-7.0496427,107.7485958,Aksesibilitas Tersedia,[]
+GBKP Bandung Barat,Gereja,"Jl. Holis No.278 B, Caringin, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40212",Tutup,"4,5",52,"
+(022) 6045586",Ada,Tersedia,-6.9310621,107.5721195,Aksesibilitas Tersedia,[]
+Gereja Bethel Indonesia Kota Baru Parahyangan,Gereja Kristen,"Jl. Wangsaniaga Wetan No.28, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"4,9",14,,Tidak Ada ,Tidak Tersedia,-6.8594888,107.4829247,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Fransiskus Xaverius, Dayeuhkolot",Gereja Katolik,"Jl. Raya Bojongsoang No.17, Bojongsoang, Kec. Bojongsoang, Kabupaten Bandung, Jawa Barat 40257",,"4,7",208,"
+(022) 42821012",Ada,Tersedia,-6.9841599,107.629783,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Biara Ursulin,Biara,"3JQM+94H, Jl. Supratman I, Cihapit, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40114",,"4,7",62,"
+(022) 7107208",Ada,Tidak Tersedia,-6.9115732,107.6328457,Aksesibilitas Tersedia,[]
+Gereja Katolik Paroki Hati Tak Bernoda Santa Perawan Maria,Gereja Katolik,"Jl. Suryalaya No.3, Cijagra, Kec. Lengkong, Kota Bandung, Jawa Barat 40265",06.00 hingga 22.00,"4,8",693,"
+(022) 7303922",Ada,Tersedia,-6.940817,107.625909,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+International Full Gospel Fellowship (IFGF) Bandung,Gereja,"blok J IFGF Bandung at THE HOUSE, Jl. Pasir Kaliki No.25 - 27, Ciroyom, Kec. Andir, Kota Bandung, Jawa Barat 40172",,"4,8",149,"
+0877-2211-1767",Ada,Tersedia,-6.9146512,107.5932124,Aksesibilitas Tersedia,['Memiliki tempat parkir khusus pengguna kursi roda']
+GPIB Efata Batujajar,Gereja,"3FPW+9X8, Jalan Raya, Galanggang, Batujajar, West Bandung Regency, West Java 40561",,"4,5",43,"
+(022) 6868613",Ada,Tidak Tersedia,-6.9140924,107.4974443,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+"Gereja Katolik Paroki Bunda Tujuh Kedukaan, Pandu",Gereja Katolik,"Jl. Pandu No.4, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173",06.00 hingga 21.00,"4,8",1.806,"
+(022) 6011138",Ada,Tersedia,-6.9055223,107.5934154,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Kapel Katolik Hati Kudus Yesus, Lebak Gede",Gereja Katolik,"Jl. Surya Kencana No.3, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",05.30 hingga 06.00,"4,8",217,,Tidak Ada ,Tidak Tersedia,-6.894155,107.614249,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Pastoran St.Martinus Bandung,Rumah Pendeta Protestan,"Perumahan Kopo Permai 1, Blk. H No.4, Sukamenak, Margahayu, Bandung Regency, West Java 40227",07.30 hingga 12.00,"4,8",75,"
+(022) 5404263",Ada,Tersedia,-6.9645848,107.5834733,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katedral Bandung, Santo Petrus",Katedral Katolik,"Jl. Merdeka No.14, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",08.00 hingga 18.00,"4,8",5.123,"
+(022) 4235537",Ada,Tersedia,-6.9148463,107.6106056,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki St. Theodorus, Sukawarna",Gereja Katolik,"Jl. Unpar II No.10, Sukawarna, Kec. Sukajadi, Kota Bandung, Jawa Barat 40164",Tutup,"4,8",207,"
+(022) 82003709",Ada,Tersedia,-6.8896639,107.5764554,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Martinus, Margahayu",Gereja Katolik,"Jl. Hercules 4, Sulaiman, Kec. Margahayu, Kabupaten Bandung, Jawa Barat 40229",06.00 hingga 07.00,"4,7",459,"
+(022) 5404263",Ada,Tersedia,-6.985416,107.568153,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Kapel Katolik Mater Boni Consilii, Cibeunying Kidul",Gereja Katolik,"Jl. Supratman No.1, Sukamaju, Kec. Cibeunying Kidul, Kota Bandung, Jawa Barat 40114",,"4,7",57,"
+(022) 7207332",Ada,Tersedia,-6.9116383,107.6327473,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Michael, Waringin",Gereja Katolik,"Jl. Waringin No.51, Ciroyom, Kec. Andir, Kota Bandung, Jawa Barat 40182",Buka 24 jam,"4,8",265,"
+(022) 6018769",Ada,Tersedia,-6.9171009,107.591306,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Ignatius, Cimahi",Gereja Katolik,"Jl. Baros No.8, Baros, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40521",05.30 hingga 18.00,"4,8",1.013,"
+(022) 6654052",Ada,Tersedia,-6.8905712,107.5364163,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Mahasiswa Katolik,Gereja Katolik,"Sekolah Santo Aloysius, Jl. Sultan Agung No.2, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",10.00 hingga 17.00,"4,8",105,"
+(022) 4217796",Ada,Tersedia,-6.9057474,107.6118923,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Wisata Religi Biara Karmel Lembang,Biara,"Jl. Karmel II No.51, Jayagiri, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",07.00 hingga 19.00,"4,9",97,"
+(022) 2787331",Ada,Tidak Tersedia,-6.8125767,107.6145599,Aksesibilitas Tersedia,"['Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Oikumene Pusdiklatpassus,Tempat Ibadah,"3FMR+XJ8, Pintu, Galanggang, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561",,"4,7",3,,Tidak Ada ,Tidak Tersedia,-6.9152383,107.4916358,Aksesibilitas Tersedia,[]
+Lotek Dr Rosye Rosaria Zaena SE,Vihara,"4G3P+6JX SD Santo Yusup Baros, Utama, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.89688,107.5366239,Aksesibilitas Tersedia,[]
+Wihara Dharma Ramsi,Vihara,"Gg. Ibu Aisah No.18 9A, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",08.00 hingga 17.00,"4,9",27,"
+(022) 6034489",Ada,Tersedia,-6.9210202,107.5924747,Aksesibilitas Tersedia,[]
+Vihara Avalokitesvara Vipassana Graha (AVG) Bandung,Vihara,"Jl. Raya Taman Kopo Indah 2 Blk. A3 No.2, Mekar Rahayu, Kec. Margaasih, Kabupaten Bandung, Jawa Barat 40218",,"5,0",12,,Tidak Ada ,Tersedia,-6.960583,107.5579322,Aksesibilitas Tersedia,[]
+Klinik Vihara Tanda Bhakti,Klinik Medis,"Jl. Vihara No.3, Kb. Jeruk, Kec. Andir, Kota Bandung, Jawa Barat 40182","07.00 hingga 08.30,15.00 hingga 19.00","4,2",6,,Tidak Ada ,Tidak Tersedia,-6.918128,107.5936663,Aksesibilitas Tersedia,[]
+上香,Vihara,"Jl. Kelenteng No.12, Kb. Jeruk, Kec. Andir, Kota Bandung, Jawa Barat 40182",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9187474,107.5930834,Aksesibilitas Tersedia,[]
+Walubi,Vihara,"Jl. A. Yani C No.284 Lantai II, Kacapiring, Kec. Batununggal, Kota Bandung, Jawa Barat 40114",,"4,0",1,"
+(022) 7200979",Ada,Tidak Tersedia,-6.9150118,107.6319467,Aksesibilitas Tersedia,[]
+Cetya Maitrisagara,Vihara,"3H8Q+7V4, Jl. Peta, Suka Asih, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40233",,"4,5",39,,Tidak Ada ,Tidak Tersedia,-6.9343632,107.589692,Aksesibilitas Tersedia,[]
+Vihara Aman,Vihara,"Jl. Luna No.63/85, Jamika, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40231",,"4,4",7,,Tidak Ada ,Tidak Tersedia,-6.9196978,107.590767,Aksesibilitas Tersedia,[]
+DPD Madhatantri Tk. I Jawa Barat,Vihara,"Jl. Babakan Tarogong No.251, Babakan Tarogong, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40231",,"3,7",3,,Tidak Ada ,Tidak Tersedia,-6.9310886,107.5912442,Aksesibilitas Tersedia,[]
+Vihara Yakin,Vihara,"Jl. Gatot Subroto No.151, Samoja, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9244495,107.6281629,Aksesibilitas Tersedia,[]
+Vihara Vimala Dharma,Vihara,"Jl. Ir. H. Juanda No.5, Tamansari, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40116",,"4,7",123,"
+(022) 4238696",Ada,Tidak Tersedia,-6.906144,107.6103585,Aksesibilitas Tersedia,[]
+Vihara Yasodhara,Vihara,"Jl. Pagarsih No.158, Jamika, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40231",08.00 hingga 17.00,"4,7",28,"
+(022) 6012449",Ada,Tersedia,-6.9222633,107.590745,Aksesibilitas Tersedia,[]
+Vihara Damai Sejahtera,Vihara,"Komplek Capitol Plaza B2 Kota, JL. Jenderal Sudirman, No. 91, Sukahaji, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40221",,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.9186239,107.5868224,Aksesibilitas Tersedia,[]
+Megaloman House,Vihara,"Jl. Sadang Saip No.28 C, Sadang Serang, Kecamatan Coblong, Kota Bandung, Jawa Barat 40133",,"5,0",7,,Tidak Ada ,Tidak Tersedia,-6.8900875,107.6281093,Aksesibilitas Tersedia,[]
+Vihara Vimalakirti Bandung,Vihara,"Jl. Suryani Dalam No.15, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",,"4,5",38,,Tidak Ada ,Tidak Tersedia,-6.9194586,107.5811285,Aksesibilitas Tersedia,[]
+Green Corner by Vihara Yasodhara,Tambah jam buka,"Jl. Pagarsih No.158, Jamika, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40231",,"5,0",1,"
+(022) 6012449",Ada,Tidak Tersedia,-6.9222535,107.5907287,Aksesibilitas Tersedia,[]
+Biara Bandung Natawijaya,Vihara,"Jl. K. Natawijaya No.55 RT 002/02, Panjunan, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40242",,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.9267207,107.5960787,Aksesibilitas Tersedia,[]
+Vihara Iswari,Vihara,"Jl. Cibadak No.221, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",06.00 hingga 17.00,"4,7",6,"
+(022) 6013068",Ada,Tersedia,-6.921397,107.5954997,Aksesibilitas Tersedia,[]
+Pura Agung Wira Loka Natha,Pura,"4G8P+95X, Jl. Sriwijaya Raya, Karangmekar, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40523",Buka 24 jam,"4,7",180,"
+(022) 6640019",Ada,Tidak Tersedia,-6.88402,107.5354883,Aksesibilitas Tersedia,[]
+wisma meditasi Dirghayuka Prabha,Vihara,"7MV9+J43, Jl.kampung cilimus, Cisaat, Kec. Ciater, Kabupaten Subang, Jawa Barat",,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.7059892,107.6677863,Aksesibilitas Tersedia,[]
+Bandung,Vihara,"3HX8+FHJ, Jl ketapang, Campaka, Kec. Andir, Kota Bandung, Jawa Barat 40184",,"4,8",10,,Tidak Ada ,Tidak Tersedia,-6.9012858,107.5663946,Aksesibilitas Tersedia,[]
+Vihara Natawijaya,Vihara,"K Jl. K. Natawijaya No.55, Panjunan, Astanaanyar, Bandung City, West Java 40242",,"5,0",7,,Tidak Ada ,Tidak Tersedia,-6.9268646,107.5961239,Aksesibilitas Tersedia,[]
+Wihara Kesejahteraan,Vihara,"Jl. Kb. Jukut No.9, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",08.00 hingga 17.00,"4,7",11,"
+(022) 4239057",Ada,Tidak Tersedia,-6.9143896,107.6056304,Aksesibilitas Tersedia,[]
+Vihara Karuna Mukti,Vihara,"3JF5+HF3, Jl. Pasundan, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",,"4,6",65,"
+(022) 4234597",Ada,Tidak Tersedia,-6.926125,107.6086633,Aksesibilitas Tersedia,[]
+Avalokitesvara Vidya Sasana,Vihara,"Jl. Cikawao Dalam I No.35G, Paledang, Kec. Lengkong, Kota Bandung, Jawa Barat 40261",07.00 hingga 19.00,"4,8",46,"
+(022) 4241395",Ada,Tidak Tersedia,-6.9274726,107.615003,Aksesibilitas Tersedia,[]
+Vihara Sad Paramita,Vihara,"Jl. Babakan Tarogong No.251, Babakan Tarogong, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40231",Tutup,"4,4",9,"
+0821-1860-4153",Ada,Tidak Tersedia,-6.9275984,107.5874252,Aksesibilitas Tersedia,[]
+Vihara terang hati,Vihara,"Jl. Pagarsih No.128, Jamika, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",,"5,0",1,"
+0877-2229-8568",Ada,Tidak Tersedia,-6.9224363,107.5926194,Aksesibilitas Tersedia,[]
+Jiang Home,Vihara,"Jl. Taman Kopo Indah 3 Blk. A4 No.41, Rahayu, Kec. Margaasih, Kabupaten Bandung, Jawa Barat 40218",,"3,9",7,,Tidak Ada ,Tidak Tersedia,-6.9592378,107.55782,Aksesibilitas Tersedia,[]
+Wihara Tanda Bhakti,Vihara,"Jl. Vihara No.3, Kb. Jeruk, Kec. Andir, Kota Bandung, Jawa Barat 40181",06.30 hingga 16.00,"4,8",10,"
+(022) 6001445",Ada,Tersedia,-6.9181634,107.5937842,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Sasak bubur,Vihara,"6C6R+RCW, Nyalindung, Kec. Cipatat, Kabupaten Bandung Barat, Jawa Barat",,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.78788,107.441068,Aksesibilitas Tersedia,[]
+Dewi Temple,Vihara,"Jl. Cibadak Gg. Wangsa No.6, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",,"3,7",3,"
+(022) 6015974",Ada,Tidak Tersedia,-6.9204439,107.5948154,Aksesibilitas Tersedia,[]
+Vihara Shi Yu,Tempat Ibadah,"Jl. Kopo Permai III No.11 Blok 36A, Sukamenak, Margahayu, Bandung Regency, West Java 40227",,"3,9",7,,Tidak Ada ,Tidak Tersedia,-6.9650141,107.5864108,Aksesibilitas Tersedia,[]
+Vihara Ratnapani,Vihara,"Jl. Luna IV No.6, Jamika, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40241",,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.9206815,107.5921925,Aksesibilitas Tersedia,[]
+Pusat Meditasi Vipassana Graha,Pusat Meditasi,"Jl. Kolonel Masturi No.69, Sukajaya, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",05.00 hingga 18.00,"4,8",1.658,"
+(022) 2787664",Ada,Tidak Tersedia,-6.8116604,107.5994075,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+rindi ssumurni,Vihara,"XG2X+RCC, Ciluncat, Kec. Cangkuang, Kabupaten Bandung, Jawa Barat 40238",,"4,5",38,,Tidak Ada ,Tidak Tersedia,-7.0479167,107.548492,Aksesibilitas Tersedia,[]
+Vihara Budhi,Vihara,"Jl. Arjuna No.29, Ciroyom, Kec. Andir, Kota Bandung, Jawa Barat 40182",,"4,1",46,,Tidak Ada ,Tidak Tersedia,-6.9153053,107.5894331,Aksesibilitas Tersedia,[]
+Masjid Al-Amanah,Masjid,"Jl. Ruhana No.6, RW.8, Paledang, Kec. Lengkong, Kota Bandung, Jawa Barat 40261",,"4,8",67,,Tidak Ada ,Tidak Tersedia,-6.9240612,107.6140377,Aksesibilitas Tersedia,[]
+Yayasan Buddha Tzu Chi Bandung,Organisasi Pelayanan Sosial,"Jl. Jend. Sudirman Kelurahan No.628, Dungus Cariang, Kec. Andir, Kota Bandung, Jawa Barat 40183",,"4,6",137,"
+(022) 20565200",Ada,Tersedia,-6.9176039,107.5789734,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Wihara Buddhayana,Vihara,"Jl. Kolonel Masturi No.Km.5, RW.2, Jambudipa, Kec. Cisarua, Kabupaten Bandung Barat, Jawa Barat",,"3,0",2,,Tidak Ada ,Tidak Tersedia,-6.832003,107.555931,Aksesibilitas Tersedia,[]
+Vihara Sinar Mulia,Kuil Penganut Agama Tao,"Jl. Cibadak No.225, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.9212256,107.5952454,Aksesibilitas Tersedia,[]
+Vihara Giritoba/ Sioe Sian Tong (Yayasan Giritoba),Vihara,"Jl. Bojongloa No.70, Panjunan, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40242",,"4,3",40,"
+(022) 5221401",Ada,Tersedia,-6.9304532,107.5994862,Aksesibilitas Tersedia,[]
+Wihara Buddha Sasana,Vihara,"JL. Ijan, No. 8 - 10, Ciateul, Regol, Pungkur, Kec. Regol, Kota Bandung, Jawa Barat 40252",,"5,0",3,"
+(022) 5205849",Ada,Tidak Tersedia,-6.927832,107.6041002,Aksesibilitas Tersedia,[]
+Pondok Suddhi Bhavana,Vihara,"Jl. Kolonel Masturi No.Km 5, RW.2, Jambudipa, Kec. Cisarua, Kabupaten Bandung Barat, Jawa Barat 40551",,"4,3",35,,Tidak Ada ,Tidak Tersedia,-6.8316063,107.5545507,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+VIHARA GIRI METTA,Vihara,"3JG7+9H2, Paledang, Kec. Lengkong, Kota Bandung, Jawa Barat 40261",,"4,5",38,,Tidak Ada ,Tidak Tersedia,-6.9241207,107.6138948,Aksesibilitas Tersedia,[]
+Pondok Sadhana Suddhi Bhavana,Pusat Retret,"Jl. Kolonel Masturi No.Km 5 2, RW.2, Jambudipa, Cisarua, West Bandung Regency, West Java 40551",,"5,0",7,,Tidak Ada ,Tidak Tersedia,-6.8311529,107.5541169,Aksesibilitas Tersedia,[]
+Cetiya Maitri Sagara,Vihara,"Komp. Bumi Kencana, JL. Lingkar Selatan, Suka Asih, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40231",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.933286,107.591379,Aksesibilitas Tersedia,[]
+Vihara Prajna Maitreya Kopo,Vihara,"2 Blk. F No, Jl. Taman Kopo Indah No.17, Rahayu, Kec. Margaasih, Kabupaten Bandung, Jawa Barat 40226",Buka 24 jam,"3,9",7,,Tidak Ada ,Tidak Tersedia,-6.9626409,107.5609491,Aksesibilitas Tersedia,[]
+T.I.TD Sian Tek Keng/Amal Bakti,Kuil Penganut Agama Tao,"Jl. Taman Kopo Indah 3 Blk. C4 No.6, Rahayu, Kec. Margaasih, Kabupaten Bandung, Jawa Barat 40218",,"5,0",7,,Tidak Ada ,Tidak Tersedia,-6.9614395,107.5569537,Aksesibilitas Tersedia,[]
+Taokwan Sinar Mulia,Kuil Penganut Agama Tao,"3HHW+F3H, Jl. Cibadak, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",,"4,5",25,,Tidak Ada ,Tidak Tersedia,-6.9213178,107.595242,Aksesibilitas Tersedia,[]
+Wihara Buddhi,Vihara,"Jl. Cibadak No.281, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",,"4,1",46,,Tidak Ada ,Tidak Tersedia,-6.9208737,107.5928038,Aksesibilitas Tersedia,[]
+Vihara Budhi Dharma,Vihara,"Jl. Suryani No.33, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",,"2,5",2,,Tidak Ada ,Tidak Tersedia,-6.9210282,107.5810176,Aksesibilitas Tersedia,[]
+Wisma Kusalayani,Tempat Ibadah,"5MF7+56V, Jl. Cigalukguk, Cibodas, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",,"4,9",38,"
+0855-9913-362",Ada,Tersedia,-6.8270038,107.6630413,Aksesibilitas Tersedia,[]
+Wihara Ban Sian Tong,Vihara,"Jl. Pagarsih No.158, Jamika, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40231",,"4,4",7,"
+(022) 6012449",Ada,Tidak Tersedia,-6.9222573,107.5907678,Aksesibilitas Tersedia,[]
+Yayasan Wihara Yasodhara,Lembaga Swadaya Masyarakat (LSM),"Jl. Pagarsih No.158, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40231",,"5,0",2,"
+(022) 6001824",Ada,Tidak Tersedia,-6.9227874,107.5964199,Aksesibilitas Tersedia,[]
+Vihara Satya Budhi,Vihara,"Jl. Kelenteng No.10 23A, Ciroyom, Kec. Andir, Kota Bandung, Jawa Barat 40182",07.00 hingga 19.00,"4,8",142,"
+(022) 6015847",Ada,Tersedia,-6.9179615,107.5926411,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Vihara Metta Upekkha,Vihara,"Jl. Jend. Sudirman Jl. Hockey No.40, Kb. Jeruk, Kec. Andir, Kota Bandung, Jawa Barat 40181",07.00 hingga 17.30,"4,3",8,"
+(022) 4233464",Ada,Tidak Tersedia,-6.9203426,107.6025156,Aksesibilitas Tersedia,[]
+印尼萬隆明仁佛堂,Vihara,"Jl. Dian Indah Raya No.52, Babakan, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40222",,"4,6",20,,Tidak Ada ,Tidak Tersedia,-6.9409794,107.5729448,Aksesibilitas Tersedia,[]
+HENG AN THUA,Vihara,"Jl. Teratai, Jatihandap, Kec. Mandalajati, Kota Bandung, Jawa Barat 40195",,,,,Tidak Ada ,Tidak Tersedia,-6.8943907,107.6653567,Aksesibilitas Tersedia,[]
+Vihara Buddha Sasana,Vihara,"Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9148644,107.6082421,Aksesibilitas Tersedia,[]
+Guang Sien Yayasan Budi Dharma,Vihara,"Jl. Suryani No.33, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",Buka 24 jam,"4,6",20,"
+(022) 6015352",Ada,Tidak Tersedia,-6.9209606,107.5809378,Aksesibilitas Tersedia,[]
+Vihara m. Toha,Vihara,"dalam 1, Jl. Moch. Toha, Wates, Kec. Bandung Kidul, Kota Bandung, Jawa Barat",,"1,0",1,,Tidak Ada ,Tidak Tersedia,-6.9580884,107.6127434,Aksesibilitas Tersedia,[]
+Wanita Budhis,Lembaga Swadaya Masyarakat (LSM),"Jl. Ir. H. Juanda No.19, Dago, Kecamatan Coblong, Kota Bandung, Jawa Barat 40135",,"5,0",022,"
+(022) 4234410",Ada,Tidak Tersedia,-6.8819906,107.615297,Aksesibilitas Tersedia,[]
+Pura Giri Nata Sespim,Pura,"Jl. Sukaampat No.87, Kayuambon, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",,"4,9",15,,Tidak Ada ,Tidak Tersedia,-6.8215123,107.6384103,Aksesibilitas Tersedia,[]
+Misel,Vihara,"Jl. Ibrahim Adjie Jl. Terusan Martanegara No.25, Margasari, Kec. Batununggal, Kota Bandung, Jawa Barat 40275",,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.9347848,107.6368175,Aksesibilitas Tersedia,[]
+Vihara Dharmasagara,Vihara,"Jl. Muara Selatan No.51, Kb. Lega, Kec. Bojongloa Kidul, Kota Bandung, Jawa Barat 40243",,"4,5",39,,Tidak Ada ,Tidak Tersedia,-6.9420142,107.6010726,Aksesibilitas Tersedia,[]
+Vihara Maitreya Datu,Vihara,"Jl. Kebon Sirih No.21, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",,"4,9",15,"
+0812-2411-0779",Ada,Tersedia,-6.9116412,107.6059579,Aksesibilitas Tersedia,[]
+Vihara Vimalakirti Bandung ( MNSBDI ),Vihara,"Taman holis indah H6 no 18-19, Cigondewah Kidul, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40214",,"4,5",38,"
+(022) 6003554",Ada,Tidak Tersedia,-6.9427908,107.5580849,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Vihara Amitabha,Vihara,"3JQ2+FH7, Jl. Kebon Kawung, Pasir Kaliki, Kec. Cicendo, Kota Bandung, Jawa Barat 40171",,"4,0",2,,Tidak Ada ,Tidak Tersedia,-6.911341,107.601425,Aksesibilitas Tersedia,[]
+Vihara Dharma Loka,Vihara,"Jl. Otto Iskandar Dinata No.360, Karanganyar, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.9267706,107.6035483,Aksesibilitas Tersedia,[]
+Vihara Wan Hua,Vihara,"Bl. D1 No.98, Rahayu, Kec. Margaasih, Kabupaten Bandung, Jawa Barat 40218",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9645182,107.554126,Aksesibilitas Tersedia,[]
+Yysn Cakrawala Dharma Indonesia (vihara ming ren),Vihara,"Jl. Dian Indah Raya No.19J blok J, Babakan Tarogong, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40222",,"3,7",3,,Tidak Ada ,Tidak Tersedia,-6.9410995,107.5727523,Aksesibilitas Tersedia,[]
+Vihara Pelita,Vihara,"Gg. Pelita-I No.19, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.921449,107.5958339,Aksesibilitas Tersedia,[]
+Vihara Tagten Ling,Vihara,"Jl. Mekar Cemerlang No.2,Mekarwangi,Kec. Bojongloa Kidul, Jawa, Barat, Kota Bandung, Jawa Barat 40237",,"4,9",11,"
+0878-8881-6767",Ada,Tersedia,-6.9552562,107.601744,Aksesibilitas Tersedia,[]
+普曜同修会 Cetya Vajra Bhumi Parahyangan Bandung,Vihara,"Jl. Dakota No.40, Sukaraja, Kec. Cicendo, Kota Bandung, Jawa Barat 40175",,"5,0",6,,Tidak Ada ,Tidak Tersedia,-6.8929372,107.5727104,Aksesibilitas Tersedia,[]
+Wisata Religi Biara Karmel Lembang,Biara,"Jl. Karmel II No.51, Jayagiri, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",07.00 hingga 19.00,"4,9",97,"
+(022) 2787331",Ada,Tidak Tersedia,-6.8125767,107.6145599,Aksesibilitas Tersedia,"['Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Vihara Kwan Sing Bio Boe bengtjut,Organisasi Keagamaan,"Gg. Citepus No.9A, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 53252",,"5,0",1,"
+0819-1065-5166",Ada,Tidak Tersedia,-6.9215649,107.594783,Aksesibilitas Tersedia,[]
+Kompleks Graha Pura Mas,Kompleks Townhouse,"Ruko Graha Pura Mas, Jl. Bojong Koneng, Cibeunying, Kec. Cimenyan, Kabupaten Bandung, Jawa Barat 40191",,"4,5",10,,Tidak Ada ,Tidak Tersedia,-6.8878172,107.6474241,Aksesibilitas Tersedia,[]
+Jeroan Lobongan,Pura,"3JJ9+XJV, Kb. Pisang, Kec. Sumur Bandung, gianyar, Jawa Barat",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.9175241,107.619048,Aksesibilitas Tersedia,[]
+ANTARAJA,Pura,"Jl. Rancabentang Utara No.101A, RT.04/RW.021, Cibeureum, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat 40535",Buka 24 jam,,,"
+0821-6453-3627",Ada,Tidak Tersedia,-6.9010273,107.5618439,Aksesibilitas Tersedia,[]
+Batok biled (binsar),Pura,"Jl. Soekarno Hatta Gg. Pusri dpn No.68 blok D, Kopo, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40233",,,,,Tidak Ada ,Tidak Tersedia,-6.9430221,107.5871644,Aksesibilitas Tersedia,[]
+Sanggar Pemujaan Wira Widya Angkasa Seskoau,Pura,"5JCJ+G8J, Pagerwangi, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",,"5,0",11,,Tidak Ada ,Tidak Tersedia,-6.8286615,107.630758,Aksesibilitas Tersedia,[]
+Kontrakan jengad jengad,Pura,"40267, Jl. Mangga Dua No.16, Sukapura, Kec. Dayeuhkolot, Kabupaten Bandung, Jawa Barat 40267",Tutup,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.9706642,107.6341071,Aksesibilitas Tersedia,[]
+Setra & Prajapati Gunung Bohong,Pura,"Jl. Komp. Tipar No.b9, Laksanamekar, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.874235,107.5160912,Aksesibilitas Tersedia,[]
+Graha Pura Mas C 10,Komplek perumahan,"Komplek Graha Pura Mas Jl. Bojong Koneng No.C8, Cibeunying, Kec. Cimenyan, Kabupaten Bandung, Jawa Barat 40191",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8875576,107.646434,Aksesibilitas Tersedia,[]
+Kuil Ganesha Dago Pakar ᮊᮥᮄᮜ᮪ ᮌᮔᮨᮞ᮪ᮠ ᮓᮌᮧ ᮕᮊᮁ,Pura,"4JWX+58Q, Ciburial, Kec. Cimenyan, Kabupaten Bandung, Jawa Barat 40198",08.00 hingga 20.00,"4,8",16,"
+0859-5654-1313",Ada,Tidak Tersedia,-6.8545259,107.6483593,Aksesibilitas Tersedia,[]
+Viyata Wira Pradata,Pura,"4HPV+CRR, Ledeng, Kec. Cidadap, Kota Bandung, Jawa Barat 40154",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8638969,107.5945256,Aksesibilitas Tersedia,[]
+Pura Vira Chandra Dharma Secapa AD,Pura,"4HHX+V4M, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",,"4,9",73,,Tidak Ada ,Tidak Tersedia,-6.8702837,107.5977838,Aksesibilitas Tersedia,[]
+Pura Agung Wira Loka Natha,Pura,"4G8P+95X, Jl. Sriwijaya Raya, Karangmekar, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40523",Buka 24 jam,"4,7",180,"
+(022) 6640019",Ada,Tidak Tersedia,-6.88402,107.5354883,Aksesibilitas Tersedia,[]
+Komplek Graha Pura Mas No. C5,Komplek perumahan,"Komplek Graha Pura Mas Jl. Bojong Koneng No.C8, Cibeunying, Kec. Cimenyan, Kabupaten Bandung, Jawa Barat 40191",,,,,Tidak Ada ,Tidak Tersedia,-6.8878997,107.6467068,Aksesibilitas Tersedia,[]
+Candi Bojongemas,Pura,"2P35+8H9, Jl. Babakan Patrol, Bojongemas, Kec. Solokanjeruk, Kabupaten Bandung, Jawa Barat 40376",08.00 hingga 18.00,"4,5",23,"
+(022) 5897517",Ada,Tidak Tersedia,-6.9967228,107.7089853,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Pura Praja Natha IPDN,Pura,"3QC7+HG4, Komp. IPDN, Cibeusi, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45355",,"4,6",9,,Tidak Ada ,Tidak Tersedia,-6.9286125,107.7638281,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Sanghyang Kenit,Tujuan Wisata,"Cisameng Cipanas, Rajamandala Kulon, Kec. Cipatat, Kabupaten Bandung Barat, Jawa Barat 40554",07.00 hingga 17.00,"4,6",1.474,"
+0838-2239-1086",Ada,Tidak Tersedia,-6.859152,107.3493001,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Buah batu kp cisoang,Pura,"Jl. Terusan Pasirkoja No.277, Sukahaji, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40221",,,,,Tidak Ada ,Tidak Tersedia,-6.9275957,107.5840945,Aksesibilitas Tersedia,[]
+PURA PURA WRNK,Kafe,"Jl. Lamping, Pasteur, Kec. Sukajadi, Kota Bandung, Jawa Barat 40161",16.15 hingga 23.00,"4,9",13,,Tidak Ada ,Tidak Tersedia,-6.8875343,107.6019014,Aksesibilitas Tersedia,[]
+Sanghyang Heuleut,Tujuan Wisata,"Kp, Cipanas, Rajamandala Kulon, Kec. Cipatat, Kabupaten Bandung Barat, Jawa Barat 40554",08.00 hingga 16.00,"4,5",1.154,"
+0821-1711-5619",Ada,Tidak Tersedia,-6.8765131,107.3422183,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Pura Vida,Kafe,"Jl. Geusan Ulun No.3, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",10.00 hingga 21.00,"4,4",32,"
+0813-1297-6179",Ada,Tidak Tersedia,-6.904609,107.6116782,Aksesibilitas Tersedia,[]
+Pura Puser Dayeuh Siliwangi ᮕᮥᮛ ᮕᮥᮞᮨᮁ ᮓᮚᮩᮂ ᮞᮤᮜᮤᮝᮍᮤ,Pura,"Jl. Lembong No.38, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",Buka 24 jam,"4,8",40,,Tidak Ada ,Tidak Tersedia,-6.9176854,107.611264,Aksesibilitas Tersedia,[]
+AMINAH TIPU TIPU,Pura,"Senang No.12, Kertawangi, Kec. Cisarua, Kabupaten Bandung Barat, Jawa Barat 40551",Buka 24 jam,"3,7",6,"
+0838-3234-6864",Ada,Tersedia,-6.8018238,107.5689431,Aksesibilitas Tersedia,[]
+Makam keluarga pura wijaya,Pemakaman,"3FFH+5P5, Cihampelas, Kec. Cihampelas, Kabupaten Bandung Barat, Jawa Barat 40562",,,,,Tidak Ada ,Tidak Tersedia,-6.9271175,107.4793694,Aksesibilitas Tersedia,[]
+Masjid Miftahul Jannah,Masjid,"Gg. Mama Pura No.RT 07/05, Pasteur, Kec. Sukajadi, Kota Bandung, Jawa Barat 40161",Buka 24 jam,"4,3",3,,Tidak Ada ,Tidak Tersedia,-6.8874516,107.5985973,Aksesibilitas Tersedia,[]
+Gantolle Paralayang Singajaya Cihampelas,Tujuan Wisata,"Singajaya, Kec. Cihampelas, Kabupaten Bandung Barat, Jawa Barat 40562",,"4,5",1.555,"
+0877-1522-7171",Ada,Tidak Tersedia,,,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Pura Wira Natha Dharma,Pura,"3JCH+HH4, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40263",Buka 24 jam,"4,6",29,,Tidak Ada ,Tidak Tersedia,-6.9286169,107.6289606,Aksesibilitas Tersedia,[]
+Padma Sari Wira Catya Yudha,Pura,"2J7F+7H7, Dayeuhkolot, Kec. Dayeuhkolot, Kabupaten Bandung, Jawa Barat 40258",09.00 hingga 21.00,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.9868299,107.6239356,Aksesibilitas Tersedia,[]
+kost blu jafar,Pura,"Jl. Budi Luhur I No.17, Gegerkalong, Kec. Sukasari, Kota Bandung, Jawa Barat 40153",,"4,6",59,,Tidak Ada ,Tidak Tersedia,-6.8725991,107.5929091,Aksesibilitas Tersedia,[]
+Pura Wira Satya Dharma ᮕᮥᮛ ᮝᮤᮛ ᮞᮒᮡ ᮓᮁᮙ,Pura,"JL. H. Nasution, Ujung Berung, Komplek Batalion Zipur 9/ Kostrad, Pakemitan, Kec. Cinambo, Kota Bandung, Jawa Barat 45474",Buka 24 jam,"4,7",118,"
+(022) 7801339",Ada,Tidak Tersedia,-6.9158995,107.6915073,Aksesibilitas Tersedia,[]
+Prajapati Setra Bumi Angga Pati,Pura,"Jl. Komp. Tipar No.b9, Laksanamekar, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.8743727,107.516578,Aksesibilitas Tersedia,[]
+Sai Jelita Bandung,Pura,"Jl. Batununggal Jelita II No.86, Mengger, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40271",Tutup,"4,6",29,,Tidak Ada ,Tidak Tersedia,-6.9591839,107.6355893,Aksesibilitas Tersedia,[]
+Angkasa Pura II. PT Persero,Kontraktor,"JL Pajajaran, No. 156, Bandara Husein Sastranegara, Husen Sastranegara, Kec. Cicendo, Kota Bandung, Jawa Barat 40174",,"4,4",39,"
+(022) 6041221",Ada,Tersedia,-6.9036801,107.5792096,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Pura Giri Nata Sespim,Pura,"Jl. Sukaampat No.87, Kayuambon, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",,"4,9",15,,Tidak Ada ,Tidak Tersedia,-6.8215123,107.6384103,Aksesibilitas Tersedia,[]
+Pura Cita Pramesthya,Lembaga Agama,"Jl. Pratista Bar. IV No.15, Antapani Kidul, Kec. Antapani, Kota Bandung, Jawa Barat 40291",,"5,0",1,"
+(022) 7272219",Ada,Tidak Tersedia,-6.9260056,107.6615095,Aksesibilitas Tersedia,[]
+Situs Petilasan Kyai Manaf,Pura,"4HJ3+W3F, Jl. Ciawitali, Citeureup, Kec. Cimahi Utara, Kota Cimahi, Jawa Barat",Tutup,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.8676983,107.5526629,Aksesibilitas Tersedia,[]
+Graha Pura Mas C-26,Komplek perumahan,"Ruko Graha Pura Mas, Jl. Bojong Koneng, Cibeunying, Kec. Cimenyan, Kabupaten Bandung, Jawa Barat 40191",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.8871054,107.6465015,Aksesibilitas Tersedia,[]
+Kp pasir lame,Pura,"29GJ+VH2, Cijenuk, Kec. Cipongkor, Kabupaten Bandung Barat, Jawa Barat 40564",,,,,Tidak Ada ,Tidak Tersedia,-6.972548,107.381691,Aksesibilitas Tersedia,[]
+Pura Wira Satya Akaça ᮕᮥᮛ ᮝᮤᮛ ᮞᮒᮡ ᮃᮊᮞ᮪ᮠ,Pura,"2H79+X65, Sulaiman, Kec. Margahayu, Kabupaten Bandung, Jawa Barat 40229",Buka 24 jam,"4,9",44,"
+(022) 5405857",Ada,Tidak Tersedia,-6.9851114,107.5681101,Aksesibilitas Tersedia,[]
+Madrasah al-azkiya nur wijaya pura,Masjid,"Kp, Jl. Sukarasa, RT.03/RW.11, Citeureup, Kec. Cimahi Utara, Kota Cimahi, Jawa Barat 40512",Buka 24 jam,"5,0",5,"
+0857-9584-3121",Ada,Tidak Tersedia,-6.8601425,107.5602141,Aksesibilitas Tersedia,"['Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Pondok Qur,an Bani Salam Pura 4",Pusat Pendidikan,"Jl. Puradinata 4, RT.08/RW.12, Baleendah, Kec. Baleendah, Kabupaten Bandung, Jawa Barat 40375",,"5,0",11,"
+0823-4456-7869",Ada,Tidak Tersedia,-7.0072706,107.6224169,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Hutan Kota Babakan Siliwangi Bandung,Hutan Nasional,"Jl. Tamansari No.90, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",,"4,6",5.724,,Tidak Ada ,Tidak Tersedia,-6.8847731,107.6103008,Aksesibilitas Tersedia,[]
+PT ANGKASA PURA 2,Kantor Pemerintahan Daerah,"Jl. Pajajaran No.156, Husen Sastranegara, Kec. Cicendo, Kota Bandung, Jawa Barat 40174",,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.904888,107.582942,Aksesibilitas Tersedia,[]
+PURA LOKA WIRA WIDYA PUSDIKIF,Pura,"59CM+55C, Cipatat, Kec. Cipatat, Kabupaten Bandung Barat, Jawa Barat 40554",,"4,5",4,,Tidak Ada ,Tidak Tersedia,-6.8295726,107.3828831,Aksesibilitas Tersedia,[]
