@@ -1,0 +1,400 @@
+nama_tempat,type_place,alamat,jam_operasional,rating,jumlah_review,telepon,stt_tlp,website,latitude,longitude,Ketersediaan Akses,aksesibilitas
+Masjid Al-Furqon,Masjid,"Jl. Jambu Air 8 No.1, RT.001/RW.016, Kota Baru, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17133",Buka 24 jam,"4,7",481,"
+(021) 8863677",Ada,Tersedia,-6.214538,106.963173,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Raya Muhammad Ramadhan,Masjid,"PXMF+6MX Masjid Moh. Ramadhan, Jl. Pulo Ribung No.2, RT.010/RW.013, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148",04.00 hingga 21.30,"4,8",785,,Tidak Ada ,Tidak Tersedia,-6.266905,106.9742845,Aksesibilitas Tersedia,[]
+Masjid Al-Ikhwan,Masjid,"Perumahan Vida Bumipala (Grand Bekasi, pinggir danau Jl. Taman Apel Merah IV blok A5, RT.006/RW.019, Padurenan, Kec. Mustika Jaya, Kota Bks, Jawa Barat 17156",Buka 24 jam,"4,8",37,"
+0852-1653-8820",Ada,Tidak Tersedia,-6.3169731,107.0041876,Aksesibilitas Tersedia,[]
+Masjid An-Naml,Masjid,"Komplek Perumahan PU Pengairan Rawa Semut C.53, Margahayu, Bekasi Timur, RT.004/RW.012, Margahayu, Bekasi, Kota Bks, Jawa Barat 17113",,"4,8",82,,Tidak Ada ,Tidak Tersedia,-6.2602727,107.0143275,Aksesibilitas Tersedia,[]
+Masjid Nurul Huda,Masjid,"Q2C9+25W, Jl. Irida Dalam Bar. V, RT.008/RW.014, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",,"4,8",69,"
+0856-9121-2974",Ada,Tidak Tersedia,-6.2298867,107.0179467,Aksesibilitas Tersedia,[]
+Masjid Al-ikhlas,Masjid,"Jl. Jenggala 2 No.53, RT.013/RW.005, Jakasampurna, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17145",Buka 24 jam,"4,6",32,,Tidak Ada ,Tidak Tersedia,-6.2360121,106.9706387,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami Al-Ikhlas,Masjid,"PXXV+JPQ, RT.002/RW.001, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141",Buka 24 jam,"4,7",43,,Tidak Ada ,Tidak Tersedia,-6.2509172,106.9943443,Aksesibilitas Tersedia,[]
+Masjid Jami Annur,Masjid,"Jl. Annur Raya No.58A, RT.011/RW.012, Kayuringin Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17144",04.00 hingga 00.00,"4,7",91,"
+0823-6520-5614",Ada,Tidak Tersedia,-6.2450898,106.9863003,Aksesibilitas Tersedia,[]
+MASJID AL AMIR,Masjid,"QX7W+W4J, Jl. Ahmad Yani, RT.001/RW.005, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141",Buka 24 jam,"4,7",52,,Tidak Ada ,Tidak Tersedia,-6.2351694,106.9952746,Aksesibilitas Tersedia,[]
+Masjid Jami'e Al-Mabruur,Masjid,"M2PC+MHH, Jl. Perum Dukuh Zamrud, RT.003/RW.009, Padurenan, Kec. Mustika Jaya, Kota Bks, Jawa Barat 17155",Buka 24 jam,"4,8",418,"
+0813-1062-8045",Ada,Tidak Tersedia,-6.3133004,107.0214768,Aksesibilitas Tersedia,[]
+Masjid Miftahul Jannah,Masjid,"Jl. Prof. Moh. Yamin Blok Gama 1 No.12, RT.006/RW.005, Duren Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17111",Buka 24 jam,"5,0",29,,Tidak Ada ,Tidak Tersedia,-6.2466068,107.0184869,Aksesibilitas Tersedia,[]
+Masjid Jami Al Hidayah,Masjid,"Jalan Pulau Selayar Raya, RT.008/RW.017, Aren Jaya, Bekasi Timur, Bekasi, West Java 17111",,"4,8",245,,Tidak Ada ,Tidak Tersedia,-6.2418317,107.0358163,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami Miftahul Jannah,Masjid,"Q26Q+H26, Jl. Pulau Irian Jaya Raya, RT.002/RW.018, Aren Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17111",Buka 24 jam,"4,6",106,"
+(021) 8810967",Ada,Tidak Tersedia,-6.2385757,107.0375298,Aksesibilitas Tersedia,[]
+Masjid Darul Munawar,Masjid,"Jl. KH. Noer Ali Jl. Caman Raya Utara No.1, RT.001/RW.016, Jakasampurna, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17145",Buka 24 jam,"4,8",39,,Tidak Ada ,Tidak Tersedia,-6.2494932,106.9548922,Aksesibilitas Tersedia,[]
+Masjid Al Araaf,Masjid,"M2H2+H8M, Vida Bekasi Bumipala District Cluster Taman Durian, RT.002/RW.016, Padurenan, Kec. Mustika Jaya, Kota Bks, Jawa Barat 16340",,"4,8",411,,Tidak Ada ,Tersedia,-6.3210259,107.0008089,Aksesibilitas Tersedia,['Memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami Al Ikhwan,Masjid,"QX7X+V75, Jl. Pusdiklat Raya, RT.002/RW.001, Marga Mulya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17142",Buka 24 jam,"4,4",22,"
+0812-8083-8880",Ada,Tidak Tersedia,-6.2353748,106.9982232,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Gang Masjid Al huda.mede,Masjid,"Q246+R42, Gg. Masjid, RT.002/RW.002, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",Buka 24 jam,"4,6",69,,Tidak Ada ,Tidak Tersedia,-6.2429865,107.0102673,Aksesibilitas Tersedia,[]
+Masjid As Syuhada,Masjid,"QXCJ+9XJ, Jl. Durian Raya, RT.002/RW.007, Kranji, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17135",Buka 24 jam,"4,8",91,,Tidak Ada ,Tidak Tersedia,-6.229029,106.9824049,Aksesibilitas Tersedia,[]
+"""Masjid Izzatul Islam Grand Wisata Bekasi - Masjid Besar Terdekat""",Masjid,"P27R+M3P, Jl. Grand Wisata Jl. Sunset Ave, Lambangsari, Kec. Tambun Sel., Kabupaten Bekasi, Jawa Barat 17510",,"4,9",3.872,,Tidak Ada ,Tidak Tersedia,-6.2857755,107.0401976,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Al Munawwarah,Masjid,"MW4R+46F, Jl. Wibawa Mukti, RT.002/RW.007, Jatisari, Kec. Jatiasih, Kota Bks, Jawa Barat 17426",,"4,7",29,,Tidak Ada ,Tidak Tersedia,-6.3446779,106.9405324,Aksesibilitas Tersedia,[]
+Masjid Jami Nurul Iman,Masjid,"QX67+46X, Jl. Nurul Iman Raya, RT.005/RW.001, Jakasampurna, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17145",,"4,7",95,,Tidak Ada ,Tidak Tersedia,-6.2396469,106.9631192,Aksesibilitas Tersedia,[]
+Masjid At-Taqwa - Taman Wisma Asri,Masjid,"Jl. Taman Wisma Asri Jl. Mangga Raya No.9A, Tlk. Pucung, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17121",,"4,8",60,,Tidak Ada ,Tidak Tersedia,-6.2180267,107.0254851,Aksesibilitas Tersedia,[]
+Masjid Jami An-Nur,Masjid,"Jl. Sultan Agung No.9, RT.002/RW.015, Kranji, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17135",02.58 hingga 00.00,"4,7",845,,Tidak Ada ,Tidak Tersedia,-6.2237907,106.9778761,Aksesibilitas Tersedia,[]
+Masjid Al-Ma'ruf,Masjid,"Jl. Nuri No.1, RT.004/RW.022, Pengasinan, Kec. Rawalumbu, Kota Bks, Jawa Barat 17115",Buka 24 jam,"4,8",74,,Tidak Ada ,Tidak Tersedia,-6.273841,107.012946,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Jami Daarul Muttaqien,Masjid,"QXJC+C9C, Perumahan Jl. Harapan Baru II Raya, RT.001/RW.002, Kota Baru, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17133",,"4,8",226,,Tidak Ada ,Tidak Tersedia,-6.2189498,106.9708752,Aksesibilitas Tersedia,[]
+Masjid Jami At-Taqwa,Masjid,"Jl. Letnan Arsyad Raya No.12, RT.006/RW.012, Kayuringin Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17144",03.30 hingga 20.00,"4,8",156,,Tidak Ada ,Tidak Tersedia,-6.243671,106.9894613,Aksesibilitas Tersedia,[]
+Masjid Jami Amar Ma'ruf,Masjid,"P2VC+RW7, Jl. HM. Joyo Martono, RT.003/RW.013, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113",Buka 24 jam,"4,8",1.044,,Tidak Ada ,Tidak Tersedia,-6.2554732,107.0223066,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid AT TAQWA Bekasi Utara,Masjid,"R2F4+H46, Ji.Raya Jl. Raya Pd. Ungu Permai, RT.003/RW.013, Kaliabang Tengah, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17125",Buka 24 jam,"4,6",281,,Tidak Ada ,Tidak Tersedia,-6.1760841,107.0052731,Aksesibilitas Tersedia,[]
+Masjid Al Anhar (LDII),Masjid,"Jl. Chairil Anwar No.16 rt.008/008 Blok B, RT.008/RW.008, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113",Buka 24 jam,"4,9",77,,Tidak Ada ,Tersedia,-6.2553243,107.0053778,Aksesibilitas Tersedia,[]
+Masjid Al Hanin Rawa Bebek Bekasi,Masjid,"Jl. Kali Baru No.38, RT.007/RW.012, Kota Baru, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17133",Buka 24 jam,"4,7",117,,Tidak Ada ,Tidak Tersedia,-6.2162804,106.9609363,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Muhajirin,Masjid,"Q2X5+P3M, Jl. Bumi Alinda Kencana, RT.007/RW.021, Kaliabang Tengah, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17125",,"4,8",365,,Tidak Ada ,Tidak Tersedia,-6.2006505,107.0076752,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Ar-Royyan Komplek BDN Bekasi,Masjid,"Jl. Tanjung Raya No.2 Blok B1, RT.009/RW.008, Jatiwaringin, Kec. Pd. Gede, Kota Bks, Jawa Barat 17411",Buka 24 jam,"4,6",131,,Tidak Ada ,Tidak Tersedia,-6.2792089,106.9169682,Aksesibilitas Tersedia,[]
+Masjid At Taqwa,Masjid,"QW5V+8M5, Jl. Komp. Ddn (Depdag), RT.001/RW.006, Bintara Jaya, Kec. Bekasi Bar., Kota Bks, Jawa Barat 13440",Buka 24 jam,"4,7",51,,Tidak Ada ,Tidak Tersedia,-6.2417306,106.9442312,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid AT TAQWA Bekasi,Masjid,"Jl. Cut Mutia No.43, RT.001/RW.009, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113",Buka 24 jam,"4,8",14,,Tidak Ada ,Tidak Tersedia,-6.2499774,107.013693,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Huda,Masjid,"Jl. Perumahan Taman Kota V No.2, RT.013/RW.016, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",Buka 24 jam,"4,8",68,,Tidak Ada ,Tidak Tersedia,-6.2400525,107.0081633,Aksesibilitas Tersedia,[]
+Masjid AT TAQWA VIP - Kota Bekasi,Masjid,"Q2X9+HW7, RT.003/RW.035, Tlk. Pucung, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17121",Buka 24 jam,"4,7",22,,Tidak Ada ,Tidak Tersedia,-6.2010951,107.019784,Aksesibilitas Tersedia,[]
+Masjid Jami Daarur Rahman,Masjid,"QX43+5RJ, RT.005/RW.008, Jakasampurna, Kec. Bekasi Bar., Kota Bks, Jawa Barat",,"4,9",60,,Tidak Ada ,Tidak Tersedia,-6.2445385,106.9545171,Aksesibilitas Tersedia,[]
+Masjid Attaqwa Inkoppol,Masjid,"Jl. Rajawali I No.2, RT.008/RW.005, Jakasampurna, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17145",,"4,7",47,"
+0857-7257-9080",Ada,Tidak Tersedia,-6.2390585,106.9686077,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Biru Al-Muttaqien Bekasi,Masjid,"Q286+JW6, Jl. Irigasi Prima Raya Bekasi, RT.002/RW.003, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",,"4,7",142,,Tidak Ada ,Tidak Tersedia,-6.2334626,107.0122785,Aksesibilitas Tersedia,[]
+Masjid As Salam Jakasampurna,Masjid,"Jl. Jatiluhur Raya Komp Pengairan No.Kav. 11, RT.001/RW.013, Jakasampurna, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17145",Buka 24 jam,"4,8",632,"
+(021) 22101485",Ada,Tersedia,-6.2451448,106.9695972,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Jihad Kranggan Permai,Masjid,"Jl. Rajawali Raya Perumahan Kranggan Permai No.1, RT.007/RW.015, Jatisampurna, Kec. Jatisampurna, Kota Bks, Jawa Barat 17433",Buka 24 jam,"4,9",490,"
+0812-9677-4042",Ada,Tidak Tersedia,-6.3701668,106.9173878,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Raya Al Azhar Summarecon Bekasi,Masjid,"Jl. Bulevar Utara Blok L, RT.006/RW.003, Marga Mulya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17143",Buka 24 jam,"4,8",4.024,"
+(021) 29579407",Ada,Tidak Tersedia,-6.2216602,107.0017116,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Darussalam,Masjid,"Perumahan Taman Narogong Indah, JL. Narogong Cantik XII, RT. 06 RW. 23,, Pangasinan, Rawalumbu, RT.006/RW.023, Pengasinan, Bekasi, Kota Bks, Jawa Barat 17115",,"4,7",48,,Tidak Ada ,Tidak Tersedia,-6.2812828,107.0088263,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Falah (NU),Masjid,"QX3P+GH5, Jl. Belut I, RT.006/RW.006, Kayuringin Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17144",,"4,8",42,,Tidak Ada ,Tidak Tersedia,-6.246246,106.9864867,Aksesibilitas Tersedia,[]
+Masjid Al Hidayah - Bekasi Selatan,Masjid,"APARTEMEN MUTIARA BEKASI, Jl. Ahmad Yani No.8, RT.005/RW.002, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148",04.00 hingga 21.30,"4,8",26,"
+0821-1210-7875",Ada,Tidak Tersedia,-6.2521969,106.9902573,Aksesibilitas Tersedia,[]
+Masjid Jami Baitussalam,Masjid,"JL Kusuma Utara Jl. Wisma Jaya no.4 Komplek, RT.014/RW.017, Duren Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17111",,"4,8",129,"
+(021) 8811438",Ada,Tidak Tersedia,,,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Ar Rahman,Masjid,"Bekasi Square, Jl. Ahmad Yani Lt. LG, RT.005/RW.002, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148",10.00 hingga 22.00,"4,7",22,,Tidak Ada ,Tidak Tersedia,-6.254868,106.9903692,Aksesibilitas Tersedia,[]
+Masjid Al Munawar,Masjid,"Jl. Narogong Permai V, RT.001/RW.011, Pengasinan, Kec. Rawalumbu, Kota Bks, Jawa Barat 17115",,"4,8",109,,Tidak Ada ,Tidak Tersedia,-6.2784081,107.0053057,Aksesibilitas Tersedia,[]
+Masjid Jami' Nurul Huda,Masjid,,Buka 24 jam,"4,7",81,,Ada,Tidak Tersedia,-6.3256746,107.0040374,Aksesibilitas Tersedia,[]
+Masjid Jami Al Muhajirin,Masjid,,04.00 hingga 21.30,"4,8",617,,Tidak Ada ,Tidak Tersedia,-6.2415383,106.9911001,Aksesibilitas Tersedia,[]
+Masjid Al Ikhlas SMP Negeri 12 Bekasi,Masjid,,,"4,9",35,,Tidak Ada ,Tidak Tersedia,-6.2657667,106.973587,Aksesibilitas Tersedia,[]
+Masjid Baabut Taubah Kemang Pratama,Masjid,,Buka 24 jam,"4,9",1.129,,Ada,Tidak Tersedia,-6.2752029,106.9889697,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Hijrah Tytyan Kencana,Masjid,,Buka 24 jam,"4,7",167,,Tidak Ada ,Tersedia,-6.2175306,107.0055163,Aksesibilitas Tersedia,[]
+Masjid Jami' Arrahmah,Masjid,,,"4,7",54,,Tidak Ada ,Tidak Tersedia,-6.2317375,107.0010353,Aksesibilitas Tersedia,[]
+Masjid Al-Iman,Masjid,,Buka 24 jam,"4,8",101,,Tidak Ada ,Tidak Tersedia,-6.2107201,106.9686736,Aksesibilitas Tersedia,[]
+Masjid AL FATTAH,Masjid,,Buka 24 jam,"4,8",27,,Tidak Ada ,Tidak Tersedia,-6.2463274,107.0147385,Aksesibilitas Tersedia,[]
+Masjid Al-Islah,Masjid,,Buka 24 jam,"4,8",175,,Tidak Ada ,Tidak Tersedia,-6.3012379,106.9384477,Aksesibilitas Tersedia,[]
+Masjid Ulul Albab Universitas Bhayangkara Jakarta Raya,Masjid,,,"4,9",74,,Tidak Ada ,Tidak Tersedia,-6.2228432,107.0099455,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Ghufron,Masjid,,Buka 24 jam,"4,8",816,,Tidak Ada ,Tidak Tersedia,-6.255077,107.0175212,Aksesibilitas Tersedia,[]
+Masjid Al Ikhlas,Masjid,,,"4,5",40,,Tidak Ada ,Tidak Tersedia,-6.2702223,107.0141597,Aksesibilitas Tersedia,[]
+Masjid An-Najah PC LDII Bekasi Barat,Masjid,,Buka 24 jam,"4,7",126,,Tidak Ada ,Tersedia,-6.2332763,106.9718422,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami AL KHOIROT,Masjid,,,"4,6",63,,Tidak Ada ,Tidak Tersedia,-6.2206727,106.9730304,Aksesibilitas Tersedia,[]
+Masjid Istiqomah,Masjid,,,"4,6",26,,Ada,Tidak Tersedia,-6.2431287,106.9919387,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Azhar,Masjid,,Buka 24 jam,"4,8",4.007,,Ada,Tersedia,-6.2483117,106.9729925,Aksesibilitas Tersedia,"['Dilengkapi dengan sistem bantu dengar', 'Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami Alfurqon,Masjid,,Buka 24 jam,"4,9",1.921,,Tidak Ada ,Tidak Tersedia,-6.18706,106.9809885,Aksesibilitas Tersedia,['Memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Al Falah Jatiwaringin,Masjid,,Buka 24 jam,"4,8",323,,Tidak Ada ,Tidak Tersedia,-6.2727442,106.9229452,Aksesibilitas Tersedia,[]
+Masjid AL-HUDA,Masjid,,,"4,7",41,,Tidak Ada ,Tidak Tersedia,-6.2156026,106.9676238,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Baitul Jabbaar,Masjid,,,"4,8",384,,Tidak Ada ,Tersedia,-6.2678718,106.95214,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Al-muawanah,Masjid,,Buka 24 jam,"4,7",243,,Tidak Ada ,Tidak Tersedia,-6.2186512,106.9637389,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+SDIT Ibnu Rusyd Kota Bekasi,Masjid,,Buka 24 jam,"4,6",27,,Tidak Ada ,Tidak Tersedia,-6.3229544,106.9897513,Aksesibilitas Tersedia,[]
+Masjid AT TAQWA,Masjid,,Buka 24 jam,"4,4",17,,Tidak Ada ,Tidak Tersedia,-6.2369869,106.980841,Aksesibilitas Tersedia,[]
+Masjid Al Mujaddid,Masjid,,Buka 24 jam,"4,8",85,,Tidak Ada ,Tidak Tersedia,-6.211038,106.9640567,Aksesibilitas Tersedia,[]
+Masjid Jamie Al-Ittihad,Masjid,,Buka 24 jam,"4,7",25,,Tidak Ada ,Tersedia,-6.2300241,107.0078085,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami Siti Santri,Masjid,,,"4,8",384,,Tidak Ada ,Tidak Tersedia,-6.3119212,106.9540122,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Bustanul Ibad,Masjid,,,"4,7",34,,Tidak Ada ,Tidak Tersedia,-6.2210364,107.0174096,Aksesibilitas Tersedia,[]
+MASJID JAMI ARROHMAH,Masjid,,Buka 24 jam,"4,6",190,,Tidak Ada ,Tidak Tersedia,-6.1986687,107.0290063,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al-kautsar,Masjid,,Buka 24 jam,"4,7",25,,Tidak Ada ,Tidak Tersedia,-6.2051392,106.9901103,Aksesibilitas Tersedia,[]
+"Masjid Al-Furqon, Bintang Metropole, Perwira, Bekasi Utara",Masjid,,,"4,6",57,,Ada,Tidak Tersedia,-6.2150125,107.0084211,Aksesibilitas Tersedia,"['Memiliki tempat parkir khusus pengguna kursi roda', 'Tidak memiliki pintu masuk khusus pengguna kursi roda']"
+Masjid Subulussalam,Masjid,,Buka 24 jam,"4,8",63,,Ada,Tidak Tersedia,-6.2267921,106.95956,Aksesibilitas Tersedia,[]
+Masjid AL Ishlah Harapan Baru,Masjid,,04.00 hingga 00.00,"4,7",164,,Ada,Tidak Tersedia,-6.2184212,106.966514,Aksesibilitas Tersedia,[]
+Masjid Al Ukhuwah,Masjid,,,"4,8",37,,Tidak Ada ,Tidak Tersedia,-6.2577749,106.9949286,Aksesibilitas Tersedia,[]
+Masjid Al Huda Pekayon Jaya,Masjid,,,"4,7",60,,Ada,Tidak Tersedia,-6.2685113,106.9807236,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Amanah,Masjid,,,"4,8",62,,Ada,Tidak Tersedia,-6.235933,106.9906295,Aksesibilitas Tersedia,[]
+Masjid Nurul Iman,Masjid,,Buka 24 jam,"4,8",209,,Ada,Tidak Tersedia,-6.2633439,107.0101002,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid AL AMIN,Masjid,,Buka 24 jam,"4,6",149,,Tidak Ada ,Tidak Tersedia,-6.224728,106.982775,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid At-Taubah,Masjid,,,"4,7",186,,Ada,Tidak Tersedia,-6.2536072,106.9653214,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Mughniyah,Masjid,,,"4,8",169,,Ada,Tidak Tersedia,-6.2958674,107.0199672,Aksesibilitas Tersedia,[]
+Masjid Darul Ihsan,Masjid,,Buka 24 jam,"4,8",333,,Tidak Ada ,Tersedia,-6.2614183,106.9819508,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Asy- Syuhada Kota Harapan Indah,Masjid,,Buka 24 jam,"4,8",417,,Ada,Tersedia,-6.176395,106.9825945,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Nurul Haq,Masjid,,Buka 24 jam,"4,7",87,,Tidak Ada ,Tidak Tersedia,-6.202083,107.0185751,Aksesibilitas Tersedia,[]
+Masjid Jami' Nurul Islam,Masjid,,Buka 24 jam,"4,9",119,,Ada,Tersedia,-6.2521225,107.0267661,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Asy-Syifa,Masjid,,Buka 24 jam,"4,5",442,,Ada,Tidak Tersedia,-6.2268937,107.0061621,Aksesibilitas Tersedia,[]
+Masjid Raya Pesona Metropolitan,Masjid,,,"4,8",174,,Tidak Ada ,Tidak Tersedia,-6.2920251,106.9893674,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Nurani,Masjid,,Buka 24 jam,"4,8",480,,Ada,Tidak Tersedia,-6.2218983,106.973498,Aksesibilitas Tersedia,[]
+Masjid Agung Al-Barkah,Masjid,,Buka 24 jam,"4,8",3.470,,Ada,Tidak Tersedia,-6.2407637,106.9995397,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Nurul Islam KH Noer Alie Islamic Center Bekasi,Masjid,,Buka 24 jam,"4,7",541,,Tidak Ada ,Tidak Tersedia,-6.2458944,106.9939234,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Al-Falah Perumahan Bekasi Permai Kota Bekasi,Masjid,,,"4,8",90,,Tidak Ada ,Tidak Tersedia,-6.2290181,107.0128382,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Riyadhul Jannah,Masjid,,Buka 24 jam,"4,9",15,,Tidak Ada ,Tidak Tersedia,-6.3224995,106.9337521,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami Al-Akhyar,Masjid,,04.00 hingga 00.00,"4,8",417,,Tidak Ada ,Tidak Tersedia,-6.2488789,107.0005867,Aksesibilitas Tersedia,[]
+Masjid Al-Falah,Masjid,,,"4,9",16,,Ada,Tidak Tersedia,-6.2415116,107.0404229,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Furqon Mayang Pratama Bekasi,Masjid,,,"4,8",18,,Ada,Tidak Tersedia,-6.2885193,107.0128576,Aksesibilitas Tersedia,[]
+Masjid Al Ihsan Jakapermai,Masjid,,Buka 24 jam,"4,8",1.247,,Ada,Tidak Tersedia,-6.2397009,106.9719709,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Haq,Masjid,,,"4,7",75,,Tidak Ada ,Tidak Tersedia,-6.2390428,106.9888555,Aksesibilitas Tersedia,[]
+Masjid Jami Baiturahman,Masjid,,04.00 hingga 20.15,"4,9",109,,Ada,Tidak Tersedia,-6.2480017,106.9590997,Aksesibilitas Tersedia,[]
+Masjid Al-Muhajirin Mayanggie Pratama,Masjid,,,"4,8",44,,Ada,Tidak Tersedia,-6.2869886,107.0120927,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Nur Khadijah,Masjid,,Buka 24 jam,"4,6",35,,Ada,Tidak Tersedia,-6.2952434,106.9958129,Aksesibilitas Tersedia,[]
+Masjid Jami Al-Hidayah - PHR Bekasi Utara,Masjid,,,"4,8",219,,Tidak Ada ,Tidak Tersedia,-6.2100092,107.0163565,Aksesibilitas Tersedia,[]
+Masjid Baiturrahim,Masjid,,,"4,7",101,,Tidak Ada ,Tidak Tersedia,-6.2291865,107.0197697,Aksesibilitas Tersedia,[]
+Masjid Raya At-Taqwa,Masjid,,Buka 24 jam,"4,8",682,,Tidak Ada ,Tidak Tersedia,-6.2595123,106.9875584,Aksesibilitas Tersedia,"['Menyediakan alat bantu dengar', 'Mendukung broadcast audio Auracast', 'Dilengkapi dengan sistem bantu dengar', 'Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GPdI Betlehem Bojong Menteng Bekasi,Gereja,,,"4,8",9,,Tidak Ada ,Tidak Tersedia,-6.2967803,106.9974694,Aksesibilitas Tersedia,[]
+GKSI Harapan Jaya,Gereja,,Tutup,"4,9",15,,Tidak Ada ,Tidak Tersedia,-6.203697,106.9981892,Aksesibilitas Tersedia,[]
+GKP Jatiasih,Gereja Kristen,,,"5,0",8,,Tidak Ada ,Tidak Tersedia,-6.2812671,106.96639,Aksesibilitas Tersedia,[]
+Gereja HKBP Jakasampurna,Gereja Lutheran,,,"4,6",268,,Ada,Tersedia,-6.2358823,106.9741907,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GBIS Bojong Menteng Bekasi,Gereja Kristen,,,,,,Ada,Tidak Tersedia,-6.2951224,106.9781333,Aksesibilitas Tersedia,[]
+GMIM Trinitas Bekasi,Gereja,,,"4,7",7,,Ada,Tidak Tersedia,-6.2500101,106.9937075,Aksesibilitas Tersedia,[]
+Gereja Kristen Jawa Bekasi (Wilayah Selatan),Gereja,,Tutup,"4,9",14,,Ada,Tidak Tersedia,-6.3217974,106.9999784,Aksesibilitas Tersedia,[]
+HKBP Bintara,Gereja Lutheran,,09.00 hingga 22.00,"4,6",37,,Ada,Tersedia,-6.2283922,106.9563826,Aksesibilitas Tersedia,[]
+Gereja Baptis Indonesia Jatibening,Gereja Baptis,,,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.2505184,106.9503897,Aksesibilitas Tersedia,[]
+GPdI Imanuel,Gereja Pantekosta,,,"4,8",5,,Ada,Tidak Tersedia,-6.250743,106.9456578,Aksesibilitas Tersedia,[]
+GKPS BEKASI - KAYURINGIN,Gereja Kristen,,,"4,6",58,,Tidak Ada ,Tersedia,-6.2387005,106.9838507,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Albertus, Harapan Indah",Gereja Katolik,,,"4,8",983,,Ada,Tersedia,-6.175479,106.9742615,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Santo Servatius, Paroki Kampung Sawah",Gereja Katolik,,08.00 hingga 19.00,"4,8",1.038,,Ada,Tersedia,-6.3227341,106.9378376,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GEREJA PENTAKOSTA KRANJI,Gereja,,Tutup,"5,0",9,,Ada,Tidak Tersedia,-6.2365025,106.9739494,Aksesibilitas Tersedia,[]
+Gereja HKBP Perumnas 2 Bekasi,Gereja Lutheran,,,"4,6",159,,Ada,Tersedia,-6.2430074,106.9905878,Aksesibilitas Tersedia,[]
+Gereja Bethany Nusantara THB,Gereja,,,"4,8",10,,Ada,Tidak Tersedia,-6.1803419,106.9958843,Aksesibilitas Tersedia,[]
+GPIB Dian Kasih (Gereja Protestan di Indonesia Bagian Barat),Gereja,,Tutup,"4,9",55,,Ada,Tidak Tersedia,-6.2918518,106.9172334,Aksesibilitas Tersedia,[]
+GBI KASIH KARUNIA,Gereja Protestan,,,"4,8",19,,Tidak Ada ,Tidak Tersedia,-6.1781474,106.9802105,Aksesibilitas Tersedia,[]
+Huria Kristen Batak Protestan Maranatha Rawalumbu,Gereja Lutheran,,Buka 24 jam,"4,7",303,,Ada,Tersedia,-6.2785004,106.9992815,Aksesibilitas Tersedia,[]
+GKJ Bekasi Timur,Gereja,,,"4,9",116,,Ada,Tidak Tersedia,-6.2511399,107.0149872,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GBI Betlehem Efrata Taman Galaxy Bekasi,Gereja,,Tutup,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.2596277,106.9686882,Aksesibilitas Tersedia,[]
+Gereja Batak Karo Protestan (GBKP),Gereja Protestan,,,"5,0",6,,Tidak Ada ,Tersedia,-6.2700405,106.9114876,Aksesibilitas Tersedia,[]
+GKDI BEKASI,Gereja Kristen,,Buka 24 jam,"4,9",147,,Ada,Tersedia,-6.1788013,106.9746238,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GBI GRADASI,Gereja,,Tutup,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.2681365,106.9720471,Aksesibilitas Tersedia,[]
+Gereja Isa Almasih Pondok Gede Bekasi,Gereja,,Tutup,"5,0",1,,Ada,Tidak Tersedia,-6.2867355,106.91924,Aksesibilitas Tersedia,[]
+GKJ Bambu Kuning,Tempat Ibadah,,,"4,9",38,,Ada,Tidak Tersedia,-6.2339258,107.0022282,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GKI Bekasi Timur,Gereja,,09.00 hingga 17.00,"4,5",175,,Ada,Tersedia,-6.2163087,106.8725076,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Lingkungan ke-1 Bekasi Gereja Yesus Kristus Dari Orang-orang Suci Zaman Akhir,Gereja Yesus Kristus dari Orang-orang Suci Zaman Akhir (Mormon),,Tutup,"4,5",17,,Ada,Tersedia,-6.2277923,106.9846449,Aksesibilitas Tersedia,[]
+GPI ANUGERAH BEKASI BARAT,Gereja,,Tutup,"5,0",10,,Ada,Tidak Tersedia,-6.2492142,106.9602661,Aksesibilitas Tersedia,[]
+HKBP Harapan Baru,Gereja Lutheran,,,"4,6",122,,Tidak Ada ,Tersedia,-6.2182658,106.9566937,Aksesibilitas Tersedia,[]
+GBI HOPE GALAXY BEKASI,Gereja,,,"5,0",12,,Tidak Ada ,Tidak Tersedia,-6.2686616,106.9739953,Aksesibilitas Tersedia,[]
+GKII (GEREJA KEMAH INJIL INDONESIA) Bumi Bekasi Baru (B3),Gereja Kristen,,,"5,0",11,,Ada,Tersedia,-6.2630026,107.0043497,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja Berea Anugerah Bekasi,Gereja,,Tutup,"4,6",14,,Ada,Tidak Tersedia,-6.1835541,106.9788888,Aksesibilitas Tersedia,[]
+""" Bethany Haleloeya Bekasi""",Gereja,,Tutup,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.1835617,106.9792279,Aksesibilitas Tersedia,[]
+GBI GRACIA Kota Harapan Indah Bekasi,Gereja Karismatik,,Tutup,"4,8",5,,Ada,Tidak Tersedia,-6.1849829,106.9843445,Aksesibilitas Tersedia,[]
+GKMI KALIMALANG,Gereja Mennonite,,Tutup,"5,0",19,,Tidak Ada ,Tersedia,-6.2503393,106.9685503,Aksesibilitas Tersedia,[]
+GPIB Harapan Kasih,Gereja Presbiterian,,Tutup,"4,7",46,,Ada,Tidak Tersedia,-6.2182238,106.9938012,Aksesibilitas Tersedia,[]
+"Gereja Katolik Stasi Santo Yohanes Paulus II, Rawalumbu",Gereja Katolik,,,"4,9",53,,Ada,Tidak Tersedia,-6.3033097,106.9898277,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Batak Karo Protestan (GBKP) Runggun Bekasi,Gereja Presbiterian,,Buka 24 jam,"4,7",162,,Ada,Tersedia,-6.2681301,106.9737542,Aksesibilitas Tersedia,['Memiliki tempat parkir khusus pengguna kursi roda']
+"GPdI ""Pancaran Kasih"" Grand Galaxi",Gereja,,Tutup,"5,0",4,,Ada,Tidak Tersedia,-6.2665958,106.9713813,Aksesibilitas Tersedia,[]
+Gereja Advent Galaxy,Gereja,,Tutup,"5,0",23,,Ada,Tersedia,-6.2686714,106.973785,Aksesibilitas Tersedia,[]
+HKI Bojong Menteng,Gereja,,Buka 24 jam,"5,0",8,,Ada,Tidak Tersedia,-6.3008373,106.9966767,Aksesibilitas Tersedia,[]
+GPIB Jemaat Galilea Bekasi,Gereja Protestan,,Tutup,"4,7",69,,Ada,Tersedia,-6.2688839,106.9732835,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+GKO PERUMNAS 1,Tempat Ibadah,,,"5,0",17,,Tidak Ada ,Tidak Tersedia,-6.2332263,106.9806783,Aksesibilitas Tersedia,[]
+GKP Pondok Melati,Gereja,,08.00 hingga 10.00,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.3156325,106.9242381,Aksesibilitas Tersedia,[]
+Gereja Masehi Advent Hari Ketujuh Kemang Pratama,Gereja,,Tutup,"5,0",10,,Tidak Ada ,Tersedia,-6.2898458,106.9735882,Aksesibilitas Tersedia,[]
+GBI Pondok Gede Plaza,Gereja,,,"4,6",87,,Ada,Tersedia,-6.2838622,106.912269,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+GBI Mawar Saron Sigma Pondok Gede,Gereja Kristen,,,"4,5",23,,Tidak Ada ,Tersedia,-6.284372,106.935773,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GKI Camar,Gereja Kristen,,Tutup,"4,8",27,,Ada,Tersedia,-6.257414,106.9622764,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+"Gereja Katolik Paroki Santo Arnoldus Janssen, Bekasi",Gereja Katolik,,08.00 hingga 20.00,"4,8",1.259,,Ada,Tersedia,-6.2494495,107.0114195,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+HKBP Pondok Gede,Gereja Lutheran,,,"4,7",275,,Ada,Tidak Tersedia,-6.2886958,106.9111373,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gbi SumberArta,Gereja Kristus,,Tutup,"5,0",2,,Ada,Tidak Tersedia,-6.249519,106.9466436,Aksesibilitas Tersedia,[]
+GBI Jatiasih,Gereja,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.3111634,106.9540521,Aksesibilitas Tersedia,[]
+Gereja Tiberias Bekasi - Cyber Park,Gereja Kristen,,,"4,9",34,,Ada,Tersedia,-6.2466047,106.9914033,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPIB Harapan Baru - Bekasi,Gereja Protestan,,,"4,7",39,,Ada,Tersedia,-6.2181717,106.9561732,Aksesibilitas Tersedia,[]
+"GPdI Bukit Sion, Summarecon Bekasi",Gereja Kristen,,Tutup,"4,9",15,,Ada,Tidak Tersedia,-6.2288359,107.0012252,Aksesibilitas Tersedia,[]
+HKBP Duta Permai,Gereja Lutheran,,10.00 hingga 16.30,"4,6",20,,Ada,Tidak Tersedia,-6.2497602,106.9717332,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GKI Jatiasih Bekasi,Gereja,,,"4,6",117,,Ada,Tidak Tersedia,-6.2907294,106.967886,Aksesibilitas Tersedia,[]
+Gereja Methodist Indonesia Sungai Yordan,Gereja Metodis,,,"4,5",42,,Ada,Tersedia,-6.2688264,106.9735321,Aksesibilitas Tersedia,[]
+GTI Tiberias - Mall Bekasi (Giant),Gereja Kristen,,,"5,0",9,,Tidak Ada ,Tidak Tersedia,-6.2495032,106.9924472,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GII Hok Im Tong - Bekasi,Gereja Evangelis,,08.00 hingga 16.30,"4,9",28,,Ada,Tersedia,-6.1837921,106.9788304,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja Kristen Pasundan Jemaat Bekasi,Gereja,,,"4,7",68,,Ada,Tersedia,-6.2494918,107.0141986,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Tiberias Bekasi - Grand Mall,Gereja,,Tutup,"5,0",13,,Tidak Ada ,Tersedia,-6.2282979,106.9843872,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Pantekosta - GPdI Jemaat Anugerah Bekasi,Gereja Pantekosta,,,"4,7",128,,Ada,Tersedia,-6.2519072,107.0110771,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GPIB GLORIA Bekasi,Gereja,,,"4,8",161,,Ada,Tersedia,-6.2466845,106.975546,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GBI Lewi Pemulihan,Gereja Kristus,,Buka 24 jam,"4,9",23,,Ada,Tidak Tersedia,-6.3010934,106.9965076,Aksesibilitas Tersedia,[]
+Gereja Persekutuan Kristen (Pospri Bekasi),Gereja,,10.00 hingga 00.00,"5,0",1,,Ada,Tidak Tersedia,-6.1817524,106.9736839,Aksesibilitas Tersedia,[]
+GKPI (Gereja Kristen Protestan Indonesia) Bekasi Utara,Gereja Lutheran,,Tutup,"4,6",8,,Ada,Tidak Tersedia,-6.2037211,107.0049206,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki St. Bartolomeus, Taman Galaxy",Gereja Katolik,,,"4,8",857,,Tidak Ada ,Tersedia,-6.2685003,106.9733717,Aksesibilitas Tersedia,"['Ada toilet khusus pengguna kursi roda', 'Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+GBI MEGA BEKASI - RAYON 18,Organisasi Keagamaan,,,"4,7",161,,Ada,Tidak Tersedia,-6.2494555,106.9931134,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Kristen Jawa Pangkalanjati,Gereja,,,"4,5",68,,Ada,Tersedia,-6.2495028,106.903979,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GBI GRAND MALL 3 BEKASI,Gereja,,Tutup,"5,0",4,,Ada,Tersedia,-6.227776,106.983622,Aksesibilitas Tersedia,[]
+HKI BEKASI KOTA,Gereja Protestan,,Buka 24 jam,"4,8",13,,Ada,Tidak Tersedia,-6.2452491,106.9908064,Aksesibilitas Tersedia,[]
+GBI New Life Community,Gereja Pantekosta,,Tutup,"4,9",299,,Ada,Tersedia,-6.2778752,106.989689,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GBI BATU PENJURU PONDOK MELATI,Gereja,,,"4,7",66,,Ada,Tidak Tersedia,-6.2872355,106.9141696,Aksesibilitas Tersedia,[]
+GPDP AIR HIDUP BEKASI,Gereja,,Tutup,"5,0",1,,Ada,Tidak Tersedia,-6.2503451,106.9510556,Aksesibilitas Tersedia,[]
+Gereja HKBP Jatiasih,Gereja Lutheran,,Tutup,"4,6",294,,Ada,Tidak Tersedia,-6.2942282,106.966057,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GMAHK HARAPAN BARU REGENCY,Gereja Advent Hari Ketujuh,,Tutup,"4,9",9,,Ada,Tidak Tersedia,-6.2182479,106.956507,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Mikael, Kranji",Gereja Katolik,,08.00 hingga 16.00,"4,7",650,,Ada,Tersedia,-6.2322701,106.968884,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+The Power of Grace Fellowship Church,Gereja Kristen,,09.00 hingga 17.00,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.2688869,106.9740325,Aksesibilitas Tersedia,[]
+GKI Kemang Pratama Bekasi,Gereja,,Tutup,"4,7",103,,Ada,Tersedia,-6.275523,106.986985,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GPdI Pondok Daud Pondok Gede,Gereja,,Tutup,"5,0",24,,Tidak Ada ,Tidak Tersedia,-6.2843658,106.910485,Aksesibilitas Tersedia,[]
+GBI GILGAL PONDOK GEDE BEKASI,Gereja,,Tutup,"4,4",9,,Ada,Tidak Tersedia,-6.2863678,106.9191814,Aksesibilitas Tersedia,[]
+GKNS Hosana Bekasi,Gereja Karismatik,,Tutup,"5,0",13,,Ada,Tidak Tersedia,-6.2495978,106.9518588,Aksesibilitas Tersedia,[]
+GKII BEKASI,Gereja,,,"5,0",9,,Tidak Ada ,Tidak Tersedia,-6.2487094,106.9702303,Aksesibilitas Tersedia,[]
+"Gereja Toraja Jemaat Galaxi, Bekasi",Gereja,,09.00 hingga 16.00,"4,7",49,,Ada,Tidak Tersedia,-6.2693006,106.972503,Aksesibilitas Tersedia,[]
+GPIB Jemaat Jatipon Bekasi,Gereja Presbiterian,,Tutup,"4,7",206,,Ada,Tersedia,-6.2544562,106.928027,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPI Sidang Bekasi Barat,Gereja,,Tutup,"5,0",19,,Ada,Tersedia,-6.2458877,106.9904524,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GBI Harapan Baru - Bekasi,Gereja,,,"4,9",82,,Ada,Tersedia,-6.2182222,106.9563118,Aksesibilitas Tersedia,[]
+GBI Sentra Niaga,Gereja Karismatik,,Tutup,"4,5",4,,Ada,Tidak Tersedia,-6.243136,106.9924037,Aksesibilitas Tersedia,[]
+IFGF Bekasi,Tempat Ibadah,,09.00 hingga 16.00,"5,0",8,,Ada,Tersedia,-6.2487957,106.9695882,Aksesibilitas Tersedia,[]
+Gereja Kristen Oikoumene,Gereja,,,"4,8",27,,Tidak Ada ,Tidak Tersedia,-6.2213256,106.9349742,Aksesibilitas Tersedia,[]
+GKPI Bekasi,Gereja Lutheran,,,"4,8",89,,Ada,Tersedia,-6.2431978,106.9904735,Aksesibilitas Tersedia,[]
+GBI LEWI-BUMI BEKASI BARU,Gereja,,,"4,9",9,,Tidak Ada ,Tidak Tersedia,-6.2885997,106.9912822,Aksesibilitas Tersedia,[]
+GIDI Maranatha Bekasi,Gereja,,Tutup,"4,5",8,,Tidak Ada ,Tidak Tersedia,-6.2886396,106.952656,Aksesibilitas Tersedia,[]
+GKI Harapan Jaya,Gereja,,Tutup,"4,8",47,,Tidak Ada ,Tidak Tersedia,-6.216443,106.9852821,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPSI BEKASI,Gereja,,,"4,8",4,,Tidak Ada ,Tidak Tersedia,-6.2731739,106.9399376,Aksesibilitas Tersedia,[]
+JKI INJIL,Gereja,,,"5,0",3,,Ada,Tidak Tersedia,-6.2745457,106.9760787,Aksesibilitas Tersedia,[]
+Gereja Kristen Pasundan Seroja,Gereja Kristen,,,"5,0",3,,Ada,Tidak Tersedia,-6.2060561,106.9904822,Aksesibilitas Tersedia,[]
+GKI Raya Hankam,Gereja Presbiterian,,Tutup,"4,7",237,,Ada,Tersedia,-6.2872295,106.9146082,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+HKBP Harapan Jaya Ressort Harapan Jaya,Gereja Lutheran,,Tutup,"4,3",161,,Tidak Ada ,Tersedia,-6.2183782,106.9941219,Aksesibilitas Tersedia,[]
+Gereja Kristen Pengabar Injil (GKPI) - Harapan Indah,Gereja,,Tutup,"5,0",24,,Tidak Ada ,Tersedia,-6.1810086,106.9831043,Aksesibilitas Tersedia,[]
+GPIB Menara Kasih,Gereja,,08.00 hingga 17.00,"4,6",239,,Ada,Tersedia,-6.2956857,106.9693893,Aksesibilitas Tersedia,['Memiliki tempat parkir khusus pengguna kursi roda']
+GKJ Bekasi,Gereja,,Tutup,"4,7",250,,Ada,Tersedia,-6.2475898,106.9678082,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja Pentakosta Kemuning Raya,Gereja Kristen,,,,,,Ada,Tidak Tersedia,-6.3020114,106.9914484,Aksesibilitas Tersedia,[]
+Gereja Sidang Jemaat Kristus,Gereja,,,"4,9",14,,Tidak Ada ,Tidak Tersedia,-6.305905,106.9903362,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GKPO Ambarapura Rawabogo,Gereja,,,"4,6",23,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
+GMS Bekasi,Gereja,,Tutup,"5,0",48,,Ada,Tersedia,-6.2501347,106.9934445,Aksesibilitas Tersedia,[]
+Gereja Victory Hope,Gereja,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.2483329,106.969457,Aksesibilitas Tersedia,[]
+GPdI Graha Indah,Gereja Pantekosta,,,"5,0",13,,Ada,Tidak Tersedia,-6.2869972,106.9528958,Aksesibilitas Tersedia,[]
+GPIB Harapan Indah Bekasi,Gereja Protestan,,Tutup,"4,7",54,,Ada,Tidak Tersedia,-6.1800727,106.978919,Aksesibilitas Tersedia,[]
+MRII Harapan Indah,Gereja Aliran Baru,,08.00 hingga 12.30,"5,0",17,,Ada,Tersedia,-6.1857632,106.978434,Aksesibilitas Tersedia,[]
+HKI Immanuel Bekasi,Gereja,,,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.2684036,106.9746958,Aksesibilitas Tersedia,[]
+GBI Talitakum,Gereja Karismatik,,,"5,0",12,,Ada,Tidak Tersedia,-6.1807793,106.9833262,Aksesibilitas Tersedia,[]
+GKII SOLIDEO (AS),Gereja,,,"4,2",46,,Tidak Ada ,Tidak Tersedia,-6.2856867,106.9289566,Aksesibilitas Tersedia,[]
+GKO Bekasi II,Tempat Ibadah,,,"4,1",8,,Ada,Tidak Tersedia,-6.2432887,106.9907605,Aksesibilitas Tersedia,[]
+GKOI Perumnas 2 Bekasi,Gereja,,,"4,9",15,,Ada,Tidak Tersedia,-6.2429731,106.9903025,Aksesibilitas Tersedia,[]
+HKBP Kemang Pratama,Gereja Lutheran,,,"4,4",16,,Tidak Ada ,Tidak Tersedia,,,Aksesibilitas Tersedia,[]
+GMI Karunia Bekasi,Gereja Metodis,,,"4,8",17,,Tidak Ada ,Tidak Tersedia,-6.2663588,107.001528,Aksesibilitas Tersedia,[]
+Gereja Kristen Indonesia - Harapan Indah,Gereja,,08.00 hingga 16.00,"4,7",278,,Ada,Tersedia,-6.1781836,106.981031,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Gabriel, Pulo Gebang",Gereja Katolik,,05.30 hingga 08.00,"4,8",634,,Ada,Tersedia,-6.2002858,106.9509205,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Kalvari, Lubang Buaya",Gereja Katolik,,Tutup,"4,8",475,,Ada,Tersedia,-6.2854169,106.9087375,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Fransiskus Asisi, Tebet",Gereja Katolik,,08.00 hingga 15.00,"4,7",632,,Ada,Tersedia,-6.231438,106.8414772,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Kapel Katolik Mater Dei, Cipinang Muara",Gereja Katolik,,,"4,5",39,,Tidak Ada ,Tidak Tersedia,-6.2266224,106.8856031,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Keluarga Kudus, Pasar Minggu",Gereja Katolik,,09.00 hingga 16.30,"4,8",591,,Ada,Tersedia,-6.2878587,106.8429556,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santa Anna, Duren Sawit",Gereja Katolik,,Tutup,"4,7",1.080,,Ada,Tersedia,-6.2350378,106.9096444,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Santo Stanislaus Kostka, Paroki Kranggan",Gereja Katolik,,08.00 hingga 16.00,"4,8",345,,Ada,Tidak Tersedia,-6.3626153,106.9279499,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Katolik Korea St. Yoseph Pasar Minggu,Gereja Katolik,,,"4,8",55,,Ada,Tidak Tersedia,-6.2896825,106.8245169,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKI Jatiasih Bekasi,Gereja,,,"4,6",117,,Ada,Tidak Tersedia,-6.2907294,106.967886,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Albertus, Harapan Indah",Gereja Katolik,,,"4,8",983,,Ada,Tersedia,-6.175479,106.9742615,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Santo Servatius, Paroki Kampung Sawah",Gereja Katolik,,08.00 hingga 19.00,"4,8",1.038,,Ada,Tersedia,-6.3227341,106.9378376,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santa Clara, Bekasi Utara",Gereja Katolik,,08.00 hingga 16.00,"4,9",596,,Ada,Tersedia,-6.2082685,107.0189284,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Stasi Santo Yohanes Paulus II, Rawalumbu",Gereja Katolik,,,"4,9",53,,Ada,Tidak Tersedia,-6.3033097,106.9898277,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Yoseph, Matraman",Gereja Katolik,,,"4,8",562,,Ada,Tersedia,-6.2082236,106.8593873,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Katolik Santo Agustinus Paroki Halim Perdanakusuma,Gereja Katolik,,08.00 hingga 16.00,"4,7",219,,Ada,Tersedia,-6.2617087,106.8826872,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Stasi Santo Yoakhim, Klender",Gereja Katolik,,,"4,8",86,,Tidak Ada ,Tersedia,-6.221085,106.9342661,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+"Gereja Katolik Paroki Santo Antonius Padua, Bidaracina",Gereja Katolik,,Tutup,"4,8",990,,Ada,Tersedia,-6.2366353,106.8682583,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Batak Karo Protestan (GBKP) Runggun Bekasi,Gereja Presbiterian,,Buka 24 jam,"4,7",162,,Ada,Tersedia,-6.2681301,106.9737542,Aksesibilitas Tersedia,['Memiliki tempat parkir khusus pengguna kursi roda']
+Huria Kristen Batak Protestan Maranatha Rawalumbu,Gereja Lutheran,,Buka 24 jam,"4,7",303,,Ada,Tersedia,-6.2785004,106.9992815,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki St. Yohanes Maria Vianney, Cilangkap",Gereja Katolik,,,"4,8",837,,Ada,Tersedia,-6.3181582,106.907234,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Kapel St. Carolus Borromeus RS. Sint Carolus,Gereja Katolik,,Buka 24 jam,"4,7",74,,Tidak Ada ,Tidak Tersedia,-6.1961309,106.8517121,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Aula Stasi Katolik Maria Bintang Samudra, Pondok Kelapa",Gereja Katolik,,18.29 hingga 02.00,,,,Tidak Ada ,Tidak Tersedia,-6.2355664,106.929937,Aksesibilitas Tersedia,[]
+GKJ Bekasi,Gereja,,Tutup,"4,7",250,,Ada,Tersedia,-6.2475898,106.9678082,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Leo Agung, Jatiwaringin",Gereja Katolik,,08.30 hingga 17.00,"4,8",457,,Ada,Tersedia,-6.2488298,106.9186717,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki St. Bartolomeus, Taman Galaxy",Gereja Katolik,,,"4,8",857,,Tidak Ada ,Tersedia,-6.2685003,106.9733717,Aksesibilitas Tersedia,"['Ada toilet khusus pengguna kursi roda', 'Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Gua Maria Gereja Santa Clara Bekasi,Tempat Ibadah,,,"5,0",20,,Ada,Tersedia,-6.2090153,107.0188362,Aksesibilitas Tersedia,[]
+"Soverdi Matraman, Biara St. Yosef",Gereja Katolik,,,"4,9",15,,Tidak Ada ,Tidak Tersedia,-6.208066,106.8593751,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Katolik Hati Kudus Paroki Kramat,Gereja Katolik,,08.00 hingga 15.00,"4,8",566,,Ada,Tersedia,-6.1864496,106.8447966,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki St. Aloysius Gonzaga, Cijantung",Gereja Katolik,,Buka 24 jam,"4,8",680,,Ada,Tersedia,-6.3172003,106.8617982,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Calvary Catholic Church,Gereja Katolik,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.2854039,106.9087298,Aksesibilitas Tersedia,[]
+GBI New Life Community,Gereja Pantekosta,,Tutup,"4,9",299,,Ada,Tersedia,-6.2778752,106.989689,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Patung Santo Mikael,Tempat Ziarah,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.2322701,106.968884,Aksesibilitas Tersedia,[]
+Gereja Katolik Santo Arnoldus Janssen Parking,Gereja,,,,,,Tidak Ada ,Tidak Tersedia,-6.2496475,107.0112573,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Mikael, Kranji",Gereja Katolik,,08.00 hingga 16.00,"4,7",650,,Ada,Tersedia,-6.2322701,106.968884,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GPPK Suluh Kasih Bekasi,Gereja,,Buka 24 jam,"5,0",8,,Ada,Tidak Tersedia,-6.249804,107.014334,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Ignatius Loyola, Jalan Malang - Jakarta",Gereja Katolik,,Tutup,"4,8",638,,Ada,Tidak Tersedia,-6.2055204,106.8391091,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Arnoldus Janssen, Bekasi",Gereja Katolik,,08.00 hingga 20.00,"4,8",1.259,,Ada,Tersedia,-6.2494495,107.0114195,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Santa Theresia, Paroki Menteng",Gereja Katolik,,Tutup,"4,9",4.729,,Ada,Tersedia,-6.188966,106.8254261,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Keluarga Kudus, Rawamangun",Gereja Katolik,,08.00 hingga 15.00,"4,8",831,,Ada,Tersedia,-6.195378,106.8865969,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Stasi Santa Catharina, Taman Mini Indonesia Indah",Gereja Katolik,,,"4,7",116,,Tidak Ada ,Tersedia,-6.3033713,106.8928185,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+HKBP Pondok Gede,Gereja Lutheran,,,"4,7",275,,Ada,Tidak Tersedia,-6.2886958,106.9111373,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+"Gereja Katolik Paroki Santo Robertus Bellarminus, Cililitan",Gereja Katolik,,08.00 hingga 19.00,"4,8",356,,Ada,Tersedia,-6.2651899,106.868292,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+WISMA SHIVA,Kuil Penganut Agama Tao,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.1882123,106.8778331,Aksesibilitas Tersedia,[]
+Kuang Ran Fothang,Vihara,,,"5,0",5,,Ada,Tidak Tersedia,-6.2916953,106.9658099,Aksesibilitas Tersedia,[]
+Vihara Harapan Maitreya,Vihara,,,"4,9",9,,Ada,Tidak Tersedia,-6.177218,106.981947,Aksesibilitas Tersedia,[]
+.,Vihara,,10.00 hingga 19.00,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.9779213,107.6570477,Aksesibilitas Tersedia,[]
+Vihara Buddha Dharma,Vihara,,08.00 hingga 17.00,"4,9",43,,Ada,Tidak Tersedia,-6.2441081,107.0032329,Aksesibilitas Tersedia,[]
+Kelenteng Hok Lay Kiong,Vihara,,06.00 hingga 21.00,"4,7",902,,Tidak Ada ,Tidak Tersedia,-6.2441019,107.0032347,Aksesibilitas Tersedia,[]
+Vihara Vipassana Kusalacitta,Vihara,,,"4,8",129,,Ada,Tersedia,-6.3026702,106.9886472,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Vihara Cakung Dharma Sukha,Organisasi Keagamaan,,06.00 hingga 18.00,"4,4",69,,Ada,Tidak Tersedia,-6.1936785,106.9544251,Aksesibilitas Tersedia,[]
+Cetiya Vimalakirti,Vihara,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.2429988,106.8714101,Aksesibilitas Tersedia,[]
+Cetiya Sukhavati Loka,Vihara,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.174694,106.9802646,Aksesibilitas Tersedia,[]
+Vihara Khanti Paramita,Vihara,,,"4,6",29,,Tidak Ada ,Tidak Tersedia,-6.3029398,106.9917545,Aksesibilitas Tersedia,[]
+Cetiya Aryadharma,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.2144451,106.9942212,Aksesibilitas Tersedia,[]
+Vihara Citta Mangala,Vihara,,Tutup,"4,6",19,,Ada,Tidak Tersedia,-6.2291031,107.018211,Aksesibilitas Tersedia,[]
+Satayam Singh,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.2362053,106.980895,Aksesibilitas Tersedia,[]
+Vihara Dana Paramitha,Vihara,,Buka 24 jam,"4,5",68,,Tidak Ada ,Tidak Tersedia,-6.1680436,107.0433326,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Rumah satria,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.2802468,106.9299579,Aksesibilitas Tersedia,[]
+Kuang Chin Fothang,Vihara,,,"5,0",5,,Ada,Tidak Tersedia,-6.2258749,107.013906,Aksesibilitas Tersedia,[]
+Cetiya Nalanda,Biara,,Buka 24 jam,"5,0",6,,Ada,Tersedia,-6.1948335,106.9546381,Aksesibilitas Tersedia,[]
+Yayasan Khanti Paramita Bojong Menteng,Vihara,,,"5,0",2,,Ada,Tidak Tersedia,-6.30297,106.9918732,Aksesibilitas Tersedia,[]
+Wihara MuditaMajelis Agama Buddha Tridharma Indonesia cabang Rawajaya,Tempat Ibadah,,,"4,8",23,,Tidak Ada ,Tidak Tersedia,-6.2335463,106.9436301,Aksesibilitas Tersedia,[]
+Bio Shia Jin Kong,Vihara,,Buka 24 jam,"4,9",14,,Tidak Ada ,Tidak Tersedia,-6.2167111,106.8713098,Aksesibilitas Tersedia,[]
+Wihara Dhamma Metta Cikarang,Gereja,,,"5,0",1,,Ada,Tidak Tersedia,-6.273538,106.99615,Aksesibilitas Tersedia,[]
+Cetiya Dharma Ksanti,Vihara,,,"4,0",1,,Tidak Ada ,Tidak Tersedia,-6.2247952,106.9158142,Aksesibilitas Tersedia,[]
+Wihara sasanaloka,Vihara,,Tutup,,,,Tidak Ada ,Tidak Tersedia,-6.2238167,107.0109317,Aksesibilitas Tersedia,[]
+Vihara Panca Dharma,Vihara,,,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.2151826,106.8611897,Aksesibilitas Tersedia,[]
+Vihara Karuna,Vihara,,,"2,0",2,,Tidak Ada ,Tidak Tersedia,-6.2420535,106.9026036,Aksesibilitas Tersedia,[]
+Cetiya Silaratana,Vihara,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.2160157,106.8832495,Aksesibilitas Tersedia,[]
+Cetiya Theravada Dhamma Viriya,Lembaga Agama,,,"4,8",11,,Tidak Ada ,Tidak Tersedia,-6.1686663,106.9814258,Aksesibilitas Tersedia,[]
+Vihara Sila Paramita,Vihara,,,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.2180401,106.8870947,Aksesibilitas Tersedia,[]
+Yayasan Adi Dharma,Vihara,,Buka 24 jam,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.2186769,106.887833,Aksesibilitas Tersedia,[]
+Cetiya Bhaisajyaguru,Vihara,,,"5,0",9,,Tidak Ada ,Tidak Tersedia,-6.2192331,106.8648673,Aksesibilitas Tersedia,[]
+Cetiya Dharma Virya,Vihara,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.2150498,106.8797421,Aksesibilitas Tersedia,[]
+Wihara Tridharma Pondok Gede,Vihara,,,"4,6",44,,Ada,Tidak Tersedia,-6.287408,106.914383,Aksesibilitas Tersedia,[]
+Wihara Buddha Metta Arama,Vihara,,Buka 24 jam,"4,7",280,,Ada,Tidak Tersedia,-6.2037257,106.8363577,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Vihara Bio Shia Jin Kong,Tempat Ziarah,,,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.2168093,106.8713532,Aksesibilitas Tersedia,[]
+Vihara Sasana Loka,Vihara,,,"4,9",13,,Tidak Ada ,Tidak Tersedia,-6.2238904,107.0109927,Aksesibilitas Tersedia,[]
+Vihara Fa Te,Tempat Ibadah,,,"5,0",4,,Ada,Tidak Tersedia,-6.176128,106.9876105,Aksesibilitas Tersedia,[]
+Wihara Manggala Dharma,Vihara,,,"4,7",20,,Tidak Ada ,Tidak Tersedia,-6.2246039,107.0194199,Aksesibilitas Tersedia,[]
+Vihara Orang Tua,Vihara,,,"3,7",7,,Tidak Ada ,Tidak Tersedia,-6.2159488,106.8771417,Aksesibilitas Tersedia,[]
+Cetiya AMARVATI,Vihara,,,"4,0",1,,Tidak Ada ,Tidak Tersedia,-6.2304656,106.9169855,Aksesibilitas Tersedia,[]
+Arya Dwipa Arama,Vihara,,08.00 hingga 17.00,"4,8",66,,Tidak Ada ,Tidak Tersedia,-6.3033523,106.8942639,Aksesibilitas Tersedia,[]
+Vihara Maha Puja Adi Dharma,Vihara,,,"4,9",17,,Tidak Ada ,Tidak Tersedia,-6.2259446,107.0138314,Aksesibilitas Tersedia,[]
+Vihara Dharma Pertiwi,Vihara,,,"4,5",10,,Ada,Tidak Tersedia,-6.2227839,106.820698,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Yayasan Bhakti Samyak Sambodhi,Vihara,,09.00 hingga 17.00,"5,0",25,,Ada,Tidak Tersedia,-6.2192317,106.8648463,Aksesibilitas Tersedia,[]
+Rumah,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.1872519,106.9861813,Aksesibilitas Tersedia,[]
+Vihara Avalokitesvara,Vihara,,08.00 hingga 05.00,"4,7",37,,Tidak Ada ,Tidak Tersedia,-6.2241347,106.8674821,Aksesibilitas Tersedia,[]
+Wihara Dharma Jaya,Vihara,,,"4,6",93,,Ada,Tidak Tersedia,-6.2876514,106.9884346,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Cetiya Karuna Dharma,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.2583191,106.9689983,Aksesibilitas Tersedia,[]
+Vihara Manggala Dharma,Vihara,,,"4,6",14,,Tidak Ada ,Tidak Tersedia,-6.2230228,107.019262,Aksesibilitas Tersedia,[]
+Vihara Setia Darma,Vihara,,,"4,7",20,,Tidak Ada ,Tidak Tersedia,-6.2611271,107.0548678,Aksesibilitas Tersedia,[]
+VIHARA HUNG CHE - YAYASAN DHARMA SEJATI,Tempat Ibadah,,,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.2700847,106.9731089,Aksesibilitas Tersedia,[]
+Vihara Suen En Fo Tang,Vihara,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.1750623,106.980456,Aksesibilitas Tersedia,[]
+Pakung Bandung,Vihara,,,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.2382144,107.0218178,Aksesibilitas Tersedia,[]
+Cetiya Saddha Viriya,Vihara,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.2181466,106.88826,Aksesibilitas Tersedia,[]
+Vihara Dharma Sagara Bekasi,Vihara,,,"5,0",9,,Ada,Tidak Tersedia,-6.2336336,107.0058795,Aksesibilitas Tersedia,[]
+Vihara Satya Dharma,Vihara,,Tutup,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.2929495,106.9603239,Aksesibilitas Tersedia,[]
+Wihara Manggala Jaya,Vihara,,,"4,8",40,,Ada,Tidak Tersedia,-6.2289362,107.0157778,Aksesibilitas Tersedia,[]
+Guang Hong Yayasan Adi Dharma,Vihara,,Tutup,"5,0",10,,Tidak Ada ,Tersedia,-6.2186769,106.887833,Aksesibilitas Tersedia,[]
+Vihara Vimalakirti Bekasi (NSI),Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.2514571,107.0176588,Aksesibilitas Tersedia,[]
+VIHARA AMURVA BHUMI BALIMESTER 福德宫,Vihara,,,"4,8",13,,Tidak Ada ,Tidak Tersedia,-6.2149606,106.8636145,Aksesibilitas Tersedia,[]
+Vihara Buddha Jayanti,Vihara,,,"4,6",52,,Ada,Tidak Tersedia,-6.1595672,106.981876,Aksesibilitas Tersedia,[]
+KWAN IM MA,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.2491162,107.013564,Aksesibilitas Tersedia,[]
+Centrum Bekasi,Vihara,,,"5,0",2,,Ada,Tidak Tersedia,-6.2514138,107.0175753,Aksesibilitas Tersedia,[]
+Wihara Amurva Bumi,Vihara,,,"4,8",8,,Ada,Tidak Tersedia,-6.2160275,106.8642641,Aksesibilitas Tersedia,[]
+Nichiren Shoshu Indonesia,Vihara,,,"4,7",10,,Tidak Ada ,Tidak Tersedia,-6.2120242,106.8447579,Aksesibilitas Tersedia,[]
+Vihara Dharma Sakti,Vihara,,,"4,9",21,,Tidak Ada ,Tidak Tersedia,-6.2406138,107.0427952,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Vihara Ananda Bekasi,Tempat Ibadah,,,"5,0",3,,Tidak Ada ,Tersedia,-6.2333993,107.0219472,Aksesibilitas Tersedia,[]
+Perumahan Pura Melati Indah Tahap-2,Komplek perumahan,,,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.2970879,106.9121886,Aksesibilitas Tersedia,[]
+Pura Padmasari KPAD Kodam Jaya,Pura,,08.00 hingga 17.00,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.2576449,106.8652254,Aksesibilitas Tersedia,[]
+Graha Angkasa Pura Kranji Bekasi,Gedung Pertemuan,,09.00 hingga 17.00,"4,6",721,,Ada,Tidak Tersedia,-6.2278635,106.9816872,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Pura Pingit,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2427543,107.0282896,Aksesibilitas Tersedia,[]
+Pura Barutama. PT,Kantor Perusahaan,,,"4,5",28,,Ada,Tersedia,-6.2136386,106.9770619,Aksesibilitas Tersedia,[]
+Perumahan Pura Melati Indah 2,Perumahan,,,"4,3",194,,Tidak Ada ,Tidak Tersedia,-6.2961125,106.9120061,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Perumahan Pura Melati,Pembangunan Perumahan,,,"4,4",44,,Tidak Ada ,Tidak Tersedia,-6.2928981,106.9169703,Aksesibilitas Tersedia,[]
+Benteng pak faisal,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2280565,107.0111327,Aksesibilitas Tersedia,[]
+Sahnawaj Ansari,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2362048,106.9808917,Aksesibilitas Tersedia,[]
+Balai Banjar Hitakarma,Pura,,Tutup,"4,5",12,,Tidak Ada ,Tidak Tersedia,-6.320405,106.9359333,Aksesibilitas Tersedia,[]
+Rianza Cantik kiwkiw,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2553189,106.9558668,Aksesibilitas Tersedia,[]
+Pura Melati Indah 1,Komplek perumahan,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.2939135,106.9109076,Aksesibilitas Tersedia,[]
+Pura Adesaka Dharma,Pura,,,"4,8",4,,Tidak Ada ,Tidak Tersedia,-6.3308604,106.9088498,Aksesibilitas Tersedia,[]
+Pura Prajapati Jaha Bekasi ᬧᬸᬭᬧ᭄ᬭᬚᬧᬢᬶᬚᬳᬩᭂᬓᬲᬶ᭟,Pura,,Buka 24 jam,"4,7",7,,Ada,Tidak Tersedia,-6.2813478,106.9562647,Aksesibilitas Tersedia,[]
+Pasar Kramat lontang,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2276845,106.9812844,Aksesibilitas Tersedia,[]
+Pura Anggatra Usadha Ksatria (Pusdikkes),Pura,,Buka 24 jam,,,,Tidak Ada ,Tidak Tersedia,-6.2087634,106.845599,Aksesibilitas Tersedia,[]
+Taman Bermain Pura Melati Indah I,Taman,,,"3,9",34,,Tidak Ada ,Tidak Tersedia,-6.2937144,106.9119451,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Tiurlan S Amkeb Skm MM kes,Pura,,,,,,Ada,Tidak Tersedia,-6.2627366,106.9428727,Aksesibilitas Tersedia,[]
+Hindu Channel @Pura Agung Taman Sari,Pura,,,"5,0",2,,Tidak Ada ,Tersedia,-6.2489452,106.8955578,Aksesibilitas Tersedia,[]
+Pura Graha Puja,Pura,,Tutup,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.2397339,106.9172716,Aksesibilitas Tersedia,[]
+"""Mangala Vinayaka"" Ganesha Temple",Pura,,,"4,7",74,,Ada,Tidak Tersedia,-6.1922923,106.8368957,Aksesibilitas Tersedia,[]
+Hause flawless,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2751369,106.9235178,Aksesibilitas Tersedia,[]
+Pura Agung Taman Sari Halim,Pura,,Buka 24 jam,"4,8",236,,Tidak Ada ,Tidak Tersedia,-6.2493928,106.896371,Aksesibilitas Tersedia,[]
+Pura Dalem Giri Winangun,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2013778,106.9883949,Aksesibilitas Tersedia,[]
+Pos Pura Melati,Pembangunan Perumahan,,,"4,7",3,,Tidak Ada ,Tidak Tersedia,-6.2929491,106.9168866,Aksesibilitas Tersedia,[]
+Parahyangan Agung Jagatnatha Pasundan ᮕᮥᮛ ᮕᮛᮠᮡᮍᮔ᮪ ᮃᮌᮥᮀ ᮏᮌᮒ᮪ᮔᮒ᮪ᮠ ᮕᮞᮥᮔ᮪ᮓᮔ᮪,Pura,,Buka 24 jam,"4,8",38,,Ada,Tidak Tersedia,-6.1950998,107.1614076,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+GKJ Bekasi,Gereja,,Tutup,"4,7",250,,Ada,Tersedia,-6.2475898,106.9678082,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Dadia Bendesa Manik Mas Banyuning,Pura,,Buka 24 jam,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.2213346,106.830207,Aksesibilitas Tersedia,[]
+Pura Satya Loka Arcana Ciangsana,Pura,,Buka 24 jam,"4,7",78,,Ada,Tersedia,-6.3574607,106.9477129,Aksesibilitas Tersedia,"[' Tidak dilengkapi dukungan instalasi bantu dengar', 'Tidak memiliki kursi khusus pengguna kursi roda', 'Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Pura Mandala Dharma Sutra,Pura,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.1839241,106.8227212,Aksesibilitas Tersedia,[]
+Pura Brahma Kumbara,Pura,,,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.2007822,107.103034,Aksesibilitas Tersedia,[]
+Pura shanghya ganesh,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2309612,107.0234458,Aksesibilitas Tersedia,[]
+Pura Agung Tirta Bhuana Bekasi,Pura,,05.30 hingga 21.30,"4,8",797,,Ada,Tidak Tersedia,-6.2487206,106.9674879,Aksesibilitas Tersedia,[]
+Danau Summarecon Bekasi,Tujuan Wisata,,Buka 24 jam,"4,7",518,,Tidak Ada ,Tidak Tersedia,-6.2262018,106.9962459,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Pura Pusdikkes Anggatra Usadha Ksatria,Pura,,,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.275832,106.8702725,Aksesibilitas Tersedia,[]
+Suka Duka Hindu Darma,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2114235,106.8453348,Aksesibilitas Tersedia,[]
+Pura Harapan Baru,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2147998,106.9603448,Aksesibilitas Tersedia,[]
+Pura marjapati swakarsa,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2435729,106.9963992,Aksesibilitas Tersedia,[]
+Pura om hindutva,Pura,,Buka 24 jam,"3,0",1,,Tidak Ada ,Tidak Tersedia,-6.2309533,107.023419,Aksesibilitas Tersedia,[]
+Rumah Alberich,Pura,,,,,,Tidak Ada ,Tidak Tersedia,-6.2516263,106.9513747,Aksesibilitas Tersedia,[]
+Taman Bermain Pura Melati Indah II,Taman,,Buka 24 jam,"4,0",46,,Tidak Ada ,Tidak Tersedia,-6.2961271,106.9130495,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Pura Prajaniti Rumdin Kemenag,Pura,,Tutup,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.1924533,106.8551133,Aksesibilitas Tersedia,[]
+Pura Penataran Agung Kertabumi,Pura,,Buka 24 jam,"4,8",68,,Ada,Tidak Tersedia,-6.3032985,106.8938785,Aksesibilitas Tersedia,[]
+Pura Batan Juwet,Pura,,08.00 hingga 17.00,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.2494958,106.8963628,Aksesibilitas Tersedia,[]
+Pura Adhitya Jaya,Pura,,Buka 24 jam,"4,8",3.092,,Tidak Ada ,Tersedia,-6.1951673,106.8750816,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Pura Mustika Dharma,Pura,,Buka 24 jam,"4,8",166,,Tidak Ada ,Tidak Tersedia,-6.3156963,106.8578713,Aksesibilitas Tersedia,[]
+Pura melati indah,Otoritas Perumahan,,,"4,6",7,,Tidak Ada ,Tidak Tersedia,-6.2965729,106.9120072,Aksesibilitas Tersedia,[]
+Pura Ksatrya Loka,Pura,,Buka 24 jam,"4,9",39,,Tidak Ada ,Tidak Tersedia,-6.2634042,106.8388306,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']

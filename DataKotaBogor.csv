@@ -1,0 +1,327 @@
+nama_tempat,type_place,alamat,jam_operasional,rating,jumlah_review,telepon,stt_tlp,website,latitude,longitude,Ketersediaan Akses,aksesibilitas
+Masjid Bogor Rest Area KM 38 B,Masjid,"CRFQ+XF7, Cimahpar, Kec. Bogor Utara, Kota Bogor, Jawa Barat",04.00 hingga 21.00,"4,5",811,,Tidak Ada ,Tidak Tersedia,-6.5751203,106.8387606,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Jami Nurul Ikhlas,Masjid,"Jl. Veteran No.44, RT.01/RW.02, Kb. Klp., Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16125",03.30 hingga 21.30,"4,8",67,,Tidak Ada ,Tidak Tersedia,-6.5953965,106.7861062,Aksesibilitas Tersedia,[]
+Masjid Jami' At-Tawwaab,Masjid,"Perumahan Bantarjati Permai, Jalan Celincing Raya No.1, RT.05/RW.13, Tegal Gundil, Bogor Utara, Bogor City, West Java 16152",04.00 hingga 21.15,"4,8",59,"
+(0251) 8328617",Ada,Tidak Tersedia,-6.5746792,106.8157839,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Raya Al-Mi'raj,Masjid,"Jl. Raya Pajajaran No.10, RT.02/RW.6, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143","04.30 hingga 05.00,11.00 hingga 13.00,15.00 hingga 15.30,18.00 hingga 18.30,19.00 hingga 19.30","4,8",4.717,,Tidak Ada ,Tidak Tersedia,-6.6071805,106.8085741,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami' Baranangsiang 3,Masjid,"Masjid Baranangsiang 3, RT.04/RW.08, Tegallega, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",04.00 hingga 21.15,"4,8",124,,Tidak Ada ,Tidak Tersedia,-6.6003003,106.8102915,Aksesibilitas Tersedia,[]
+Masjid Al Istiqomah Taman Yasmin Kota Bogor,Masjid,"Jl. Seroja Raya No.10, RT.06/RW.08, Curugmekar, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16113",Buka 24 jam,"4,9",458,"
+0817-9948-581",Ada,Tersedia,-6.5598816,106.7733721,Aksesibilitas Tersedia,[]
+Masjid Jami' Adz-Dzikraa,Masjid,"Jl. Mayor Oking No.92, RT.04/RW.06, Kp. Parung Jambu, Cibogor, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16124",04.00 hingga 21.15,"4,8",580,,Tidak Ada ,Tidak Tersedia,-6.5910211,106.7907749,Aksesibilitas Tersedia,[]
+Masjid Biru At Thohirin,Masjid,"Jl. Raya Ciawi - Sukabumi, RT.03/RW.10, Benda, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16138",04.00 hingga 21.00,"4,8",1.026,,Tidak Ada ,Tersedia,-6.671011,106.8460694,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Roosniah Al Achmad,Masjid,"JL Bogor Nirwana Raya No.20, RT.01/RW.12, Mulyaharja, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16136",,"4,7",372,,Tidak Ada ,Tidak Tersedia,-6.62506,106.796082,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al-Ikhlas Tamansari Persada,Masjid,"FQ5G+8V4, Jl. Taman Sari Persada, RT.04/RW.15, Cibadak, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16166",Buka 24 jam,"4,8",470,"
+(0251) 7591359",Ada,Tersedia,-6.5417437,106.7772185,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Dakwah Imam Al-Mahdi,Masjid,"Jl. Raya Cifor No.48, Bubulak, Kec. Bogor Baru, Kota Bogor, Jawa Barat 16115",,"4,8",117,"
+0812-6272-2005",Ada,Tersedia,-6.5636458,106.7511701,Aksesibilitas Tersedia,[]
+Masjid Jami' At-Taqwa,Masjid,"Jl. Kedung Halang No.14, RT.04/RW.01, Kedunghalang, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16158",03.30 hingga 20.15,"4,7",190,,Tidak Ada ,Tidak Tersedia,-6.5588001,106.8124713,Aksesibilitas Tersedia,[]
+Masjid Raya Al Muttaqin,Masjid,"Jl. Achmad Adnawijaya No.112, RT.02/RW.15, Tegal Gundil, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16152",04.00 hingga 20.00,"4,8",2.357,"
+0896-8191-6255",Ada,Tidak Tersedia,-6.5849735,106.8162452,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Al-Kautsar - Universitas Pakuan Bogor,Masjid,"Jl. Pakuan No.38, RT.02/RW.06, Tegallega, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",,"4,6",96,,Tidak Ada ,Tidak Tersedia,-6.5990108,106.8115195,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami' Al-Muttaqin,Masjid,"FR58+GFH, Ciparigi, Kec. Bogor Utara, Kota Bogor, Jawa Barat",03.30 hingga 21.30,"4,7",56,,Tidak Ada ,Tidak Tersedia,-6.5411875,106.8162344,Aksesibilitas Tersedia,[]
+Masjid Jami' Alumni IPB,Masjid,"Jl. Cidangiang No.4, RT.04/RW.05, Baranangsiang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",Buka 24 jam,"4,8",2.975,,Tidak Ada ,Tidak Tersedia,-6.6023394,106.8069068,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Raya Taman Yasmin,Masjid,"Jl. Pakis Raya No.22, RT.04/RW.09, Cilendek Tim., Kec. Bogor Bar., Kota Bogor, Jawa Barat 16112",Buka 24 jam,"4,8",874,,Tidak Ada ,Tersedia,-6.5677833,106.7744821,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Al-Amaliah,Masjid,"Jl. Tumenggung Wiradireja, RT.02/RW.013, Tanah Baru, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16154",04.00 hingga 21.15,"4,8",123,,Tidak Ada ,Tidak Tersedia,-6.5890047,106.8188191,Aksesibilitas Tersedia,[]
+Masjid Istiqomah,Masjid,"9RV6+X52, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat",04.00 hingga 21.15,"4,8",30,,Tidak Ada ,Tidak Tersedia,-6.6051125,106.8103906,Aksesibilitas Tersedia,[]
+Masjid Mush'ab Bin Umair,Masjid,"Jl. Villa Bogor Indah, RT.05/RW.13, Ciparigi, Kec. Bogor Utara, Kota Bogor, Jawa Barat",Buka 24 jam,"4,8",324,,Tidak Ada ,Tidak Tersedia,-6.5424851,106.8109659,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Muhibbin,Masjid,"Jl. Padasuka, RT.02/RW.04, Gudang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16123",04.00 hingga 21.15,"4,6",69,,Tidak Ada ,Tidak Tersedia,-6.61005,106.8034351,Aksesibilitas Tersedia,[]
+Masjid Jami' Asy Syifa - RS PMI Bogor,Masjid,"CR24+HRX, Rumah Sakit PMI, JL. Raya Pajajaran, Tegallega Bogor Timur, RT.02/RW.05, Tegallega, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",Buka 24 jam,"4,6",256,,Tidak Ada ,Tidak Tersedia,-6.5985125,106.8071094,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Jami' Al-Amanah,Masjid,"Jl. Ir. H. Juanda No.54, RT.01/RW.13, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",04.00 hingga 21.00,"4,8",153,,Tidak Ada ,Tidak Tersedia,-6.6036512,106.7952901,Aksesibilitas Tersedia,[]
+Masjid Jami' Al Madinatul Munawwaroh,Masjid,"Jalan LetjenIbrahim Adjie, Jembatan No.47, RT.04/RW.01, Sindangbarang, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16610",04.00 hingga 19.30,"4,8",207,"
+0838-0572-3472",Ada,Tidak Tersedia,-6.5745213,106.7523637,Aksesibilitas Tersedia,[]
+"Masjid Jami' Asy-Syifa, RSUD Kota Bogor",Masjid,"CQ9H+P9G, RT.03/RW.20, Menteng, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16111",Buka 24 jam,"4,5",15,,Tidak Ada ,Tidak Tersedia,-6.5806784,106.7784455,Aksesibilitas Tersedia,[]
+Masjid Jami' Nurul Falah,Masjid,"Bumi Menteng Asri, Jl. Terapi Raya, RT.01/RW.20, Menteng, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16111",04.00 hingga 21.00,"4,8",212,,Tidak Ada ,Tidak Tersedia,-6.5780772,106.7790674,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Al-Ittihaad,Masjid,"Jl. Drupada 5 No.17, RT.04/RW.14, Tegal Gundil, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16152",Buka 24 jam,"4,7",64,,Tidak Ada ,Tidak Tersedia,-6.579965,106.8171652,Aksesibilitas Tersedia,[]
+Masjid Ar-Rahmah,Masjid,"CR76+WMW, Jl. Babakan Sari Raya, RT.01/RW.09, Tegal Gundil, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",Buka 24 jam,"4,7",50,,Tidak Ada ,Tidak Tersedia,-6.5851275,106.8117143,Aksesibilitas Tersedia,[]
+Masjid Jami Nurul Iman,Masjid,"Jl. Sempur Kaler No.85 A, RT.03/RW.2, Sempur, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",Buka 24 jam,"4,8",50,,Tidak Ada ,Tidak Tersedia,-6.5907876,106.7981517,Aksesibilitas Tersedia,[]
+"Masjid Jami' At-Taqwa, Walikota Kota Bogor",Masjid,"CQ3V+V96, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat",04.00 hingga 20.15,"4,7",312,,Tidak Ada ,Tidak Tersedia,-6.5953375,106.7933906,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Muslimun,Masjid,"Jl. Kresna Raya No.16, RT.05/RW.15, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",Buka 24 jam,"4,8",434,"
+(0251) 8390008",Ada,Tidak Tersedia,-6.5718601,106.8118609,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami' Al-Mi'raj,Masjid,"Jl. Taman Seruni Raya No.21, RT.08/RW.04, Tanah Baru, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16154",Buka 24 jam,"4,8",76,,Tidak Ada ,Tidak Tersedia,-6.5743085,106.8243927,Aksesibilitas Tersedia,[]
+Masjid Nurul Iman,Masjid,"FR39+38R, Jl. Alternative VBI I No.3, RT.04/RW.03, Ciparigi, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16157",Buka 24 jam,"4,8",26,,Tidak Ada ,Tidak Tersedia,-6.5472625,106.8182656,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Al-Hurriyyah,Masjid,"Kampus IPB, Gd. Al Hurriyyah, Jl. Agatis No.1 Lt. 1, Babakan, Kec. Dramaga, Kabupaten Bogor, Jawa Barat 16680",Buka 24 jam,"4,8",2.061,"
+(0251) 8621746",Ada,Tersedia,-6.5556053,106.7254153,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Jami' Mubarak (Ahmadiyah),Masjid,"Jl. Sirnasari V No.1, Sindangbarang, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16117",04.30 hingga 21.00,"4,8",83,,Tidak Ada ,Tidak Tersedia,-6.5770899,106.7613795,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Ihsan,Masjid,"Jl. Papandayan No.23, RT.02/RW.03, Babakan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16128",04.00 hingga 21.15,"4,8",256,"
+0813-1979-2125",Ada,Tidak Tersedia,-6.5866943,106.8034333,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda']"
+Masjid Jami Nurquba,Masjid,"CQVW+R8G, Jl. Nur Quba, RT.02/RW.04, Sukaresmi, Kec. Tanah Sereal, Kota Bogor, Jawa Barat",04.00 hingga 21.15,"4,8",66,,Tidak Ada ,Tidak Tersedia,-6.5554363,106.7958326,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Jami' Al-Huda,Masjid,"9RX8+83H, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat",04.00 hingga 20.15,"4,7",32,"
+0821-5468-8792",Ada,Tidak Tersedia,-6.6016875,106.8152344,Aksesibilitas Tersedia,[]
+Masjid Jami' Al Muthia,Masjid,"Jl. Perum Kebun Raya No.Kampung, RT.04/RW.02, Ranggamekar, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16136",Buka 24 jam,"4,9",39,,Tidak Ada ,Tidak Tersedia,-6.6323144,106.8016784,Aksesibilitas Tersedia,[]
+MASJID JAMI HAMZAH HASANAH,Masjid,"CQJC+648, RT.03/RW.15, Cilendek Bar., Kec. Bogor Bar., Kota Bogor, Jawa Barat 16112",Buka 24 jam,"4,8",44,"
+0812-1245-1738",Ada,Tidak Tersedia,-6.5694533,106.7703335,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Muhajirin,Masjid,"Jl. Duku Raya No.46, RT.02/RW.06, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143",03.30 hingga 21.30,"4,7",62,,Tidak Ada ,Tidak Tersedia,-6.620123,106.8202025,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Bogor Nirwana Residence (BNR),Masjid,"Blok, Jl. Bayu Nirwana Raya I Blok b No.29, RT.01/RW.12, Mulyaharja, Bogor Selatan, Bogor City, West Java 16135",Buka 24 jam,"4,7",206,,Tidak Ada ,Tidak Tersedia,-6.6249091,106.7957941,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Al-Hijri,Masjid,"Blok Lebak Pilar, Jl. Jend. Sudirman Blok Lebak Pilar No.58 C, RT.06/RW.03, Sempur, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",04.00 hingga 21.15,"4,8",198,,Tidak Ada ,Tidak Tersedia,-6.5810668,106.7962222,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+MASJID AZ-ZIKRA,Masjid,"Perumahan Muslim Bukit Azzikra Sentul, Cimpambuan, Babakan Madang, Sentul Selatan, Cipambuan, Kabupaten Bogor, Jawa Barat 16810",08.00 hingga 17.00,"4,8",4.410,,Tidak Ada ,Tersedia,-6.556623,106.843028,Aksesibilitas Tersedia,"['Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami Al barkah,Masjid,"Jl. Raya Tajur Jl. Pesantren No.60, RT.04/RW.01, Tajur, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16141",Buka 24 jam,"4,8",10,"
+0878-7023-2055",Ada,Tidak Tersedia,-6.625178,106.8220922,Aksesibilitas Tersedia,[]
+Masjid Jami' Al Qo'qo' Bin Amru,Masjid,"CRQC+VMM, Tanah Baru, Kec. Bogor Utara, Kota Bogor, Jawa Barat",03.30 hingga 21.30,"4,7",54,,Tidak Ada ,Tidak Tersedia,-6.5602903,106.8216599,Aksesibilitas Tersedia,[]
+Masjid Kifayatul Abidin Kebun Raya Bogor,Masjid,"Jl. Ir. H. Juanda No.13, RT.04/RW.02, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",03.30 hingga 21.30,"4,6",105,"
+(0251) 8311362",Ada,Tidak Tersedia,-6.597578,106.8018826,Aksesibilitas Tersedia,[]
+Masjid Jami' Nurul Amal,Masjid,"CQ5G+747, Jl. Mayjend Ishak Djuarsa, RT.01/RW.09, Gunungbatu, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16118",04.00 hingga 21.15,"4,8",731,"
+(0251) 346211",Ada,Tidak Tersedia,-6.591845,106.7753087,Aksesibilitas Tersedia,[]
+Masjid At-Taufiq,Masjid,"Jl. Paledang No.44, RT.04/RW.07, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",04.00 hingga 20.30,"4,8",646,,Tidak Ada ,Tidak Tersedia,-6.6015902,106.7936161,Aksesibilitas Tersedia,[]
+Masjid Nurul Ihsan Griya Melati 1 Bogor,Masjid,"CQJ2+MQF, Jl. Griya Melati 1, RT.03/RW.13, Bubulak, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16115",Buka 24 jam,"4,7",60,,Tidak Ada ,Tidak Tersedia,-6.5683012,106.751913,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid At-Taqwa,Masjid,"8RMV+Q93, Jl. Bakom Pesantren No.32, RT.01/RW.12, Bojongkerta, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16139",Buka 24 jam,"4,8",87,,Tidak Ada ,Tidak Tersedia,-6.6656125,106.8434219,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al - Hikmah,Masjid,"RT. 3, RT.01/RW.11, Cikaret, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16132",Buka 24 jam,"4,9",40,"
+0812-8900-6076",Ada,Tersedia,-6.611643,106.7881919,Aksesibilitas Tersedia,"['Dilengkapi dengan sistem bantu dengar', 'Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Agung At-Tohiriyah,Masjid,"Jl. Empang 1 No.1, RT.01/RW.02, Empang, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16132",04.00 hingga 21.15,"4,7",178,"
+0838-7334-4369",Ada,Tidak Tersedia,-6.6080566,106.794415,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-I'tisham,Masjid,"CQCM+M74, Perumahan Bumi Menteng Asri, RT.01/RW.18, Menteng, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16111",04.00 hingga 21.15,"4,9",54,,Tidak Ada ,Tidak Tersedia,-6.5783513,106.783195,Aksesibilitas Tersedia,[]
+Masjid Jami' An-Nimah,Masjid,"Jl. Raya Tajur No.165, RT.03/RW.06, Tajur, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16134",04.00 hingga 21.15,"4,7",162,"
+0856-7634-344",Ada,Tidak Tersedia,-6.6365177,106.8296093,Aksesibilitas Tersedia,[]
+Masjid Agung Harakatul Jannah,Masjid,"Jl. Raya Puncak KM. 71, Gadog, Ciawi Bogor, Sukamahi, Megamendung, Sukamahi, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770",Buka 24 jam,"4,8",1.773,,Tidak Ada ,Tidak Tersedia,-6.6559382,106.8596896,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Jami' Salman Al Farisi,Masjid,"CR84+9JW, Jl. Raya Pajajaran, RT.04/RW.07, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",04.00 hingga 21.15,"4,8",605,,Tidak Ada ,Tidak Tersedia,-6.5840137,106.8065782,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Malikal Mulki,Masjid,"Jl. Villa Randu II No.15, RT.04/RW.08, Kedung Jaya, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16164",,"4,7",132,,Tidak Ada ,Tidak Tersedia,-6.5625681,106.7864532,Aksesibilitas Tersedia,[]
+Masjid Raya Al-Hijri 2,Masjid,"Jl. Sholeh Iskandar No.KM.2, RT.01/RW.10, Kedungbadak, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16164",Buka 24 jam,"4,7",120,"
+(0251) 8356884",Ada,Tidak Tersedia,-6.5610151,106.7926307,Aksesibilitas Tersedia,"['Ada toilet khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+"Masjid Al Anshor - Markaz Da'wah Bogor, Jawa Barat, Indonesia",Masjid,"Jl. Brigjen Saptadji Hadiprawira No.kel, RT.02/RW.09, Cilendek Bar., Kec. Bogor Bar., Kota Bogor, Jawa Barat 16112",,"4,8",50,,Tidak Ada ,Tidak Tersedia,-6.5695529,106.7661405,Aksesibilitas Tersedia,[]
+Masjid Agung Bogor,Masjid,"Jl. Nyi Raja Permas No.1, RT.04/RW.06, Cibogor, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16124",04.00 hingga 21.15,"4,5",1.251,"
+(0251) 8320461",Ada,Tidak Tersedia,-6.5933468,106.7916457,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Masjid Nurul Maa'i (PDAM Tirta Pakuan),Masjid,,04.00 hingga 20.00,"4,8",646,,Tidak Ada ,Tidak Tersedia,-6.6207648,106.8157727,Aksesibilitas Tersedia,[]
+Masjid Attaqwa Yasmin,Masjid,,Buka 24 jam,"4,8",62,,Tidak Ada ,Tersedia,-6.5671087,106.7701775,Aksesibilitas Tersedia,[]
+Masjid Al Muhajirin BNR,Masjid,,Buka 24 jam,"4,8",204,,Tidak Ada ,Tidak Tersedia,-6.6311369,106.7975469,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami' At-Taqwa Cimanggu Wates,Masjid,,Buka 24 jam,"4,7",87,,Tidak Ada ,Tidak Tersedia,-6.5594992,106.7868054,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al Muslimun,Masjid,,Buka 24 jam,"4,8",98,,Tidak Ada ,Tidak Tersedia,-6.5818036,106.7662648,Aksesibilitas Tersedia,[]
+Masjid Jami' As-Sulaemani,Masjid,,Buka 24 jam,"4,7",39,,Tidak Ada ,Tidak Tersedia,-6.5941335,106.8055402,Aksesibilitas Tersedia,[]
+Masjid Jami Miftahussalam,Masjid,,,"4,8",94,,Tidak Ada ,Tidak Tersedia,-6.6160113,106.7876944,Aksesibilitas Tersedia,[]
+Masjid Kramat An Nur Empang Bogor.,Masjid,,Buka 24 jam,"4,8",258,,Tidak Ada ,Tidak Tersedia,-6.6086619,106.7958903,Aksesibilitas Tersedia,[]
+Masjid Jami' Darussalam - Taman Cimanggu,Masjid,,Buka 24 jam,"4,8",398,,Tidak Ada ,Tidak Tersedia,-6.5675861,106.7814439,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Al- Kautsar,Masjid,,04.00 hingga 21.15,"4,8",464,,Ada,Tidak Tersedia,-6.6039143,106.8288784,Aksesibilitas Tersedia,[]
+"Masjid Al-Falaah, Taman Yasmin Sektor 6",Masjid,,04.00 hingga 20.15,"4,8",261,,Ada,Tidak Tersedia,-6.5583138,106.7682801,Aksesibilitas Tersedia,[]
+Masjid AT TAQWA Pekojan,Masjid,,Buka 24 jam,"4,9",88,,Tidak Ada ,Tersedia,-6.6066,106.7943947,Aksesibilitas Tersedia,[]
+Masjid Al-Ikhlas,Masjid,,04.00 hingga 21.15,"4,9",399,,Tidak Ada ,Tidak Tersedia,-6.5950897,106.8150627,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Jami' Al-Munawwar,Masjid,,04.00 hingga 21.15,"4,9",28,,Tidak Ada ,Tidak Tersedia,-6.6134875,106.7951719,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Mu'awanah,Masjid,,04.00 hingga 21.15,"4,7",302,,Tidak Ada ,Tidak Tersedia,-6.6025125,106.7855156,Aksesibilitas Tersedia,[]
+Masjid Nurut Tauhid,Masjid,,,"4,9",236,,Tidak Ada ,Tidak Tersedia,-6.5920968,106.8310241,Aksesibilitas Tersedia,[]
+Masjid Al-ikhlas Tegal Manggah,Masjid,,Buka 24 jam,"4,7",43,,Ada,Tidak Tersedia,-6.5957078,106.8071695,Aksesibilitas Tersedia,[]
+Masjid Tazkia Islamic Center (d/h Andalusia),Masjid,,Buka 24 jam,"4,8",4.829,,Ada,Tersedia,-6.5685157,106.8467604,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami' Al-Bahari,Masjid,,04.00 hingga 21.15,"4,9",103,,Tidak Ada ,Tidak Tersedia,-6.5746019,106.8048216,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Baitussalaam,Masjid,,04.00 hingga 20.15,"4,8",358,,Tidak Ada ,Tidak Tersedia,-6.5499361,106.7708321,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Al-Istiqomah,Masjid,,Buka 24 jam,"4,9",26,,Tidak Ada ,Tidak Tersedia,-6.5708875,106.7750469,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami Al Amaanah Kantor SAMSAT Kota Bogor,Masjid,,Buka 24 jam,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.5929147,106.7950775,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Ghifari IPB,Masjid,,Buka 24 jam,"4,7",471,,Ada,Tidak Tersedia,-6.5869507,106.8059187,Aksesibilitas Tersedia,[]
+Masjid Jami' Mahabbaturrasul,Masjid,,Buka 24 jam,"4,8",798,,Tidak Ada ,Tersedia,-6.5461951,106.8077637,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Jami' Al-'Ukhuwah,Masjid,,03.30 hingga 23.15,"4,7",39,,Tidak Ada ,Tidak Tersedia,-6.5415738,106.8088818,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Muttaqien,Masjid,,Buka 24 jam,"4,8",41,,Ada,Tidak Tersedia,-6.5685375,106.7651719,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Masjid Jami' As-Sofia,Masjid,,03.00 hingga 22.00,"4,9",1.893,,Ada,Tidak Tersedia,-6.5826202,106.7881913,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Masjid Jami' Al-Quba,Masjid,,04.00 hingga 21.00,"4,6",82,,Tidak Ada ,Tidak Tersedia,-6.5838169,106.8127453,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Khoeriyyah,Masjid,,Buka 24 jam,"4,9",22,,Tidak Ada ,Tidak Tersedia,-6.6031875,106.7934531,Aksesibilitas Tersedia,[]
+Masjid Jami' Ar-Rahman,Masjid,,04.00 hingga 10.00,"4,8",1.292,,Tidak Ada ,Tidak Tersedia,-6.5808346,106.8112895,Aksesibilitas Tersedia,[]
+Masjid Al-Mustofa,Masjid,,Buka 24 jam,"4,9",66,,Tidak Ada ,Tidak Tersedia,-6.5781318,106.8031161,Aksesibilitas Tersedia,[]
+Masjid Dzikrullah Polresta Bogor Kota,Masjid,,,"4,7",20,,Tidak Ada ,Tidak Tersedia,-6.5969388,106.7911271,Aksesibilitas Tersedia,[]
+Masjid Jami' Nurul Hikmah,Masjid,,Buka 24 jam,"4,9",36,,Tidak Ada ,Tidak Tersedia,-6.6021288,106.8085929,Aksesibilitas Tersedia,[]
+Masjid Jami Hejo Al-Ikhlas Denpom III/1 Bogor,Masjid,,04.00 hingga 21.15,"4,9",37,,Tidak Ada ,Tidak Tersedia,-6.5929006,106.7979382,Aksesibilitas Tersedia,[]
+Masjid Jami Al Kautsar,Masjid,,,"4,7",39,,Tidak Ada ,Tidak Tersedia,-6.6122535,106.7902536,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Madinah,Masjid,,Buka 24 jam,"4,8",142,,Ada,Tersedia,-6.6229538,106.8313058,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Baitur Ridwan,Masjid,,04.00 hingga 20.15,"4,8",1.581,,Tidak Ada ,Tidak Tersedia,-6.5645417,106.7620314,Aksesibilitas Tersedia,[]
+Masjid Jendral Besar Sudirman,Masjid,,04.00 hingga 21.00,"4,9",816,,Tidak Ada ,Tidak Tersedia,-6.584853,106.7963716,Aksesibilitas Tersedia,"['Ada toilet khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Baitul Magfirah,Masjid,,04.00 hingga 21.15,"4,8",41,,Tidak Ada ,Tidak Tersedia,-6.6072059,106.8041771,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' An-Nur,Masjid,,04.00 hingga 21.15,"4,8",400,,Ada,Tidak Tersedia,-6.5888085,106.7998965,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Juman,Masjid,,Buka 24 jam,"4,8",434,,Ada,Tidak Tersedia,-6.6117625,106.8024844,Aksesibilitas Tersedia,[]
+Masjid Al-Ikhlaash - Baranangsiang Indah,Masjid,,04.00 hingga 21.15,"4,9",350,,Ada,Tidak Tersedia,-6.6090712,106.8228315,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Masjid Jami' Al-Furqan (Muhammadiyah),Masjid,,04.00 hingga 21.15,"4,7",112,,Ada,Tersedia,-6.5880125,106.7879531,Aksesibilitas Tersedia,['Tidak memiliki pintu masuk khusus pengguna kursi roda']
+Masjid Nurul Ikhwan,Masjid,,04.00 hingga 21.15,"4,7",115,,Tidak Ada ,Tidak Tersedia,-6.5971646,106.8130862,Aksesibilitas Tersedia,[]
+Masjid,Masjid,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.5781581,106.8189924,Aksesibilitas Tersedia,[]
+Masjid Jami' Al-Maidah,Masjid,,Buka 24 jam,"4,8",226,,Ada,Tidak Tersedia,-6.5536676,106.7611225,Aksesibilitas Tersedia,[]
+Masjid Jami Nurul Hidayah,Masjid,,,"4,8",92,,Tidak Ada ,Tidak Tersedia,-6.607479,106.7817523,Aksesibilitas Tersedia,[]
+Masjid Daarul Muttaqiin,Masjid,,04.00 hingga 21.15,"4,8",288,,Tidak Ada ,Tidak Tersedia,-6.6157025,106.8233574,Aksesibilitas Tersedia,[]
+Masjid Jami' Bogor Baru,Masjid,,05.05 hingga 22.00,"4,8",365,,Ada,Tidak Tersedia,-6.593748,106.8103939,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GSKI Immanuel Bogor,Gereja,,Tutup,"4,8",21,,Ada,Tidak Tersedia,-6.6107199,106.8147167,Aksesibilitas Tersedia,[]
+Gereja Gerakan Pentakosta Bukit Torsina,Gereja,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.617462,106.8112792,Aksesibilitas Tersedia,[]
+Gereja GPdI Bogor,Gereja,,Buka 24 jam,"5,0",6,,Ada,Tidak Tersedia,-6.5518384,106.804844,Aksesibilitas Tersedia,[]
+Gbi Pangrango,Gereja,,,"4,8",6,,Ada,Tidak Tersedia,-6.6104593,106.8049233,Aksesibilitas Tersedia,[]
+MDC Bogor,Gereja,,09.00 hingga 17.00,"4,8",88,,Ada,Tersedia,-6.619809,106.8168578,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GPIB PETRA BOGOR,Gereja,,Tutup,"4,7",56,,Ada,Tersedia,-6.5489851,106.8227526,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja Tiberias Plaza Jambu Dua Bogor (Lantai 4),Gereja,,,"5,0",1,,Tidak Ada ,Tersedia,-6.5698119,106.8083516,Aksesibilitas Tersedia,[]
+GBI Olympic City,Gereja,,,"5,0",26,,Tidak Ada ,Tersedia,-6.5612032,106.8146917,Aksesibilitas Tersedia,[]
+GKI Pengadilan Pos Kracak,Gereja,,,"4,5",50,,Tidak Ada ,Tersedia,-6.5305037,106.6965167,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+GPIN Kasih Persaudaraan,Gereja,,,"4,3",3,,Tidak Ada ,Tidak Tersedia,-6.6472374,106.8379558,Aksesibilitas Tersedia,[]
+Katedral Bogor - Gereja Santa Perawan Maria,Katedral Katolik,,Buka 24 jam,"4,8",3.079,,Ada,Tersedia,-6.5969179,106.7931299,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Kristen Pasundan Bogor,Gereja,,,"4,8",76,,Tidak Ada ,Tersedia,-6.5689796,106.8049883,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GGP Immanuel Bogor,Gereja Kristen,,Tutup,"4,9",18,,Ada,Tidak Tersedia,-6.6068169,106.8065963,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GSJA Jemaat Agape Family,Gereja,,Tutup,"4,9",21,,Ada,Tidak Tersedia,-6.6270985,106.7807901,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPIB Zebaoth Bogor,Gereja Protestan,,Tutup,"4,8",1.213,,Ada,Tersedia,-6.5978404,106.7944499,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GPdI Ciparigi Bogor,Gereja,,Tutup,"4,7",7,,Ada,Tidak Tersedia,-6.5460888,106.8133152,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+HKBP Villa Duta,Gereja Lutheran,,,"4,8",18,,Ada,Tidak Tersedia,-6.6082347,106.8135744,Aksesibilitas Tersedia,[]
+Gereja Kristen Jawa,Gereja,,,"4,8",35,,Ada,Tersedia,-6.6135381,106.8119181,Aksesibilitas Tersedia,[]
+International Full Gospel Fellowship (IFGF) Bogor,Gereja,,08.30 hingga 15.30,"5,0",14,,Tidak Ada ,Tidak Tersedia,-6.616938,106.8103141,Aksesibilitas Tersedia,[]
+"GPIB ""BUKIT SENTUL"" Bogor",Gereja,,Tutup,"4,9",10,,Ada,Tidak Tersedia,-6.5718519,106.8620865,Aksesibilitas Tersedia,[]
+GKI Pos Bogor Barat,Gereja,,Tutup,"4,8",53,,Tidak Ada ,Tidak Tersedia,-6.5658284,106.7608498,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+New Indentity Church,Gereja,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.6342923,106.8268377,Aksesibilitas Tersedia,[]
+Sekolah Minggu GBI REM,Gereja,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.6216503,106.816067,Aksesibilitas Tersedia,[]
+Gereja Beritakan Injil,Gereja Injil,,Tutup,"4,9",40,,Ada,Tersedia,-6.5900365,106.7965297,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja JKI Efata Bukit Cimanggu City,Gereja,,Tutup,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.5541645,106.7821362,Aksesibilitas Tersedia,[]
+GKPB Surya Pemulihan Sentul City,Gereja,,Tutup,"5,0",8,,Tidak Ada ,Tersedia,-6.5687202,106.8580783,Aksesibilitas Tersedia,[]
+Gereja Sidang Jemaat Kristus,Gereja,,,"5,0",29,,Tidak Ada ,Tidak Tersedia,-6.5941847,106.7929695,Aksesibilitas Tersedia,[]
+Kapel Katolik Pd. Rumput,Gereja Katolik,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.5738855,106.7931925,Aksesibilitas Tersedia,[]
+Gereja GKPI Jemaat Khusus Bogor,Gereja,,10.00 hingga 12.00,"5,0",3,,Ada,Tidak Tersedia,-6.627972,106.8150982,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Andreas, Sukaraja (Ciluar)",Gereja Katolik,,Tutup,"4,7",166,,Ada,Tersedia,-6.5435936,106.8256958,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+HKBP Ressort BINCARUNG,Gereja Lutheran,,,"5,0",12,,Tidak Ada ,Tidak Tersedia,-6.5707443,106.8002189,Aksesibilitas Tersedia,[]
+GSK Bogor,Gereja Kristen,,,"5,0",3,,Tidak Ada ,Tersedia,-6.6156696,106.8071733,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Fransiskus dari Asisi, Sukasari",Gereja Katolik,,08.00 hingga 16.00,"4,8",733,,Ada,Tersedia,-6.6146122,106.8082708,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Toraja Jemaat Kota Bogor,Gereja,,,"5,0",2,,Ada,Tidak Tersedia,-6.5830222,106.7972873,Aksesibilitas Tersedia,[]
+International Church Bogor,Gereja,,Tutup,"4,9",48,,Tidak Ada ,Tersedia,-6.566356,106.8441352,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Bogor City Blessing,Gereja,,,,,,Tidak Ada ,Tidak Tersedia,-6.6181258,106.8064277,Aksesibilitas Tersedia,[]
+GRII Bogor,Gereja,,,"4,9",18,,Ada,Tersedia,-6.5663127,106.8450132,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja Bethany,Gereja,,,"5,0",1,,Ada,Tidak Tersedia,-6.5857637,106.7964466,Aksesibilitas Tersedia,[]
+Gereja Yesus Sejati (GYS) Bogor,Gereja,,,"5,0",1,,Tidak Ada ,Tersedia,-6.5580147,106.8037377,Aksesibilitas Tersedia,[]
+GPI Sidang Bogor,Gereja Pantekosta,,Tutup,"4,8",17,,Ada,Tidak Tersedia,-6.5568616,106.8215023,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+HKBP Sentul City,Gereja Lutheran,,Tutup,"5,0",17,,Ada,Tidak Tersedia,-6.5688841,106.8568391,Aksesibilitas Tersedia,[]
+GKI Pengadilan,Gereja,,Buka 24 jam,"4,8",426,,Ada,Tersedia,-6.5917839,106.7947135,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki St. Maria Fatima, Sentul",Gereja Katolik,,,"4,8",108,,Ada,Tersedia,-6.5714031,106.8577482,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GPIA Sion Bogor,Gereja Kristen,,Tutup,"5,0",4,,Ada,Tersedia,-6.5904623,106.7935356,Aksesibilitas Tersedia,[]
+GKDI BOGOR,Gereja,,Tutup,"5,0",10,,Tidak Ada ,Tidak Tersedia,-6.6075326,106.8104969,Aksesibilitas Tersedia,[]
+Gereja Jemaat Kristus Indonesia,Gereja,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.6312786,106.8302317,Aksesibilitas Tersedia,[]
+GSJA Betlehem,Gereja,,Tutup,"4,8",548,,Ada,Tersedia,-6.6057042,106.8007618,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GSJA Ebenhaezer,Gereja,,09.00 hingga 18.00,"4,8",16,,Ada,Tidak Tersedia,-6.5895659,106.784764,Aksesibilitas Tersedia,[]
+GPIB Bethel,Gereja,,,"4,7",40,,Tidak Ada ,Tidak Tersedia,-6.5831989,106.7970241,Aksesibilitas Tersedia,[]
+Gereja GPdI Betlehem Taman Yasmin,Gereja,,Tutup,"5,0",26,,Ada,Tidak Tersedia,-6.563737,106.7738794,Aksesibilitas Tersedia,[]
+GSJA Calvary Charismatic,Gereja,,09.00 hingga 15.00,"4,5",43,,Ada,Tidak Tersedia,-6.6192945,106.8072469,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+PERKANTAS BOGOR,Organisasi Nonprofit,,,"5,0",9,,Tidak Ada ,Tidak Tersedia,-6.5903769,106.8124355,Aksesibilitas Tersedia,[]
+GMI Imanuel Bogor,Gereja,,Tutup,"4,8",17,,Ada,Tidak Tersedia,-6.6070553,106.7995183,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+KGBI Bahtera Bogor,Gereja Baptis,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.5572027,106.7611988,Aksesibilitas Tersedia,[]
+Gereja Bethel Indonesia Elohim Bogor,Gereja,,16.00 hingga 18.00,"4,8",37,,Tidak Ada ,Tidak Tersedia,-6.6208592,106.8075198,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKBI Ciluar,Gereja,,,"4,9",14,,Tidak Ada ,Tersedia,-6.5449332,106.8221124,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GBI Jalan Merak Bogor,Gereja,,,"4,7",32,,Ada,Tidak Tersedia,-6.5724583,106.8013794,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPT Pniel Semplak,Gereja,,Buka 24 jam,"5,0",5,,Ada,Tidak Tersedia,-6.5501783,106.7605575,Aksesibilitas Tersedia,[]
+Gereja Pommadi Bogor,Gereja,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.5834861,106.7970151,Aksesibilitas Tersedia,[]
+GKI Bogor Baru,Gereja Kristen,,08.00 hingga 16.00,"4,8",73,,Ada,Tersedia,-6.588338,106.810998,Aksesibilitas Tersedia,[]
+"GBI Rock Bogor Bukit Pujian, Bogor Icon",Gereja,,Tutup,"4,7",13,,Ada,Tidak Tersedia,-6.5560261,106.782613,Aksesibilitas Tersedia,[]
+GPdI Tiberias Bogor,Gereja Pantekosta,,,"4,7",103,,Ada,Tersedia,-6.5995613,106.7930884,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja Batak Karo Protestan,Gereja Protestan,,Tutup,"4,8",84,,Tidak Ada ,Tidak Tersedia,-6.5622076,106.7891023,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Gereja BNKP Galilea Bogor Kota,Gereja,,,"4,4",19,,Tidak Ada ,Tidak Tersedia,-6.6078855,106.80102,Aksesibilitas Tersedia,[]
+GBI Lautan,Gereja Kristen,,Tutup,"4,4",24,,Ada,Tidak Tersedia,-6.5897381,106.79666,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GPdI Imanuel Graha Indah,Gereja,,Tutup,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.5569985,106.8106484,Aksesibilitas Tersedia,[]
+Gereja Protestan di Indonesia bagian Barat Nehemia Cibogo,Gereja Aliran Baru,,Tutup,"4,5",93,,Ada,Tidak Tersedia,-6.6540247,106.8772557,Aksesibilitas Tersedia,[]
+"Gereja Baptis Indonesia ""Iman""",Gereja Baptis,,,"4,8",8,,Tidak Ada ,Tidak Tersedia,-6.6077508,106.8036228,Aksesibilitas Tersedia,[]
+Gereja Santapan Rohani Indonesia,Gereja,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.5903736,106.7895425,Aksesibilitas Tersedia,[]
+Kapel Katolik Susteran Gembala Baik,Gereja Katolik,,,"4,8",44,,Ada,Tidak Tersedia,-6.605422,106.8069758,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GMS Bogor,Gereja,,Tutup,"4,8",50,,Ada,Tersedia,-6.6343182,106.8271854,Aksesibilitas Tersedia,[]
+Gereja HKBP Ressort Bogor,Gereja Lutheran,,Tutup,"4,7",389,,Ada,Tersedia,-6.5979534,106.7897491,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja HKBP Ciluar,Gereja Lutheran,,,"4,6",142,,Ada,Tidak Tersedia,-6.543123,106.8277324,Aksesibilitas Tersedia,[]
+GBP KAM BOGOR,Gereja,,,,,,Ada,Tidak Tersedia,-6.6126087,106.8070639,Aksesibilitas Tersedia,[]
+"GBI Jl. Pajajaran, Setya Jaya Lt.5",Gereja,,Tutup,"5,0",12,,Ada,Tersedia,-6.6056834,106.8085685,Aksesibilitas Tersedia,[]
+GBI OIKOS,Gereja,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.6129003,106.8073099,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Ignatius Loyola, Semplak",Gereja Katolik,,08.00 hingga 15.00,"4,7",242,,Ada,Tersedia,-6.5389643,106.760867,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GBI Anugerah Kasih Bogor ( Green Forest ),Gereja,,Tutup,"5,0",1,,Ada,Tidak Tersedia,-6.6495816,106.8061771,Aksesibilitas Tersedia,[]
+GBI Bukit Cimanggu City (Rayon 7 Bogor),Gereja,,,"4,8",46,,Ada,Tersedia,-6.5474506,106.7824424,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GGP Bukit Karmel Bogor,Gereja,,,"4,2",11,,Tidak Ada ,Tidak Tersedia,-6.6065782,106.8013187,Aksesibilitas Tersedia,[]
+GKPS Bogor,Gereja,,,"4,6",68,,Tidak Ada ,Tidak Tersedia,-6.5416957,106.8212878,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Biara FMM Immaculate Conception,Gereja,,,"4,5",2,,Tidak Ada ,Tidak Tersedia,-6.5924669,106.7961799,Aksesibilitas Tersedia,[]
+GPdI Ora et Labora Semplak,Gereja,,Tutup,"5,0",5,,Ada,Tersedia,-6.5480893,106.7609288,Aksesibilitas Tersedia,[]
+GKNS MAJESTY BOGOR,Gereja Kristen,,Tutup,"5,0",1,,Ada,Tidak Tersedia,-6.617462,106.8112792,Aksesibilitas Tersedia,[]
+Gereja Kemah Tabernakel Bogor,Gereja,,,"4,8",8,,Tidak Ada ,Tidak Tersedia,-6.6085993,106.8022256,Aksesibilitas Tersedia,[]
+BICF - Bogor International Christian Fellowship,Gereja,,Tutup,"5,0",3,,Tidak Ada ,Tidak Tersedia,-6.5884488,106.7928407,Aksesibilitas Tersedia,[]
+GKI Bogor Baru Bajem Sentul,Gereja,,,"4,6",5,,Tidak Ada ,Tidak Tersedia,-6.5692228,106.8566922,Aksesibilitas Tersedia,[]
+Gereja Isa Almasih Bogor,Gereja,,,"5,0",2,,Tidak Ada ,Tidak Tersedia,-6.6144832,106.8124058,Aksesibilitas Tersedia,[]
+Gereja Yesus Kristus,Gereja Kristen,,09.00 hingga 18.00,"4,7",56,,Tidak Ada ,Tersedia,-6.5681002,106.8013332,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Tiberias Bogor - Plaza Jambu Dua,Gereja,,Tutup,"4,8",47,,Tidak Ada ,Tersedia,-6.569321,106.8079257,Aksesibilitas Tersedia,[]
+Pangrango Church,Gereja,,Tutup,"5,0",11,,Ada,Tersedia,-6.6181257,106.8064278,Aksesibilitas Tersedia,[]
+JKI SCOP (Sentul Community Of Prayer),Gereja,,Tutup,"4,9",45,,Tidak Ada ,Tidak Tersedia,-6.5687708,106.8594432,Aksesibilitas Tersedia,[]
+Keuskupan Bogor (Wisma Lama),Lembaga Agama,,,"4,6",25,,Ada,Tersedia,-6.5743936,106.8013344,Aksesibilitas Tersedia,[]
+Gereja Masehi Advent Hari Ketujuh Bogor,Gereja Advent Hari Ketujuh,,Tutup,"4,8",10,,Tidak Ada ,Tidak Tersedia,-6.6195642,106.8152977,Aksesibilitas Tersedia,[]
+GBI Danau Bogor Raya,Gereja Kristen,,Tutup,"4,8",126,,Ada,Tersedia,-6.5976896,106.8302626,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GKKD Bogor,Gereja,,Tutup,"4,8",33,,Ada,Tersedia,-6.6135854,106.8119434,Aksesibilitas Tersedia,[]
+Gereja Kristus Kartini Bogor,Gereja Kristus,,Tutup,"4,9",14,,Tidak Ada ,Tersedia,-6.5930146,106.7883898,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+GPIAI FILADELFIA KOTA BOGOR,Gereja,,Tutup,"5,0",1,,Ada,Tidak Tersedia,-6.5565665,106.8091843,Aksesibilitas Tersedia,[]
+Gereja Protestan GKPO Lanud Atang Sendjaja,Gereja Protestan,,,"4,4",67,,Ada,Tidak Tersedia,-6.5443287,106.7606608,Aksesibilitas Tersedia,[]
+Bethany Sentul,Gereja,,Tutup,"4,9",29,,Ada,Tersedia,-6.5692342,106.8581252,Aksesibilitas Tersedia,[]
+Kasih Allah Ministry,Gereja,,Tutup,"4,6",15,,Tidak Ada ,Tidak Tersedia,-6.6166687,106.8100882,Aksesibilitas Tersedia,[]
+GBT-KFG The Kingdom Families Of God,Gereja,,,"4,1",7,,Ada,Tersedia,-6.6130858,106.8074576,Aksesibilitas Tersedia,[]
+GKPR Maranatha Bogor,Gereja,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.6184224,106.8098846,Aksesibilitas Tersedia,[]
+Gereja Baptis Indonesia Pabaton Bogor,Gereja,,Tutup,"4,5",4,,Tidak Ada ,Tidak Tersedia,-6.5884488,106.7928407,Aksesibilitas Tersedia,[]
+GPT Pniel Bogor,Gereja,,,"4,8",17,,Tidak Ada ,Tersedia,-6.5913638,106.7933619,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Gereja,Gereja,,,,,,Tidak Ada ,Tidak Tersedia,-6.6199211,106.8061719,Aksesibilitas Tersedia,[]
+GEREJA KASIH,Gereja,,Tutup,"4,9",42,,Ada,Tidak Tersedia,-6.5576266,106.8192058,Aksesibilitas Tersedia,[]
+Pusat Pastoral Keuskupan Bogor,Katedral Katolik,,08.00 hingga 16.00,"4,8",25,,Tidak Ada ,Tidak Tersedia,-6.5969974,106.7927623,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GKMI BOGOR,Gereja,,Buka 24 jam,"5,0",11,,Tidak Ada ,Tidak Tersedia,-6.5636829,106.7738856,Aksesibilitas Tersedia,[]
+GKPI JK ( pers ) Manunggal Bogor,Gereja Protestan,,,"4,4",5,,Tidak Ada ,Tidak Tersedia,-6.6083802,106.8017987,Aksesibilitas Tersedia,[]
+Gereja Kristus Bogor,Gereja,,08.00 hingga 16.00,"4,7",190,,Ada,Tersedia,-6.6150349,106.8093725,Aksesibilitas Tersedia,"['Memiliki kursi khusus pengguna kursi roda', 'Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Gereja Kemah Tabernakel Bogor,Gereja,,,"4,8",8,,Tidak Ada ,Tidak Tersedia,-6.6085993,106.8022256,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Andreas, Sukaraja (Ciluar)",Gereja Katolik,,Tutup,"4,7",166,,Ada,Tersedia,-6.5435936,106.8256958,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+JKI SCOP (Sentul Community Of Prayer),Gereja,,Tutup,"4,9",45,,Tidak Ada ,Tidak Tersedia,-6.5687708,106.8594432,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Maria Bunda Segala Bangsa, Kota Wisata",Gereja Katolik,,Buka 24 jam,"4,8",1.016,,Ada,Tersedia,-6.3853222,106.9561905,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Keuskupan Bogor (Wisma Lama),Lembaga Agama,,,"4,6",25,,Ada,Tersedia,-6.5743936,106.8013344,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Santo Fransiskus dari Asisi, Sukasari",Gereja Katolik,,08.00 hingga 16.00,"4,8",733,,Ada,Tersedia,-6.6146122,106.8082708,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki St. Joannes Baptista, Parung",Gereja Katolik,,,"4,8",350,,Ada,Tersedia,-6.413982,106.726185,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Bumi Maria Sareng Para Rasul,Tempat Ziarah,,06.00 hingga 18.00,"4,8",321,,Ada,Tersedia,-6.5434508,106.8302772,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santa Faustina Kowalska, Bojonggede",Gereja Katolik,,Buka 24 jam,"4,8",239,,Tidak Ada ,Tidak Tersedia,-6.4915324,106.7670116,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Katedral Bogor - Gereja Santa Perawan Maria,Katedral Katolik,,Buka 24 jam,"4,8",3.079,,Ada,Tersedia,-6.5969179,106.7931299,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Kapel Katolik Susteran Gembala Baik,Gereja Katolik,,,"4,8",44,,Ada,Tidak Tersedia,-6.605422,106.8069758,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+GMS Bogor,Gereja,,Tutup,"4,8",50,,Ada,Tersedia,-6.6343182,106.8271854,Aksesibilitas Tersedia,[]
+"Gereja Katolik Paroki Keluarga Kudus, Cibinong",Gereja Katolik,,Tutup,"4,8",768,,Ada,Tersedia,-6.4640887,106.8577915,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+GPIB Zebaoth Bogor,Gereja Protestan,,Tutup,"4,8",1.213,,Ada,Tersedia,-6.5978404,106.7944499,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+"Gereja Katolik Paroki St. Maria Fatima, Sentul",Gereja Katolik,,,"4,8",108,,Ada,Tersedia,-6.5714031,106.8577482,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Puri Asih,Gereja,,07.00 hingga 21.00,"4,5",13,,Tidak Ada ,Tidak Tersedia,-6.6645999,106.8728971,Aksesibilitas Tersedia,[]
+GEREJA KASIH,Gereja,,Tutup,"4,9",42,,Ada,Tidak Tersedia,-6.5576266,106.8192058,Aksesibilitas Tersedia,[]
+HKBP Villa Duta,Gereja Lutheran,,,"4,8",18,,Ada,Tidak Tersedia,-6.6082347,106.8135744,Aksesibilitas Tersedia,[]
+Pusat Pastoral Keuskupan Bogor,Katedral Katolik,,08.00 hingga 16.00,"4,8",25,,Tidak Ada ,Tidak Tersedia,-6.5969974,106.7927623,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Kristus Raja, PMPP TNI - Hambalang",Gereja Katolik,,Tutup,"4,9",135,,Tidak Ada ,Tidak Tersedia,-6.5227212,106.8761783,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Gereja Katolik Paroki St. Rasul Yakobus Megamendung,Gereja Katolik,,08.00 hingga 17.00,"4,7",150,,Tidak Ada ,Tersedia,-6.6478545,106.9060452,Aksesibilitas Tersedia,['Ada toilet khusus pengguna kursi roda']
+Gereja Katolik St. Yohanes Rasul Ciampea,Gereja Katolik,,,"4,7",42,,Ada,Tidak Tersedia,-6.542227,106.6952119,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+"Gereja Katolik Paroki Santo Ignatius Loyola, Semplak",Gereja Katolik,,08.00 hingga 15.00,"4,7",242,,Ada,Tersedia,-6.5389643,106.760867,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Kapel Katolik St. Maria Fatima,Gereja Katolik,,,,,,Tidak Ada ,Tidak Tersedia,-6.6116207,106.7995307,Aksesibilitas Tersedia,[]
+Kapel Katolik Pd. Rumput,Gereja Katolik,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.5738855,106.7931925,Aksesibilitas Tersedia,[]
+Vihara Metta Karuna Maitreya,Vihara,,,"4,3",3,,Tidak Ada ,Tidak Tersedia,-6.6201229,106.8151608,Aksesibilitas Tersedia,[]
+Jhana Manghala Meditasi Graha Centre,Vihara,,08.00 hingga 18.00,"4,6",32,,Ada,Tidak Tersedia,-6.6435094,106.8784753,Aksesibilitas Tersedia,[]
+Vihara Dharmakaya,Vihara,,,"4,8",27,,Tidak Ada ,Tidak Tersedia,-6.6119055,106.8066992,Aksesibilitas Tersedia,[]
+Vihara Vimalakirti,Vihara,,,"4,8",20,,Tidak Ada ,Tidak Tersedia,-6.5723977,106.8012339,Aksesibilitas Tersedia,[]
+Yayasan Vihara Pandita Sabha,Vihara,,,"4,1",11,,Ada,Tidak Tersedia,-6.6083191,106.8212589,Aksesibilitas Tersedia,[]
+VIHARA KARUNA BODHI CIAMPEA,Tempat Ibadah,,Tutup,"5,0",5,,Tidak Ada ,Tidak Tersedia,-6.5425418,106.6947958,Aksesibilitas Tersedia,[]
+Patvdh tamansari,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.5952637,106.8057818,Aksesibilitas Tersedia,[]
+Vihara chi kao kwan,Vihara,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.6263482,106.8645882,Aksesibilitas Tersedia,[]
+Pusdiklat Kasih Alam Maitreya,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.6282168,106.7796864,Aksesibilitas Tersedia,[]
+Vihara DeXin,Kuil Penganut Agama Tao,,,,,,Tidak Ada ,Tidak Tersedia,-6.6103025,106.8054912,Aksesibilitas Tersedia,[]
+Vihara Pusdiklat Kasih Alam Maitreya,Vihara,,,"4,8",32,,Tidak Ada ,Tidak Tersedia,-6.626141,106.7794753,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Chen It Thian Kun,Tempat Ibadah,,05.30 hingga 21.00,"4,7",109,,Ada,Tidak Tersedia,-6.5653566,106.8678668,Aksesibilitas Tersedia,[]
+Vihara Buddha Dharma & 8 Pho Sat,Vihara,,Buka 24 jam,"4,7",370,,Ada,Tidak Tersedia,-6.4838051,106.7486915,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Ada toilet khusus pengguna kursi roda']"
+Vihara Satya Dharma Bhakti,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.608568,106.8043704,Aksesibilitas Tersedia,[]
+Phopho,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.6508547,106.8148712,Aksesibilitas Tersedia,[]
+Vihara Saddharma (Myohoji) NSI,Vihara,,,"4,8",48,,Ada,Tidak Tersedia,-6.6494965,106.7465279,Aksesibilitas Tersedia,[]
+Vihara Dharma Surya,Vihara,,,"5,0",13,,Tidak Ada ,Tidak Tersedia,-6.6076931,106.8033277,Aksesibilitas Tersedia,[]
+Graha Kenangan,Vihara,,,"4,0",1,,Tidak Ada ,Tidak Tersedia,-6.6167486,106.8097965,Aksesibilitas Tersedia,[]
+Vihara Saung Paramita,Vihara,,,"4,7",94,,Ada,Tidak Tersedia,-6.6492719,106.7505803,Aksesibilitas Tersedia,[]
+Klenteng Hok Tek Bio Ciampea,Tempat Ibadah,,,"4,3",248,,Ada,Tidak Tersedia,-6.5397425,106.6964457,Aksesibilitas Tersedia,[]
+rumah vanya,Vihara,,Buka 24 jam,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.5726432,106.8190606,Aksesibilitas Tersedia,[]
+Maqam Gwee Hiang,Kuil Penganut Agama Tao,,,"4,0",1,,Tidak Ada ,Tidak Tersedia,-6.649713,106.8141095,Aksesibilitas Tersedia,[]
+Pa Auk Tawya Vipassana Dhura Hermitage Bogor,Vihara,,06.30 hingga 18.00,"5,0",31,,Ada,Tidak Tersedia,-6.6713677,106.7361378,Aksesibilitas Tersedia,[]
+BUDDHA SLEEPING VIHARA,Tempat Ibadah,,,"4,9",11,,Ada,Tidak Tersedia,-6.4840666,106.7482659,Aksesibilitas Tersedia,[]
+MAHAVIRYA ARAMA,Vihara,,,"4,7",35,,Ada,Tidak Tersedia,-6.6547732,106.8602981,Aksesibilitas Tersedia,[]
+Vihara Dhammacakkhu,Vihara,,Tutup,"4,8",37,,Ada,Tidak Tersedia,-6.6326638,106.8220553,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Vihara vajrayana gunung geulis,Vihara,,,,,,Tidak Ada ,Tidak Tersedia,-6.6433623,106.8668483,Aksesibilitas Tersedia,[]
+Vihara Buddhasena,Vihara,,,"4,8",111,,Ada,Tersedia,-6.6168776,106.8096452,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Vihara CIN TE,Vihara,,,"4,6",5,,Ada,Tidak Tersedia,-6.6174327,106.8117533,Aksesibilitas Tersedia,[]
+Klenteng Pankho,Pelestarian Situs Peninggalan,,09.00 hingga 17.00,"4,8",170,,Ada,Tidak Tersedia,-6.6050613,106.803669,Aksesibilitas Tersedia,[]
+Vihara Buddhist Niciren Syosyu Ind,Vihara,,,,,,Ada,Tidak Tersedia,-6.550358,106.785736,Aksesibilitas Tersedia,[]
+Sian Jin Ku Pho Temple,Tempat Ibadah,,Buka 24 jam,"4,8",36,,Ada,Tidak Tersedia,-6.5447006,106.8291728,Aksesibilitas Tersedia,[]
+Vihara Naca,Vihara,,07.00 hingga 00.00,"4,5",12,,Ada,Tidak Tersedia,-6.4820385,106.7489847,Aksesibilitas Tersedia,[]
+Vihara Sian Jin Ku Poh,Vihara,,,"4,8",326,,Tidak Ada ,Tersedia,-6.4814371,106.7497304,Aksesibilitas Tersedia,[]
+Yayasan Buddha Paramita,Vihara,,,"4,7",21,,Tidak Ada ,Tidak Tersedia,-6.6490194,106.750578,Aksesibilitas Tersedia,[]
+Vihara Dhanagun (Hok Tek Bio) Bogor,Vihara,,08.00 hingga 17.00,"4,8",271,,Ada,Tidak Tersedia,-6.6033707,106.7991851,Aksesibilitas Tersedia,"['Memiliki pintu masuk khusus pengguna kursi roda', 'Memiliki tempat parkir khusus pengguna kursi roda']"
+Vihara Shian Djin Ku Poh - Ciluar,Vihara,,06.00 hingga 18.00,"4,5",2,,Ada,Tidak Tersedia,-6.5469265,106.8383902,Aksesibilitas Tersedia,[]
+Vihara Phan Ko,Vihara,,,"4,6",10,,Tidak Ada ,Tidak Tersedia,-6.6051494,106.8036505,Aksesibilitas Tersedia,[]
+Vihara Khanti Bhumi,Vihara,,,"4,8",18,,Tidak Ada ,Tidak Tersedia,-6.5454543,106.829158,Aksesibilitas Tersedia,[]
+Klenteng Hok Tek Bio,Tempat Ibadah,,,"4,6",48,,Tidak Ada ,Tidak Tersedia,-6.4918788,106.8763317,Aksesibilitas Tersedia,[]
+Vihara Vajrabodhi,Vihara,,Buka 24 jam,"4,6",126,,Ada,Tidak Tersedia,-6.6206555,106.8166841,Aksesibilitas Tersedia,['Memiliki pintu masuk khusus pengguna kursi roda']
+Bio Dewa Rejeki Sentul,Tempat Ibadah,,,"4,6",31,,Tidak Ada ,Tidak Tersedia,-6.565384,106.8674786,Aksesibilitas Tersedia,[]
+Vihara Dhammaguna,Vihara,,,"4,7",18,,Ada,Tidak Tersedia,-6.5429012,106.8286293,Aksesibilitas Tersedia,['Tidak memiliki tempat parkir khusus pengguna kursi roda']
+Vihara Ti Cang Tien Yayasan Dharma Bakti Utama Toko Khanti,Vihara,,09.00 hingga 05.00,"4,6",11,,Tidak Ada ,Tidak Tersedia,-6.6402782,106.8145661,Aksesibilitas Tersedia,[]
+Vihara dharma pertiwi,Vihara,,,"5,0",14,,Tidak Ada ,Tidak Tersedia,-6.6080072,106.8007082,Aksesibilitas Tersedia,[]
+Warung Kopi Pura Ciapus,Tujuan Wisata,,,"4,4",261,,Tidak Ada ,Tidak Tersedia,-6.6660736,106.7349181,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Pancuran 7 Sudhamala Pura Melanting Ciapus,Pura,,Buka 24 jam,"5,0",4,,Tidak Ada ,Tidak Tersedia,-6.6682364,106.7353397,Aksesibilitas Tersedia,[]
+Pura Parahyangan Agung Jagatkarta,Pura,,Buka 24 jam,"4,8",1.580,,Tidak Ada ,Tidak Tersedia,-6.6688984,106.7354632,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Parahyangan Jagadkarta Gunung Salak Taman Sari Bogor,Pura,,,"4,8",51,,Tidak Ada ,Tidak Tersedia,-6.6685877,106.7351957,Aksesibilitas Tersedia,"['Tidak memiliki pintu masuk khusus pengguna kursi roda', 'Tidak memiliki tempat parkir khusus pengguna kursi roda']"
+Pura Saraswati Asrama Bali Bogor,Pura,,Buka 24 jam,"4,7",23,,Ada,Tidak Tersedia,-6.5851864,106.8015414,Aksesibilitas Tersedia,[]
+Gapura Kp. Sawah,Pura,,,"5,0",1,,Tidak Ada ,Tidak Tersedia,-6.6045638,106.8217154,Aksesibilitas Tersedia,[]
+Pura Bhuminatha Sakti ᮕᮥᮛ ᮘ᮪ᮠᮥᮙᮤᮔᮒ᮪ᮠ ᮞᮊ᮪ᮒᮤ,Pura,,Buka 24 jam,"4,8",22,,Tidak Ada ,Tidak Tersedia,-6.5635504,106.8174561,Aksesibilitas Tersedia,[]
+Pura Prajapati Kota Bogor ᬧᬸᬭᬧ᭄ᬭᬚᬧᬢᬶᬓᭀᬢᬩᭀᬕᭀᬃ᭟,Pura,,Buka 24 jam,"4,9",10,,Tidak Ada ,Tidak Tersedia,-6.6437707,106.8131778,Aksesibilitas Tersedia,[]
+Pura Giri Kusuma,Pura,,Buka 24 jam,"4,8",101,,Tidak Ada ,Tidak Tersedia,-6.59132,106.8180431,Aksesibilitas Tersedia,[]
+Pura Melanting Pasar Agung Gunung Salak Bogor,Pura,,Buka 24 jam,"4,7",18,,Ada,Tidak Tersedia,-6.6705111,106.7354246,Aksesibilitas Tersedia,[]
+Pura Gunung Salak ORG,Pusat kebudayaan,,10.00 hingga 17.00,"4,9",17,,Ada,Tersedia,-6.6689266,106.7354211,Aksesibilitas Tersedia,[]
+Masuk Pura Gunung Salak,Pura,,Buka 24 jam,"4,0",1,,Tidak Ada ,Tidak Tersedia,-6.6615515,106.7348767,Aksesibilitas Tersedia,[]
+Pura Tribrata,Pura,,Buka 24 jam,"4,8",15,,Ada,Tidak Tersedia,-6.736905,106.8192817,Aksesibilitas Tersedia,[]
+Pura Vira Çanti Dharma PMPP TNI,Pura,,,"4,9",22,,Tidak Ada ,Tidak Tersedia,-6.5228799,106.8766254,Aksesibilitas Tersedia,[]
+Pura Angkasa Amertha Dharma Jati,Pura,,Tutup,"4,5",51,,Ada,Tersedia,-6.5335511,106.7612422,Aksesibilitas Tersedia,[]
+Pura Melanting Gunung Salak,Pura,,09.00 hingga 17.00,"4,9",75,,Tidak Ada ,Tidak Tersedia,-6.6683649,106.7353826,Aksesibilitas Tersedia,[]
